@@ -24,7 +24,7 @@ jobs:
             --targets "Key=instanceIds,Values=${{ secrets.EC2_INSTANCE_ID }}" \
             --comment "Running git pull on Windows EC2" \
             --parameters 'commands=[
-              "cd C:\\Neider\\Neider-kiux-app",
+              "cd C:\\Neider\\Neider-kiux-app-deploy",
               "C:\\\"Program Files\"\\Git\\bin\\git.exe remote set-url origin https://$MY_GITHUB_TOKEN@github.com/Neider-Kiux/Deploy-KIUX.git",
               "C:\\\"Program Files\"\\Git\\bin\\git.exe pull"
             ]' \
