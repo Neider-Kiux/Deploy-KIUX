@@ -27,5 +27,5 @@ jobs:
               "cd C:\\Neider\\Neider-kiux-app",
               "git remote set-url origin https://$MY_GITHUB_TOKEN@github.com/Neider-Kiux/github-actions-start.git",
               "C:\\\"Program Files\"\\Git\\bin\\git.exe pull"
-            ]' 
+            ]' \
             --region us-east-2
