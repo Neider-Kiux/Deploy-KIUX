@@ -1,0 +1,10 @@
+/* DSEG7 Classic MINI */
+
+@font-face {
+  font-family: 'DSEG7-Classic-MINI';
+  src: url('./../../fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./../../fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('./../../fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-weight: bold;
+  font-style: normal;
+}

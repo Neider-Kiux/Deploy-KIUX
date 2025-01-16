@@ -1,0 +1,43 @@
+{
+  "icons": [
+    {
+      "src": "./img/icon_512x512.acac7e866f0acaa031301801fd8e264b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon_384x384.59c850066bdc88d27ff58d08bb249bf2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon_256x256.e55ed80cdcd42b49b6ecf009cefd3967.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon_192x192.72c87aa10bd242552b48fb69d156c122.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon_128x128.eca02b3b597e1330a2ba044b35e4e3fa.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon_96x96.9ee8198b86865b6027d4d36cab28edb4.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "KIUX",
+  "short_name": "KIUX",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Tenemos un manifest dinámico",
+  "scope": ".",
+  "background_color": "#ffffff",
+  "theme_color": "#1f6dad"
+}

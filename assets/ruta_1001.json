@@ -1,0 +1,71 @@
+{
+  "id": 1001,
+  "nombre": "Primera ruta de vigilancia",
+  "color": 15665789,
+  "preregistros": [
+    {
+      "id": 525,
+      "titulo": "Primer preregistro",
+      "color": 4955184,
+      "idioma": "ES",
+      "proyecto": "Proyecto 1",
+      "estado": "Abierto"
+    },
+    {
+      "id": 625,
+      "titulo": "Segundo preregistro",
+      "color": 4955184,
+      "idioma": "ES",
+      "proyecto": "Proyecto 1",
+      "estado": "Abierto"
+    },
+    {
+      "id": 725,
+      "titulo": "Tercer preregistro",
+      "color": 4955184,
+      "idioma": "ES",
+      "proyecto": "Proyecto 2",
+      "estado": "Abierto"
+    },
+    {
+      "id": 825,
+      "titulo": "Cuarto preregistro",
+      "color": 4955184,
+      "idioma": "ES",
+      "proyecto": "Proyecto 2",
+      "estado": "Abierto"
+    },
+    {
+      "id": 925,
+      "titulo": "Quinto preregistro",
+      "color": 4955184,
+      "idioma": "ES",
+      "proyecto": "Proyecto 3",
+      "estado": "Abierto"
+    }
+  ],
+  "plantillas": [
+    "Revisión de documento",
+    "Estudio de mercado",
+    "Consulta externa",
+    "Mundial"
+  ],
+  "clasificaciones": [
+    {
+      "clasificacion": "Arbitramentos",
+      "plantilla": "Primer arbitramento"
+    },
+    {
+      "clasificacion": "Asuntos administrativos",
+      "plantilla": "Administración"
+    },
+    {
+      "clasificacion": "Capacitación",
+      "plantilla": "Primer capacitación"
+    },
+    {
+      "clasificacion": "Mercadeo",
+      "plantilla": "Ventas al por mayor"
+    }
+  ]
+}
