@@ -37,12 +37,16 @@ jobs:
               "C:\\\"Program Files\"\\Git\\bin\\git.exe pull"
             ]' \
             --region us-east-2)
-          echo "SSM Command Response: $response"
+          echo "Raw SSM Response: $response"
 
       - name: Fetch command status
         run: |
-          echo "Checking SSM command status..."
+          echo "Extracting Command ID..."
           command_id=$(echo $response | jq -r '.Command.CommandId')
+          if [ -z "$command_id" ]; then
+            echo "Error: Command ID could not be extracted."
+            exit 1
+          fi
           echo "Command ID: $command_id"
           aws ssm list-command-invocations \
             --command-id $command_id \
