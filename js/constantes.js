@@ -4,7 +4,7 @@
 /***/ 304:
 /***/ ((module) => {
 
-var fecha_Hora = "2025-01-17-1347";
+var fecha_Hora = "2025-01-17-1349";
 var nombreCache = "KIUX_cache_".concat(fecha_Hora);
 var nombreServiceWorker = "service-Worker-".concat(fecha_Hora);
 module.exports = {
