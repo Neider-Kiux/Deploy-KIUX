@@ -1,1 +1,192 @@
-'use strict';var a51_0x3f67c9=a51_0x45f1;(function(_0xb6e7f4,_0x135369){var _0x302ef5=a51_0x45f1,_0x23765e=_0xb6e7f4();while(!![]){try{var _0x149104=parseInt(_0x302ef5(0x119))/0x1*(-parseInt(_0x302ef5(0x144))/0x2)+-parseInt(_0x302ef5(0x125))/0x3*(-parseInt(_0x302ef5(0x147))/0x4)+-parseInt(_0x302ef5(0x12a))/0x5*(-parseInt(_0x302ef5(0x11c))/0x6)+-parseInt(_0x302ef5(0x116))/0x7+parseInt(_0x302ef5(0x111))/0x8*(-parseInt(_0x302ef5(0x14f))/0x9)+parseInt(_0x302ef5(0x11a))/0xa+parseInt(_0x302ef5(0x11e))/0xb;if(_0x149104===_0x135369)break;else _0x23765e['push'](_0x23765e['shift']());}catch(_0x4e8df4){_0x23765e['push'](_0x23765e['shift']());}}}(a51_0x43a2,0xb0024));function a51_0x45f1(_0xbd4804,_0x3f9959){var _0x43a294=a51_0x43a2();return a51_0x45f1=function(_0x45f17f,_0x1e2952){_0x45f17f=_0x45f17f-0x10f;var _0xa8d229=_0x43a294[_0x45f17f];return _0xa8d229;},a51_0x45f1(_0xbd4804,_0x3f9959);}function a51_0x43a2(){var _0x5bd7fb=['11980hwMAVl','next','.menu-historial','DuplicarRegistro','style','parentElement','GetDatosRegistro','sent','5967dEVaFF','classList','Editar','addEventListener','target','6416hJMcsz','DIV','all','insertAdjacentElement','insertAdjacentHTML','9666363RDkHJu','beforeend','then','10429BCXWSR','13339610fbRUKj','webpackChunkkiux','74658psfGZw','mark','5284103ILLKOF','menu-historial-item-contenido','cloneNode','push','<svg\x20class=\x22svg_img\x22\x20viewBox=\x220\x200\x20580\x20580\x22><use\x20xlink:href=\x22./img/sprite.svg#btn-duplicar\x22></use></svg>','usuario_revisor','tipo_registro','960REjmrB','concat','Eliminar','apply','Castigar','250YysSpG','menu-historial-item-castigar','afterbegin','stop','ocultar-scroll','menu-historial-item-imagen','codigo_subclase','click','end','appendChild','<svg\x20class=\x22svg_img\x22\x20viewBox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22./img/sprite.svg#btn-eliminar\x22></use></svg>','getElementById','CastigarRegistro','menu-historial','menu-historial-background','bind','Duplicar','remove','menu-historial-item','main','top','dataset','<svg\x20class=\x22svg_img\x22\x20viewBox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22./img/sprite.svg#btn-editar\x22></use></svg>','prev','.menu-historial-background','querySelector','146YFRKQx','wrap','<svg\x20class=\x22svg_img\x22\x20viewBox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22./img/sprite.svg#btn-castigar\x22></use></svg>'];a51_0x43a2=function(){return _0x5bd7fb;};return a51_0x43a2();}(self[a51_0x3f67c9(0x11b)]=self[a51_0x3f67c9(0x11b)]||[])[a51_0x3f67c9(0x121)]([[0x1b18],{0x1b18:(_0x2513ac,_0x7288d6,_0x5a91cd)=>{_0x5a91cd['r'](_0x7288d6),_0x5a91cd['d'](_0x7288d6,{'CrearMenuHistorial':()=>_0x584236});var _0x22f703=_0x5a91cd(0x1d3),_0x2698be=_0x5a91cd(0x1294),_0xaa91d6=_0x5a91cd['n'](_0x2698be),_0x584236=function _0x559dd6(_0x3e9bff,_0xf58fb5,_0x33414b){var _0x2294a5=a51_0x45f1;if(!document[_0x2294a5(0x143)](_0x2294a5(0x149))){var _0x3cf295=CreateElement('SECTION','menu-historial-background',[_0x2294a5(0x138)]),_0x1ad0bf=CreateElement('UL',_0x2294a5(0x137),[_0x2294a5(0x137),_0x33414b]);_0x1ad0bf[_0x2294a5(0x14b)]['left']=''[_0x2294a5(0x126)](_0x3e9bff['x'],'px'),_0x1ad0bf['style'][_0x2294a5(0x13e)]=''['concat'](_0x3e9bff['y'],'px');var _0x2f1f4b=CreateElement('LI',null,[_0x2294a5(0x13c)]),_0x472417=CreateElement('div',null,[_0x2294a5(0x12f)]);_0x472417[_0x2294a5(0x115)](_0x2294a5(0x117),_0x2294a5(0x140));var _0x24b0a3=CreateElement(_0x2294a5(0x112),null,[_0x2294a5(0x11f)],_0x2294a5(0x151));_0x24b0a3[_0x2294a5(0x114)](_0x2294a5(0x12c),_0x472417),_0x2f1f4b[_0x2294a5(0x133)](_0x24b0a3),_0x2f1f4b[_0x2294a5(0x10f)](_0x2294a5(0x131),function(_0xc738e7){var _0x22ac2f=_0x2294a5;_0x3c2aef(_0xc738e7[_0x22ac2f(0x110)][_0x22ac2f(0x14c)]['parentElement']);});var _0x521185=CreateElement('LI',null,['menu-historial-item']),_0x658d81=CreateElement(_0x2294a5(0x112),null,['menu-historial-item-imagen']);_0x658d81[_0x2294a5(0x115)]('beforeend',_0x2294a5(0x122));var _0x2ccade=CreateElement(_0x2294a5(0x112),null,[_0x2294a5(0x11f)],_0x2294a5(0x13a));_0x2ccade[_0x2294a5(0x114)]('afterbegin',_0x658d81),_0x521185[_0x2294a5(0x133)](_0x2ccade),_0x521185[_0x2294a5(0x10f)](_0x2294a5(0x131),function(_0x1704cf){var _0x1869ed=_0x2294a5;_0x285835(_0x1704cf[_0x1869ed(0x110)][_0x1869ed(0x14c)][_0x1869ed(0x14c)]);});var _0x506ea0=CreateElement('LI',null,[_0x2294a5(0x13c)]),_0x42eceb=CreateElement(_0x2294a5(0x112),null,[_0x2294a5(0x12f)]);_0x42eceb[_0x2294a5(0x115)](_0x2294a5(0x117),_0x2294a5(0x134));var _0x20289c=CreateElement(_0x2294a5(0x112),null,['menu-historial-item-contenido'],_0x2294a5(0x127));_0x20289c[_0x2294a5(0x114)](_0x2294a5(0x12c),_0x42eceb),_0x506ea0[_0x2294a5(0x133)](_0x20289c),_0x506ea0[_0x2294a5(0x10f)](_0x2294a5(0x131),function(_0x511765){var _0x5e1382=_0x2294a5;_0x3475e0(_0x511765['target'][_0x5e1382(0x14c)][_0x5e1382(0x14c)]);});var _0x150f3f=CreateElement('DIV',null,['menu-historial-separador']);_0x2f1f4b['insertAdjacentElement'](_0x2294a5(0x117),_0x150f3f),_0x521185[_0x2294a5(0x114)](_0x2294a5(0x117),_0x150f3f[_0x2294a5(0x120)](!![])),_0x1ad0bf[_0x2294a5(0x133)](_0x2f1f4b),_0x1ad0bf[_0x2294a5(0x133)](_0x521185);if(_0x33414b==='menu-historial-b'){var _0x25df38=CreateElement('LI',null,['menu-historial-item',_0x2294a5(0x12b)]),_0x1b00e0=CreateElement(_0x2294a5(0x112),null,['menu-historial-item-imagen']);_0x1b00e0[_0x2294a5(0x115)]('beforeend',_0x2294a5(0x146));var _0x11eb8d=CreateElement(_0x2294a5(0x112),null,[_0x2294a5(0x11f)],_0x2294a5(0x129));_0x11eb8d[_0x2294a5(0x114)]('afterbegin',_0x1b00e0),_0x25df38[_0x2294a5(0x133)](_0x11eb8d),_0x25df38[_0x2294a5(0x10f)](_0x2294a5(0x131),function(_0x325cb2){var _0x41cbd0=_0x2294a5;_0x3de920(_0x325cb2[_0x41cbd0(0x110)][_0x41cbd0(0x14c)][_0x41cbd0(0x14c)]),_0x25df38[_0x41cbd0(0x114)](_0x41cbd0(0x117),_0x150f3f[_0x41cbd0(0x120)](!![]));}),_0x1ad0bf['appendChild'](_0x25df38);}_0x1ad0bf['appendChild'](_0x506ea0),_0xf58fb5[_0x2294a5(0x133)](_0x1ad0bf),_0x3cf295[_0x2294a5(0x10f)](_0x2294a5(0x131),function(_0x1f33ea){return _0x4928e3(_0x1f33ea);}),document[_0x2294a5(0x135)]('main')[_0x2294a5(0x114)](_0x2294a5(0x117),_0x3cf295),document['getElementById']('main')[_0x2294a5(0x150)]['add'](_0x2294a5(0x12e));}else document[_0x2294a5(0x143)](_0x2294a5(0x149))[_0x2294a5(0x13b)]();};function _0x4928e3(_0x525e16){var _0x4ed817=a51_0x45f1;_0x525e16[_0x4ed817(0x110)][_0x4ed817(0x150)]['contains']('menu-historial-background')&&(document[_0x4ed817(0x143)]('.menu-historial')[_0x4ed817(0x13b)](),_0x525e16['target']['remove'](),document[_0x4ed817(0x135)](_0x4ed817(0x13d))['classList'][_0x4ed817(0x13b)](_0x4ed817(0x12e)));}function _0x2ddd56(){var _0x4f92e4=a51_0x45f1;document[_0x4f92e4(0x143)]('.menu-historial')['remove'](),document[_0x4f92e4(0x143)](_0x4f92e4(0x142))['remove']();}var _0x3c2aef=(function(){var _0x4e2270=(0x0,_0x22f703['A'])(_0xaa91d6()['mark'](function _0x4ad7e5(_0x5f281d){var _0x2845dd,_0xdf8c1d,_0x19dfb6,_0x51b01b,_0x123822,_0x307bd5;return _0xaa91d6()['wrap'](function _0x5b3109(_0xbb4cb1){var _0x200de9=a51_0x45f1;while(0x1)switch(_0xbb4cb1['prev']=_0xbb4cb1[_0x200de9(0x148)]){case 0x0:_0x2845dd=_0x5f281d[_0x200de9(0x14c)][_0x200de9(0x13f)][_0x200de9(0x124)],_0xdf8c1d=_0x5f281d[_0x200de9(0x14c)]['id'],_0x19dfb6=_0x5f281d[_0x200de9(0x14c)][_0x200de9(0x13f)][_0x200de9(0x130)],_0x51b01b=_0x5f281d[_0x200de9(0x14c)][_0x200de9(0x13f)][_0x200de9(0x123)],_0xbb4cb1[_0x200de9(0x148)]=0x6;return Promise[_0x200de9(0x113)]([_0x5a91cd['e'](0x2292),_0x5a91cd['e'](0x16cc),_0x5a91cd['e'](0x390),_0x5a91cd['e'](0x20bc),_0x5a91cd['e'](0x23c6),_0x5a91cd['e'](0x2496)])[_0x200de9(0x118)](_0x5a91cd[_0x200de9(0x139)](_0x5a91cd,0x23c6));case 0x6:_0x123822=_0xbb4cb1[_0x200de9(0x14e)],_0x307bd5=_0x123822[_0x200de9(0x14d)],_0x307bd5(_0x2845dd,_0xdf8c1d,CargarAvance,CargarHistoryBar,CargarHistorialA,CargarHistorialB);case 0x9:case _0x200de9(0x132):return _0xbb4cb1['stop']();}},_0x4ad7e5);}));return function _0x4d3d6b(_0x2f2678){var _0x34fab8=a51_0x45f1;return _0x4e2270[_0x34fab8(0x128)](this,arguments);};}()),_0x285835=(function(){var _0x9d787f=a51_0x45f1,_0x36dbcc=(0x0,_0x22f703['A'])(_0xaa91d6()[_0x9d787f(0x11d)](function _0x4a8e27(_0x4fb3e4){var _0x4e7a7d,_0x58e883,_0x35a334;return _0xaa91d6()['wrap'](function _0x29605a(_0x538513){var _0x173fdb=a51_0x45f1;while(0x1)switch(_0x538513['prev']=_0x538513[_0x173fdb(0x148)]){case 0x0:_0x4e7a7d=_0x4fb3e4['parentElement']['id'],_0x538513[_0x173fdb(0x148)]=0x3;return _0x5a91cd['e'](0xa0f)[_0x173fdb(0x118)](_0x5a91cd[_0x173fdb(0x139)](_0x5a91cd,0xa0f));case 0x3:_0x58e883=_0x538513['sent'],_0x35a334=_0x58e883[_0x173fdb(0x14a)],_0x35a334(_0x4e7a7d,CargarHistorialA);case 0x6:case _0x173fdb(0x132):return _0x538513[_0x173fdb(0x12d)]();}},_0x4a8e27);}));return function _0x58d427(_0x48ad6e){return _0x36dbcc['apply'](this,arguments);};}()),_0x3de920=(function(){var _0x5ae023=a51_0x45f1,_0x199370=(0x0,_0x22f703['A'])(_0xaa91d6()[_0x5ae023(0x11d)](function _0x495900(_0x357895){var _0x5351a0=_0x5ae023,_0x4b0a78,_0x499744,_0x54dbd4;return _0xaa91d6()[_0x5351a0(0x145)](function _0x5d2fe6(_0xb91a0a){var _0x5339d1=_0x5351a0;while(0x1)switch(_0xb91a0a[_0x5339d1(0x141)]=_0xb91a0a['next']){case 0x0:_0x4b0a78=_0x357895[_0x5339d1(0x14c)]['id'],_0xb91a0a[_0x5339d1(0x148)]=0x3;return Promise['all']([_0x5a91cd['e'](0x2292),_0x5a91cd['e'](0x7b3)])[_0x5339d1(0x118)](_0x5a91cd[_0x5339d1(0x139)](_0x5a91cd,0x7b3));case 0x3:_0x499744=_0xb91a0a[_0x5339d1(0x14e)],_0x54dbd4=_0x499744[_0x5339d1(0x136)],_0x54dbd4(_0x4b0a78,CargarHistorialB);case 0x6:case _0x5339d1(0x132):return _0xb91a0a[_0x5339d1(0x12d)]();}},_0x495900);}));return function _0x445e70(_0x3518d7){var _0x53211c=_0x5ae023;return _0x199370[_0x53211c(0x128)](this,arguments);};}()),_0x3475e0=(function(){var _0x5e3576=a51_0x45f1,_0x244822=(0x0,_0x22f703['A'])(_0xaa91d6()[_0x5e3576(0x11d)](function _0x4b3c98(_0x76610b){var _0x55a6f5=_0x5e3576,_0x44f424,_0x4f8f51,_0x2a23fa;return _0xaa91d6()[_0x55a6f5(0x145)](function _0x335cf4(_0x2369a7){var _0x2af9de=_0x55a6f5;while(0x1)switch(_0x2369a7[_0x2af9de(0x141)]=_0x2369a7[_0x2af9de(0x148)]){case 0x0:_0x44f424=_0x76610b['parentElement']['id'],_0x2369a7[_0x2af9de(0x148)]=0x3;return _0x5a91cd['e'](0x26f6)[_0x2af9de(0x118)](_0x5a91cd['bind'](_0x5a91cd,0x26f6));case 0x3:_0x4f8f51=_0x2369a7[_0x2af9de(0x14e)],_0x2a23fa=_0x4f8f51['EliminarRegistro'],_0x2a23fa(_0x44f424,CargarAvance,CargarHistoryBar,CargarHistorialA,CargarHistorialB);case 0x6:case _0x2af9de(0x132):return _0x2369a7['stop']();}},_0x4b3c98);}));return function _0x347d4d(_0x3bfe00){var _0x13e04c=_0x5e3576;return _0x244822[_0x13e04c(0x128)](this,arguments);};}());}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[6936],{
+
+/***/ 6936:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CrearMenuHistorial: () => (/* binding */ CrearMenuHistorial)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(467);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4756);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
+
+
+var CrearMenuHistorial = function CrearMenuHistorial(posicion, contenedorConcepto, clase) {
+  if (!document.querySelector('.menu-historial')) {
+    var Background = CreateElement('SECTION', 'menu-historial-background', ['menu-historial-background']);
+    var menuHistorialB = CreateElement('UL', 'menu-historial', ['menu-historial', clase]);
+    menuHistorialB.style.left = "".concat(posicion.x, "px");
+    menuHistorialB.style.top = "".concat(posicion.y, "px");
+    var editar = CreateElement('LI', null, ['menu-historial-item']);
+    var imagenEditar = CreateElement('div', null, ['menu-historial-item-imagen']);
+    imagenEditar.insertAdjacentHTML('beforeend', '<svg class="svg_img" viewBox="0 0 180 216"><use xlink:href="./img/sprite.svg#btn-editar"></use></svg>');
+    var editarContenido = CreateElement('DIV', null, ['menu-historial-item-contenido'], 'Editar');
+    editarContenido.insertAdjacentElement('afterbegin', imagenEditar);
+    editar.appendChild(editarContenido);
+    editar.addEventListener('click', function (e) {
+      clickEditarRegistro(e.target.parentElement.parentElement);
+    });
+    var duplicar = CreateElement('LI', null, ['menu-historial-item']);
+    var duplicarImagen = CreateElement('DIV', null, ['menu-historial-item-imagen']);
+    duplicarImagen.insertAdjacentHTML('beforeend', '<svg class="svg_img" viewBox="0 0 580 580"><use xlink:href="./img/sprite.svg#btn-duplicar"></use></svg>');
+    var duplicarContenido = CreateElement('DIV', null, ['menu-historial-item-contenido'], 'Duplicar');
+    duplicarContenido.insertAdjacentElement('afterbegin', duplicarImagen);
+    duplicar.appendChild(duplicarContenido);
+    duplicar.addEventListener('click', function (e) {
+      ClickDuplicar(e.target.parentElement.parentElement);
+    });
+    var eliminar = CreateElement('LI', null, ['menu-historial-item']);
+    var eliminarImagen = CreateElement('DIV', null, ['menu-historial-item-imagen']);
+    eliminarImagen.insertAdjacentHTML('beforeend', '<svg class="svg_img" viewBox="0 0 180 216"><use xlink:href="./img/sprite.svg#btn-eliminar"></use></svg>');
+    var eliminarContenido = CreateElement('DIV', null, ['menu-historial-item-contenido'], 'Eliminar');
+    eliminarContenido.insertAdjacentElement('afterbegin', eliminarImagen);
+    eliminar.appendChild(eliminarContenido);
+    eliminar.addEventListener('click', function (e) {
+      clickEliminar(e.target.parentElement.parentElement);
+    });
+    var separador = CreateElement('DIV', null, ['menu-historial-separador']);
+    editar.insertAdjacentElement('beforeend', separador);
+    duplicar.insertAdjacentElement('beforeend', separador.cloneNode(true));
+    menuHistorialB.appendChild(editar);
+    menuHistorialB.appendChild(duplicar);
+    if (clase === 'menu-historial-b') {
+      var castigar = CreateElement('LI', null, ['menu-historial-item', 'menu-historial-item-castigar']);
+      var castigarImagen = CreateElement('DIV', null, ['menu-historial-item-imagen']);
+      castigarImagen.insertAdjacentHTML('beforeend', '<svg class="svg_img" viewBox="0 0 180 216"><use xlink:href="./img/sprite.svg#btn-castigar"></use></svg>');
+      var castigarContenido = CreateElement('DIV', null, ['menu-historial-item-contenido'], 'Castigar');
+      castigarContenido.insertAdjacentElement('afterbegin', castigarImagen);
+      castigar.appendChild(castigarContenido);
+      castigar.addEventListener('click', function (e) {
+        clickCastigarRegistro(e.target.parentElement.parentElement);
+        castigar.insertAdjacentElement('beforeend', separador.cloneNode(true));
+      });
+      menuHistorialB.appendChild(castigar);
+    }
+    menuHistorialB.appendChild(eliminar);
+    contenedorConcepto.appendChild(menuHistorialB);
+    Background.addEventListener('click', function (e) {
+      return removerMenuBackGround(e);
+    });
+    document.getElementById('main').insertAdjacentElement('beforeend', Background);
+    document.getElementById('main').classList.add('ocultar-scroll');
+  } else {
+    document.querySelector('.menu-historial').remove();
+  }
+};
+function removerMenuBackGround(e) {
+  if (e.target.classList.contains('menu-historial-background')) {
+    document.querySelector('.menu-historial').remove();
+    e.target.remove();
+    document.getElementById('main').classList.remove('ocultar-scroll');
+  }
+}
+function RemoverMenu() {
+  document.querySelector('.menu-historial').remove();
+  document.querySelector('.menu-historial-background').remove();
+}
+
+//NOTE: La forma en que se usan estos metodos indica que deberian existir los metoods CargarAvance, CargarHistoryBar, CargarHistorialA, CargarHistorialB, pero no esta, no entiendo el
+//funcionamiento de estos metodos, por lo que no puedo reemplazarlos.
+
+var clickEditarRegistro = /*#__PURE__*/function () {
+  var _ref = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee(event) {
+    var TipoRegistro, IDRegistro, CodigoSubclase, UsuarioRevisor, _yield$import, GetDatosRegistro;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
+      while (1) switch (_context.prev = _context.next) {
+        case 0:
+          TipoRegistro = event.parentElement.dataset.tipo_registro;
+          IDRegistro = event.parentElement.id;
+          CodigoSubclase = event.parentElement.dataset.codigo_subclase;
+          UsuarioRevisor = event.parentElement.dataset.usuario_revisor;
+          _context.next = 6;
+          return Promise.all(/* import() */[__webpack_require__.e(8850), __webpack_require__.e(5836), __webpack_require__.e(912), __webpack_require__.e(8380), __webpack_require__.e(9158), __webpack_require__.e(9366)]).then(__webpack_require__.bind(__webpack_require__, 9158));
+        case 6:
+          _yield$import = _context.sent;
+          GetDatosRegistro = _yield$import.GetDatosRegistro;
+          // Shit, this is shit, really shit, help with this xD
+          GetDatosRegistro(TipoRegistro, IDRegistro, CargarAvance, CargarHistoryBar, CargarHistorialA, CargarHistorialB);
+        case 9:
+        case "end":
+          return _context.stop();
+      }
+    }, _callee);
+  }));
+  return function clickEditarRegistro(_x) {
+    return _ref.apply(this, arguments);
+  };
+}();
+var ClickDuplicar = /*#__PURE__*/function () {
+  var _ref2 = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee2(event) {
+    var IDRegistro, _yield$import2, DuplicarRegistro;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee2$(_context2) {
+      while (1) switch (_context2.prev = _context2.next) {
+        case 0:
+          IDRegistro = event.parentElement.id;
+          _context2.next = 3;
+          return __webpack_require__.e(/* import() */ 2575).then(__webpack_require__.bind(__webpack_require__, 2575));
+        case 3:
+          _yield$import2 = _context2.sent;
+          DuplicarRegistro = _yield$import2.DuplicarRegistro;
+          DuplicarRegistro(IDRegistro, CargarHistorialA);
+        case 6:
+        case "end":
+          return _context2.stop();
+      }
+    }, _callee2);
+  }));
+  return function ClickDuplicar(_x2) {
+    return _ref2.apply(this, arguments);
+  };
+}();
+var clickCastigarRegistro = /*#__PURE__*/function () {
+  var _ref3 = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee3(event) {
+    var IDRegistro, _yield$import3, CastigarRegistro;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee3$(_context3) {
+      while (1) switch (_context3.prev = _context3.next) {
+        case 0:
+          IDRegistro = event.parentElement.id;
+          _context3.next = 3;
+          return Promise.all(/* import() */[__webpack_require__.e(8850), __webpack_require__.e(1971)]).then(__webpack_require__.bind(__webpack_require__, 1971));
+        case 3:
+          _yield$import3 = _context3.sent;
+          CastigarRegistro = _yield$import3.CastigarRegistro;
+          CastigarRegistro(IDRegistro, CargarHistorialB);
+        case 6:
+        case "end":
+          return _context3.stop();
+      }
+    }, _callee3);
+  }));
+  return function clickCastigarRegistro(_x3) {
+    return _ref3.apply(this, arguments);
+  };
+}();
+var clickEliminar = /*#__PURE__*/function () {
+  var _ref4 = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee4(event) {
+    var IDRegistro, _yield$import4, EliminarRegistro;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee4$(_context4) {
+      while (1) switch (_context4.prev = _context4.next) {
+        case 0:
+          IDRegistro = event.parentElement.id;
+          _context4.next = 3;
+          return __webpack_require__.e(/* import() */ 9974).then(__webpack_require__.bind(__webpack_require__, 9974));
+        case 3:
+          _yield$import4 = _context4.sent;
+          EliminarRegistro = _yield$import4.EliminarRegistro;
+          EliminarRegistro(IDRegistro, CargarAvance, CargarHistoryBar, CargarHistorialA, CargarHistorialB);
+        case 6:
+        case "end":
+          return _context4.stop();
+      }
+    }, _callee4);
+  }));
+  return function clickEliminar(_x4) {
+    return _ref4.apply(this, arguments);
+  };
+}();
+
+/***/ })
+
+}]);

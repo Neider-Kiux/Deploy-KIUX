@@ -1,1 +1,351 @@
-'use strict';var a34_0x3a389c=a34_0x3121;(function(_0x2a90df,_0x58f545){var _0x1758bd=a34_0x3121,_0x34d5c4=_0x2a90df();while(!![]){try{var _0x1d3536=-parseInt(_0x1758bd(0x13a))/0x1*(parseInt(_0x1758bd(0x16f))/0x2)+parseInt(_0x1758bd(0x19b))/0x3+-parseInt(_0x1758bd(0x172))/0x4*(parseInt(_0x1758bd(0x16d))/0x5)+parseInt(_0x1758bd(0x14f))/0x6+-parseInt(_0x1758bd(0x188))/0x7*(-parseInt(_0x1758bd(0x17a))/0x8)+-parseInt(_0x1758bd(0x13c))/0x9+parseInt(_0x1758bd(0x150))/0xa*(parseInt(_0x1758bd(0x175))/0xb);if(_0x1d3536===_0x58f545)break;else _0x34d5c4['push'](_0x34d5c4['shift']());}catch(_0x38a9c5){_0x34d5c4['push'](_0x34d5c4['shift']());}}}(a34_0x44a9,0x92662));function a34_0x44a9(){var _0x3854b1=['ComprobarBoton','c-cambiar-password','Requisitos\x20del\x20password:','Cambiar','CumpleLongitudMinima','1288575jslPhL','log','height','style','BUTTON','Mostrar','validate-password','focus','Requisito4','ComparePasswordsDiv','NewPassword','querySelector','CreateElement','NewPasswordCheck','password','result_code','Requisito3','length','src','Ocultar','../../img/hidden-password.svg','removeChild','nextElementSibling','abrupt','CumpleUnDigito','modal-button','labelElement','modal-button--disabled','start','prototype','new-password','next','SamePasswords','../../img/show-password.svg','main','SECTION','match','afterend','parentElement','105869BkeYiq','requirements-list','1145898ohlNFe','addEventListener','SPAN','apply','beforeend','ValidarLongitudMinima','ValidarPassword','add','validate-password__encabezado','center','flex-end','location','Incluir\x20dígitos\x20(0..9)','value','<div\x20class=\x22chagePass_token-invalido\x22>\x20<span>','InputElement','CumpleLongitudMaxima','marginTop','ValidarUnDigito','2985318uspXUO','5264890IOgOkx','dialogo','editar-registro','alignItems','ContenedorCambiarPassword','constructor','CumpleUnaLetra','construct','cont_botones_3','remove','compare-passwords','classList','call','stop','Cambiar\x20Password','18rem','BotonAccion','search','click','.validate-password','show-password','Token\x20expired','inputElement','compare-passwords__encabezado','Requisito1','keyup','no-cumple','Máximo\x2020\x20carácteres','c-Botones','15zEnTjY','DIV','4AzyELh','return','text','1002844bfcvVP','cumple','blur','11CZoXno','Nueva\x20contraseña','SegundoInputElement','webpackChunkkiux','ValidatePassword','4056PSvtMT','message','FORM','token','concat','Las\x20contraseñas\x20no\x20coinciden','Requisito2','sent','CompararPasswords','modal-button--enabled','ValidarLongitudMaxima','type','.compare-passwords','insertAdjacentElement','3276AWkSSS','CompararValidarPasswords','ValidarUnaLetra','valueOf','mark','wrap','innerHTML','ListaRequisitos','replace','target','textAlign','push','title','modal-button--text'];a34_0x44a9=function(){return _0x3854b1;};return a34_0x44a9();}function a34_0x3121(_0x6f54ff,_0x12594c){var _0x44a9ab=a34_0x44a9();return a34_0x3121=function(_0x312184,_0x402e77){_0x312184=_0x312184-0x11e;var _0x22261d=_0x44a9ab[_0x312184];return _0x22261d;},a34_0x3121(_0x6f54ff,_0x12594c);}(self['webpackChunkkiux']=self[a34_0x3a389c(0x178)]||[])[a34_0x3a389c(0x193)]([[0x7e9,0x1723],{0x7e9:(_0x4a6dae,_0x5a2312,_0x3c3012)=>{var _0x2e5b5e=a34_0x3a389c;_0x3c3012['r'](_0x5a2312);var _0x3f6d26=_0x3c3012(0x1d3),_0x57b3c9=_0x3c3012(0x1294),_0x5f2f21=_0x3c3012['n'](_0x57b3c9),_0x28d269=_0x3c3012(0x967),_0x2bdf8c=_0x3c3012(0x1723),_0x530a64=_0x3c3012(0x1d01);(0x0,_0x3f6d26['A'])(_0x5f2f21()[_0x2e5b5e(0x18c)](function _0x54d649(){var _0x52359a=_0x2e5b5e,_0x361ba7,_0x39ab2f,_0x344d4e;return _0x5f2f21()[_0x52359a(0x18d)](function _0x6a3968(_0x142508){var _0x757208=_0x52359a;while(0x1)switch(_0x142508['prev']=_0x142508[_0x757208(0x132)]){case 0x0:_0x361ba7=new URLSearchParams(window[_0x757208(0x147)][_0x757208(0x161)])['get'](_0x757208(0x17d)),_0x39ab2f=document['getElementById'](_0x757208(0x135));if(!_0x361ba7){_0x142508[_0x757208(0x132)]=0x9;break;}_0x142508['next']=0x5;return _0x25007d(_0x361ba7);case 0x5:_0x344d4e=_0x142508[_0x757208(0x181)];_0x344d4e[_0x757208(0x122)]==0x0?_0x234201(_0x39ab2f):_0x4a3a5b(_0x39ab2f,_0x344d4e[_0x757208(0x17b)]);_0x142508['next']=0xa;break;case 0x9:_0x4a3a5b(_0x39ab2f,'Token\x20expired');case 0xa:case'end':return _0x142508[_0x757208(0x15d)]();}},_0x54d649);}))();function _0x4a3a5b(_0x5d6330,_0x180e69){var _0x4dd995=_0x2e5b5e;_0x5d6330['style'][_0x4dd995(0x153)]=_0x4dd995(0x12f),_0x5d6330[_0x4dd995(0x18e)]=_0x4dd995(0x14a)[_0x4dd995(0x17e)](_0x180e69,'</span>\x20</div>');}function _0x25007d(_0x337635){var _0x447da8=_0x2e5b5e;return _0x1a40d6[_0x447da8(0x13f)](this,arguments);}function _0x1a40d6(){var _0x4d1e8e=_0x2e5b5e;return _0x1a40d6=(0x0,_0x3f6d26['A'])(_0x5f2f21()[_0x4d1e8e(0x18c)](function _0x393915(_0x2bdf3a){var _0x5ce651,_0xb849f2,_0x2e6257,_0xe13888;return _0x5f2f21()['wrap'](function _0x3bc815(_0x350e74){var _0x5042e2=a34_0x3121;while(0x1)switch(_0x350e74['prev']=_0x350e74[_0x5042e2(0x132)]){case 0x0:_0x5ce651='',_0xb849f2={'Token':_0x2bdf3a},_0x2e6257='',_0xe13888={'result_code':0x0,'message':_0x5042e2(0x165)};return _0x350e74[_0x5042e2(0x12a)](_0x5042e2(0x170),_0xe13888);case 0x5:case'end':return _0x350e74['stop']();}},_0x393915);})),_0x1a40d6['apply'](this,arguments);}function _0x234201(_0x9a2e10){var _0x69f2f4=_0x2e5b5e,_0x112dad=(0x0,_0x28d269[_0x69f2f4(0x11f)])(_0x69f2f4(0x136),_0x69f2f4(0x151),[_0x69f2f4(0x151)]),_0x420336=(0x0,_0x28d269['CreateElement'])(_0x69f2f4(0x136),_0x69f2f4(0x154),[_0x69f2f4(0x197),_0x69f2f4(0x152)]);_0x420336[_0x69f2f4(0x19e)][_0x69f2f4(0x19d)]=_0x69f2f4(0x15f);var _0x2c3fa1=(0x0,_0x28d269[_0x69f2f4(0x11f)])(_0x69f2f4(0x13e),null,null,_0x69f2f4(0x15e));_0x2c3fa1[_0x69f2f4(0x19e)][_0x69f2f4(0x192)]=_0x69f2f4(0x145),_0x2c3fa1[_0x69f2f4(0x19e)]['fontSize']='1.25rem';var _0x436f1c=(0x0,_0x28d269[_0x69f2f4(0x11f)])(_0x69f2f4(0x17c),null,['reset-password']),_0x1f4c3e=(0x0,_0x28d269[_0x69f2f4(0x11f)])(_0x69f2f4(0x16e),null,['new-password']),_0x27f388=(0x0,_0x28d269[_0x69f2f4(0x12d)])(_0x69f2f4(0x1a5),_0x69f2f4(0x176)),_0x522d7b=(0x0,_0x28d269[_0x69f2f4(0x166)])(_0x69f2f4(0x121),_0x69f2f4(0x1a5)),_0x13918a=(0x0,_0x28d269['CreateElement'])(_0x69f2f4(0x16e),null,[_0x69f2f4(0x131)]),_0x3a3cb2=(0x0,_0x28d269[_0x69f2f4(0x12d)])(_0x69f2f4(0x120),'Confirmar\x20contraseña'),_0x5d3c43=(0x0,_0x28d269[_0x69f2f4(0x166)])(_0x69f2f4(0x121),_0x69f2f4(0x120)),_0xbffe46=(0x0,_0x28d269['CreateElement'])('DIV',_0x69f2f4(0x16c),[_0x69f2f4(0x158)]);_0xbffe46[_0x69f2f4(0x19e)]['justifyContent']=_0x69f2f4(0x146),_0xbffe46[_0x69f2f4(0x19e)][_0x69f2f4(0x14d)]='0.5rem';var _0x32cc1e=(0x0,_0x28d269[_0x69f2f4(0x11f)])(_0x69f2f4(0x19f),null,[_0x69f2f4(0x12c),_0x69f2f4(0x12e),_0x69f2f4(0x195)],_0x69f2f4(0x199));_0xbffe46['insertAdjacentElement'](_0x69f2f4(0x140),_0x32cc1e),_0x32cc1e[_0x69f2f4(0x13d)]('click',function(){_0x5a02f5(_0x32cc1e);}),new _0x2bdf8c[(_0x69f2f4(0x189))](_0x522d7b,_0x5d3c43,_0x32cc1e),_0x1f4c3e[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0x27f388),_0x1f4c3e[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0x522d7b),_0x13918a[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0x3a3cb2),_0x13918a[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0x5d3c43),_0x436f1c[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0x1f4c3e),_0x436f1c[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0x13918a);var _0x5a4515=(0x0,_0x28d269[_0x69f2f4(0x11f)])('IMG',null,[_0x69f2f4(0x164)],null,null,null,null,_0x69f2f4(0x134),null,null,null,_0x69f2f4(0x1a0));_0x27f388[_0x69f2f4(0x187)](_0x69f2f4(0x138),_0x5a4515);var _0x290c0c=function _0x45a008(_0x30cbf9){var _0xf2df7e=_0x69f2f4;_0x30cbf9[_0xf2df7e(0x191)][_0xf2df7e(0x129)][_0xf2df7e(0x185)]=='password'?(_0x30cbf9[_0xf2df7e(0x191)][_0xf2df7e(0x129)][_0xf2df7e(0x185)]=_0xf2df7e(0x171),_0x30cbf9[_0xf2df7e(0x191)][_0xf2df7e(0x129)][_0xf2df7e(0x1a2)](),_0x30cbf9[_0xf2df7e(0x191)][_0xf2df7e(0x125)]=_0xf2df7e(0x127),_0x30cbf9[_0xf2df7e(0x191)][_0xf2df7e(0x194)]=_0xf2df7e(0x126)):(_0x30cbf9['target'][_0xf2df7e(0x129)][_0xf2df7e(0x185)]=_0xf2df7e(0x121),_0x30cbf9['target']['nextElementSibling']['focus'](),_0x30cbf9[_0xf2df7e(0x191)][_0xf2df7e(0x125)]='../../img/show-password.svg',_0x30cbf9[_0xf2df7e(0x191)][_0xf2df7e(0x194)]='Mostrar');};_0x5a4515[_0x69f2f4(0x13d)](_0x69f2f4(0x162),function(_0x3b5729){_0x290c0c(_0x3b5729);}),_0x420336[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0x2c3fa1),_0x420336[_0x69f2f4(0x187)]('beforeend',_0x436f1c),_0x420336[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0xbffe46),_0x112dad[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0x420336),_0x9a2e10[_0x69f2f4(0x187)](_0x69f2f4(0x140),_0x112dad);}function _0x5a02f5(_0x56818a){var _0x55ffe6=_0x2e5b5e;!_0x56818a['classList']['contains'](_0x55ffe6(0x12e))&&console[_0x55ffe6(0x19c)]('Click\x20en\x20cambiar\x20password');}},0x1723:(_0x57a9db,_0x2e7a13,_0x34c20e)=>{_0x34c20e['r'](_0x2e7a13),_0x34c20e['d'](_0x2e7a13,{'CompararValidarPasswords':()=>_0xe9a9ed,'ValidarPassword':()=>_0x1528a9});var _0x271962=_0x34c20e(0x1aa6),_0x5f0981=_0x34c20e(0xf72),_0x2a30c8=_0x34c20e(0x14f1),_0x15d39e=_0x34c20e(0xbd5),_0x6b0f7c=_0x34c20e(0xb55),_0x5402c5=_0x34c20e(0x1173),_0x172e6a=_0x34c20e(0x967);function _0x2ee672(_0x530561,_0x47e43c,_0x28ba55){var _0x532388=a34_0x3121;return _0x47e43c=(0x0,_0x5f0981['A'])(_0x47e43c),(0x0,_0x271962['A'])(_0x530561,_0xa8fdda()?Reflect['construct'](_0x47e43c,_0x28ba55||[],(0x0,_0x5f0981['A'])(_0x530561)[_0x532388(0x155)]):_0x47e43c[_0x532388(0x13f)](_0x530561,_0x28ba55));}function _0xa8fdda(){var _0x5632a9=a34_0x3121;try{var _0x49beb4=!Boolean[_0x5632a9(0x130)][_0x5632a9(0x18b)][_0x5632a9(0x15c)](Reflect[_0x5632a9(0x157)](Boolean,[],function(){}));}catch(_0x2da349){}return(_0xa8fdda=function _0x547c84(){return!!_0x49beb4;})();}var _0x1528a9=(function(){var _0x595af4=a34_0x3121;function _0x35aa25(_0x16541b,_0x4a03ea){var _0x260103=a34_0x3121,_0x19ae80=this;(0x0,_0x15d39e['A'])(this,_0x35aa25),(0x0,_0x5402c5['A'])(this,_0x260103(0x14b),void 0x0),(0x0,_0x5402c5['A'])(this,_0x260103(0x160),void 0x0),(0x0,_0x5402c5['A'])(this,_0x260103(0x156),![]),(0x0,_0x5402c5['A'])(this,_0x260103(0x12b),![]),(0x0,_0x5402c5['A'])(this,_0x260103(0x19a),![]),(0x0,_0x5402c5['A'])(this,_0x260103(0x14c),![]),(0x0,_0x5402c5['A'])(this,_0x260103(0x179),(0x0,_0x172e6a['CreateElement'])('DIV',null,[_0x260103(0x1a1)])),(0x0,_0x5402c5['A'])(this,_0x260103(0x18f),(0x0,_0x172e6a[_0x260103(0x11f)])('UL',null,[_0x260103(0x13b)])),(0x0,_0x5402c5['A'])(this,_0x260103(0x168),(0x0,_0x172e6a[_0x260103(0x11f)])('LI',null,null,'Incluir\x20letras\x20(a..z)')),(0x0,_0x5402c5['A'])(this,_0x260103(0x180),(0x0,_0x172e6a[_0x260103(0x11f)])('LI',null,null,_0x260103(0x148))),(0x0,_0x5402c5['A'])(this,'Requisito3',(0x0,_0x172e6a[_0x260103(0x11f)])('LI',null,null,'Mínimo\x206\x20carácteres')),(0x0,_0x5402c5['A'])(this,_0x260103(0x1a3),(0x0,_0x172e6a[_0x260103(0x11f)])('LI',null,null,_0x260103(0x16b))),(0x0,_0x5402c5['A'])(this,_0x260103(0x18a),function(_0x3dbcdd,_0xccf16b){var _0xbcd297=_0x260103;_0x3dbcdd[_0xbcd297(0x191)][_0xbcd297(0x149)]['match'](/[A-z]/)?(_0x19ae80[_0xbcd297(0x156)]=!![],_0xccf16b['classList'][_0xbcd297(0x159)](_0xbcd297(0x16a)),_0xccf16b[_0xbcd297(0x15b)][_0xbcd297(0x143)]('cumple')):(_0x19ae80[_0xbcd297(0x156)]=![],_0xccf16b[_0xbcd297(0x15b)]['remove'](_0xbcd297(0x173)),_0xccf16b[_0xbcd297(0x15b)][_0xbcd297(0x143)]('no-cumple'));}),(0x0,_0x5402c5['A'])(this,_0x260103(0x14e),function(_0x1c0a13,_0x465f56){var _0x3b3269=_0x260103;_0x1c0a13[_0x3b3269(0x191)][_0x3b3269(0x149)][_0x3b3269(0x137)](/[0-9]/)?(_0x19ae80[_0x3b3269(0x12b)]=!![],_0x465f56[_0x3b3269(0x15b)][_0x3b3269(0x159)](_0x3b3269(0x16a)),_0x465f56[_0x3b3269(0x15b)]['add'](_0x3b3269(0x173))):(_0x19ae80[_0x3b3269(0x12b)]=![],_0x465f56[_0x3b3269(0x15b)]['remove'](_0x3b3269(0x173)),_0x465f56[_0x3b3269(0x15b)]['add'](_0x3b3269(0x16a)));}),(0x0,_0x5402c5['A'])(this,_0x260103(0x141),function(_0x3cfd41,_0x40a016){var _0x567dde=_0x260103;_0x3cfd41[_0x567dde(0x191)][_0x567dde(0x149)]['length']>=0x6?(_0x19ae80['CumpleLongitudMinima']=!![],_0x40a016['classList'][_0x567dde(0x159)](_0x567dde(0x16a)),_0x40a016['classList'][_0x567dde(0x143)](_0x567dde(0x173))):(_0x19ae80['CumpleLongitudMinima']=![],_0x40a016[_0x567dde(0x15b)][_0x567dde(0x159)](_0x567dde(0x173)),_0x40a016[_0x567dde(0x15b)][_0x567dde(0x143)]('no-cumple'));}),(0x0,_0x5402c5['A'])(this,_0x260103(0x184),function(_0xe82094,_0x5265e1){var _0x321ac7=_0x260103;_0xe82094[_0x321ac7(0x191)][_0x321ac7(0x149)][_0x321ac7(0x124)]<=0x14?(_0x19ae80['CumpleLongitudMaxima']=!![],_0x5265e1['classList'][_0x321ac7(0x159)](_0x321ac7(0x16a)),_0x5265e1[_0x321ac7(0x15b)]['add'](_0x321ac7(0x173))):(_0x19ae80[_0x321ac7(0x14c)]=![],_0x5265e1[_0x321ac7(0x15b)][_0x321ac7(0x159)]('cumple'),_0x5265e1[_0x321ac7(0x15b)][_0x321ac7(0x143)](_0x321ac7(0x16a)));}),this[_0x260103(0x14b)]=_0x16541b,this[_0x260103(0x160)]=_0x4a03ea,this[_0x260103(0x14b)][_0x260103(0x13d)](_0x260103(0x1a2),function(_0x2509ed){var _0xdc7c1a=_0x260103;_0x19ae80[_0xdc7c1a(0x142)](_0x2509ed),_0x19ae80[_0xdc7c1a(0x196)]();}),this[_0x260103(0x14b)][_0x260103(0x13d)](_0x260103(0x169),function(_0x4861bb){var _0x1ad48b=_0x260103;_0x19ae80[_0x1ad48b(0x142)](_0x4861bb),_0x19ae80['ComprobarBoton']();}),this['InputElement']['addEventListener'](_0x260103(0x174),function(_0x38431f){var _0x327800=_0x260103;document[_0x327800(0x11e)](_0x327800(0x163))&&_0x38431f[_0x327800(0x191)]['parentElement'][_0x327800(0x128)](document['querySelector'](_0x327800(0x163)));}),this['ValidatePassword']['insertAdjacentElement']('beforeend',(0x0,_0x172e6a[_0x260103(0x11f)])('P',null,[_0x260103(0x144)],_0x260103(0x198))),this[_0x260103(0x18f)][_0x260103(0x187)](_0x260103(0x140),this[_0x260103(0x168)]),this[_0x260103(0x18f)]['insertAdjacentElement'](_0x260103(0x140),this[_0x260103(0x180)]),this[_0x260103(0x18f)]['insertAdjacentElement'](_0x260103(0x140),this[_0x260103(0x123)]),this[_0x260103(0x18f)][_0x260103(0x187)](_0x260103(0x140),this[_0x260103(0x1a3)]),this[_0x260103(0x179)][_0x260103(0x187)](_0x260103(0x140),this[_0x260103(0x18f)]);}return(0x0,_0x6b0f7c['A'])(_0x35aa25,[{'key':'ValidarPassword','value':function _0x1f81c5(_0x1073f9){var _0x126237=a34_0x3121;!document['querySelector'](_0x126237(0x163))&&_0x1073f9['target']['parentElement']['insertAdjacentElement'](_0x126237(0x140),this[_0x126237(0x179)]),_0x1073f9[_0x126237(0x191)]['value'][_0x126237(0x124)]==0x0&&_0x1073f9[_0x126237(0x191)][_0x126237(0x139)][_0x126237(0x128)](document[_0x126237(0x11e)]('.validate-password')),this[_0x126237(0x18a)](_0x1073f9,this['Requisito1']),this[_0x126237(0x14e)](_0x1073f9,this[_0x126237(0x180)]),this[_0x126237(0x141)](_0x1073f9,this['Requisito3']),this['ValidarLongitudMaxima'](_0x1073f9,this[_0x126237(0x1a3)]);}},{'key':_0x595af4(0x196),'value':function _0x2b5960(){var _0x4accd5=_0x595af4;this['CumpleUnaLetra']&&this[_0x4accd5(0x12b)]&&this[_0x4accd5(0x19a)]&&this[_0x4accd5(0x14c)]?this['BotonAccion'][_0x4accd5(0x15b)]['replace'](_0x4accd5(0x12e),_0x4accd5(0x183)):this[_0x4accd5(0x160)]['classList'][_0x4accd5(0x190)](_0x4accd5(0x183),_0x4accd5(0x12e));}}]);}()),_0xe9a9ed=function(_0xa2b9ed){var _0x9acb8b=a34_0x3121;function _0x5e2497(_0x3c01ed,_0x34f5de,_0x1ca531){var _0x26b5fa=a34_0x3121,_0x244ed7;return(0x0,_0x15d39e['A'])(this,_0x5e2497),_0x244ed7=_0x2ee672(this,_0x5e2497,[_0x3c01ed,_0x1ca531]),(0x0,_0x5402c5['A'])(_0x244ed7,_0x26b5fa(0x177),void 0x0),(0x0,_0x5402c5['A'])(_0x244ed7,'ComparePasswordsDiv',(0x0,_0x172e6a[_0x26b5fa(0x11f)])('DIV',null,[_0x26b5fa(0x15a)])),(0x0,_0x5402c5['A'])(_0x244ed7,_0x26b5fa(0x133),![]),_0x244ed7[_0x26b5fa(0x177)]=_0x34f5de,_0x244ed7[_0x26b5fa(0x177)]['addEventListener']('focus',function(_0x142f9d){var _0x1b0247=_0x26b5fa;_0x244ed7['CompararPasswords'](),_0x244ed7[_0x1b0247(0x196)]();}),_0x244ed7[_0x26b5fa(0x177)][_0x26b5fa(0x13d)](_0x26b5fa(0x169),function(_0x40b67d){var _0x44a13e=_0x26b5fa;_0x244ed7['CompararPasswords'](),_0x244ed7[_0x44a13e(0x196)]();}),_0x244ed7['SegundoInputElement']['addEventListener'](_0x26b5fa(0x174),function(_0x1d5626){var _0x4238bd=_0x26b5fa;document[_0x4238bd(0x11e)](_0x4238bd(0x186))&&_0x1d5626[_0x4238bd(0x191)][_0x4238bd(0x139)][_0x4238bd(0x128)](document[_0x4238bd(0x11e)](_0x4238bd(0x186)));}),_0x244ed7[_0x26b5fa(0x1a4)][_0x26b5fa(0x187)](_0x26b5fa(0x140),(0x0,_0x172e6a[_0x26b5fa(0x11f)])('P',null,[_0x26b5fa(0x167)],_0x26b5fa(0x17f))),_0x244ed7;}return(0x0,_0x2a30c8['A'])(_0x5e2497,_0xa2b9ed),(0x0,_0x6b0f7c['A'])(_0x5e2497,[{'key':_0x9acb8b(0x196),'value':function _0x3e577f(){var _0x317cc9=_0x9acb8b;this[_0x317cc9(0x156)]&&this[_0x317cc9(0x12b)]&&this[_0x317cc9(0x19a)]&&this[_0x317cc9(0x14c)]&&this[_0x317cc9(0x133)]?this['BotonAccion'][_0x317cc9(0x15b)][_0x317cc9(0x190)](_0x317cc9(0x12e),_0x317cc9(0x183)):this['BotonAccion'][_0x317cc9(0x15b)][_0x317cc9(0x190)]('modal-button--enabled',_0x317cc9(0x12e));}},{'key':_0x9acb8b(0x182),'value':function _0x401244(){var _0x5771af=_0x9acb8b;this[_0x5771af(0x14b)][_0x5771af(0x149)]==this['SegundoInputElement'][_0x5771af(0x149)]?(this['SamePasswords']=!![],document[_0x5771af(0x11e)]('.compare-passwords')&&this[_0x5771af(0x177)][_0x5771af(0x139)][_0x5771af(0x128)](document[_0x5771af(0x11e)](_0x5771af(0x186)))):(this[_0x5771af(0x133)]=![],!document[_0x5771af(0x11e)]('.compare-passwords')&&this[_0x5771af(0x177)][_0x5771af(0x139)][_0x5771af(0x187)](_0x5771af(0x140),this[_0x5771af(0x1a4)]),this['SegundoInputElement'][_0x5771af(0x149)][_0x5771af(0x124)]==0x0&&this[_0x5771af(0x177)][_0x5771af(0x139)]['removeChild'](document['querySelector'](_0x5771af(0x186))));}}]);}(_0x1528a9);}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[2025,5923],{
+
+/***/ 2025:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(467);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4756);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2407);
+/* harmony import */ var _utils_ValidarPassword__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5923);
+/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7425);
+
+
+
+
+
+
+(0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee() {
+  var token, main, data;
+  return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
+    while (1) switch (_context.prev = _context.next) {
+      case 0:
+        token = new URLSearchParams(window.location.search).get('token');
+        main = document.getElementById('main');
+        if (!token) {
+          _context.next = 9;
+          break;
+        }
+        _context.next = 5;
+        return ValidarToken(token);
+      case 5:
+        data = _context.sent;
+        if (data.result_code == 0) {
+          CrearFormularioNuevaContraseña(main);
+        } else {
+          TokenInvalido(main, data.message);
+        }
+        _context.next = 10;
+        break;
+      case 9:
+        TokenInvalido(main, 'Token expired');
+      case 10:
+      case "end":
+        return _context.stop();
+    }
+  }, _callee);
+}))();
+function TokenInvalido(contenedor, message) {
+  contenedor.style.alignItems = 'start';
+  contenedor.innerHTML = "<div class=\"chagePass_token-invalido\"> <span>".concat(message, "</span> </div>");
+}
+function ValidarToken(_x) {
+  return _ValidarToken.apply(this, arguments);
+}
+function _ValidarToken() {
+  _ValidarToken = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee2(Token) {
+    var MetodoREST, body, NombreProceso, resultado;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee2$(_context2) {
+      while (1) switch (_context2.prev = _context2.next) {
+        case 0:
+          MetodoREST = '';
+          body = {
+            Token: Token
+          };
+          NombreProceso = ''; //const {resultado} = await PostData(MetodoREST, body, NombreProceso);
+          resultado = {
+            result_code: 0,
+            message: 'Token expired'
+          };
+          return _context2.abrupt("return", resultado);
+        case 5:
+        case "end":
+          return _context2.stop();
+      }
+    }, _callee2);
+  }));
+  return _ValidarToken.apply(this, arguments);
+}
+function CrearFormularioNuevaContraseña(Contenedor) {
+  var dialogo = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('SECTION', 'dialogo', ['dialogo']);
+  var ContenedorCambiarPassword = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('SECTION', 'ContenedorCambiarPassword', ['c-cambiar-password', 'editar-registro']);
+  ContenedorCambiarPassword.style.height = '18rem';
+
+  // Titulo de encabezado
+  var Titulo = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('SPAN', null, null, 'Cambiar Password');
+  Titulo.style.textAlign = 'center';
+  Titulo.style.fontSize = '1.25rem';
+
+  // Form
+  var ResetPassword = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('FORM', null, ['reset-password']);
+
+  // Nuevo Password
+  var NewPasswordDiv = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', null, ['new-password']);
+  var NewPasswordLabel = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.labelElement)('NewPassword', 'Nueva contraseña');
+  var NewPassword = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.inputElement)('password', 'NewPassword');
+  var NewPasswordCheckDiv = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', null, ['new-password']);
+  var NewPasswordCheckLabel = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.labelElement)('NewPasswordCheck', 'Confirmar contraseña');
+  var NewPasswordCheck = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.inputElement)('password', 'NewPasswordCheck');
+
+  // Contenedor de botones
+  var ContenedorBotones = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', 'c-Botones', ['cont_botones_3']);
+  ContenedorBotones.style.justifyContent = 'flex-end';
+  ContenedorBotones.style.marginTop = '0.5rem';
+
+  // Botón Cambiar
+  var BotonCambiar = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('BUTTON', null, ['modal-button', 'modal-button--disabled', 'modal-button--text'], 'Cambiar');
+  ContenedorBotones.insertAdjacentElement('beforeend', BotonCambiar);
+  BotonCambiar.addEventListener('click', function () {
+    ClickCambiarPassword(BotonCambiar);
+  });
+  new _utils_ValidarPassword__WEBPACK_IMPORTED_MODULE_4__.CompararValidarPasswords(NewPassword, NewPasswordCheck, BotonCambiar);
+
+  // Nuevo Password
+  NewPasswordDiv.insertAdjacentElement('beforeend', NewPasswordLabel);
+  NewPasswordDiv.insertAdjacentElement('beforeend', NewPassword);
+  NewPasswordCheckDiv.insertAdjacentElement('beforeend', NewPasswordCheckLabel);
+  NewPasswordCheckDiv.insertAdjacentElement('beforeend', NewPasswordCheck);
+  ResetPassword.insertAdjacentElement('beforeend', NewPasswordDiv);
+  ResetPassword.insertAdjacentElement('beforeend', NewPasswordCheckDiv);
+  var ShowNewPassword = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('IMG', null, ['show-password'], null, null, null, null, '../../img/show-password.svg', null, null, null, 'Mostrar');
+
+  // ---
+  NewPasswordLabel.insertAdjacentElement('afterend', ShowNewPassword);
+
+  // ---
+  var ShowOrHiddenPassword = function ShowOrHiddenPassword(event) {
+    if (event.target.nextElementSibling.type == 'password') {
+      event.target.nextElementSibling.type = 'text';
+      event.target.nextElementSibling.focus();
+      event.target.src = '../../img/hidden-password.svg';
+      event.target.title = 'Ocultar';
+    } else {
+      event.target.nextElementSibling.type = 'password';
+      event.target.nextElementSibling.focus();
+      event.target.src = '../../img/show-password.svg';
+      event.target.title = 'Mostrar';
+    }
+  };
+
+  // ---
+  ShowNewPassword.addEventListener('click', function (event) {
+    ShowOrHiddenPassword(event);
+  });
+
+  // Contenedor
+  ContenedorCambiarPassword.insertAdjacentElement('beforeend', Titulo);
+  ContenedorCambiarPassword.insertAdjacentElement('beforeend', ResetPassword);
+  ContenedorCambiarPassword.insertAdjacentElement('beforeend', ContenedorBotones);
+  dialogo.insertAdjacentElement('beforeend', ContenedorCambiarPassword);
+  Contenedor.insertAdjacentElement('beforeend', dialogo);
+}
+function ClickCambiarPassword(BotonCambiar) {
+  if (!BotonCambiar.classList.contains('modal-button--disabled')) {
+    console.log('Click en cambiar password');
+  }
+}
+
+/***/ }),
+
+/***/ 5923:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CompararValidarPasswords: () => (/* binding */ CompararValidarPasswords),
+/* harmony export */   ValidarPassword: () => (/* binding */ ValidarPassword)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6822);
+/* harmony import */ var _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3954);
+/* harmony import */ var _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(5361);
+/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3029);
+/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2901);
+/* harmony import */ var _babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4467);
+/* harmony import */ var _elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2407);
+
+
+
+
+
+
+function _callSuper(t, o, e) { return o = (0,_babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(o), (0,_babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)(t, _isNativeReflectConstruct() ? Reflect.construct(o, e || [], (0,_babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(t).constructor) : o.apply(t, e)); }
+function _isNativeReflectConstruct() { try { var t = !Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); } catch (t) {} return (_isNativeReflectConstruct = function _isNativeReflectConstruct() { return !!t; })(); }
+
+var ValidarPassword = /*#__PURE__*/function () {
+  function ValidarPassword(InputElement, BotonAccion) {
+    var _this = this;
+    (0,_babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)(this, ValidarPassword);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "InputElement", void 0);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "BotonAccion", void 0);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "CumpleUnaLetra", false);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "CumpleUnDigito", false);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "CumpleLongitudMinima", false);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "CumpleLongitudMaxima", false);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "ValidatePassword", (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__.CreateElement)('DIV', null, ['validate-password']));
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "ListaRequisitos", (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__.CreateElement)('UL', null, ['requirements-list']));
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "Requisito1", (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__.CreateElement)('LI', null, null, 'Incluir letras (a..z)'));
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "Requisito2", (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__.CreateElement)('LI', null, null, 'Incluir dígitos (0..9)'));
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "Requisito3", (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__.CreateElement)('LI', null, null, 'Mínimo 6 carácteres'));
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "Requisito4", (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__.CreateElement)('LI', null, null, 'Máximo 20 carácteres'));
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "ValidarUnaLetra", function (event, Requisito) {
+      if (event.target.value.match(/[A-z]/)) {
+        _this.CumpleUnaLetra = true;
+        Requisito.classList.remove('no-cumple');
+        Requisito.classList.add('cumple');
+      } else {
+        _this.CumpleUnaLetra = false;
+        Requisito.classList.remove('cumple');
+        Requisito.classList.add('no-cumple');
+      }
+    });
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "ValidarUnDigito", function (event, Requisito) {
+      if (event.target.value.match(/[0-9]/)) {
+        _this.CumpleUnDigito = true;
+        Requisito.classList.remove('no-cumple');
+        Requisito.classList.add('cumple');
+      } else {
+        _this.CumpleUnDigito = false;
+        Requisito.classList.remove('cumple');
+        Requisito.classList.add('no-cumple');
+      }
+    });
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "ValidarLongitudMinima", function (event, Requisito) {
+      if (event.target.value.length >= 6) {
+        _this.CumpleLongitudMinima = true;
+        Requisito.classList.remove('no-cumple');
+        Requisito.classList.add('cumple');
+      } else {
+        _this.CumpleLongitudMinima = false;
+        Requisito.classList.remove('cumple');
+        Requisito.classList.add('no-cumple');
+      }
+    });
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(this, "ValidarLongitudMaxima", function (event, Requisito) {
+      if (event.target.value.length <= 20) {
+        _this.CumpleLongitudMaxima = true;
+        Requisito.classList.remove('no-cumple');
+        Requisito.classList.add('cumple');
+      } else {
+        _this.CumpleLongitudMaxima = false;
+        Requisito.classList.remove('cumple');
+        Requisito.classList.add('no-cumple');
+      }
+    });
+    this.InputElement = InputElement;
+    this.BotonAccion = BotonAccion;
+    this.InputElement.addEventListener('focus', function (event) {
+      _this.ValidarPassword(event);
+      _this.ComprobarBoton();
+    });
+    this.InputElement.addEventListener('keyup', function (event) {
+      _this.ValidarPassword(event);
+      _this.ComprobarBoton();
+    });
+    this.InputElement.addEventListener('blur', function (event) {
+      if (document.querySelector('.validate-password')) {
+        event.target.parentElement.removeChild(document.querySelector('.validate-password'));
+      }
+    });
+    this.ValidatePassword.insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__.CreateElement)('P', null, ['validate-password__encabezado'], 'Requisitos del password:'));
+    this.ListaRequisitos.insertAdjacentElement('beforeend', this.Requisito1);
+    this.ListaRequisitos.insertAdjacentElement('beforeend', this.Requisito2);
+    this.ListaRequisitos.insertAdjacentElement('beforeend', this.Requisito3);
+    this.ListaRequisitos.insertAdjacentElement('beforeend', this.Requisito4);
+    this.ValidatePassword.insertAdjacentElement('beforeend', this.ListaRequisitos);
+  }
+  return (0,_babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A)(ValidarPassword, [{
+    key: "ValidarPassword",
+    value: function ValidarPassword(event) {
+      if (!document.querySelector('.validate-password')) {
+        event.target.parentElement.insertAdjacentElement('beforeend', this.ValidatePassword);
+      }
+      if (event.target.value.length == 0) {
+        event.target.parentElement.removeChild(document.querySelector('.validate-password'));
+      }
+      this.ValidarUnaLetra(event, this.Requisito1);
+      this.ValidarUnDigito(event, this.Requisito2);
+      this.ValidarLongitudMinima(event, this.Requisito3);
+      this.ValidarLongitudMaxima(event, this.Requisito4);
+    }
+  }, {
+    key: "ComprobarBoton",
+    value: function ComprobarBoton() {
+      if (this.CumpleUnaLetra && this.CumpleUnDigito && this.CumpleLongitudMinima && this.CumpleLongitudMaxima) {
+        this.BotonAccion.classList.replace('modal-button--disabled', 'modal-button--enabled');
+      } else {
+        this.BotonAccion.classList.replace('modal-button--enabled', 'modal-button--disabled');
+      }
+    }
+  }]);
+}();
+var CompararValidarPasswords = /*#__PURE__*/function (_ValidarPassword2) {
+  function CompararValidarPasswords(PrimerInputElement, SegundoInputElement, BotonAccion) {
+    var _this2;
+    (0,_babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)(this, CompararValidarPasswords);
+    _this2 = _callSuper(this, CompararValidarPasswords, [PrimerInputElement, BotonAccion]);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(_this2, "SegundoInputElement", void 0);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(_this2, "ComparePasswordsDiv", (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__.CreateElement)('DIV', null, ['compare-passwords']));
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(_this2, "SamePasswords", false);
+    _this2.SegundoInputElement = SegundoInputElement;
+    _this2.SegundoInputElement.addEventListener('focus', function (event) {
+      _this2.CompararPasswords();
+      _this2.ComprobarBoton();
+    });
+    _this2.SegundoInputElement.addEventListener('keyup', function (event) {
+      _this2.CompararPasswords();
+      _this2.ComprobarBoton();
+    });
+    _this2.SegundoInputElement.addEventListener('blur', function (event) {
+      if (document.querySelector('.compare-passwords')) {
+        event.target.parentElement.removeChild(document.querySelector('.compare-passwords'));
+      }
+    });
+    _this2.ComparePasswordsDiv.insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_4__.CreateElement)('P', null, ['compare-passwords__encabezado'], 'Las contraseñas no coinciden'));
+    return _this2;
+  }
+  (0,_babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .A)(CompararValidarPasswords, _ValidarPassword2);
+  return (0,_babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A)(CompararValidarPasswords, [{
+    key: "ComprobarBoton",
+    value: function ComprobarBoton() {
+      if (this.CumpleUnaLetra && this.CumpleUnDigito && this.CumpleLongitudMinima && this.CumpleLongitudMaxima && this.SamePasswords) {
+        this.BotonAccion.classList.replace('modal-button--disabled', 'modal-button--enabled');
+      } else {
+        this.BotonAccion.classList.replace('modal-button--enabled', 'modal-button--disabled');
+      }
+    }
+  }, {
+    key: "CompararPasswords",
+    value: function CompararPasswords() {
+      if (this.InputElement.value == this.SegundoInputElement.value) {
+        this.SamePasswords = true;
+        if (document.querySelector('.compare-passwords')) {
+          this.SegundoInputElement.parentElement.removeChild(document.querySelector('.compare-passwords'));
+        }
+      } else {
+        this.SamePasswords = false;
+        if (!document.querySelector('.compare-passwords')) {
+          this.SegundoInputElement.parentElement.insertAdjacentElement('beforeend', this.ComparePasswordsDiv);
+        }
+        if (this.SegundoInputElement.value.length == 0) {
+          this.SegundoInputElement.parentElement.removeChild(document.querySelector('.compare-passwords'));
+        }
+      }
+    }
+  }]);
+}(ValidarPassword);
+
+/***/ })
+
+}]);

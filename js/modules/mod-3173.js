@@ -1,1 +1,46 @@
-'use strict';var a28_0xf7fcc0=a28_0x46c0;(function(_0x2747ed,_0x7d690f){var _0x1f08a9=a28_0x46c0,_0x248735=_0x2747ed();while(!![]){try{var _0x21471b=-parseInt(_0x1f08a9(0x77))/0x1*(-parseInt(_0x1f08a9(0x7c))/0x2)+parseInt(_0x1f08a9(0x7a))/0x3*(-parseInt(_0x1f08a9(0x88))/0x4)+-parseInt(_0x1f08a9(0x83))/0x5*(parseInt(_0x1f08a9(0x78))/0x6)+parseInt(_0x1f08a9(0x74))/0x7+-parseInt(_0x1f08a9(0x7f))/0x8+parseInt(_0x1f08a9(0x7d))/0x9*(-parseInt(_0x1f08a9(0x8b))/0xa)+parseInt(_0x1f08a9(0x85))/0xb;if(_0x21471b===_0x7d690f)break;else _0x248735['push'](_0x248735['shift']());}catch(_0x2fbcae){_0x248735['push'](_0x248735['shift']());}}}(a28_0x5dc6,0x1ebe7));function a28_0x5dc6(){var _0x36f1c2=['274530TjAIJk','MostrarDialogo','1305pdRoMm','push','1902IwBmHu','9XAkUaJ','webpackChunkkiux','501080aTeSEx','next','apply','end','10vxGsdQ','GetData','3518240CiXFJw','return','¿Cuál\x20es\x20su\x20elección?\x20\x22','1952OEJSgL','getopcionesdialogo','wrap','1309010WdftIv','prev','1491476zPzcle','stop','concat','95aGWkyW'];a28_0x5dc6=function(){return _0x36f1c2;};return a28_0x5dc6();}function a28_0x46c0(_0x1c3d0e,_0x37babb){var _0x5dc636=a28_0x5dc6();return a28_0x46c0=function(_0x46c0b6,_0x189263){_0x46c0b6=_0x46c0b6-0x73;var _0x3b2683=_0x5dc636[_0x46c0b6];return _0x3b2683;},a28_0x46c0(_0x1c3d0e,_0x37babb);}(self[a28_0xf7fcc0(0x7e)]=self[a28_0xf7fcc0(0x7e)]||[])[a28_0xf7fcc0(0x7b)]([[0xc65],{0xc65:(_0x20dc1c,_0x4d7ad0,_0x4a53e2)=>{_0x4a53e2['r'](_0x4d7ad0),_0x4a53e2['d'](_0x4d7ad0,{'MostrarDialogo':()=>_0x4ff180});var _0x54bcb9=_0x4a53e2(0x1d3),_0x193a4a=_0x4a53e2(0x1294),_0x257269=_0x4a53e2['n'](_0x193a4a),_0x500fd7=_0x4a53e2(0x1d01);function _0x4ff180(_0x4b85ed){var _0x253844=a28_0x46c0;return _0x392208[_0x253844(0x81)](this,arguments);}function _0x392208(){var _0x490d5c=a28_0x46c0;return _0x392208=(0x0,_0x54bcb9['A'])(_0x257269()['mark'](function _0x143084(_0x114713){var _0x4f1604=a28_0x46c0,_0x358677,_0x2f9bfc,_0x76a8a4;return _0x257269()[_0x4f1604(0x8a)](function _0x177387(_0x51a97d){var _0xbcc285=_0x4f1604;while(0x1)switch(_0x51a97d[_0xbcc285(0x73)]=_0x51a97d['next']){case 0x0:_0x51a97d[_0xbcc285(0x80)]=0x2;return(0x0,_0x500fd7[_0xbcc285(0x84)])(_0xbcc285(0x89),_0x114713,_0xbcc285(0x79));case 0x2:_0x358677=_0x51a97d['sent'],_0x2f9bfc=_0x358677['opcion_dlg_grupos'],console['log'](_0x2f9bfc),_0x76a8a4=prompt(_0xbcc285(0x87)[_0xbcc285(0x76)](_0x114713,'\x22'));return _0x51a97d['abrupt'](_0xbcc285(0x86),_0x76a8a4);case 0x7:case _0xbcc285(0x82):return _0x51a97d[_0xbcc285(0x75)]();}},_0x143084);})),_0x392208[_0x490d5c(0x81)](this,arguments);}}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[3173],{
+
+/***/ 3173:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   MostrarDialogo: () => (/* binding */ MostrarDialogo)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(467);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4756);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7425);
+
+
+
+function MostrarDialogo(_x) {
+  return _MostrarDialogo.apply(this, arguments);
+}
+function _MostrarDialogo() {
+  _MostrarDialogo = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee(Dialogo) {
+    var _yield$GetData, opcion_dlg_grupos, Opcion;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
+      while (1) switch (_context.prev = _context.next) {
+        case 0:
+          _context.next = 2;
+          return (0,_api__WEBPACK_IMPORTED_MODULE_1__.GetData)('getopcionesdialogo', Dialogo, 'MostrarDialogo');
+        case 2:
+          _yield$GetData = _context.sent;
+          opcion_dlg_grupos = _yield$GetData.opcion_dlg_grupos;
+          console.log(opcion_dlg_grupos);
+          Opcion = prompt("\xBFCu\xE1l es su elecci\xF3n? \"".concat(Dialogo, "\""));
+          return _context.abrupt("return", Opcion);
+        case 7:
+        case "end":
+          return _context.stop();
+      }
+    }, _callee);
+  }));
+  return _MostrarDialogo.apply(this, arguments);
+}
+
+/***/ })
+
+}]);

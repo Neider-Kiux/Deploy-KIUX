@@ -1,1 +1,382 @@
-'use strict';function a46_0x173b(_0x311c22,_0x6b155d){var _0x517bb7=a46_0x517b();return a46_0x173b=function(_0x173b7e,_0x2f6ec8){_0x173b7e=_0x173b7e-0xd6;var _0x44cbe9=_0x517bb7[_0x173b7e];return _0x44cbe9;},a46_0x173b(_0x311c22,_0x6b155d);}function a46_0x517b(){var _0x4a58a1=['createTextNode','3zvuylv','Proyecto','forEach','control','remove','data-value','DescripcionHistorial','editar-registro__nombre-proyecto','false','inputElement','Cliente','bind','fechaFinal','true','createElement','.c_slider','seleccionClase','nombre_opcion','preconcepto','innerHTML','Periodos\x20sugeridos','modal-button--full','periodo','item','concat','length','modal-button--default','apply','result_message','catch','CerrarSesion','MostrarMensajeError','<svg\x20viewbox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22./img/sprite.svg#btn-toggle-clases\x22></use></svg>','lista_opciones','DatosBusqueda','contador','4427415ogIGUV','-disabled.svg','cliente','32xAAHBv','selectImagen','16017057OlFsha','mousedown','control__imagenToggle','DIV','DlgSeleccion','next','7587816WwCOWo','value','ClaseBusqueda','keydown','checkbox','setAttribute','getdatosbuscar/','\x20-\x20','ColorRGB','target','selectDate','id_opcion','nombre_lista','wrap','main','beforeend','nombre_proyecto','fechaInicial','appendChild','datepickerOptions','#fechaFinal','mark','new_token','getElementById','TEXT','stop','insertAdjacentElement','Buscar','Token','addEventListener','seleccionPeriodo','display','c-Botones','CheckboxClase-','controlClase','/img/','CreateElement','yyyy-MM-dd','change','checked','result_code','dato','SECTION','getElementsByClassName','Selector','setItem','webpackChunkkiux','7145538mjRQuZ','CustomFetch','getItem','add','modal-button--imageBuscar','ancho--default','selectedIndex','SeleccionarProyecto','border-style--default','classList','contenedorCliente','contenedorCheckbox-','observe','CheckboxClase','modal-button','resolve','2614rBnHML','ContenedorClase','children','dialogo','imagenClase','SPAN','optionElement','then','19311660vUQocP','\x0aProceso:\x20GetDatosBusqueda\x0aSe\x20cerrará\x20la\x20sesión.','getAttribute','fecha_final','click','SELECT','c-ancho-completo','toISOString','.svg','periodo_opciones','sent','prev','85sVOUyq','src','slice','ocultar-scroll','background','779751GnRLFm','querySelector','modal-button--disabled','toLowerCase','dataset','log','codigo','style','controlPeriodo','fecha_inicial','end','text-rigth'];a46_0x517b=function(){return _0x4a58a1;};return a46_0x517b();}var a46_0x569b27=a46_0x173b;(function(_0x445040,_0x57f673){var _0x1acdc2=a46_0x173b,_0x4acf1d=_0x445040();while(!![]){try{var _0x5796c8=parseInt(_0x1acdc2(0x100))/0x1*(-parseInt(_0x1acdc2(0xec))/0x2)+-parseInt(_0x1acdc2(0x112))/0x3*(parseInt(_0x1acdc2(0x141))/0x4)+parseInt(_0x1acdc2(0x136))/0x5+-parseInt(_0x1acdc2(0xdc))/0x6+parseInt(_0x1acdc2(0x105))/0x7*(-parseInt(_0x1acdc2(0x139))/0x8)+parseInt(_0x1acdc2(0x13b))/0x9+parseInt(_0x1acdc2(0xf4))/0xa;if(_0x5796c8===_0x57f673)break;else _0x4acf1d['push'](_0x4acf1d['shift']());}catch(_0x1add59){_0x4acf1d['push'](_0x4acf1d['shift']());}}}(a46_0x517b,0xe85e2));(self[a46_0x569b27(0xdb)]=self['webpackChunkkiux']||[])['push']([[0xd90,0x1bfc],{0x443:(_0x394c86,_0x5b370f,_0x32dffd)=>{_0x32dffd['r'](_0x5b370f),_0x32dffd['d'](_0x5b370f,{'CerrarVentana':()=>_0x83aa1f,'CerrarVentanaEsc':()=>_0x255b1c,'GetDatosBusqueda':()=>_0x2e1941});var _0x45b2f1=_0x32dffd(0x1d3),_0x30e360=_0x32dffd(0x1294),_0x14b6be=_0x32dffd['n'](_0x30e360),_0x258720=_0x32dffd(0xd8),_0x6cf30f=_0x32dffd(0x967),_0x33ccec=_0x32dffd(0x171c),_0x2e5a7e=_0x32dffd(0x21d6),_0x448be9=_0x32dffd(0x886),_0x422b75=_0x32dffd(0x1d01),_0x5d9d63=_0x32dffd(0x1c9f),_0x4ba955=_0x32dffd(0x16cc),_0x5e4885=_0x32dffd(0x20bc),_0x226ebe=_0x32dffd(0x1d09);function _0x83aa1f(_0x31f8d5){var _0x40350d=a46_0x173b;_0x31f8d5[_0x40350d(0x14a)]['id']==_0x40350d(0x104)&&document[_0x40350d(0x158)](_0x40350d(0x134))&&(!document[_0x40350d(0x158)](_0x40350d(0x13f))&&(document[_0x40350d(0x158)](_0x40350d(0x104))[_0x40350d(0x116)](),document[_0x40350d(0x158)](_0x40350d(0x14f))[_0x40350d(0xe5)][_0x40350d(0x116)](_0x40350d(0x103))));}function _0x255b1c(_0x2b732f){var _0x219abb=a46_0x173b;_0x2b732f['keyCode']==0x1b&&((document['getElementById'](_0x219abb(0x104))!=null||document[_0x219abb(0x158)]('background')!=undefined)&&(document['getElementById'](_0x219abb(0x104))['remove'](),document[_0x219abb(0x158)](_0x219abb(0x14f))['classList'][_0x219abb(0x116)](_0x219abb(0x103))));}function _0x2e1941(_0x3e00c0,_0x54fff8,_0x48d9a9,_0x51d547,_0x5f5952,_0x1948dd,_0x37eac6){var _0x55b240=a46_0x173b;return _0x565d56[_0x55b240(0x12d)](this,arguments);}function _0x565d56(){var _0x248169=a46_0x173b;return _0x565d56=(0x0,_0x45b2f1['A'])(_0x14b6be()[_0x248169(0x156)](function _0x15efd3(_0x162d39,_0x1ef1dc,_0x4ff147,_0x7be03f,_0x42626d,_0x1f4edd,_0x51f5c1){var _0x28aa59,_0x489429,_0x3cbe56,_0x5ea9ed;return _0x14b6be()['wrap'](function _0x5c31c5(_0x34319b){var _0xfa0850=a46_0x173b;while(0x1)switch(_0x34319b[_0xfa0850(0xff)]=_0x34319b[_0xfa0850(0x140)]){case 0x0:_0x28aa59=(0x0,_0x6cf30f[_0xfa0850(0x165)])(_0xfa0850(0xd7),_0xfa0850(0x104),[_0xfa0850(0x104)]),_0x489429=(0x0,_0x6cf30f['CreateElement'])('SECTION',_0xfa0850(0xef),[_0xfa0850(0xef)]),_0x3cbe56=(0x0,_0x6cf30f[_0xfa0850(0x165)])(_0xfa0850(0x13e),_0xfa0850(0x134),[_0xfa0850(0x124)]),_0x5ea9ed=_0xfa0850(0x147)['concat'](localStorage[_0xfa0850(0xde)](_0xfa0850(0x15d)),'/')[_0xfa0850(0x12a)](_0x51f5c1),(0x0,_0x422b75[_0xfa0850(0xdd)])(_0x5ea9ed)[_0xfa0850(0xf3)](function(_0xafb044){var _0x367418=_0xfa0850;if(_0xafb044[_0x367418(0x169)]==0x0){var _0x12ac86=function _0x266228(_0x1aa042){var _0x42a792=_0x367418,_0x64a49b,_0x416c44=_0x367325['dataset'][_0x42a792(0x10b)],_0x48d4cb=_0x1c9408['selectedDates'][0x0][_0x42a792(0xfb)]()[_0x42a792(0x102)](0x0,0xa),_0x27a7e2=_0xf017cc['selectedDates'][0x0]['toISOString']()[_0x42a792(0x102)](0x0,0xa);if(_0x416c44==0x0)_0x64a49b=0x33;else _0x416c44>0x0&&_0xc13477[_0x42a792(0x168)]?_0x64a49b=0x35:_0x64a49b=0x34;document[_0x42a792(0x158)](_0x42a792(0x14f))['classList'][_0x42a792(0x116)](_0x42a792(0x103)),_0x28aa59[_0x42a792(0x116)](),_0x1f4edd(_0x64a49b,_0x416c44,_0x48d4cb,_0x27a7e2,_0x4fde27);document[_0x42a792(0x106)](_0x42a792(0x121))&&(document['querySelector'](_0x42a792(0x121))[_0x42a792(0x10c)][_0x42a792(0x160)]='none');if(document[_0x42a792(0x158)](_0x42a792(0x118)))document[_0x42a792(0x158)](_0x42a792(0x118))[_0x42a792(0x125)]=_0x48d4cb+_0x42a792(0x148)+_0x27a7e2;},_0x3d1207=function _0x2066b3(_0x2792c0){var _0xba32e1=_0x367418;if(!_0x2792c0[_0xba32e1(0xe5)]['contains'](_0xba32e1(0x12c))){_0x2792c0['classList']['remove'](_0xba32e1(0x107)),_0x2792c0[_0xba32e1(0xe5)]['add']('modal-button--default'),_0x2792c0[_0xba32e1(0xee)][0x0][_0xba32e1(0x101)]=_0xba32e1(0x164)[_0xba32e1(0x12a)](_0x2792c0['id'][_0xba32e1(0x108)](),_0xba32e1(0xfc));if(_0x2792c0['id']=='Buscar')_0x2792c0[_0xba32e1(0x15e)]('click',_0x3948a5);}},_0x1f9916=function _0x4f7880(_0x21a4e4){var _0x47f34f=_0x367418;if(!_0x21a4e4[_0x47f34f(0xe5)]['contains'](_0x47f34f(0x107))){_0x21a4e4[_0x47f34f(0xe5)][_0x47f34f(0x116)](_0x47f34f(0x12c)),_0x21a4e4[_0x47f34f(0xe5)][_0x47f34f(0xdf)](_0x47f34f(0x107)),_0x21a4e4['children'][0x0][_0x47f34f(0x101)]=_0x47f34f(0x164)[_0x47f34f(0x12a)](_0x21a4e4['id']['toLowerCase'](),_0x47f34f(0x137));if(_0x21a4e4['id']==_0x47f34f(0x15c))_0x21a4e4['removeEventListener'](_0x47f34f(0xf8),_0x3948a5);}},_0x3446bd=function _0xf04935(){var _0x58583b=_0x367418;_0x4fde27='';var _0x2b0939=document[_0x58583b(0xd8)](_0x58583b(0xe9));for(var _0x23210b=0x0;_0x23210b<_0x2b0939[_0x58583b(0x12b)];_0x23210b++){if(_0x2b0939[_0x58583b(0x129)](_0x23210b)[_0x58583b(0x168)])_0x4fde27+=_0x2b0939[_0x58583b(0x129)](_0x23210b)[_0x58583b(0xf6)](_0x58583b(0xd6));}if(_0x4fde27[_0x58583b(0x12b)]>0x0)_0x3d1207(_0x464b49);else _0x1f9916(_0x464b49);},_0x4006dd=function _0x2652a3(){var _0x3b6d6a=_0x367418,_0x4cb715=document[_0x3b6d6a(0x158)](_0x3b6d6a(0x10d))['options'][_0x463b86[_0x3b6d6a(0xe2)]][_0x3b6d6a(0x142)];_0xc2cb4a[_0x4cb715-0x1]&&(_0x21a63a[_0x3b6d6a(0x109)][_0x3b6d6a(0x135)]=0x2,_0x1c9408[_0x3b6d6a(0x14b)]((0x0,_0x5e4885['qg'])(_0xc2cb4a[_0x4cb715-0x1][_0x3b6d6a(0x10e)],_0x3b6d6a(0x166),new Date())),_0xf017cc[_0x3b6d6a(0x14b)]((0x0,_0x5e4885['qg'])(_0xc2cb4a[_0x4cb715-0x1][_0x3b6d6a(0xf7)],'yyyy-MM-dd',new Date())),_0x21a63a['setAttribute']('data-value',(0x0,_0x5e4885['qg'])(_0xc2cb4a[_0x4cb715-0x1]['fecha_inicial'],_0x3b6d6a(0x166),new Date())));},_0x464b49,_0x3948a5=function _0x3dc16c(){return _0x12ac86(_0x464b49);},_0x367325=(0x0,_0x6cf30f[_0x367418(0xd9)])(_0x367418(0x13e),_0x367418(0x113),[_0x367418(0xe4),_0x367418(0x119)],_0xafb044[_0x367418(0x151)],'','',_0xafb044['codigo_proyecto']);_0x367325[_0x367418(0x15e)]('click',(0x0,_0x45b2f1['A'])(_0x14b6be()['mark'](function _0x8c24b4(){var _0x9873ae,_0x52d60a;return _0x14b6be()['wrap'](function _0x30370b(_0x2dea2f){var _0xd00d8b=a46_0x173b;while(0x1)switch(_0x2dea2f[_0xd00d8b(0xff)]=_0x2dea2f[_0xd00d8b(0x140)]){case 0x0:_0x2dea2f['next']=0x2;return Promise[_0xd00d8b(0xeb)]()['then'](_0x32dffd[_0xd00d8b(0x11d)](_0x32dffd,0x1c9f));case 0x2:_0x9873ae=_0x2dea2f[_0xd00d8b(0xfe)],_0x52d60a=_0x9873ae[_0xd00d8b(0xe3)],_0x52d60a();case 0x5:case _0xd00d8b(0x10f):return _0x2dea2f['stop']();}},_0x8c24b4);}))),_0x3cbe56[_0x367418(0x15b)]('beforeend',_0x367325);var _0x302849=(0x0,_0x6cf30f[_0x367418(0x165)])('DIV',null,[_0x367418(0xfa)]);_0x3cbe56[_0x367418(0x15b)](_0x367418(0x150),_0x302849);var _0x21a63a=(0x0,_0x6cf30f['inputElement'])('TEXT',_0x367418(0x152),[_0x367418(0xe1),_0x367418(0xe4)],null,_0x367418(0x11f));_0x302849[_0x367418(0x15b)](_0x367418(0x150),_0x21a63a);var _0x4e85df=(0x0,_0x6cf30f[_0x367418(0x11b)])(_0x367418(0x159),_0x367418(0x11e),[_0x367418(0xe1),_0x367418(0xe4)],null,_0x367418(0x11f));_0x302849['insertAdjacentElement']('beforeend',_0x4e85df),_0x21a63a[_0x367418(0x146)]('data-contador',0x0);var _0x1c9408=new _0x4ba955['A']('#fechaInicial',_0x33ccec[_0x367418(0x154)]);_0x1c9408[_0x367418(0x14b)]((0x0,_0x5e4885['qg'])(_0xafb044['fecha_inicial'],'yyyy-MM-dd',new Date()));var _0xf017cc=new _0x4ba955['A'](_0x367418(0x155),_0x33ccec[_0x367418(0x154)]);_0xf017cc[_0x367418(0x14b)]((0x0,_0x5e4885['qg'])(_0xafb044[_0x367418(0xf7)],'yyyy-MM-dd',new Date()));var _0x4dade7=new MutationObserver((0x0,_0x45b2f1['A'])(_0x14b6be()[_0x367418(0x156)](function _0x14489c(){var _0x7bdba3=_0x367418;return _0x14b6be()[_0x7bdba3(0x14e)](function _0x462f2e(_0x253463){var _0x592555=_0x7bdba3;while(0x1)switch(_0x253463['prev']=_0x253463[_0x592555(0x140)]){case 0x0:_0x21a63a[_0x592555(0x109)][_0x592555(0x135)]==0x1&&_0xf017cc[_0x592555(0x14b)]((0x0,_0x5e4885['qg'])(_0x4e85df[_0x592555(0x142)],_0x592555(0x166),new Date()));case 0x1:case _0x592555(0x10f):return _0x253463[_0x592555(0x15a)]();}},_0x14489c);})));_0x4dade7[_0x367418(0xe8)](_0x21a63a,{'attributes':!![],'attributeFilter':[_0x367418(0x117)]});var _0x37a0eb=(0x0,_0x6cf30f[_0x367418(0x165)])('DIV','contenedorCliente',[_0x367418(0xe4),_0x367418(0xe6)],_0x367418(0x11c));_0x302849[_0x367418(0x15b)](_0x367418(0x150),_0x37a0eb);var _0x4e1083=(0x0,_0x6cf30f[_0x367418(0x165)])(_0x367418(0x13e),null,[_0x367418(0x110)]),_0xc13477=(0x0,_0x6cf30f[_0x367418(0x11b)])(_0x367418(0x145),_0x367418(0x138),null,'false');_0x4e1083[_0x367418(0x15b)](_0x367418(0x150),_0xc13477),_0x37a0eb[_0x367418(0x15b)]('beforeend',_0x4e1083);var _0x35d92c=(0x0,_0x6cf30f[_0x367418(0x165)])(_0x367418(0x13e),'contenedorPeriodoClase',[_0x367418(0xfa)]);_0x3cbe56[_0x367418(0x15b)](_0x367418(0x150),_0x35d92c);var _0x4825ec=(0x0,_0x6cf30f[_0x367418(0x165)])(_0x367418(0xd7),_0x367418(0x128),[_0x367418(0x15f)]);_0x4825ec[_0x367418(0x15e)](_0x367418(0xf8),(0x0,_0x45b2f1['A'])(_0x14b6be()[_0x367418(0x156)](function _0x190a9c(){return _0x14b6be()['wrap'](function _0x28092f(_0x38f65a){var _0x37e230=a46_0x173b;while(0x1)switch(_0x38f65a[_0x37e230(0xff)]=_0x38f65a[_0x37e230(0x140)]){case 0x0:_0x4006dd();case 0x1:case _0x37e230(0x10f):return _0x38f65a[_0x37e230(0x15a)]();}},_0x190a9c);}))),_0x4825ec[_0x367418(0x15e)](_0x367418(0x167),(0x0,_0x45b2f1['A'])(_0x14b6be()[_0x367418(0x156)](function _0x34dbfa(){var _0x5e0ebb=_0x367418;return _0x14b6be()[_0x5e0ebb(0x14e)](function _0x4dd09f(_0x5b77b2){var _0x403d32=_0x5e0ebb;while(0x1)switch(_0x5b77b2['prev']=_0x5b77b2[_0x403d32(0x140)]){case 0x0:_0x4006dd();case 0x1:case _0x403d32(0x10f):return _0x5b77b2[_0x403d32(0x15a)]();}},_0x34dbfa);})));var _0x463b86=(0x0,_0x6cf30f[_0x367418(0x165)])(_0x367418(0xf9),_0x367418(0x10d),[_0x367418(0x13a),'border-style--default']);_0x4825ec[_0x367418(0x15b)]('beforeend',_0x463b86);var _0x33604a=(0x0,_0x6cf30f['optionElement'])('0',_0x367418(0x126));_0x463b86[_0x367418(0x15b)](_0x367418(0x150),_0x33604a);var _0xc2cb4a=_0xafb044[_0x367418(0xfd)];for(var _0x1b215c=0x0;_0x1b215c<_0xc2cb4a[_0x367418(0x12b)];_0x1b215c++){_0x33604a=(0x0,_0x6cf30f[_0x367418(0xf2)])(_0xc2cb4a[_0x1b215c]['id_periodo'],_0xc2cb4a[_0x1b215c]['nombre_periodo']),_0x463b86[_0x367418(0x15b)](_0x367418(0x150),_0x33604a);}var _0x2bfa24=(0x0,_0x6cf30f[_0x367418(0x165)])(_0x367418(0xd7),null,[_0x367418(0x122)]),_0x4fde27='';_0x2bfa24['addEventListener'](_0x367418(0xf8),(0x0,_0x45b2f1['A'])(_0x14b6be()[_0x367418(0x156)](function _0x4e4f38(){var _0x2579d2=_0x367418,_0x421b91,_0xcae9df,_0x5b8a16;return _0x14b6be()[_0x2579d2(0x14e)](function _0x4a45cd(_0x4fc3da){var _0x19b515=_0x2579d2;while(0x1)switch(_0x4fc3da[_0x19b515(0xff)]=_0x4fc3da[_0x19b515(0x140)]){case 0x0:_0x421b91=document[_0x19b515(0xd8)](_0x19b515(0xe9)),_0xcae9df=_0x4fde27[_0x19b515(0x12b)]<_0x421b91[_0x19b515(0x12b)];for(_0x5b8a16=0x0;_0x5b8a16<_0x421b91[_0x19b515(0x12b)];_0x5b8a16++){_0x421b91[_0x19b515(0x129)](_0x5b8a16)['checked']=_0xcae9df;}_0x3446bd();case 0x4:case _0x19b515(0x10f):return _0x4fc3da[_0x19b515(0x15a)]();}},_0x4e4f38);})));var _0x49724c=(0x0,_0x6cf30f[_0x367418(0x165)])(_0x367418(0x13e),_0x367418(0x163),[_0x367418(0x115),_0x367418(0x163)]);_0x2bfa24['insertAdjacentElement'](_0x367418(0x150),_0x49724c);var _0x95bd15=(0x0,_0x6cf30f[_0x367418(0x165)])(_0x367418(0x13e),null,['control__texto'],_0xafb044[_0x367418(0x14d)]);_0x49724c[_0x367418(0x15b)](_0x367418(0x150),_0x95bd15);var _0x342cd9=(0x0,_0x6cf30f['CreateElement'])(_0x367418(0x13e),_0x367418(0xf0),[_0x367418(0x13d)]);_0x342cd9[_0x367418(0x125)]+=_0x367418(0x132),_0x49724c[_0x367418(0x15b)]('beforeend',_0x342cd9),_0x35d92c[_0x367418(0x15b)](_0x367418(0x150),_0x4825ec),_0x35d92c[_0x367418(0x15b)]('beforeend',_0x2bfa24);var _0x351125=(0x0,_0x6cf30f[_0x367418(0x165)])(_0x367418(0x13e),_0x367418(0xed),['contenedorClase']);_0x3cbe56[_0x367418(0x15b)](_0x367418(0x150),_0x351125);var _0x19a903=(0x0,_0x6cf30f[_0x367418(0x11b)])(_0x367418(0x145),'cliente',null,_0x367418(0x11a)),_0x3e0010=0x0;_0xafb044[_0x367418(0x133)][_0x367418(0x114)](function(_0x341b37){var _0x214c86=_0x367418,_0x17c051=_0x341b37['color_rgb'],_0x510ce7=_0x341b37[_0x214c86(0x123)],_0x1e34b2=_0x341b37[_0x214c86(0x14c)],_0x92e91d=_0x341b37[_0x214c86(0x168)],_0x3e95e8=document['createElement']('DIV');_0x3e95e8[_0x214c86(0xe5)]['add'](_0x214c86(0x143)),_0x3e95e8[_0x214c86(0x10c)][_0x214c86(0x104)]=''[_0x214c86(0x12a)]((0x0,_0x448be9[_0x214c86(0x149)])(_0x17c051));var _0x167458=document[_0x214c86(0x120)](_0x214c86(0xf1));_0x167458[_0x214c86(0x153)](document[_0x214c86(0x111)](''[_0x214c86(0x12a)](_0x510ce7))),_0x167458[_0x214c86(0xe5)][_0x214c86(0xdf)](['ClaseBusqueda__titulo']),_0x3e95e8['insertAdjacentElement']('beforeend',_0x167458);var _0x5544af=(0x0,_0x6cf30f[_0x214c86(0x165)])('DIV',_0x214c86(0xe7)[_0x214c86(0x12a)](_0x1e34b2),[_0x214c86(0x110)]),_0x553b72=(0x0,_0x6cf30f[_0x214c86(0x11b)])(_0x214c86(0x145),_0x214c86(0x162)[_0x214c86(0x12a)](_0x1e34b2),['CheckboxClase']);_0x92e91d&&(_0x553b72[_0x214c86(0x168)]=!![]),_0x553b72[_0x214c86(0x146)](_0x214c86(0xd6),''[_0x214c86(0x12a)](_0x1e34b2)),_0x553b72[_0x214c86(0x15e)](_0x214c86(0xf8),(0x0,_0x45b2f1['A'])(_0x14b6be()[_0x214c86(0x156)](function _0x519ccc(){return _0x14b6be()['wrap'](function _0x199433(_0x392eda){var _0x3b7139=a46_0x173b;while(0x1)switch(_0x392eda['prev']=_0x392eda[_0x3b7139(0x140)]){case 0x0:_0x3446bd();case 0x1:case'end':return _0x392eda[_0x3b7139(0x15a)]();}},_0x519ccc);}))),_0x5544af[_0x214c86(0x15b)](_0x214c86(0x150),_0x553b72),_0x167458[_0x214c86(0x15b)](_0x214c86(0x150),_0x5544af),_0x351125[_0x214c86(0x15b)]('beforeend',_0x3e95e8),_0x3e0010++;});var _0x3cdf30=(0x0,_0x6cf30f[_0x367418(0x165)])('DIV',_0x367418(0x161));_0x3cbe56[_0x367418(0x15b)](_0x367418(0x150),_0x3cdf30),_0x464b49=(0x0,_0x6cf30f[_0x367418(0x165)])('BUTTON','Buscar',[_0x367418(0xea),_0x367418(0xe0),_0x367418(0x127),_0x367418(0xe1)]),_0x464b49['innerHTML']+='<svg\x20viewbox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22./img/sprite.svg#buscar\x22></use></svg>',_0x3cdf30[_0x367418(0x15b)]('beforeend',_0x464b49),_0x3446bd(),localStorage[_0x367418(0xda)](_0x367418(0x15d),_0xafb044[_0x367418(0x157)]);}else _0xafb044[_0x367418(0x169)]>0x3e8?(alert(''['concat'](_0xafb044[_0x367418(0x12e)],_0x367418(0xf5))),(0x0,_0x2e5a7e[_0x367418(0x130)])()):new _0x226ebe[(_0x367418(0x131))](_0x489429,_0xafb044['result_message'],'GetDatosBusqueda');})[_0xfa0850(0x12f)](function(_0x3268d4){var _0x5afb54=_0xfa0850;return console[_0x5afb54(0x10a)](_0x3268d4);}),_0x489429['insertAdjacentElement'](_0xfa0850(0x150),_0x3cbe56),_0x28aa59['insertAdjacentElement'](_0xfa0850(0x150),_0x489429),document[_0xfa0850(0x158)](_0xfa0850(0x14f))['insertAdjacentElement'](_0xfa0850(0x150),_0x28aa59),document[_0xfa0850(0x158)](_0xfa0850(0x14f))[_0xfa0850(0xe5)]['add'](_0xfa0850(0x103));(document[_0xfa0850(0x158)](_0xfa0850(0x104))!=null||document[_0xfa0850(0x158)]('background')!=undefined)&&(document[_0xfa0850(0x158)](_0xfa0850(0x104))[_0xfa0850(0x15e)](_0xfa0850(0x13c),_0x83aa1f,![]),document[_0xfa0850(0x15e)](_0xfa0850(0x144),_0x255b1c,![]));case 0xa:case _0xfa0850(0x10f):return _0x34319b[_0xfa0850(0x15a)]();}},_0x15efd3);})),_0x565d56[_0x248169(0x12d)](this,arguments);}}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[3472,7164],{
+
+/***/ 1091:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CerrarVentana: () => (/* binding */ CerrarVentana),
+/* harmony export */   CerrarVentanaEsc: () => (/* binding */ CerrarVentanaEsc),
+/* harmony export */   GetDatosBusqueda: () => (/* binding */ GetDatosBusqueda)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(467);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4756);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _img_cambiar_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(216);
+/* harmony import */ var _elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(2407);
+/* harmony import */ var _datepicker_options__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5916);
+/* harmony import */ var _cerrar_sesion__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(8662);
+/* harmony import */ var _color__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(2182);
+/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7425);
+/* harmony import */ var _seleccionar_proyecto__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7327);
+/* harmony import */ var air_datepicker__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5836);
+/* harmony import */ var date_fns__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(8380);
+/* harmony import */ var _componentes_modal_Error__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(7433);
+
+
+//import '../../../img/buscar.svg';
+
+
+
+
+
+
+
+
+
+
+
+
+// Cerrar ventana emergente [CerrarVentana] al hacer click por fuera de la ventana
+function CerrarVentana(event) {
+  if (event.target.id == 'background' && document.getElementById('DatosBusqueda')) {
+    if (!document.getElementById('DlgSeleccion')) {
+      document.getElementById('background').remove();
+      document.getElementById('main').classList.remove('ocultar-scroll');
+    }
+  }
+}
+
+// Cerrar ventana emergente [CerrarVentanaEsc] con la tecla de escape [ESC]
+function CerrarVentanaEsc(event) {
+  if (event.keyCode == 27) {
+    if (document.getElementById('background') != null || document.getElementById('background') != undefined) {
+      document.getElementById('background').remove();
+      document.getElementById('main').classList.remove('ocultar-scroll');
+    }
+  }
+}
+
+// Datos Registro
+function GetDatosBusqueda(_x, _x2, _x3, _x4, _x5, _x6, _x7) {
+  return _GetDatosBusqueda.apply(this, arguments);
+}
+function _GetDatosBusqueda() {
+  _GetDatosBusqueda = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee7(TipoRegistro, IDRegistro, CargarAvance, CargarHistoryBar, CargarHistorialA, CargarHistorialB, TipoBusqueda) {
+    var Background, Dialogo, DatosBusqueda, route;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee7$(_context7) {
+      while (1) switch (_context7.prev = _context7.next) {
+        case 0:
+          Background = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('SECTION', 'background', ['background']);
+          Dialogo = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('SECTION', 'dialogo', ['dialogo']);
+          DatosBusqueda = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', 'DatosBusqueda', ['preconcepto']);
+          route = "getdatosbuscar/".concat(localStorage.getItem('Token'), "/").concat(TipoBusqueda);
+          (0,_api__WEBPACK_IMPORTED_MODULE_3__.CustomFetch)(route).then(function (result) {
+            if (result.result_code == 0) {
+              // botón Buscar
+              var BotonClick = function BotonClick(Button) {
+                var CodigoAlcance;
+                var CodigoBuscado = Proyecto.dataset.codigo;
+                var Fecha_Inicial_Consultada = calendario.selectedDates[0].toISOString().slice(0, 10);
+                var Decha_Final_Consultada = calendario2.selectedDates[0].toISOString().slice(0, 10);
+                if (CodigoBuscado == 0) {
+                  CodigoAlcance = 51; // alcance "todos"
+                } else if (CodigoBuscado > 0 && ClienteCheckbox.checked) {
+                  CodigoAlcance = 53; // alcance "Cliente" (todos los Casos de un Cliente)
+                } else {
+                  CodigoAlcance = 52; // alcance "Caso"
+                }
+                document.getElementById('main').classList.remove('ocultar-scroll');
+                Background.remove();
+                CargarHistorialB(CodigoAlcance, CodigoBuscado, Fecha_Inicial_Consultada, Decha_Final_Consultada, OpcionesSeleccionadas);
+                if (document.querySelector('.c_slider')) {
+                  document.querySelector('.c_slider').style.display = 'none';
+                }
+                if (document.getElementById('DescripcionHistorial')) document.getElementById('DescripcionHistorial').innerHTML = Fecha_Inicial_Consultada + ' - ' + Decha_Final_Consultada;
+              }; // Creamos referencias a las funciones BotonClick para cada boton
+              var HabilitarBoton = function HabilitarBoton(Boton) {
+                if (!Boton.classList.contains('modal-button--default')) {
+                  Boton.classList.remove('modal-button--disabled');
+                  Boton.classList.add('modal-button--default');
+                  Boton.children[0].src = "/img/".concat(Boton.id.toLowerCase(), ".svg");
+                  if (Boton.id == 'Buscar') Boton.addEventListener('click', BotonClickBuscar);
+                }
+              };
+              var DeshabilitarBoton = function DeshabilitarBoton(Boton) {
+                if (!Boton.classList.contains('modal-button--disabled')) {
+                  Boton.classList.remove('modal-button--default');
+                  Boton.classList.add('modal-button--disabled');
+                  Boton.children[0].src = "/img/".concat(Boton.id.toLowerCase(), "-disabled.svg");
+                  if (Boton.id == 'Buscar') Boton.removeEventListener('click', BotonClickBuscar);
+                }
+              };
+              var ValidarBotones = function ValidarBotones() {
+                OpcionesSeleccionadas = '';
+                var Checkboxes = document.getElementsByClassName('CheckboxClase');
+                for (var I = 0; I < Checkboxes.length; I++) {
+                  if (Checkboxes.item(I).checked) OpcionesSeleccionadas += Checkboxes.item(I).getAttribute('dato');
+                }
+                if (OpcionesSeleccionadas.length > 0) HabilitarBoton(Buscar);else DeshabilitarBoton(Buscar);
+              }; // Proyecto
+              //Cambia las fechas cuando se selecciona Un periodo
+              var CargarFechasPeriodo = function CargarFechasPeriodo() {
+                var OpcionSeleccionada = document.getElementById('controlPeriodo').options[SelectPeriodo.selectedIndex].value;
+                if (opciones[OpcionSeleccionada - 1]) {
+                  FechaInicial.dataset.contador = 2;
+                  calendario.selectDate((0,date_fns__WEBPACK_IMPORTED_MODULE_8__/* .parse */ .qg)(opciones[OpcionSeleccionada - 1].fecha_inicial, 'yyyy-MM-dd', new Date()));
+                  calendario2.selectDate((0,date_fns__WEBPACK_IMPORTED_MODULE_8__/* .parse */ .qg)(opciones[OpcionSeleccionada - 1].fecha_final, 'yyyy-MM-dd', new Date()));
+                  FechaInicial.setAttribute('data-value', (0,date_fns__WEBPACK_IMPORTED_MODULE_8__/* .parse */ .qg)(opciones[OpcionSeleccionada - 1].fecha_inicial, 'yyyy-MM-dd', new Date()));
+                }
+              };
+              // Cargar el valor inicial de los campos
+              var Buscar;
+              var BotonClickBuscar = function BotonClickBuscar() {
+                return BotonClick(Buscar);
+              };
+              var Proyecto = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.Selector)('DIV', 'Proyecto', ['border-style--default', 'editar-registro__nombre-proyecto'], result.nombre_proyecto, '', '', result.codigo_proyecto);
+
+              // Añadiendo Evento click a [Proyecto]
+              Proyecto.addEventListener('click', /*#__PURE__*/(0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee() {
+                var _yield$import, SeleccionarProyecto;
+                return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
+                  while (1) switch (_context.prev = _context.next) {
+                    case 0:
+                      _context.next = 2;
+                      return Promise.resolve(/* import() */).then(__webpack_require__.bind(__webpack_require__, 7327));
+                    case 2:
+                      _yield$import = _context.sent;
+                      SeleccionarProyecto = _yield$import.SeleccionarProyecto;
+                      SeleccionarProyecto();
+                    case 5:
+                    case "end":
+                      return _context.stop();
+                  }
+                }, _callee);
+              })));
+
+              // Insertando [Proyecto] a [DatosBusqueda]
+              DatosBusqueda.insertAdjacentElement('beforeend', Proyecto);
+
+              // Contenedor de Fecha y tiempo
+              var ContenedorFechaCliente = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', null, ['c-ancho-completo']);
+              // Insertando [ContenedorFechaCantidad] a [DatosBusqueda]
+              DatosBusqueda.insertAdjacentElement('beforeend', ContenedorFechaCliente);
+
+              // Fecha
+              var FechaInicial = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.inputElement)('TEXT', 'fechaInicial', ['ancho--default', 'border-style--default'], null, 'true');
+              // Insertando [Fecha] a [ContenedorFechaCantidad]
+              ContenedorFechaCliente.insertAdjacentElement('beforeend', FechaInicial);
+
+              // FechaInicial
+              var FechaFinal = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.inputElement)('TEXT', 'fechaFinal', ['ancho--default', 'border-style--default'], null, 'true');
+              // Insertando [Fecha] a [ContenedorFechaCliente]
+              ContenedorFechaCliente.insertAdjacentElement('beforeend', FechaFinal);
+              FechaInicial.setAttribute('data-contador', 0);
+              var calendario = new air_datepicker__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A('#fechaInicial', _datepicker_options__WEBPACK_IMPORTED_MODULE_2__.datepickerOptions);
+              calendario.selectDate((0,date_fns__WEBPACK_IMPORTED_MODULE_8__/* .parse */ .qg)(result.fecha_inicial, 'yyyy-MM-dd', new Date())); //[x]
+
+              var calendario2 = new air_datepicker__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A('#fechaFinal', _datepicker_options__WEBPACK_IMPORTED_MODULE_2__.datepickerOptions);
+              calendario2.selectDate((0,date_fns__WEBPACK_IMPORTED_MODULE_8__/* .parse */ .qg)(result.fecha_final, 'yyyy-MM-dd', new Date()));
+              var ObserverFechaInicial = new MutationObserver( /*#__PURE__*/(0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee2() {
+                return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee2$(_context2) {
+                  while (1) switch (_context2.prev = _context2.next) {
+                    case 0:
+                      if (FechaInicial.dataset.contador == 1) {
+                        calendario2.selectDate((0,date_fns__WEBPACK_IMPORTED_MODULE_8__/* .parse */ .qg)(FechaFinal.value, 'yyyy-MM-dd', new Date()));
+                      }
+                    case 1:
+                    case "end":
+                      return _context2.stop();
+                  }
+                }, _callee2);
+              })));
+              ObserverFechaInicial.observe(FechaInicial, {
+                attributes: true,
+                attributeFilter: ['data-value']
+              });
+
+              // Contenedor cliente checkbox
+              var ContenedorCliente = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', 'contenedorCliente', ['border-style--default', 'contenedorCliente'], 'Cliente');
+              ContenedorFechaCliente.insertAdjacentElement('beforeend', ContenedorCliente);
+
+              //Contenedor checkBox para seleccionar cliente
+              var ContenedorCheckboxCliente = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', null, ['text-rigth']);
+
+              //Checkbox para selecionar cliente
+              var ClienteCheckbox = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.inputElement)('checkbox', 'cliente', null, 'false');
+              ContenedorCheckboxCliente.insertAdjacentElement('beforeend', ClienteCheckbox);
+              ContenedorCliente.insertAdjacentElement('beforeend', ContenedorCheckboxCliente);
+
+              // Contenedor de periodo y clase
+              var ContenedorPeriodoClase = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', 'contenedorPeriodoClase', ['c-ancho-completo']);
+              // Insertando [ContenedorFechaCantidad] a [DatosBusqueda]
+              DatosBusqueda.insertAdjacentElement('beforeend', ContenedorPeriodoClase);
+
+              //Secition para el periodo
+              var Periodo = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('SECTION', 'periodo', ['seleccionPeriodo']);
+              Periodo.addEventListener('click', /*#__PURE__*/(0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee3() {
+                return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee3$(_context3) {
+                  while (1) switch (_context3.prev = _context3.next) {
+                    case 0:
+                      CargarFechasPeriodo();
+                    case 1:
+                    case "end":
+                      return _context3.stop();
+                  }
+                }, _callee3);
+              })));
+              Periodo.addEventListener('change', /*#__PURE__*/(0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee4() {
+                return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee4$(_context4) {
+                  while (1) switch (_context4.prev = _context4.next) {
+                    case 0:
+                      CargarFechasPeriodo();
+                    case 1:
+                    case "end":
+                      return _context4.stop();
+                  }
+                }, _callee4);
+              })));
+              var SelectPeriodo = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('SELECT', 'controlPeriodo', ['selectImagen', 'border-style--default']);
+              Periodo.insertAdjacentElement('beforeend', SelectPeriodo);
+
+              //Creamos una opción por defecto
+              var OpcionesPeriodo = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.optionElement)('0', 'Periodos sugeridos');
+              SelectPeriodo.insertAdjacentElement('beforeend', OpcionesPeriodo);
+
+              // Pinta las opciones del select recibidas de la API
+              var opciones = result.periodo_opciones;
+              for (var i = 0; i < opciones.length; i++) {
+                OpcionesPeriodo = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.optionElement)(opciones[i].id_periodo, opciones[i].nombre_periodo);
+                SelectPeriodo.insertAdjacentElement('beforeend', OpcionesPeriodo);
+              }
+
+              // Clase(toggle para marcar o desmarcar todo)
+              var ToggleClase = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('SECTION', null, ['seleccionClase']);
+
+              //Variable para almacenar cuales checkbox se han seleccionado
+              var OpcionesSeleccionadas = '';
+
+              //Cuando se oprime el toggle selecciona todos los chechbox o los deselecciona en caso de que todos esten marcados
+              ToggleClase.addEventListener('click', /*#__PURE__*/(0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee5() {
+                var Checkboxes, Valor, I;
+                return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee5$(_context5) {
+                  while (1) switch (_context5.prev = _context5.next) {
+                    case 0:
+                      Checkboxes = document.getElementsByClassName('CheckboxClase');
+                      Valor = OpcionesSeleccionadas.length < Checkboxes.length;
+                      for (I = 0; I < Checkboxes.length; I++) {
+                        Checkboxes.item(I).checked = Valor;
+                      }
+                      ValidarBotones();
+                    case 4:
+                    case "end":
+                      return _context5.stop();
+                  }
+                }, _callee5);
+              })));
+
+              //Icono svg para el toggle de clase
+              var ControlToggleClase = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', 'controlClase', ['control', 'controlClase']);
+              ToggleClase.insertAdjacentElement('beforeend', ControlToggleClase);
+
+              //Texto que acompaña el toggle
+              var TextoToggle = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', null, ['control__texto'], result.nombre_lista);
+              ControlToggleClase.insertAdjacentElement('beforeend', TextoToggle);
+              //Imagen del toogle
+              var ImagenClase = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', 'imagenClase', ['control__imagenToggle']);
+              ImagenClase.innerHTML += "<svg viewbox=\"0 0 180 216\"><use xlink:href=\"./img/sprite.svg#btn-toggle-clases\"></use></svg>";
+              ControlToggleClase.insertAdjacentElement('beforeend', ImagenClase);
+              ContenedorPeriodoClase.insertAdjacentElement('beforeend', Periodo);
+              ContenedorPeriodoClase.insertAdjacentElement('beforeend', ToggleClase);
+
+              // Contenedor Clases
+              var ContenedorClase = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', 'ContenedorClase', ['contenedorClase']);
+              DatosBusqueda.insertAdjacentElement('beforeend', ContenedorClase);
+              // Insertando a [ContenedorContenedorClase]
+
+              var Check = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.inputElement)('checkbox', 'cliente', null, 'false');
+              var I = 0;
+
+              //itera sobre las clases y las pinta con su respectivo Checkbox
+              result.lista_opciones.forEach(function (_ref6) {
+                var color_rgb = _ref6.color_rgb,
+                  nombre_opcion = _ref6.nombre_opcion,
+                  id_opcion = _ref6.id_opcion,
+                  checked = _ref6.checked;
+                var Opcion = document.createElement('DIV');
+                Opcion.classList.add('ClaseBusqueda');
+                Opcion.style.background = "".concat((0,_color__WEBPACK_IMPORTED_MODULE_9__.ColorRGB)(color_rgb));
+                var NombreOpcion = document.createElement('SPAN');
+                NombreOpcion.appendChild(document.createTextNode("".concat(nombre_opcion)));
+                NombreOpcion.classList.add(['ClaseBusqueda__titulo']);
+                Opcion.insertAdjacentElement('beforeend', NombreOpcion);
+                var ContenedorCheckbox = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', "contenedorCheckbox-".concat(id_opcion), ['text-rigth']);
+                var Checkbox = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.inputElement)('checkbox', "CheckboxClase-".concat(id_opcion), ['CheckboxClase']);
+                if (checked) {
+                  Checkbox.checked = true;
+                }
+                Checkbox.setAttribute('dato', "".concat(id_opcion));
+                Checkbox.addEventListener('click', /*#__PURE__*/(0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee6() {
+                  return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee6$(_context6) {
+                    while (1) switch (_context6.prev = _context6.next) {
+                      case 0:
+                        ValidarBotones();
+                      case 1:
+                      case "end":
+                        return _context6.stop();
+                    }
+                  }, _callee6);
+                })));
+                ContenedorCheckbox.insertAdjacentElement('beforeend', Checkbox);
+                NombreOpcion.insertAdjacentElement('beforeend', ContenedorCheckbox);
+                ContenedorClase.insertAdjacentElement('beforeend', Opcion);
+                I++;
+              });
+              // Contenedor de botones
+              var ContenedorBotones = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('DIV', 'c-Botones');
+
+              // Insertando a [DatosBusqueda]
+              DatosBusqueda.insertAdjacentElement('beforeend', ContenedorBotones);
+
+              // Botón Buscar
+              Buscar = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_7__.CreateElement)('BUTTON', 'Buscar', ['modal-button', 'modal-button--imageBuscar', 'modal-button--full', 'ancho--default']);
+              Buscar.innerHTML += "<svg viewbox=\"0 0 180 216\"><use xlink:href=\"./img/sprite.svg#buscar\"></use></svg>";
+              ContenedorBotones.insertAdjacentElement('beforeend', Buscar); // Insertando a [ContenedorBotones]
+
+              ValidarBotones();
+              localStorage.setItem('Token', result.new_token);
+              // Reiniciar TextosPlantillaArreglo
+            } else {
+              if (result.result_code > 1000) {
+                alert("".concat(result.result_message, "\nProceso: GetDatosBusqueda\nSe cerrar\xE1 la sesi\xF3n."));
+                (0,_cerrar_sesion__WEBPACK_IMPORTED_MODULE_10__.CerrarSesion)();
+              } else {
+                new _componentes_modal_Error__WEBPACK_IMPORTED_MODULE_11__.MostrarMensajeError(Dialogo, result.result_message, 'GetDatosBusqueda');
+              }
+            }
+          })["catch"](function (error) {
+            return console.log(error);
+          });
+          Dialogo.insertAdjacentElement('beforeend', DatosBusqueda);
+          Background.insertAdjacentElement('beforeend', Dialogo);
+          document.getElementById('main').insertAdjacentElement('beforeend', Background);
+          document.getElementById('main').classList.add('ocultar-scroll');
+          if (document.getElementById('background') != null || document.getElementById('background') != undefined) {
+            // Mousedown - Click en el fondo para salir.
+            document.getElementById('background').addEventListener('mousedown', CerrarVentana, false);
+            // Keydown - Tecla [ESC] para salir.
+            document.addEventListener('keydown', CerrarVentanaEsc, false);
+          }
+        case 10:
+        case "end":
+          return _context7.stop();
+      }
+    }, _callee7);
+  }));
+  return _GetDatosBusqueda.apply(this, arguments);
+}
+
+/***/ })
+
+}]);

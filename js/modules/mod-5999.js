@@ -1,1 +1,1034 @@
-'use strict';var a39_0x3e32c4=a39_0x1306;(function(_0x1a8c7a,_0x79557c){var _0x13c0a2=a39_0x1306,_0x41a415=_0x1a8c7a();while(!![]){try{var _0x4da188=parseInt(_0x13c0a2(0x194))/0x1+parseInt(_0x13c0a2(0xa1))/0x2+parseInt(_0x13c0a2(0x168))/0x3*(-parseInt(_0x13c0a2(0x185))/0x4)+parseInt(_0x13c0a2(0x155))/0x5*(parseInt(_0x13c0a2(0x19e))/0x6)+parseInt(_0x13c0a2(0xb8))/0x7+parseInt(_0x13c0a2(0x1b5))/0x8*(parseInt(_0x13c0a2(0x12f))/0x9)+-parseInt(_0x13c0a2(0x80))/0xa;if(_0x4da188===_0x79557c)break;else _0x41a415['push'](_0x41a415['shift']());}catch(_0x463a22){_0x41a415['push'](_0x41a415['shift']());}}}(a39_0x1e1b,0x58f44));function a39_0x1306(_0x173a48,_0x2d869f){var _0x1e1bb1=a39_0x1e1b();return a39_0x1306=function(_0x1306af,_0x2374ac){_0x1306af=_0x1306af-0x78;var _0x366de9=_0x1e1bb1[_0x1306af];return _0x366de9;},a39_0x1306(_0x173a48,_0x2d869f);}function a39_0x1e1b(){var _0x995389=['<span>','0.0625rem\x20solid\x20#dbdbdb','botonDesasegurar_AsegurarTiempo','Mie','has','yyyy-MM-dd','headerRuta','IngresarValorTiempo','Febrero','checkbox','selectRuta','removeEventListener','CrearElementoHTML','hh:ii\x20aa','20422770WvDYTb','keydown','textContent','splice','readOnly','type','function','construirPreregistro','construirRuta','fechaInicial','dialogo','classList','beforeend','botonDeshabilitar','Dialogo','botonDesasegurar_Asegurar','preregistros','addEventListener','<div\x20id=\x22Proyecto\x22\x20class=\x22border-style--default\x20editar-registro__nombre-proyecto\x22\x20>','InputCheckAsegurar','<br>','getAttribute','botonesPreregistro','registros','Sep','outerHTML','Ruta\x20existente','Miércoles','selectDate','#fefefe','hsl(','descripcionPreregistro','querySelector','217102qiZOQX','QuitarBackgroundMostrarScroll','disabled','Enter','verificarValor','Vacio','Seleccione\x20una\x20fecha','inconsistency','Mar','Asegurado','Domingo','setViewDate','slice','rutas_vigilancia','selectClasificacion','offset','Mayo','--line\x20issueType\x27\x20id=\x27','inputType','id_ruta','La\x20ruta\x20especificado\x20ya\x20existe\x20con\x20la\x20fecha\x20indicada.','AsegurarTiempo','nombre','3753281eSFFio','Terminar','left','change','webpackChunkkiux','#fechaParaRuta','preregistro','../assets/rutas.json','.issueType','Tienes\x20registros\x20incompletos:\x20tienes','\x20sin\x20tiempo','AnteriorTiempoAsignado','Julio','ClickOrtografia','BtnTerminarRuta','Lunes','No\x20es\x20posible\x20distribuir\x20el\x20tiempo.','innerHTML','color','GetPreregistro','issueType-titulo','SumarTiempos','issueType','DatosPreregistros','replace','contenedor-descripcion','fechaParaRuta','May','Ortografia','set','herramientas-descripcion__opcion','log','DesasegurarTiempo','contentEditable','clasificaciones','background-color:\x20hsl(','getElement','vacia','InputTiempo','CrearElementoHTML_Input','Jul','checked','$el','fechaPreconcepto','Viernes','VentanaEditar_','Background','CerrarVentanaEmergente','MostrarErrorRuta','%,\x2095%);','ConstruirDialogo','Clip','fecha','JSON_Preregistros','CrearElementoHTML_Button','c-ancho-completo','<svg\x20class=\x22datos-registro__botones_button_svg\x22\x20style=\x22transform:\x20scale(1.2)\x22\x20viewBox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22../img/sprite.svg#btn-clip\x22></use></svg>','CrearElementoHTML_Select','GetHSL','en-US','push','</span>','Diciembre','value','GuardarParametros','$target','img/unlink-svgrepo-com_dark.svg','observe','EnterEnInput','background-color:\x20\x20','datepicker','Abr','add','seleccionarClasificacion','#d1f5e7','style','Preregistros_','input','border-style--default\x20contenedor-descripcion__descripcion','ContenedorDescripcion','cambioEnDescripcion','clasificacion','Error','Agosto','tiempoRegistradoMinutos','primeraOpcion','border','test','$pointer','MostrarMensajeError','Private\x20element\x20is\x20not\x20present\x20on\x20this\x20object','json','00:00','split','descripcion_candado','Contar_Registros_Activos_Sin_Proteger','tiempoTotalMinutos','Sab','proyecto','Sábado','../img/unlink-svgrepo-com.svg','yyyy/mm/dd','</div>','c-FechaCantidad','ValorAnterior','Preregistro_','CantidadTiempo_','Ha\x20ocurrido\x20un\x20error\x20en\x20el\x20llamado\x20de\x20la\x20ruta','headerPreregistro_titulo','text','Noviembre','formattedDate','selectionStart','aplicarMascaraHora','clientWidth','Seleccione\x20una\x20ruta','#second-background','setAttribute','indexOf','2292678UhVIqY','ruta','Abril','Descripcion','preconcepto','insertAdjacentElement','color:\x20','matches','target','Dic','\x20registro','Septiembre','TiempoAsignado','DistribuirTiempo','plantilla','contenteditable','stringify','getBoundingClientRect','Junio','height','then','Oct','find','Asegurar\x20tiempo','catch','appendChild','key','length','CrearElementoHTML_Text','setSelectionRange','RemoverPreconcepto','selectedIndex','mousedown','issueTypeMensaje','keypress','MostrarError','API','resto','311225fbPKpG','remove','dataset','DIV','%,\x20','construirPreregistros','bind','DesactivarTiempoFijo','c-IssueTypeMensaje','ColorRGB','headerPreregistro','InputTiempoPreregistro_','botones_plantillas','fechaFinal','Jue','descripcion','Cannot\x20initialize\x20the\x20same\x20private\x20elements\x20twice\x20on\x20an\x20object','estado','undefined','393uEMfpM','DesactivarPreregistro','trim','contenedor-descripcion__herramientas\x20herramientas-descripcion','CrearElementoHTML_Imagen','getElementById','contador','InputTiempoTotal_','containerPreregistros','error','Limpiar','contains','Enero','CrearElementoHTML_Option','ocultar-scroll','https://languagetool.org/api/v2/check','Ene','issueTypeLista','ButtonAgregarRegistros','Distribuir_Sumar_Tiempo','ruta_titulo','<svg\x20class=\x22datos-registro__botones_button_svg\x22\x20style=\x22transform:\x20scale(1.2)\x22\x20viewBox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22../img/sprite.svg#btn-spelling\x22></use></svg>','BUTTON','main','Marzo','ancho--default\x20border-style--default\x20c-alto-completo\x20animated','OcultarScroll','message','forEach','116XySLIP','retorno','CerrarPreconcepto','No\x20hay\x20registros\x20por\x20actualizar','Activo','background','Octubre','ValorAnteriorEscritura','click','ActivarTiempoFijo','img/unlink-svgrepo-com.svg','display','.json','Escape','titulo','571519kjoYqq','contenedor','Completa\x20los\x20campos','Selecciona\x20una\x20ruta','blur','Cargar','ancho--default\x20border-style--default\x20preconcepto__cantidad','Hoy','rule','\x20sin\x20descripción','66fltuEM','%);','Ago','0.0625rem\x20double\x20#e39d93','GetData','none','concat','idioma','clientHeight','substr','c-issueType-mensaje\x20issueType-','../assets/ruta_','Idioma','Input','asegurado','../img/delete-1-svgrepo-com.svg','Ruta_','custom-button-classname','terminar','toLowerCase','data-value','Nov','spellcheck','16mtQcmo','GuardarDatos'];a39_0x1e1b=function(){return _0x995389;};return a39_0x1e1b();}(self[a39_0x3e32c4(0xbc)]=self[a39_0x3e32c4(0xbc)]||[])[a39_0x3e32c4(0xf4)]([[0x176f,0x171c,0x1bfc,0xfb5],{0x2095:(_0x277d34,_0x31bdf2,_0x315dfc)=>{_0x315dfc['r'](_0x31bdf2),_0x315dfc['d'](_0x31bdf2,{'DialogoEditar_':()=>_0x61b33d});var _0x5111f1=_0x315dfc(0x1552),_0x10b017=_0x315dfc(0xbd5),_0x4c9974=_0x315dfc(0xb55),_0x31e659=_0x315dfc(0x1173),_0x587ae3=_0x315dfc(0x2298),_0x155d8d=_0x315dfc(0xd38),_0x36a291=_0x315dfc(0x1d09),_0x61b33d=(function(){var _0x5e3fde=a39_0x1306;function _0x4f9b2d(_0x1207b9){var _0x4b64a4=a39_0x1306;(0x0,_0x10b017['A'])(this,_0x4f9b2d),(0x0,_0x31e659['A'])(this,_0x4b64a4(0x13b),void 0x0),(0x0,_0x31e659['A'])(this,_0x4b64a4(0x121),void 0x0),(0x0,_0x31e659['A'])(this,_0x4b64a4(0x122),void 0x0),(0x0,_0x31e659['A'])(this,'Dialogo',void 0x0),(0x0,_0x31e659['A'])(this,_0x4b64a4(0xe6),void 0x0),(0x0,_0x31e659['A'])(this,_0x4b64a4(0x132),void 0x0),this[_0x4b64a4(0x121)]=_0x1207b9,this['ConstruirDialogo']();}return(0x0,_0x4c9974['A'])(_0x4f9b2d,[{'key':_0x5e3fde(0xea),'value':function _0x585f87(){var _0x550928=_0x5e3fde,_0x3415ee=this;this[_0x550928(0xe6)]=new _0x155d8d[(_0x550928(0x7e))](_0x550928(0x158),_0x550928(0x18a),_0x550928(0x18a))[_0x550928(0xdc)](),document['body'][_0x550928(0x148)](this[_0x550928(0xe6)]),this[_0x550928(0x8e)]=new _0x155d8d[(_0x550928(0x7e))](_0x550928(0x158),_0x550928(0x8a),_0x550928(0x8a))[_0x550928(0xdc)]();var _0x197929=new _0x155d8d['CrearElementoHTML'](_0x550928(0x158),'DatosPreregistros',_0x550928(0x133))[_0x550928(0xdc)]();_0x197929[_0x550928(0xc9)]=_0x550928(0x92)['concat'](this[_0x550928(0x121)][_0x550928(0x193)],_0x550928(0x11e));var _0x1ccc22=new _0x155d8d[(_0x550928(0x7e))](_0x550928(0x158),_0x550928(0x11f),_0x550928(0xef))[_0x550928(0xdc)](),_0x3bc2ec=new _0x155d8d['CrearElementoHTML_Input'](_0x550928(0x125),_0x550928(0xe3),_0x550928(0x181))['getElement']();_0x3bc2ec['value']=this[_0x550928(0x121)][_0x550928(0x1ae)][_0x550928(0xec)],_0x3bc2ec[_0x550928(0x84)]=!![],this[_0x550928(0x122)]=new _0x587ae3['InputTiempo_'](this,_0x550928(0x19a),![],!![]),this[_0x550928(0x122)][_0x550928(0x1ab)][_0x550928(0xf7)]=this[_0x550928(0x121)]['InputTiempoPreregistro_'][_0x550928(0x1ab)][_0x550928(0xf7)];this[_0x550928(0x121)][_0x550928(0xaa)]&&(this['CantidadTiempo_'][_0x550928(0x1ab)]['classList']['add'](_0x550928(0x1ac)),this['CantidadTiempo_'][_0x550928(0x1ab)][_0x550928(0xa3)]=!![]);_0x1ccc22['appendChild'](_0x3bc2ec),_0x1ccc22[_0x550928(0x148)](this[_0x550928(0x122)][_0x550928(0x1ab)]);var _0x23663a=new _0x155d8d[(_0x550928(0x7e))](_0x550928(0x158),_0x550928(0x107),_0x550928(0xd1))[_0x550928(0xdc)]();this[_0x550928(0x132)]=new _0x155d8d[(_0x550928(0x7e))]('DIV',_0x550928(0x164),_0x550928(0x106),null,this['Preregistro_'][_0x550928(0x9f)][_0x550928(0xc9)])['getElement'](),this[_0x550928(0x132)][_0x550928(0xd9)]=!![],this[_0x550928(0x132)][_0x550928(0x1b4)]=![];var _0x558b59=new _0x155d8d['CrearElementoHTML'](_0x550928(0x158),null,_0x550928(0x16b))[_0x550928(0xdc)](),_0x426103=new _0x155d8d[(_0x550928(0x7e))](_0x550928(0x17e),_0x550928(0x1aa),'herramientas-descripcion__opcion\x20idioma-proyecto',null,'ES')[_0x550928(0xdc)](),_0x4158a3=new _0x155d8d[(_0x550928(0x7e))](_0x550928(0x17e),_0x550928(0xd4),_0x550928(0xd6),null,_0x550928(0x17d))[_0x550928(0xdc)](),_0x42ffa5=new _0x155d8d[(_0x550928(0x7e))]('BUTTON',_0x550928(0xeb),'herramientas-descripcion__opcion',null,_0x550928(0xf0))[_0x550928(0xdc)](),_0x18968e=new _0x155d8d[(_0x550928(0x7e))]('BUTTON',_0x550928(0x199),_0x550928(0xd6),null,'<svg\x20class=\x22datos-registro__botones_button_svg\x22\x20style=\x22transform:\x20scale(1.2)\x22\x20viewBox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22../img/sprite.svg#guardar\x22></use></svg>')['getElement']();_0x4158a3[_0x550928(0x91)](_0x550928(0x18d),function(){var _0x46f906=_0x550928;_0x3415ee[_0x46f906(0xc5)]();}),_0x18968e[_0x550928(0x91)]('click',this[_0x550928(0x1b6)][_0x550928(0x15b)](this)),_0x558b59[_0x550928(0x148)](_0x426103),_0x558b59[_0x550928(0x148)](_0x4158a3),_0x558b59[_0x550928(0x148)](_0x42ffa5),_0x558b59[_0x550928(0x148)](_0x18968e),_0x23663a['appendChild'](this[_0x550928(0x132)]),_0x23663a[_0x550928(0x148)](_0x558b59),_0x197929[_0x550928(0x148)](_0x1ccc22),_0x197929[_0x550928(0x148)](_0x23663a),this[_0x550928(0xe6)][_0x550928(0x148)](this[_0x550928(0x8e)]),this[_0x550928(0x8e)][_0x550928(0x148)](_0x197929),this[_0x550928(0x182)](),document[_0x550928(0x91)](_0x550928(0x81),this[_0x550928(0x14d)][_0x550928(0x15b)](this),![]),this[_0x550928(0xe6)][_0x550928(0x91)](_0x550928(0x14f),this[_0x550928(0x187)][_0x550928(0x15b)](this),![]);}},{'key':_0x5e3fde(0xe7),'value':function _0x5bc7cb(){var _0x2ebfe9=_0x5e3fde;this[_0x2ebfe9(0xa2)]();}},{'key':'ClickOrtografia','value':function _0x45d51f(){var _0xa2b6a2=_0x5e3fde,_0x35fd48=this;if(this[_0xa2b6a2(0x132)][_0xa2b6a2(0x82)][_0xa2b6a2(0x16a)]()['length']>0x0){var _0x2577a4=Idioma['textContent'][_0xa2b6a2(0x1b1)]()=='en'?_0xa2b6a2(0xf3):Idioma[_0xa2b6a2(0x82)][_0xa2b6a2(0x1b1)](),_0x1aa61e=this[_0xa2b6a2(0x132)][_0xa2b6a2(0x82)][_0xa2b6a2(0x16a)]();console[_0xa2b6a2(0xd7)](Idioma);var _0x7336b1=_0xa2b6a2(0x177);fetch(_0x7336b1,{'method':'POST','headers':{'Content-Type':'application/x-www-form-urlencoded','Origin':'https://kiux.app'},'body':new URLSearchParams({'text':_0x1aa61e,'language':_0x2577a4})})[_0xa2b6a2(0x143)](function(_0x21e8e1){var _0x1f755e=_0xa2b6a2;return _0x21e8e1[_0x1f755e(0x113)]();})[_0xa2b6a2(0x143)](function(_0x3830f5){var _0x1a6d62=_0xa2b6a2,_0x488d55=_0x3830f5[_0x1a6d62(0x136)],_0x503765=function _0x16d01a(){setTimeout(function(){var _0x569b24=a39_0x1306;_0x35fd48[_0x569b24(0x132)]['style'][_0x569b24(0x10e)]=_0x569b24(0x1b8),_0x35fd48['Descripcion'][_0x569b24(0x103)][_0x569b24(0x18a)]=_0x569b24(0x9d);},0x9c4);};_0x488d55[_0x1a6d62(0x14a)]===0x0?(clearTimeout(_0x503765),_0x35fd48['Descripcion']['style'][_0x1a6d62(0x10e)]='0.0625rem\x20double\x20#75e3b8',_0x35fd48[_0x1a6d62(0x132)][_0x1a6d62(0x103)][_0x1a6d62(0x18a)]=_0x1a6d62(0x102),_0x503765()):(clearTimeout(_0x503765),_0x35fd48[_0x1a6d62(0x132)][_0x1a6d62(0x103)][_0x1a6d62(0x10e)]=_0x1a6d62(0x1a1),_0x35fd48[_0x1a6d62(0x132)]['style'][_0x1a6d62(0x18a)]='#f5dedb',_0x503765());for(var _0x260930=_0x488d55[_0x1a6d62(0x14a)]-0x1;_0x260930>=0x0;_0x260930--){var _0x1b7ba2=_0x488d55[_0x260930][_0x1a6d62(0x19c)]['issueType'],_0x14af21=_0x1aa61e[_0x1a6d62(0x1a7)](0x0,_0x488d55[_0x260930][_0x1a6d62(0xb0)]),_0x27b137=_0x1aa61e[_0x1a6d62(0x1a7)](_0x488d55[_0x260930]['offset'],_0x488d55[_0x260930][_0x1a6d62(0x14a)]),_0x37163a=_0x488d55[_0x260930][_0x1a6d62(0xb0)]+_0x488d55[_0x260930]['length'],_0x357ef7=_0x1aa61e[_0x1a6d62(0x1a7)](_0x37163a,_0x1aa61e[_0x1a6d62(0x14a)]-_0x37163a),_0xbfcedb='hallazgo-'+_0x260930;_0x1aa61e=_0x14af21+'<span\x20class=\x27issueType-'['concat'](_0x1b7ba2,_0x1a6d62(0xb2))[_0x1a6d62(0x1a4)](_0xbfcedb,'\x27>')[_0x1a6d62(0x1a4)](_0x27b137,_0x1a6d62(0xf5))+_0x357ef7;}_0x35fd48[_0x1a6d62(0x132)][_0x1a6d62(0xc9)]=_0x1aa61e;var _0x3b8a0e=function _0x1ff7c7(_0x29097d){var _0x48f700=_0x1a6d62;_0x35fd48['Descripcion'][_0x48f700(0x12d)](_0x48f700(0x13e),![]);var _0x33dd8f=_0x29097d,_0x2aadba=_0x29097d['id'],_0x58b75b=_0x2aadba[_0x48f700(0x1a7)](0x9,_0x2aadba[_0x48f700(0x14a)]-0x8),_0x39290c=_0x488d55[_0x58b75b][_0x48f700(0x183)],_0x2256cb=_0x488d55[_0x58b75b]['rule'][_0x48f700(0xce)],_0x230ace=new _0x155d8d[(_0x48f700(0x7e))](_0x48f700(0x158),_0x48f700(0x150),'issueType-mensaje')[_0x48f700(0xdc)]();_0x35fd48['Descripcion'][_0x48f700(0x134)]('beforeend',_0x230ace);var _0x22701e=new _0x155d8d[(_0x48f700(0x7e))](_0x48f700(0x158),_0x48f700(0x15d),_0x48f700(0x1a8)[_0x48f700(0x1a4)](_0x2256cb))['getElement']();_0x230ace[_0x48f700(0x134)](_0x48f700(0x8c),_0x22701e),_0x22701e['insertAdjacentElement'](_0x48f700(0x8c),new _0x155d8d[(_0x48f700(0x7e))](_0x48f700(0x158),'issueTypeTitulo',_0x48f700(0xcc),null,_0x39290c)[_0x48f700(0xdc)]()),_0x22701e[_0x48f700(0x134)](_0x48f700(0x8c),new _0x155d8d[(_0x48f700(0x7e))]('UL',_0x48f700(0x179),'issueType-lista')[_0x48f700(0xdc)]());var _0x2228a9=_0x488d55[_0x58b75b]['replacements'];console['log'](_0x2228a9);for(var _0x1c20d6=0x0;_0x1c20d6<_0x2228a9[_0x48f700(0x14a)];_0x1c20d6++){var _0x34b5a5=new _0x155d8d['CrearElementoHTML']('LI',_0x1c20d6,'issueType-'[_0x48f700(0x1a4)](_0x2256cb,'--item'),null,_0x2228a9[_0x1c20d6]['value'])[_0x48f700(0xdc)]();_0x34b5a5[_0x48f700(0x91)]('click',function(_0x4d96ea){var _0x3c0769=_0x48f700;document['getElementById'](_0x2aadba)[_0x3c0769(0x99)]=_0x4d96ea[_0x3c0769(0x137)][_0x3c0769(0x82)],_0x230ace[_0x3c0769(0x156)](),_0x35fd48[_0x3c0769(0x132)][_0x3c0769(0x12d)](_0x3c0769(0x13e),!![]);}),document[_0x48f700(0x16d)](_0x48f700(0x179))['insertAdjacentElement'](_0x48f700(0x8c),_0x34b5a5);}_0x230ace[_0x48f700(0x91)](_0x48f700(0x18d),function(_0x1f06e0){var _0x2f1a40=_0x48f700;_0x2256cb==_0x2f1a40(0xa8)?(_0x33dd8f[_0x2f1a40(0x8b)][_0x2f1a40(0x156)]('issueType-inconsistency--line'),_0x33dd8f[_0x2f1a40(0x8b)][_0x2f1a40(0x156)]('issueType'),_0x33dd8f[_0x2f1a40(0x7d)]('click',_0x581836),_0x1f06e0[_0x2f1a40(0x137)][_0x2f1a40(0x156)]()):_0x1f06e0[_0x2f1a40(0x137)][_0x2f1a40(0x156)](),_0x35fd48[_0x2f1a40(0x132)][_0x2f1a40(0x12d)](_0x2f1a40(0x13e),!![]);});};function _0x581836(){_0x3b8a0e(this);}(0x0,_0x5111f1['A'])(document['querySelectorAll'](_0x1a6d62(0xc0)))['forEach'](function(_0x44f340){var _0x5d1e37=_0x1a6d62;_0x44f340[_0x5d1e37(0x91)]('click',_0x581836);});})[_0xa2b6a2(0x147)](function(_0x4945d7){var _0xd3ed36=_0xa2b6a2;console[_0xd3ed36(0x171)]('Error\x20al\x20realizar\x20la\x20solicitud:',_0x4945d7);});}}},{'key':_0x5e3fde(0x182),'value':function _0x237747(){var _0x40b98d=_0x5e3fde;document[_0x40b98d(0x16d)](_0x40b98d(0x17f))['classList']['add'](_0x40b98d(0x176));}},{'key':_0x5e3fde(0xa2),'value':function _0x1cf5fe(){var _0x2efa2c=_0x5e3fde;document[_0x2efa2c(0x16d)]('background')[_0x2efa2c(0x156)](),document[_0x2efa2c(0x16d)](_0x2efa2c(0x17f))[_0x2efa2c(0x8b)][_0x2efa2c(0x156)](_0x2efa2c(0x176));}},{'key':_0x5e3fde(0x187),'value':function _0x1f2a24(_0x3eb2ab){var _0x1376b5=_0x5e3fde;_0x3eb2ab[_0x1376b5(0x137)]['id']==_0x1376b5(0x18a)&&document['getElementById'](_0x1376b5(0xcf))&&(!![]&&this['CerrarVentanaEmergente']());}},{'key':_0x5e3fde(0x14d),'value':function _0x17e620(_0x152573){var _0x31b72b=_0x5e3fde;_0x152573[_0x31b72b(0x149)]===_0x31b72b(0x192)&&(document['getElementById']('background')!=null||document['getElementById'](_0x31b72b(0x18a))!=undefined)&&(!document[_0x31b72b(0xa0)](_0x31b72b(0x12c))&&this[_0x31b72b(0xe7)](),document[_0x31b72b(0x7d)]('keydown',this['RemoverPreconcepto'][_0x31b72b(0x15b)](this),![]));}},{'key':_0x5e3fde(0x1b6),'value':function _0x1088be(){var _0x2d5d50=_0x5e3fde;!this[_0x2d5d50(0x121)][_0x2d5d50(0x189)]&&this[_0x2d5d50(0x121)]['ActivarPreregistro'](),this[_0x2d5d50(0xf8)]()?this['CerrarVentanaEmergente']():new _0x36a291[(_0x2d5d50(0x111))](this[_0x2d5d50(0x8e)],_0x2d5d50(0x10a),_0x2d5d50(0xc8)),this[_0x2d5d50(0x121)][_0x2d5d50(0x9f)][_0x2d5d50(0xc9)]=this[_0x2d5d50(0x132)]['innerHTML'];}},{'key':'GuardarParametros','value':function _0x5bf2e0(){var _0x2ccc6b=_0x5e3fde;if(!this[_0x2ccc6b(0x121)][_0x2ccc6b(0xaa)]){var _0x195d05=this[_0x2ccc6b(0x121)]['InputTiempoPreregistro_'][_0x2ccc6b(0x1ab)][_0x2ccc6b(0xf7)];this[_0x2ccc6b(0x121)][_0x2ccc6b(0x13b)]=this[_0x2ccc6b(0x13b)]?this[_0x2ccc6b(0x13b)]:0x0;this[_0x2ccc6b(0x13b)]&&this[_0x2ccc6b(0x121)]['InputTiempoPreregistro_'][_0x2ccc6b(0x1ab)][_0x2ccc6b(0xf7)]!==this[_0x2ccc6b(0x122)][_0x2ccc6b(0x1ab)][_0x2ccc6b(0xf7)]&&this[_0x2ccc6b(0x121)][_0x2ccc6b(0xb6)]();this[_0x2ccc6b(0x121)][_0x2ccc6b(0x160)][_0x2ccc6b(0x1ab)]['value']=this[_0x2ccc6b(0x122)]['Input'][_0x2ccc6b(0xf7)]?this['CantidadTiempo_'][_0x2ccc6b(0x1ab)]['value']:_0x2ccc6b(0x114);if(!this['Preregistro_']['Ruta_'][_0x2ccc6b(0x17b)]())return this[_0x2ccc6b(0x13b)]=this['Preregistro_'][_0x2ccc6b(0x160)][_0x2ccc6b(0xc3)],this[_0x2ccc6b(0x121)][_0x2ccc6b(0x160)][_0x2ccc6b(0x1ab)][_0x2ccc6b(0xf7)]=_0x195d05,this[_0x2ccc6b(0x122)][_0x2ccc6b(0x1ab)]['value']=this[_0x2ccc6b(0x121)][_0x2ccc6b(0x160)][_0x2ccc6b(0x1ab)][_0x2ccc6b(0xf7)],this[_0x2ccc6b(0x121)]['DesasegurarTiempo'](),![];else return!![];}else return!![];}}]);}());},0x2298:(_0x1c5a3b,_0x3d0180,_0x5ac008)=>{var _0x17f065=a39_0x3e32c4;_0x5ac008['r'](_0x3d0180),_0x5ac008['d'](_0x3d0180,{'InputTiempo_':()=>_0x11768e});var _0x577c23=_0x5ac008(0xbd5),_0x149c2a=_0x5ac008(0xb55),_0x57eb04=_0x5ac008(0x1173),_0x5556b9=_0x5ac008(0x1a7),_0xdee08a=_0x5ac008(0x88c),_0x194de1=_0x5ac008(0x1d09),_0x2af563=_0x5ac008(0xfb5),_0x52cb15=_0x5ac008(0x1b84),_0x20198c=_0x5ac008(0x171c),_0x4d49bf=_0x5ac008(0xd38),_0x4c94e4=_0x5ac008(0x1d01),_0x922c19=_0x5ac008(0x16cc),_0x2b32ad=_0x5ac008(0x2095);;const _0x7fb65a=_0x5ac008['p']+_0x17f065(0x18f);;const _0xfa227c=_0x5ac008['p']+_0x17f065(0xfa);var _0x43ea70=_0x5ac008(0x1347);;const _0x370085=_0x5ac008['p']+'img/sprite.svg';;function _0xf493f6(_0x382af7,_0x24a388,_0x5ef634){var _0x218667=_0x17f065;_0x114292(_0x382af7,_0x24a388),_0x24a388[_0x218667(0xd5)](_0x382af7,_0x5ef634);}function _0x114292(_0x5d259e,_0x32bffc){var _0x500e2e=_0x17f065;if(_0x32bffc[_0x500e2e(0x1bb)](_0x5d259e))throw new TypeError(_0x500e2e(0x165));}function _0x53554c(_0x39c028,_0x340854){return _0x39c028['get'](_0x3f2f6b(_0x39c028,_0x340854));}function _0x3f2f6b(_0x5a8d2b,_0xd2830e,_0x4ab1c1){var _0x5d7f9b=_0x17f065;if(_0x5d7f9b(0x86)==typeof _0x5a8d2b?_0x5a8d2b===_0xd2830e:_0x5a8d2b[_0x5d7f9b(0x1bb)](_0xd2830e))return arguments['length']<0x3?_0xd2830e:_0x4ab1c1;throw new TypeError(_0x5d7f9b(0x112));}(0x0,_0x5556b9['Encabezado'])();var _0x5d28cd=[],_0x29d1d5=new _0x4c94e4[(_0x17f065(0x153))](),_0x577fc7=new WeakMap(),_0x13fa80=(function(){var _0x6bcd6f=_0x17f065;function _0x4e8e10(_0x2d2763,_0xbae809,_0x273838,_0x43018c,_0x99b1f4,_0x235a3a){var _0x29d7ff=a39_0x1306;(0x0,_0x577c23['A'])(this,_0x4e8e10),(0x0,_0x57eb04['A'])(this,'id',void 0x0),(0x0,_0x57eb04['A'])(this,_0x29d7ff(0xec),void 0x0),(0x0,_0x57eb04['A'])(this,_0x29d7ff(0xb7),void 0x0),(0x0,_0x57eb04['A'])(this,_0x29d7ff(0xca),void 0x0),(0x0,_0x57eb04['A'])(this,'JSON_Preregistros',void 0x0),(0x0,_0x57eb04['A'])(this,_0x29d7ff(0x104),[]),(0x0,_0x57eb04['A'])(this,_0x29d7ff(0xda),void 0x0),(0x0,_0x57eb04['A'])(this,_0x29d7ff(0x16f),void 0x0),(0x0,_0x57eb04['A'])(this,_0x29d7ff(0x93),void 0x0),(0x0,_0x57eb04['A'])(this,_0x29d7ff(0x118),0x0),_0xf493f6(this,_0x577fc7,new _0x4d49bf[(_0x29d7ff(0x7e))](_0x29d7ff(0x158),'Ruta_'[_0x29d7ff(0x1a4)](_0x5d28cd[_0x29d7ff(0x14a)]+0x1),_0x29d7ff(0x130))[_0x29d7ff(0xdc)]()),(0x0,_0x57eb04['A'])(this,_0x29d7ff(0x195),document[_0x29d7ff(0x16d)]('vigilancia_judicial-Rutas')),this['id']=_0x2d2763,this[_0x29d7ff(0xec)]=_0xbae809,this[_0x29d7ff(0xb7)]=_0x273838,this[_0x29d7ff(0xca)]=_0x43018c,this[_0x29d7ff(0xed)]=_0x99b1f4,this['clasificaciones']=_0x235a3a,this[_0x29d7ff(0x16f)]=new _0x11768e(this,'inputTiempoTotal',!![]),this[_0x29d7ff(0x93)]=new _0x4d49bf[(_0x29d7ff(0xdf))](_0x29d7ff(0x7b),null,null,null,null,_0x29d7ff(0x146))[_0x29d7ff(0xdc)](),this['contenedor'][_0x29d7ff(0x148)](_0x53554c(_0x577fc7,this)),this['construirRuta']();}return(0x0,_0x149c2a['A'])(_0x4e8e10,[{'key':_0x6bcd6f(0x88),'value':function _0x1066c0(){var _0x48d52c=_0x6bcd6f,_0x49b664=this;this[_0x48d52c(0x16f)][_0x48d52c(0x1ab)][_0x48d52c(0x84)]=!![];var _0x32a4d7=(0x0,_0xdee08a[_0x48d52c(0xf2)])(this[_0x48d52c(0xca)]),_0x52c70d=_0x48d52c(0x9e)['concat'](_0x32a4d7[0x0],',\x20')[_0x48d52c(0x1a4)](_0x32a4d7[0x1],_0x48d52c(0x159))[_0x48d52c(0x1a4)](_0x32a4d7[0x2],_0x48d52c(0x19f));_0x53554c(_0x577fc7,this)[_0x48d52c(0x103)]='border:\x20solid\x201px\x20'[_0x48d52c(0x1a4)](_0x52c70d,';');var _0xaebe9d=new _0x4d49bf[(_0x48d52c(0x7e))](_0x48d52c(0x158),null,_0x48d52c(0x78),_0x48d52c(0xfd)[_0x48d52c(0x1a4)](_0x52c70d,';'))[_0x48d52c(0xdc)](),_0x199b64=new _0x4d49bf[(_0x48d52c(0x7e))](_0x48d52c(0x158),null,'footerRuta',_0x48d52c(0xfd)[_0x48d52c(0x1a4)](_0x52c70d,';'))['getElement'](),_0x4a47ef=new _0x4d49bf[(_0x48d52c(0x7e))](_0x48d52c(0x158),null,_0x48d52c(0x170))['getElement']();_0x53554c(_0x577fc7,this)[_0x48d52c(0x148)](_0xaebe9d),_0x53554c(_0x577fc7,this)[_0x48d52c(0x148)](_0x4a47ef),_0x53554c(_0x577fc7,this)[_0x48d52c(0x148)](_0x199b64),_0xaebe9d[_0x48d52c(0x148)](new _0x4d49bf[(_0x48d52c(0x14b))]('P',''[_0x48d52c(0x1a4)](this['nombre'],'\x20-\x20')['concat'](this['fecha']),null,_0x48d52c(0x17c))[_0x48d52c(0xdc)]());var _0x593a07=new _0x4d49bf[(_0x48d52c(0x7e))]('DIV',null,'sideHeaderRuta')['getElement']();_0x593a07[_0x48d52c(0x148)](this[_0x48d52c(0x16f)][_0x48d52c(0x1ab)]),_0x593a07['appendChild'](new _0x4d49bf[(_0x48d52c(0x16c))](_0x48d52c(0x11c),'KIUX-Icon-blocked')['getElement']()),_0x593a07[_0x48d52c(0x148)](this[_0x48d52c(0x93)]),_0xaebe9d[_0x48d52c(0x148)](_0x593a07);var _0x20568c=new _0x4d49bf[(_0x48d52c(0xee))](![],_0x48d52c(0xc6),'BtnTerminarRuta\x20ancho--default',null,_0x48d52c(0xb9))[_0x48d52c(0xdc)]();_0x20568c[_0x48d52c(0x91)](_0x48d52c(0x18d),function(){var _0x3bb094=_0x48d52c;_0x49b664[_0x3bb094(0x1b0)]();}),_0x199b64[_0x48d52c(0x148)](_0x20568c),this[_0x48d52c(0x15a)](_0x4a47ef),this['InputCheckAsegurar']['addEventListener']('change',function(_0x4d482e){var _0x28f085=_0x48d52c;_0x4d482e[_0x28f085(0x137)][_0x28f085(0xe1)]?_0x49b664['ActivarTiempoFijo']():_0x49b664[_0x28f085(0x15c)]();});}},{'key':_0x6bcd6f(0x15a),'value':function _0x4bb829(_0x3fedd7){var _0x1a5c6c=_0x6bcd6f,_0xc3777f=this;this[_0x1a5c6c(0xed)][_0x1a5c6c(0x184)](function(_0x420bce){var _0x11abb3=_0x1a5c6c,_0x40a1ba=new _0x523b30(_0x420bce['id'],_0x420bce[_0x11abb3(0x193)],_0x420bce[_0x11abb3(0xca)],_0x420bce[_0x11abb3(0x1a5)],_0x420bce[_0x11abb3(0x11a)],_0x420bce['estado'],_0xc3777f);_0x3fedd7[_0x11abb3(0x148)](_0x40a1ba[_0x11abb3(0xcb)]()),_0xc3777f['Preregistros_'][_0x11abb3(0xf4)](_0x40a1ba);});}},{'key':_0x6bcd6f(0x1b0),'value':function _0x2a9290(){var _0xaf935a=_0x6bcd6f,_0x3b7fa9={'id':this['id'],'nombre':this[_0xaf935a(0xb7)],'fecha':this['fecha'],'registros':[]},_0x26f6fc=this[_0xaf935a(0x104)]['filter'](function(_0x2f4ae3){var _0x5af614=_0xaf935a;return _0x2f4ae3[_0x5af614(0x189)];}),_0x40bbc5=0x0,_0x54fd15=0x0,_0x4360a8=0x0,_0x27ab73=/^(?:[01]\d|2[0-3]):[0-5]\d$/;_0x26f6fc[_0xaf935a(0x184)](function(_0x257778){var _0x34252d=_0xaf935a;(!_0x257778[_0x34252d(0x9f)]['innerHTML']||_0x257778[_0x34252d(0x9f)][_0x34252d(0xc9)]==_0x34252d(0x94))&&_0x40bbc5++;_0x257778['TiempoAsignado']==0x0&&_0x54fd15++;!_0x27ab73[_0x34252d(0x10f)](_0x257778[_0x34252d(0x160)][_0x34252d(0x1ab)][_0x34252d(0xf7)])&&_0x4360a8++;if(!_0x40bbc5||!_0x54fd15||!_0x4360a8){var _0x472573={'id':_0x257778['id'],'descripcion':_0x257778[_0x34252d(0x9f)][_0x34252d(0xc9)],'tiempo':_0x257778[_0x34252d(0x13b)]};_0x3b7fa9[_0x34252d(0x97)][_0x34252d(0xf4)](_0x472573);}});if(_0x40bbc5||_0x54fd15||_0x4360a8){var _0x13a321=_0xaf935a(0xc1)+(_0x40bbc5?'\x20'[_0xaf935a(0x1a4)](_0x40bbc5,'\x20registro')[_0xaf935a(0x1a4)](_0x40bbc5>0x1?'s':'',_0xaf935a(0x19d)):'')+(_0x40bbc5&&_0x54fd15?'\x20y':'')+(_0x54fd15?'\x20'[_0xaf935a(0x1a4)](_0x54fd15,_0xaf935a(0x139))['concat'](_0x54fd15>0x1?'s':'',_0xaf935a(0xc2)):'')+'.';_0x4360a8&&console['log']('Preciona\x20Enter\x20en\x20la\x20hora\x20para\x20darle\x20formato'),new _0x194de1[(_0xaf935a(0xe8))]('Error',_0x13a321);}else _0x3b7fa9['registros']['length']?new _0x194de1[(_0xaf935a(0x152))](JSON[_0xaf935a(0x13f)](_0x3b7fa9)):new _0x194de1['MostrarError'](_0xaf935a(0xa6),_0xaf935a(0x188));}},{'key':_0x6bcd6f(0x13c),'value':function _0x1f5141(){var _0x5e897f=_0x6bcd6f,_0x6e06e0=this[_0x5e897f(0x117)](),_0x125d11=this[_0x5e897f(0x118)],_0x3d152e=null,_0x30e738=0x0,_0x2c0066=0x0;this[_0x5e897f(0x104)]['forEach'](function(_0x5f12fa){var _0x455f72=_0x5e897f;_0x5f12fa[_0x455f72(0xaa)]&&_0x5f12fa[_0x455f72(0x189)]&&(_0x125d11-=_0x5f12fa[_0x455f72(0x13b)],_0x2c0066++);});_0x6e06e0&&(_0x3d152e=parseInt(_0x125d11/_0x6e06e0),_0x30e738=_0x125d11%_0x6e06e0);if(_0x3d152e<0x1&&_0x2c0066)return new _0x194de1[(_0x5e897f(0xe8))](_0x5e897f(0x10a),_0x5e897f(0xc8)),![];return this['Preregistros_']['forEach'](function(_0x396ba6){var _0x4398ed=_0x5e897f,_0x1c9077=_0x3d152e;_0x396ba6[_0x4398ed(0x189)]&&!_0x396ba6['Asegurado']&&(_0x30e738>0x0&&(_0x1c9077+=0x1,_0x30e738--),_0x396ba6['IngresarValorTiempo'](_0x1c9077));}),!![];}},{'key':_0x6bcd6f(0xcd),'value':function _0x5c1379(){var _0x31883d=_0x6bcd6f,_0x4646f2=this;return this[_0x31883d(0x118)]=0x0,this[_0x31883d(0x104)][_0x31883d(0x184)](function(_0x42b7d5){var _0x510b30=_0x31883d;_0x42b7d5[_0x510b30(0x189)]&&(_0x4646f2[_0x510b30(0x118)]+=_0x42b7d5[_0x510b30(0x13b)]);}),this[_0x31883d(0x16f)][_0x31883d(0x1ab)]['value']=_0xabc7b9(this[_0x31883d(0x118)]),!![];}},{'key':_0x6bcd6f(0x17b),'value':function _0x1a2801(){return this['InputCheckAsegurar']['checked']?this['DistribuirTiempo']():this['SumarTiempos']();}},{'key':_0x6bcd6f(0x117),'value':function _0x4e5706(){var _0x14ed6b=_0x6bcd6f,_0x2cc094=0x0;return this['Preregistros_'][_0x14ed6b(0x184)](function(_0x3bb69){var _0x568f14=_0x14ed6b;if(_0x3bb69[_0x568f14(0x189)]&&!_0x3bb69[_0x568f14(0xaa)])_0x2cc094++;}),_0x2cc094;}},{'key':_0x6bcd6f(0x18e),'value':function _0x10e409(){var _0x350f65=_0x6bcd6f;this[_0x350f65(0x16f)][_0x350f65(0x1ab)][_0x350f65(0x84)]=![],this[_0x350f65(0x17b)]();}},{'key':_0x6bcd6f(0x15c),'value':function _0x87e9cc(){var _0x3ed83c=_0x6bcd6f;this[_0x3ed83c(0x16f)]['Input'][_0x3ed83c(0x84)]=!![],this[_0x3ed83c(0x104)][_0x3ed83c(0x184)](function(_0x42bce4){var _0x298bd5=_0x3ed83c;_0x42bce4['Asegurado']&&(_0x42bce4['InputTiempoPreregistro_'][_0x298bd5(0x1ab)][_0x298bd5(0x8b)][_0x298bd5(0x156)]('asegurado'),_0x42bce4[_0x298bd5(0xaa)]=![],_0x42bce4[_0x298bd5(0x8f)][_0x298bd5(0xa3)]=!![],_0x42bce4['InputTiempoPreregistro_'][_0x298bd5(0x1ab)]['disabled']=![]);});}}]);}()),_0x4a2b1f=new WeakMap(),_0x523b30=(function(){var _0x1e808a=_0x17f065;function _0x192401(_0x48a653,_0x8768e2,_0x5796ea,_0x216b4f,_0x484a25,_0x5dd0e7,_0x46a689){var _0x17986f=a39_0x1306;(0x0,_0x577c23['A'])(this,_0x192401),_0xf493f6(this,_0x4a2b1f,new _0x4d49bf[(_0x17986f(0x7e))](_0x17986f(0x158),null,_0x17986f(0xbe))['getElement']()),(0x0,_0x57eb04['A'])(this,_0x17986f(0x1ae),void 0x0),(0x0,_0x57eb04['A'])(this,_0x17986f(0x189),![]),(0x0,_0x57eb04['A'])(this,_0x17986f(0xaa),![]),(0x0,_0x57eb04['A'])(this,_0x17986f(0x13b),0x0),(0x0,_0x57eb04['A'])(this,'id',void 0x0),(0x0,_0x57eb04['A'])(this,_0x17986f(0x193),void 0x0),(0x0,_0x57eb04['A'])(this,'color',void 0x0),(0x0,_0x57eb04['A'])(this,_0x17986f(0x1a5),void 0x0),(0x0,_0x57eb04['A'])(this,_0x17986f(0x11a),void 0x0),(0x0,_0x57eb04['A'])(this,_0x17986f(0x166),void 0x0),(0x0,_0x57eb04['A'])(this,_0x17986f(0x9f),void 0x0),(0x0,_0x57eb04['A'])(this,_0x17986f(0xaf),void 0x0),(0x0,_0x57eb04['A'])(this,'InputTiempoPreregistro_',void 0x0),(0x0,_0x57eb04['A'])(this,'botonDesasegurar_Asegurar',void 0x0),(0x0,_0x57eb04['A'])(this,_0x17986f(0x8d),void 0x0),this['id']=_0x48a653,this[_0x17986f(0x193)]=_0x8768e2,this[_0x17986f(0xca)]=_0x5796ea,this[_0x17986f(0x1a5)]=_0x216b4f,this[_0x17986f(0x11a)]=_0x484a25,this[_0x17986f(0x166)]=_0x5dd0e7,this[_0x17986f(0x1ae)]=_0x46a689,this[_0x17986f(0x87)]();}return(0x0,_0x149c2a['A'])(_0x192401,[{'key':'construirPreregistro','value':function _0x12df85(){var _0x328960=a39_0x1306,_0x3cc879=this,_0x293d49=(0x0,_0xdee08a['GetHSL'])(this[_0x328960(0xca)]),_0x163fc2='background-color:\x20hsl('[_0x328960(0x1a4)](_0x293d49[0x0],',\x20')[_0x328960(0x1a4)](_0x293d49[0x1],_0x328960(0x159))[_0x328960(0x1a4)](_0x293d49[0x2],_0x328960(0x19f)),_0x4c3447=_0x328960(0xdb)[_0x328960(0x1a4)](_0x293d49[0x0],',\x20')[_0x328960(0x1a4)](_0x293d49[0x1],_0x328960(0xe9)),_0x44e802=new _0x4d49bf[(_0x328960(0x7e))]('Div',null,_0x328960(0x15f),_0x163fc2)[_0x328960(0xdc)](),_0x328d53=new _0x4d49bf['CrearElementoHTML'](_0x328960(0x158),null,'contentPreregistro',_0x4c3447)['getElement'](),_0x39ae5a=new _0x4d49bf[(_0x328960(0x7e))](_0x328960(0x158),null,_0x328960(0x96))['getElement']();_0x44e802['appendChild'](new _0x4d49bf[(_0x328960(0x7e))](_0x328960(0x158),null,'idioma',_0x328960(0x135)[_0x328960(0x1a4)]((0x0,_0xdee08a[_0x328960(0x15e)])(this[_0x328960(0xca)])),_0x328960(0x1b7)[_0x328960(0x1a4)](this[_0x328960(0x1a5)],_0x328960(0xf5)))[_0x328960(0xdc)]()),_0x44e802[_0x328960(0x148)](new _0x4d49bf[(_0x328960(0x7e))](_0x328960(0x158),null,_0x328960(0x124),null,this['titulo'])[_0x328960(0xdc)]()),this[_0x328960(0x9f)]=new _0x4d49bf['CrearElementoHTML_Text']('P','',null,'descripcionPreregistro\x20disabled')[_0x328960(0xdc)](),this[_0x328960(0xaf)]=new _0x4d49bf[(_0x328960(0xf1))](this[_0x328960(0x1ae)][_0x328960(0xda)]['map'](function(_0x1003fa){var _0x4e2b2c=_0x328960;return _0x1003fa[_0x4e2b2c(0x109)];}),_0x328960(0x109),null,_0x328960(0xaf))[_0x328960(0xdc)](),this[_0x328960(0x160)]=new _0x11768e(this,'inputTiempoPreregistro'),this[_0x328960(0x8f)]=new _0x4d49bf[(_0x328960(0xee))](!![],_0x328960(0x1b9),_0x328960(0x1b9))[_0x328960(0xdc)](),this[_0x328960(0x8d)]=new _0x4d49bf[(_0x328960(0xee))](!![],'BotonDeshabilitar','botonDeshabilitar')[_0x328960(0xdc)](),this['botonDesasegurar_Asegurar'][_0x328960(0x148)](new _0x4d49bf[(_0x328960(0x16c))]('../img/unlink-svgrepo-com_dark.svg')[_0x328960(0xdc)]()),this[_0x328960(0x8d)][_0x328960(0x148)](new _0x4d49bf[(_0x328960(0x16c))](_0x328960(0x1ad))[_0x328960(0xdc)]()),_0x39ae5a[_0x328960(0x148)](this['InputTiempoPreregistro_'][_0x328960(0x1ab)]),_0x39ae5a[_0x328960(0x148)](this[_0x328960(0x8f)]),_0x39ae5a[_0x328960(0x148)](this[_0x328960(0x8d)]);var _0x29f41b=new _0x4d49bf['CrearElementoHTML']('DIV',null,_0x328960(0x116))[_0x328960(0xdc)]();_0x29f41b['innerHTML']='<svg\x20class=\x22svg_img\x22\x20viewBox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22./img/sprite.svg#c26\x22></use></svg>',_0x29f41b[_0x328960(0x148)](this[_0x328960(0x9f)]);var _0x3f0098=new _0x4d49bf[(_0x328960(0x7e))](_0x328960(0x158),null,_0x328960(0x161))[_0x328960(0xdc)]();_0x3f0098[_0x328960(0x148)](this[_0x328960(0xaf)]),_0x3f0098[_0x328960(0x148)](_0x39ae5a),_0x328d53[_0x328960(0x148)](_0x29f41b),_0x328d53[_0x328960(0x148)](_0x3f0098),_0x53554c(_0x4a2b1f,this)[_0x328960(0x148)](_0x44e802),_0x53554c(_0x4a2b1f,this)[_0x328960(0x148)](_0x328d53),this[_0x328960(0x160)][_0x328960(0x1ab)][_0x328960(0xa3)]=!![],this[_0x328960(0x9f)][_0x328960(0x82)]='',this[_0x328960(0x9f)]['addEventListener'](_0x328960(0x18d),function(){var _0x40ce9c=_0x328960;if(!_0x3cc879[_0x40ce9c(0x9f)]['classList'][_0x40ce9c(0x173)](_0x40ce9c(0xa3)))new _0x2b32ad['DialogoEditar_'](_0x3cc879);});var _0x242293=new MutationObserver(function(_0x2bcbbc){var _0x523c1b=_0x328960;_0x2bcbbc[_0x523c1b(0x184)](function(_0x45127a){var _0x3058ab=_0x523c1b;_0x45127a[_0x3058ab(0x85)]==='childList'&&_0x45127a[_0x3058ab(0x137)][_0x3058ab(0xc9)]&&_0x3cc879[_0x3058ab(0x108)]();});});_0x242293[_0x328960(0xfb)](this[_0x328960(0x9f)],{'childList':!![],'subtree':![],'characterData':!![],'characterDataOldValue':!![]}),this[_0x328960(0x8f)][_0x328960(0x91)]('click',function(){var _0x523249=_0x328960;_0x3cc879[_0x523249(0xd8)]();}),this[_0x328960(0x8d)][_0x328960(0x91)](_0x328960(0x18d),function(){_0x3cc879['DesactivarPreregistro']();}),this[_0x328960(0xaf)]['addEventListener'](_0x328960(0xbb),function(_0x263543){var _0x55937d=_0x328960;_0x3cc879[_0x55937d(0x101)](_0x263543);});}},{'key':_0x1e808a(0xcb),'value':function _0x28ab0d(){return _0x53554c(_0x4a2b1f,this);}},{'key':'AsegurarTiempo','value':function _0xf9b201(){var _0xb2f140=_0x1e808a;this[_0xb2f140(0x1ae)][_0xb2f140(0x93)]['checked']&&(!this['InputTiempoPreregistro_']['Input'][_0xb2f140(0x8b)][_0xb2f140(0x173)](_0xb2f140(0x1ac))&&!this['Asegurado']&&(this[_0xb2f140(0x160)][_0xb2f140(0x1ab)][_0xb2f140(0x8b)][_0xb2f140(0x100)](_0xb2f140(0x1ac)),this[_0xb2f140(0xaa)]=!![],this[_0xb2f140(0x8f)][_0xb2f140(0xa3)]=![],this[_0xb2f140(0x160)]['Input'][_0xb2f140(0xa3)]=!![]),this[_0xb2f140(0x1ae)][_0xb2f140(0x17b)]());}},{'key':_0x1e808a(0xd8),'value':function _0x58ac64(){var _0x4a0587=_0x1e808a;this[_0x4a0587(0x160)][_0x4a0587(0x1ab)][_0x4a0587(0x8b)][_0x4a0587(0x173)](_0x4a0587(0x1ac))&&this['Asegurado']&&(this[_0x4a0587(0x160)][_0x4a0587(0x1ab)][_0x4a0587(0x8b)]['remove'](_0x4a0587(0x1ac)),this[_0x4a0587(0xaa)]=![],this['botonDesasegurar_Asegurar'][_0x4a0587(0xa3)]=!![],this[_0x4a0587(0x160)]['Input']['disabled']=![]),this[_0x4a0587(0x1ae)]['Distribuir_Sumar_Tiempo']();}},{'key':_0x1e808a(0x169),'value':function _0x29634b(){var _0x9916e4=_0x1e808a;this[_0x9916e4(0x189)]=![],this['botonDesasegurar_Asegurar'][_0x9916e4(0xa3)]=!![],this['botonDeshabilitar'][_0x9916e4(0xa3)]=!![],this['InputTiempoPreregistro_'][_0x9916e4(0x1ab)][_0x9916e4(0xa3)]=!![],this[_0x9916e4(0x160)]['ReiniciarValores'](),this[_0x9916e4(0x9f)][_0x9916e4(0x8b)][_0x9916e4(0x100)](_0x9916e4(0xa3)),this[_0x9916e4(0x9f)]['textContent']='',this[_0x9916e4(0xaf)][_0x9916e4(0xf7)]=_0x9916e4(0x10d),this[_0x9916e4(0x13b)]=0x0,this['descripcionPreregistro'][_0x9916e4(0x8b)]['add'](_0x9916e4(0xa3)),this[_0x9916e4(0x1ae)][_0x9916e4(0x17b)]();}},{'key':'ActivarPreregistro','value':function _0xcdbae1(){var _0xfd21da=_0x1e808a;this['Activo']=!![],this[_0xfd21da(0x8d)]['disabled']=![],this[_0xfd21da(0x160)][_0xfd21da(0x1ab)]['disabled']=![],this[_0xfd21da(0x160)]['Input']['value']=_0xfd21da(0x114),this[_0xfd21da(0x9f)][_0xfd21da(0x8b)][_0xfd21da(0x156)](_0xfd21da(0xa3)),this[_0xfd21da(0x1ae)][_0xfd21da(0x17b)]();}},{'key':_0x1e808a(0x101),'value':function _0x35f3e2(_0x3d5d44){var _0x3d9c7c=_0x1e808a;this[_0x3d9c7c(0x9f)][_0x3d9c7c(0x82)]=this[_0x3d9c7c(0x1ae)][_0x3d9c7c(0xda)][_0x3d9c7c(0x145)](function(_0x2bed5a){var _0x439def=_0x3d9c7c;return _0x2bed5a[_0x439def(0x109)]==_0x3d5d44[_0x439def(0x137)]['options'][_0x3d5d44[_0x439def(0x137)][_0x439def(0x14e)]][_0x439def(0x125)];})[_0x3d9c7c(0x13d)];}},{'key':_0x1e808a(0x108),'value':function _0x10e013(){!this['Activo']&&this['ActivarPreregistro']();}},{'key':_0x1e808a(0x79),'value':function _0x569cf4(_0x48f17e){var _0x2db9cd=_0x1e808a;this['TiempoAsignado']=_0x48f17e,this[_0x2db9cd(0x160)][_0x2db9cd(0x1ab)]['value']=_0xabc7b9(_0x48f17e);}}]);}()),_0x11768e=(function(){var _0x1e4bb6=_0x17f065;function _0x54ecbe(_0x41600b,_0x4cb621,_0x9f6b32,_0x524eea){var _0x343d35=a39_0x1306,_0x1b62c0=this;(0x0,_0x577c23['A'])(this,_0x54ecbe),(0x0,_0x57eb04['A'])(this,_0x343d35(0x1ab),void 0x0),(0x0,_0x57eb04['A'])(this,_0x343d35(0x120),''),(0x0,_0x57eb04['A'])(this,'ValorAnteriorEscritura',''),(0x0,_0x57eb04['A'])(this,_0x343d35(0x121),void 0x0),(0x0,_0x57eb04['A'])(this,_0x343d35(0x1ae),void 0x0),(0x0,_0x57eb04['A'])(this,'VentanaEditar_',void 0x0),(0x0,_0x57eb04['A'])(this,_0x343d35(0x10c),0x0),(0x0,_0x57eb04['A'])(this,'AnteriorTiempoAsignado',0x0);if(_0x524eea)this[_0x343d35(0xe5)]=_0x41600b;else{if(_0x9f6b32)this['Ruta_']=_0x41600b;else this[_0x343d35(0x121)]=_0x41600b;}this[_0x343d35(0x1ab)]=new _0x4d49bf[(_0x343d35(0xdf))](_0x343d35(0x125),null,_0x4cb621)[_0x343d35(0xdc)](),(0x0,_0x2af563[_0x343d35(0x129)])(null,this[_0x343d35(0x1ab)]),this[_0x343d35(0x1ab)][_0x343d35(0x8b)]['add'](_0x343d35(0xde)),this[_0x343d35(0x1ab)][_0x343d35(0x91)](_0x343d35(0x105),function(_0x5b3143){var _0x1be1e4=_0x343d35;_0x1b62c0[_0x1be1e4(0xa5)](_0x5b3143);}),this['Input'][_0x343d35(0x91)](_0x343d35(0x151),function(_0x8f9509){var _0x2dd4bb=_0x343d35;_0x8f9509[_0x2dd4bb(0x149)]==_0x2dd4bb(0xa4)&&_0x1b62c0[_0x2dd4bb(0xfc)]();}),this[_0x343d35(0x1ab)][_0x343d35(0x91)](_0x343d35(0x198),function(){var _0x4812b6=_0x343d35;_0x1b62c0[_0x4812b6(0xfc)]();});}return(0x0,_0x149c2a['A'])(_0x54ecbe,[{'key':_0x1e4bb6(0xa5),'value':function _0x38c687(_0x454f2c){var _0x3e6d76=_0x1e4bb6,_0x722614=/^(?:[0-9]|0[0-9]|1[0-9]|2[0-3])?(?::(?:[0-9]|[0-5][0-9])?)?$|^$/;_0x722614[_0x3e6d76(0x10f)](_0x454f2c['target'][_0x3e6d76(0xf7)])?this[_0x3e6d76(0x18c)]=_0x454f2c[_0x3e6d76(0x137)][_0x3e6d76(0xf7)]:_0x454f2c[_0x3e6d76(0x137)][_0x3e6d76(0xf7)]=this[_0x3e6d76(0x18c)];}},{'key':_0x1e4bb6(0xfc),'value':function _0x10405c(){var _0x9640d8=_0x1e4bb6;this[_0x9640d8(0xe5)]?(this['VentanaEditar_']['TiempoAsignado']=_0x1e4ee1(this[_0x9640d8(0x1ab)]['value']),this[_0x9640d8(0x1ab)][_0x9640d8(0xf7)]=_0xabc7b9(this[_0x9640d8(0xe5)][_0x9640d8(0x13b)])):(this[_0x9640d8(0x1ae)]?this[_0x9640d8(0x1ae)]['tiempoTotalMinutos']=_0x1e4ee1(this[_0x9640d8(0x1ab)][_0x9640d8(0xf7)]):(this[_0x9640d8(0xc3)]=this[_0x9640d8(0x121)]['TiempoAsignado'],this[_0x9640d8(0x121)][_0x9640d8(0x13b)]=_0x1e4ee1(this[_0x9640d8(0x1ab)][_0x9640d8(0xf7)]),this[_0x9640d8(0x121)][_0x9640d8(0xb6)]()),(this[_0x9640d8(0x121)]?this['Preregistro_'][_0x9640d8(0x1ae)][_0x9640d8(0x17b)]():this[_0x9640d8(0x1ae)]['Distribuir_Sumar_Tiempo']())?(!this['Ruta_']&&(this[_0x9640d8(0xc3)]=this[_0x9640d8(0x121)]['TiempoAsignado']!=this[_0x9640d8(0xc3)]?this[_0x9640d8(0x121)]['TiempoAsignado']:this[_0x9640d8(0xc3)]),this['Input'][_0x9640d8(0xf7)]=_0xabc7b9(_0x1e4ee1(this['Input'][_0x9640d8(0xf7)])),this['ValorAnterior']=this[_0x9640d8(0x1ab)][_0x9640d8(0xf7)]!=this[_0x9640d8(0x120)]?this[_0x9640d8(0x1ab)]['value']:this[_0x9640d8(0x120)]):!this[_0x9640d8(0x1ae)]?(this[_0x9640d8(0x121)]['TiempoAsignado']=this['AnteriorTiempoAsignado'],this[_0x9640d8(0x1ab)][_0x9640d8(0xf7)]=_0xabc7b9(this[_0x9640d8(0x121)][_0x9640d8(0x13b)]),this[_0x9640d8(0x121)][_0x9640d8(0xd8)]()):this[_0x9640d8(0x1ab)][_0x9640d8(0xf7)]=this[_0x9640d8(0x120)]);}},{'key':'getInput','value':function _0x2159f7(){return this['Input'];}},{'key':'ReiniciarValores','value':function _0x5a00ef(){var _0x1ac6ed=_0x1e4bb6;this[_0x1ac6ed(0x120)]='',this[_0x1ac6ed(0x18c)]='',this['tiempoRegistradoMinutos']=0x0,this[_0x1ac6ed(0xc3)]=0x0,this[_0x1ac6ed(0x1ab)][_0x1ac6ed(0xf7)]='',this[_0x1ac6ed(0x1ab)][_0x1ac6ed(0x8b)]['remove'](_0x1ac6ed(0x1ac));}}]);}());_0x29d1d5[_0x17f065(0x1a2)](_0x17f065(0xbf))[_0x17f065(0x143)](function(_0x18d5c8){var _0x1cb385=_0x17f065;_0x58d072(_0x18d5c8[_0x1cb385(0xae)]);});function _0x58d072(_0x5b8c16){var _0x1302e9=_0x17f065,_0x91d0ff=document[_0x1302e9(0x16d)](_0x1302e9(0x7c));_0x91d0ff[_0x1302e9(0x148)](new _0x4d49bf[(_0x1302e9(0x175))]('vacia',null,null,'display:\x20none',_0x1302e9(0x197))['getElement']()),_0x5b8c16[_0x1302e9(0x184)](function(_0x5641bb){var _0x5a4a2c=_0x1302e9,_0x2b2a43=new _0x4d49bf[(_0x5a4a2c(0x175))](_0x5641bb[_0x5a4a2c(0xb4)],null,null,null,_0x5641bb['nombre_ruta'])[_0x5a4a2c(0xdc)]();_0x91d0ff['appendChild'](_0x2b2a43);});}document['getElementById'](_0x17f065(0x17a))[_0x17f065(0x91)]('click',function(){_0x5a3237();});function _0x5a3237(){var _0x40be3b=_0x17f065,_0x28c546=document[_0x40be3b(0x16d)](_0x40be3b(0x7c)),_0x4c8356=document['getElementById'](_0x40be3b(0xd2));if(_0x28c546[_0x40be3b(0xf7)]!=_0x40be3b(0xdd)&&_0x4c8356[_0x40be3b(0x95)](_0x40be3b(0x1b2))&&_0x4c8356[_0x40be3b(0x95)](_0x40be3b(0x1b2))!='undefined')_0x328ba1(_0x28c546[_0x40be3b(0xf7)],_0x4c8356[_0x40be3b(0x95)](_0x40be3b(0x1b2))),_0x28c546[_0x40be3b(0xf7)]=_0x40be3b(0xdd);else{if(_0x28c546[_0x40be3b(0xf7)]==_0x40be3b(0xdd)&&(!_0x4c8356[_0x40be3b(0x95)](_0x40be3b(0x1b2))||_0x4c8356['getAttribute'](_0x40be3b(0x1b2))==_0x40be3b(0x167)))new _0x194de1[(_0x40be3b(0xe8))](_0x40be3b(0x196));else{if(_0x28c546[_0x40be3b(0xf7)]==_0x40be3b(0xdd))new _0x194de1[(_0x40be3b(0xe8))](_0x40be3b(0x12b));else(!_0x4c8356[_0x40be3b(0x95)]('data-value')||_0x4c8356[_0x40be3b(0x95)](_0x40be3b(0x1b2))==_0x40be3b(0x167))&&new _0x194de1[(_0x40be3b(0xe8))](_0x40be3b(0xa7));}}}function _0x328ba1(_0x4a8462,_0x2ccd19){var _0x4aa750=_0x17f065,_0x4a6d38=_0x4aa750(0x1a9)[_0x4aa750(0x1a4)](_0x4a8462,_0x4aa750(0x191));!_0x5d28cd['find'](function(_0x3739cb){var _0x444d04=_0x4aa750;return _0x3739cb['id']==_0x4a8462&&_0x3739cb[_0x444d04(0xec)]==_0x2ccd19;})?_0x29d1d5[_0x4aa750(0x1a2)](_0x4a6d38)[_0x4aa750(0x143)](function(_0x10a7f9){var _0x5715e3=_0x4aa750,_0x21e1cf=new _0x13fa80(_0x10a7f9['id'],_0x2ccd19,_0x10a7f9[_0x5715e3(0xb7)],_0x10a7f9['color'],_0x10a7f9[_0x5715e3(0x90)],_0x10a7f9[_0x5715e3(0xda)]);_0x5d28cd[_0x5715e3(0xf4)](_0x21e1cf);})['catch'](function(_0x1b5d9f){var _0x4517d0=_0x4aa750;console['log'](_0x4517d0(0x123),_0x1b5d9f);}):new _0x194de1['MostrarErrorRuta'](_0x4aa750(0x9a),_0x4aa750(0xb5));}function _0x1e4ee1(_0x7aa6f1){var _0xb26b56=_0x7aa6f1['split'](':');return parseInt(0x3c*(_0xb26b56[0x0]?_0xb26b56[0x0]:0x0))+parseInt(_0xb26b56[0x1]?_0xb26b56[0x1]:0x0);}function _0xabc7b9(_0xc45504){var _0x52181c=parseInt(_0xc45504/0x3c),_0x5b8f62=_0xc45504%0x3c;function _0x231422(_0x472224){var _0x54eeb0=a39_0x1306;return''[_0x54eeb0(0x1a4)](_0x472224<0xa?'0'+_0x472224:_0x472224);}return''['concat'](_0x231422(_0x52181c),':')['concat'](_0x231422(_0x5b8f62));}var _0x5d6317=document['getElementById'](_0x17f065(0xd2)),_0x2ff8f5=(0x0,_0x52cb15['GP'])(new Date(),'yyyy-MM-dd');_0x5d6317[_0x17f065(0x12d)](_0x17f065(0x1b2),_0x2ff8f5),_0x5d6317[_0x17f065(0xf7)]=_0x2ff8f5,new _0x922c19['A'](_0x17f065(0xbd),_0x20198c['datepickerOptions']);},0x171c:(_0x3d2b22,_0x175351,_0x236446)=>{var _0x425508=a39_0x3e32c4;_0x236446['r'](_0x175351),_0x236446['d'](_0x175351,{'datepickerOptions':()=>_0x4b85ec});var _0x51f106={'content':_0x425508(0x19b),'className':_0x425508(0x1af),'onClick':function _0x4d6136(_0x2086c7){var _0x3e8965=_0x425508,_0x10f285=new Date();_0x2086c7[_0x3e8965(0x9c)](_0x10f285),_0x2086c7[_0x3e8965(0xac)](_0x10f285);}},_0x4b85ec={'dateFormat':_0x425508(0x1bc),'locale':{'days':[_0x425508(0xab),_0x425508(0xc7),'Martes',_0x425508(0x9b),'Jueves',_0x425508(0xe4),_0x425508(0x11b)],'daysShort':['Dom','Lun',_0x425508(0xa9),_0x425508(0x1ba),_0x425508(0x163),'Vie',_0x425508(0x119)],'daysMin':['Do','Lu','Ma','Mi','Ju','Vi','Sa'],'months':[_0x425508(0x174),_0x425508(0x7a),_0x425508(0x180),_0x425508(0x131),_0x425508(0xb1),_0x425508(0x141),_0x425508(0xc4),_0x425508(0x10b),_0x425508(0x13a),_0x425508(0x18b),_0x425508(0x126),_0x425508(0xf6)],'monthsShort':[_0x425508(0x178),'Feb',_0x425508(0xa9),_0x425508(0xff),_0x425508(0xd3),'Jun',_0x425508(0xe0),_0x425508(0x1a0),_0x425508(0x98),_0x425508(0x144),_0x425508(0x1b3),_0x425508(0x138)],'today':'Hoy','clear':_0x425508(0x172),'dateFormat':_0x425508(0x11d),'timeFormat':_0x425508(0x7f),'firstDay':0x1},'buttons':[_0x51f106],'todayButton':new Date(),'autoClose':!![],'onSelect':function _0x3d72d1(_0x4c5696){var _0x3cea58=_0x425508;if(_0x4c5696[_0x3cea58(0xfe)][_0x3cea58(0xe2)]['id']==_0x3cea58(0xe3)){var _0x1123a0=document[_0x3cea58(0x16d)]('fechaPreconcepto');_0x1123a0[_0x3cea58(0x12d)](_0x3cea58(0x1b2),_0x4c5696[_0x3cea58(0x127)]);}if(document[_0x3cea58(0x16d)]('fechaInicial')){var _0x17d096=document[_0x3cea58(0x16d)](_0x3cea58(0x89)),_0x536c26=document[_0x3cea58(0x16d)](_0x3cea58(0x162));_0x4c5696['datepicker'][_0x3cea58(0xe2)]['id']==_0x3cea58(0x89)&&_0x17d096['setAttribute'](_0x3cea58(0x1b2),_0x4c5696[_0x3cea58(0x127)]),_0x4c5696[_0x3cea58(0xfe)][_0x3cea58(0xe2)]['id']==_0x3cea58(0x89)&&_0x17d096[_0x3cea58(0x157)][_0x3cea58(0x16e)]==0x1&&(_0x536c26['setAttribute'](_0x3cea58(0x1b2),_0x4c5696[_0x3cea58(0x127)]),_0x536c26[_0x3cea58(0xf7)]=_0x4c5696['formattedDate']),_0x4c5696[_0x3cea58(0xfe)]['$el']['id']==_0x3cea58(0x162)&&(_0x17d096[_0x3cea58(0x157)]['contador']++,_0x536c26[_0x3cea58(0x12d)](_0x3cea58(0x1b2),_0x4c5696['formattedDate']));}if(_0x4c5696['datepicker'][_0x3cea58(0xe2)]['id']==_0x3cea58(0xd2)){var _0x5e2059=document['getElementById']('fechaParaRuta');_0x5e2059[_0x3cea58(0x12d)](_0x3cea58(0x1b2),_0x4c5696[_0x3cea58(0x127)]);}},'position':function _0x36dd55(_0x16b25e){var _0x7df1c5=_0x425508,_0x4209fb=_0x16b25e['$datepicker'],_0x46ecfe=_0x16b25e[_0x7df1c5(0xf9)],_0x37ee27=_0x16b25e[_0x7df1c5(0x110)],_0xadfccd=_0x46ecfe[_0x7df1c5(0x140)](),_0x4571ef=_0x4209fb[_0x7df1c5(0x1a6)],_0x14bcc1=_0x4209fb[_0x7df1c5(0x12a)],_0x4af19d=0x3,_0x4f35bd=_0xadfccd['y']+_0xadfccd[_0x7df1c5(0x142)]+_0x4af19d,_0x4e4731=_0xadfccd['x'];_0x4209fb['style'][_0x7df1c5(0xba)]=''[_0x7df1c5(0x1a4)](_0x4e4731,'px'),_0x4209fb[_0x7df1c5(0x103)]['top']=''[_0x7df1c5(0x1a4)](_0x4f35bd,'px'),_0x37ee27['style'][_0x7df1c5(0x190)]=_0x7df1c5(0x1a3);}};},0xfb5:(_0x15f4f5,_0x5bbfa4,_0x52099d)=>{_0x52099d['r'](_0x5bbfa4),_0x52099d['d'](_0x5bbfa4,{'aplicarMascaraHora':()=>_0x3dd353});function _0x3dd353(_0x26037b,_0x58956b){var _0x306868=a39_0x1306,_0x39ad15;!_0x58956b?_0x39ad15=document['getElementById'](_0x26037b):_0x39ad15=_0x58956b;var _0x2ac62a='',_0x2bb188=[],_0x5b5102='',_0x19e8a3='',_0xdbdc4=![],_0x4ce06e=0x0,_0x3e4119=0x0,_0x2e40ae={},_0x160258={},_0x2a3992=0x0;_0x39ad15['addEventListener'](_0x306868(0x105),function(_0x3a69b2){var _0x48aeaa=_0x306868;_0x2ac62a=_0x39ad15['value'],_0x2a3992=_0x2ac62a[_0x48aeaa(0x12e)](':');if(_0x2a3992==-0x1||_0x2a3992==0x3){var _0x29efca=_0x2ac62a['split']('');_0x29efca[_0x48aeaa(0x83)](0x2,0x0,':'),_0x2ac62a='',_0x29efca[_0x48aeaa(0x184)](function(_0x83fee3){_0x2ac62a+=_0x83fee3;});}_0x2bb188=_0x2ac62a[_0x48aeaa(0x115)](':'),_0x2e40ae=_0x14af94(_0x2bb188[0x0],0x17),_0x160258=_0x14af94(_0x2bb188[0x1],0x3b),_0x5b5102=_0x2e40ae[_0x48aeaa(0x186)],_0x19e8a3=_0x160258[_0x48aeaa(0x186)];if(_0x2e40ae[_0x48aeaa(0x154)]){if(_0x19e8a3){parseInt(_0x19e8a3)<0xa&&(_0x19e8a3=parseInt(_0x19e8a3)*0xa);var _0x14413f=parseInt(_0x2e40ae[_0x48aeaa(0x154)]*0x64)+parseInt(_0x19e8a3);_0x19e8a3=_0x14af94(''['concat'](_0x14413f))[_0x48aeaa(0x186)];}else _0x19e8a3=_0x14af94(_0x2e40ae['resto'])[_0x48aeaa(0x186)];}_0x39ad15[_0x48aeaa(0xf7)]=''['concat'](_0x5b5102,':')[_0x48aeaa(0x1a4)](_0x19e8a3),_0x2ac62a=_0x39ad15[_0x48aeaa(0xf7)],_0x3a69b2[_0x48aeaa(0xb3)]==='deleteContentBackward'&&(_0x2ac62a[_0x39ad15['selectionStart']-0x1]==':'&&_0x39ad15['setSelectionRange'](_0x39ad15['value'][_0x48aeaa(0x12e)](':'),_0x39ad15[_0x48aeaa(0xf7)]['indexOf'](':'))),_0xdbdc4&&_0x4ce06e<_0x39ad15['value']['indexOf'](':')&&_0x3e4119>_0x39ad15[_0x48aeaa(0xf7)]['indexOf'](':')&&_0x39ad15[_0x48aeaa(0x14c)](_0x39ad15[_0x48aeaa(0xf7)][_0x48aeaa(0x12e)](':'),_0x39ad15[_0x48aeaa(0xf7)][_0x48aeaa(0x12e)](':')),_0xdbdc4=![];}),_0x39ad15['addEventListener']('select',function(_0x5a9f54){var _0x1d1b54=_0x306868;_0x4ce06e=_0x39ad15[_0x1d1b54(0x128)],_0x3e4119=_0x39ad15['selectionEnd'],_0xdbdc4=!![];}),_0x39ad15[_0x306868(0x91)](_0x306868(0x18d),function(){_0xdbdc4=![];}),_0x39ad15['onpaste']=function(_0x21a126){_0xdbdc4=![];};}var _0xda84d8=function _0x707422(_0x1919ab){return!isNaN(_0x1919ab-parseInt(_0x1919ab));},_0x14af94=function _0x499e88(_0x585828,_0x54ff9c){var _0x37e425=a39_0x1306,_0x30761b={'retorno':'','resto':''};if(_0x585828){var _0xab9dd2=_0x585828[_0x37e425(0xd0)](/\D/g,'');_0xab9dd2[_0x37e425(0x14a)]>0x2&&(_0xab9dd2=_0xab9dd2[_0x37e425(0xad)](0x0,0x2));if(parseInt(_0xab9dd2)>_0x54ff9c){var _0x35311f=_0xab9dd2;_0xab9dd2=_0xab9dd2[_0x37e425(0xad)](0x0,0x1),_0x30761b[_0x37e425(0x154)]=_0x35311f[_0x37e425(0xad)](0x1,0x2);}_0x30761b['retorno']=_0xab9dd2;}else _0x30761b['retorno']='';return _0x30761b;};}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[5999,5916,7164,4021],{
+
+/***/ 8341:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   DialogoEditar_: () => (/* binding */ DialogoEditar_)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5458);
+/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3029);
+/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2901);
+/* harmony import */ var _babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4467);
+/* harmony import */ var _rutas_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(8856);
+/* harmony import */ var _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(3384);
+/* harmony import */ var _componentes_modal_Error_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7433);
+
+
+
+
+
+
+
+var DialogoEditar_ = /*#__PURE__*/function () {
+  function DialogoEditar_(Preregistro_) {
+    (0,_babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)(this, DialogoEditar_);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)(this, "TiempoAsignado", void 0);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)(this, "Preregistro_", void 0);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)(this, "CantidadTiempo_", void 0);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)(this, "Dialogo", void 0);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)(this, "Background", void 0);
+    (0,_babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)(this, "Descripcion", void 0);
+    this.Preregistro_ = Preregistro_;
+    this.ConstruirDialogo();
+  }
+  return (0,_babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(DialogoEditar_, [{
+    key: "ConstruirDialogo",
+    value: function ConstruirDialogo() {
+      var _this = this;
+      this.Background = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', 'background', 'background').getElement();
+      document.body.appendChild(this.Background);
+      this.Dialogo = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', 'dialogo', 'dialogo').getElement();
+      var DatosPreregistro = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', 'DatosPreregistros', 'preconcepto').getElement();
+      DatosPreregistro.innerHTML = "<div id=\"Proyecto\" class=\"border-style--default editar-registro__nombre-proyecto\" >".concat(this.Preregistro_.titulo, "</div>");
+      var CFechaCantidad = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', 'c-FechaCantidad', 'c-ancho-completo').getElement();
+      var FechaPreconcepto = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML_Input('text', 'fechaPreconcepto', 'ancho--default border-style--default c-alto-completo animated').getElement();
+      FechaPreconcepto.value = this.Preregistro_.Ruta_.fecha;
+      FechaPreconcepto.readOnly = true;
+      this.CantidadTiempo_ = new _rutas_js__WEBPACK_IMPORTED_MODULE_0__.InputTiempo_(this, 'ancho--default border-style--default preconcepto__cantidad', false, true);
+      this.CantidadTiempo_.Input.value = this.Preregistro_.InputTiempoPreregistro_.Input.value;
+      if (this.Preregistro_.Asegurado) {
+        this.CantidadTiempo_.Input.classList.add('asegurado');
+        this.CantidadTiempo_.Input.disabled = true;
+      }
+      CFechaCantidad.appendChild(FechaPreconcepto);
+      CFechaCantidad.appendChild(this.CantidadTiempo_.Input);
+      var ContenedorDescripcion = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', 'ContenedorDescripcion', 'contenedor-descripcion').getElement();
+      this.Descripcion = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', 'descripcion', 'border-style--default contenedor-descripcion__descripcion', null, this.Preregistro_.descripcionPreregistro.innerHTML).getElement();
+      this.Descripcion.contentEditable = true;
+      this.Descripcion.spellcheck = false;
+      var ContenedorDescripcionHerremientas = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', null, 'contenedor-descripcion__herramientas herramientas-descripcion').getElement();
+      var HerramientaIdioma = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('BUTTON', 'Idioma', 'herramientas-descripcion__opcion idioma-proyecto', null, 'ES').getElement();
+      var HerramientaOrtografia = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('BUTTON', 'Ortografia', 'herramientas-descripcion__opcion', null, "<svg class=\"datos-registro__botones_button_svg\" style=\"transform: scale(1.2)\" viewBox=\"0 0 180 216\"><use xlink:href=\"../img/sprite.svg#btn-spelling\"></use></svg>").getElement();
+      var HerramientaClip = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('BUTTON', 'Clip', 'herramientas-descripcion__opcion', null, "<svg class=\"datos-registro__botones_button_svg\" style=\"transform: scale(1.2)\" viewBox=\"0 0 180 216\"><use xlink:href=\"../img/sprite.svg#btn-clip\"></use></svg>").getElement();
+      var HerramientaGuardar = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('BUTTON', 'Cargar', 'herramientas-descripcion__opcion', null, "<svg class=\"datos-registro__botones_button_svg\" style=\"transform: scale(1.2)\" viewBox=\"0 0 180 216\"><use xlink:href=\"../img/sprite.svg#guardar\"></use></svg>").getElement();
+      HerramientaOrtografia.addEventListener('click', function () {
+        _this.ClickOrtografia();
+      });
+      HerramientaGuardar.addEventListener('click', this.GuardarDatos.bind(this));
+      ContenedorDescripcionHerremientas.appendChild(HerramientaIdioma);
+      ContenedorDescripcionHerremientas.appendChild(HerramientaOrtografia);
+      ContenedorDescripcionHerremientas.appendChild(HerramientaClip);
+      ContenedorDescripcionHerremientas.appendChild(HerramientaGuardar);
+      ContenedorDescripcion.appendChild(this.Descripcion);
+      ContenedorDescripcion.appendChild(ContenedorDescripcionHerremientas);
+      DatosPreregistro.appendChild(CFechaCantidad);
+      DatosPreregistro.appendChild(ContenedorDescripcion);
+      this.Background.appendChild(this.Dialogo);
+      this.Dialogo.appendChild(DatosPreregistro);
+      this.OcultarScroll();
+      document.addEventListener('keydown', this.RemoverPreconcepto.bind(this), false);
+      this.Background.addEventListener('mousedown', this.CerrarPreconcepto.bind(this), false);
+    }
+  }, {
+    key: "CerrarVentanaEmergente",
+    value: function CerrarVentanaEmergente() {
+      this.QuitarBackgroundMostrarScroll();
+      //UPDATE: Si se han completado datos dentro de la ventana se debe preguntar si se quiere salir sin guardar.
+    }
+  }, {
+    key: "ClickOrtografia",
+    value: function ClickOrtografia() {
+      var _this2 = this;
+      if (this.Descripcion.textContent.trim().length > 0) {
+        var IdiomaSeleccionado = Idioma.textContent.toLowerCase() == 'en' ? 'en-US' : Idioma.textContent.toLowerCase();
+        var TextoRevisar = this.Descripcion.textContent.trim();
+        console.log(Idioma);
+        var url = 'https://languagetool.org/api/v2/check';
+        fetch(url, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+            Origin: 'https://kiux.app'
+          },
+          body: new URLSearchParams({
+            text: TextoRevisar,
+            language: IdiomaSeleccionado // la api solo acepta los parametros con este formato
+          })
+        }).then(function (response) {
+          return response.json();
+        }).then(function (data) {
+          // console.log('Respuesta de la API:', data);
+          var hallazgo = data.matches;
+          var ResetStyleDescripcion = function ResetStyleDescripcion() {
+            setTimeout(function () {
+              _this2.Descripcion.style.border = '0.0625rem solid #dbdbdb';
+              _this2.Descripcion.style.background = '#fefefe';
+            }, 2500);
+          };
+          if (hallazgo.length === 0) {
+            clearTimeout(ResetStyleDescripcion);
+            _this2.Descripcion.style.border = '0.0625rem double #75e3b8';
+            _this2.Descripcion.style.background = '#d1f5e7';
+            ResetStyleDescripcion();
+          } else {
+            clearTimeout(ResetStyleDescripcion);
+            _this2.Descripcion.style.border = '0.0625rem double #e39d93';
+            _this2.Descripcion.style.background = '#f5dedb';
+            ResetStyleDescripcion();
+          }
+          for (var i = hallazgo.length - 1; i >= 0; i--) {
+            var tipoHallazgo = hallazgo[i].rule.issueType,
+              textoAntes = TextoRevisar.substr(0, hallazgo[i].offset),
+              textoResaltar = TextoRevisar.substr(hallazgo[i].offset, hallazgo[i].length),
+              N = hallazgo[i].offset + hallazgo[i].length,
+              textoDespues = TextoRevisar.substr(N, TextoRevisar.length - N),
+              id = 'hallazgo-' + i;
+            TextoRevisar = textoAntes + "<span class='issueType-".concat(tipoHallazgo, "--line issueType' id='").concat(id, "'>").concat(textoResaltar, "</span>") + textoDespues;
+          }
+          _this2.Descripcion.innerHTML = TextoRevisar;
+          var detectIssue = function detectIssue(e) {
+            _this2.Descripcion.setAttribute('contenteditable', false);
+            var element = e;
+            var id = e.id;
+            var N = id.substr(9, id.length - 8);
+            var mensaje = hallazgo[N].message;
+            var tipoDeHallazgo = hallazgo[N].rule.issueType;
+
+            // let issueTypeMensaje = CreateElement('DIV', 'issueTypeMensaje', ['issueType-mensaje']);
+            var issueTypeMensaje = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', 'issueTypeMensaje', 'issueType-mensaje').getElement();
+            _this2.Descripcion.insertAdjacentElement('beforeend', issueTypeMensaje);
+
+            // let c_IssueTypeMensaje = CreateElement('DIV', 'c-IssueTypeMensaje', ['c-issueType-mensaje', `issueType-${tipoDeHallazgo}`]);
+            var c_IssueTypeMensaje = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', 'c-IssueTypeMensaje', "c-issueType-mensaje issueType-".concat(tipoDeHallazgo)).getElement();
+            issueTypeMensaje.insertAdjacentElement('beforeend', c_IssueTypeMensaje);
+            c_IssueTypeMensaje.insertAdjacentElement('beforeend', new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('DIV', 'issueTypeTitulo', 'issueType-titulo', null, mensaje).getElement());
+            c_IssueTypeMensaje.insertAdjacentElement('beforeend', new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('UL', 'issueTypeLista', "issueType-lista").getElement());
+            var reemplazo = hallazgo[N].replacements;
+            console.log(reemplazo);
+            for (var _i = 0; _i < reemplazo.length; _i++) {
+              // let elReemplazo = CreateElement('LI', i, [`issueType-${tipoDeHallazgo}--item`], reemplazo[i].value);
+              var elReemplazo = new _elements_CrearElementoHTML_js__WEBPACK_IMPORTED_MODULE_4__.CrearElementoHTML('LI', _i, "issueType-".concat(tipoDeHallazgo, "--item"), null, reemplazo[_i].value).getElement();
+              elReemplazo.addEventListener('click', function (e) {
+                document.getElementById(id).outerHTML = e.target.textContent;
+                issueTypeMensaje.remove();
+                _this2.Descripcion.setAttribute('contenteditable', true);
+              });
+              document.getElementById('issueTypeLista').insertAdjacentElement('beforeend', elReemplazo);
+            }
+            issueTypeMensaje.addEventListener('click', function (e) {
+              if (tipoDeHallazgo == 'inconsistency') {
+                element.classList.remove('issueType-inconsistency--line');
+                element.classList.remove('issueType');
+                element.removeEventListener('click', myClosure);
+                e.target.remove();
+              } else {
+                e.target.remove();
+              }
+              _this2.Descripcion.setAttribute('contenteditable', true);
+            });
+          };
+          function myClosure() {
+            detectIssue(this);
+          }
+          (0,_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A)(document.querySelectorAll('.issueType')).forEach(function (issue) {
+            issue.addEventListener('click', myClosure);
+          });
+        })["catch"](function (error) {
+          console.error('Error al realizar la solicitud:', error);
+        });
+      }
+    }
+  }, {
+    key: "OcultarScroll",
+    value: function OcultarScroll() {
+      document.getElementById('main').classList.add('ocultar-scroll');
+    }
+  }, {
+    key: "QuitarBackgroundMostrarScroll",
+    value: function QuitarBackgroundMostrarScroll() {
+      document.getElementById('background').remove();
+      document.getElementById('main').classList.remove('ocultar-scroll');
+    }
+  }, {
+    key: "CerrarPreconcepto",
+    value: function CerrarPreconcepto(event) {
+      if (event.target.id == 'background' && document.getElementById('DatosPreregistros')) {
+        if (true) {
+          this.CerrarVentanaEmergente();
+        }
+      }
+    }
+  }, {
+    key: "RemoverPreconcepto",
+    value: function RemoverPreconcepto(event) {
+      if (event.key === 'Escape' && (document.getElementById('background') != null || document.getElementById('background') != undefined)) {
+        if (!document.querySelector('#second-background')) {
+          this.CerrarVentanaEmergente();
+        }
+        document.removeEventListener('keydown', this.RemoverPreconcepto.bind(this), false); //FIXME: No se está eliminando adecuadamente la función.
+      }
+    }
+  }, {
+    key: "GuardarDatos",
+    value: function GuardarDatos() {
+      if (!this.Preregistro_.Activo) {
+        this.Preregistro_.ActivarPreregistro();
+      }
+      if (this.GuardarParametros()) {
+        this.CerrarVentanaEmergente();
+      } else {
+        new _componentes_modal_Error_js__WEBPACK_IMPORTED_MODULE_6__.MostrarMensajeError(this.Dialogo, 'Error', 'No es posible distribuir el tiempo.');
+      }
+      this.Preregistro_.descripcionPreregistro.innerHTML = this.Descripcion.innerHTML;
+    }
+  }, {
+    key: "GuardarParametros",
+    value: function GuardarParametros() {
+      if (!this.Preregistro_.Asegurado) {
+        var AnteriorTiempoAsignadoPreregistroTexto = this.Preregistro_.InputTiempoPreregistro_.Input.value;
+        this.Preregistro_.TiempoAsignado = this.TiempoAsignado ? this.TiempoAsignado : 0;
+        if (this.TiempoAsignado && this.Preregistro_.InputTiempoPreregistro_.Input.value !== this.CantidadTiempo_.Input.value) {
+          this.Preregistro_.AsegurarTiempo();
+        }
+        this.Preregistro_.InputTiempoPreregistro_.Input.value = this.CantidadTiempo_.Input.value ? this.CantidadTiempo_.Input.value : '00:00';
+        if (!this.Preregistro_.Ruta_.Distribuir_Sumar_Tiempo()) {
+          this.TiempoAsignado = this.Preregistro_.InputTiempoPreregistro_.AnteriorTiempoAsignado;
+          this.Preregistro_.InputTiempoPreregistro_.Input.value = AnteriorTiempoAsignadoPreregistroTexto;
+          this.CantidadTiempo_.Input.value = this.Preregistro_.InputTiempoPreregistro_.Input.value;
+          this.Preregistro_.DesasegurarTiempo();
+          return false;
+        } else return true;
+      } else return true;
+    }
+  }]);
+}();
+
+/***/ }),
+
+/***/ 8856:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  InputTiempo_: () => (/* binding */ InputTiempo_)
+});
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/classCallCheck.js
+var classCallCheck = __webpack_require__(3029);
+// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/createClass.js
+var createClass = __webpack_require__(2901);
+// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/defineProperty.js
+var defineProperty = __webpack_require__(4467);
+// EXTERNAL MODULE: ./src/js/componentes/encabezado.js + 18 modules
+var encabezado = __webpack_require__(423);
+// EXTERNAL MODULE: ./src/js/utils/Color.js
+var Color = __webpack_require__(2188);
+// EXTERNAL MODULE: ./src/js/componentes/modal/Error.js
+var Error = __webpack_require__(7433);
+// EXTERNAL MODULE: ./src/js/utils/mascaraInput.js
+var mascaraInput = __webpack_require__(4021);
+// EXTERNAL MODULE: ./node_modules/date-fns/format.mjs + 9 modules
+var format = __webpack_require__(7044);
+// EXTERNAL MODULE: ./src/js/registro/modal/datepicker-options.js
+var datepicker_options = __webpack_require__(5916);
+// EXTERNAL MODULE: ./src/js/elements/CrearElementoHTML.js
+var CrearElementoHTML = __webpack_require__(3384);
+// EXTERNAL MODULE: ./src/js/api.js
+var api = __webpack_require__(7425);
+// EXTERNAL MODULE: ./node_modules/air-datepicker/index.es.js
+var index_es = __webpack_require__(5836);
+// EXTERNAL MODULE: ./src/js/pages/rutas/dialogo_edtitar.js
+var dialogo_edtitar = __webpack_require__(8341);
+;// CONCATENATED MODULE: ./src/img/unlink-svgrepo-com.svg
+/* harmony default export */ const unlink_svgrepo_com = (__webpack_require__.p + "img/unlink-svgrepo-com.svg");
+;// CONCATENATED MODULE: ./src/img/unlink-svgrepo-com_dark.svg
+/* harmony default export */ const unlink_svgrepo_com_dark = (__webpack_require__.p + "img/unlink-svgrepo-com_dark.svg");
+// EXTERNAL MODULE: ./src/img/delete-1-svgrepo-com.svg
+var delete_1_svgrepo_com = __webpack_require__(4935);
+;// CONCATENATED MODULE: ./src/img/sprite.svg
+/* harmony default export */ const sprite = (__webpack_require__.p + "img/sprite.svg");
+;// CONCATENATED MODULE: ./src/js/pages/rutas/rutas.js
+
+
+
+function _classPrivateFieldInitSpec(e, t, a) { _checkPrivateRedeclaration(e, t), t.set(e, a); }
+function _checkPrivateRedeclaration(e, t) { if (t.has(e)) throw new TypeError("Cannot initialize the same private elements twice on an object"); }
+function _classPrivateFieldGet(s, a) { return s.get(_assertClassBrand(s, a)); }
+function _assertClassBrand(e, t, n) { if ("function" == typeof e ? e === t : e.has(t)) return arguments.length < 3 ? t : n; throw new TypeError("Private element is not present on this object"); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(0,encabezado.Encabezado)();
+var Rutas = [];
+var Api = new api.API();
+var _Ruta = /*#__PURE__*/new WeakMap();
+var Ruta_ = /*#__PURE__*/function () {
+  function Ruta_(id, fecha, nombre, color, preregistros, clasificaciones) {
+    (0,classCallCheck/* default */.A)(this, Ruta_);
+    (0,defineProperty/* default */.A)(this, "id", void 0);
+    (0,defineProperty/* default */.A)(this, "fecha", void 0);
+    (0,defineProperty/* default */.A)(this, "nombre", void 0);
+    (0,defineProperty/* default */.A)(this, "color", void 0);
+    (0,defineProperty/* default */.A)(this, "JSON_Preregistros", void 0);
+    (0,defineProperty/* default */.A)(this, "Preregistros_", []);
+    (0,defineProperty/* default */.A)(this, "clasificaciones", void 0);
+    (0,defineProperty/* default */.A)(this, "InputTiempoTotal_", void 0);
+    (0,defineProperty/* default */.A)(this, "InputCheckAsegurar", void 0);
+    (0,defineProperty/* default */.A)(this, "tiempoTotalMinutos", 0);
+    _classPrivateFieldInitSpec(this, _Ruta, new CrearElementoHTML.CrearElementoHTML('DIV', "Ruta_".concat(Rutas.length + 1), 'ruta').getElement());
+    (0,defineProperty/* default */.A)(this, "contenedor", document.getElementById('vigilancia_judicial-Rutas'));
+    this.id = id;
+    this.fecha = fecha;
+    this.nombre = nombre;
+    this.color = color;
+    this.JSON_Preregistros = preregistros;
+    this.clasificaciones = clasificaciones;
+    this.InputTiempoTotal_ = new InputTiempo_(this, 'inputTiempoTotal', true);
+    this.InputCheckAsegurar = new CrearElementoHTML.CrearElementoHTML_Input('checkbox', null, null, null, null, 'Asegurar tiempo').getElement();
+    this.contenedor.appendChild(_classPrivateFieldGet(_Ruta, this));
+    this.construirRuta();
+  }
+  return (0,createClass/* default */.A)(Ruta_, [{
+    key: "construirRuta",
+    value: function construirRuta() {
+      var _this = this;
+      this.InputTiempoTotal_.Input.readOnly = true;
+      var ColorHSL = (0,Color.GetHSL)(this.color);
+      var background_color = "hsl(".concat(ColorHSL[0], ", ").concat(ColorHSL[1], "%, ").concat(ColorHSL[2], "%);");
+      _classPrivateFieldGet(_Ruta, this).style = "border: solid 1px ".concat(background_color, ";");
+      var HeaderRuta = new CrearElementoHTML.CrearElementoHTML('DIV', null, 'headerRuta', "background-color:  ".concat(background_color, ";")).getElement();
+      var FooterRuta = new CrearElementoHTML.CrearElementoHTML('DIV', null, 'footerRuta', "background-color:  ".concat(background_color, ";")).getElement();
+      var ContainerPregistros = new CrearElementoHTML.CrearElementoHTML('DIV', null, 'containerPreregistros').getElement();
+      _classPrivateFieldGet(_Ruta, this).appendChild(HeaderRuta);
+      _classPrivateFieldGet(_Ruta, this).appendChild(ContainerPregistros);
+      _classPrivateFieldGet(_Ruta, this).appendChild(FooterRuta);
+      HeaderRuta.appendChild(new CrearElementoHTML.CrearElementoHTML_Text('P', "".concat(this.nombre, " - ").concat(this.fecha), null, 'ruta_titulo').getElement());
+      var sideHeaderRuta = new CrearElementoHTML.CrearElementoHTML('DIV', null, 'sideHeaderRuta').getElement();
+      sideHeaderRuta.appendChild(this.InputTiempoTotal_.Input);
+      sideHeaderRuta.appendChild(new CrearElementoHTML.CrearElementoHTML_Imagen('../img/unlink-svgrepo-com.svg', 'KIUX-Icon-blocked').getElement());
+      sideHeaderRuta.appendChild(this.InputCheckAsegurar);
+      HeaderRuta.appendChild(sideHeaderRuta);
+      var BtnTerminar = new CrearElementoHTML.CrearElementoHTML_Button(false, 'BtnTerminarRuta', 'BtnTerminarRuta ancho--default', null, 'Terminar').getElement();
+      BtnTerminar.addEventListener('click', function () {
+        _this.terminar();
+      });
+      FooterRuta.appendChild(BtnTerminar);
+      this.construirPreregistros(ContainerPregistros);
+      this.InputCheckAsegurar.addEventListener('change', function (e) {
+        if (e.target.checked) {
+          _this.ActivarTiempoFijo();
+        } else {
+          _this.DesactivarTiempoFijo();
+        }
+      });
+    }
+  }, {
+    key: "construirPreregistros",
+    value: function construirPreregistros(contenedor) {
+      var _this2 = this;
+      this.JSON_Preregistros.forEach(function (preregistro) {
+        var Preregistro = new Preregistro_(preregistro.id, preregistro.titulo, preregistro.color, preregistro.idioma, preregistro.proyecto, preregistro.estado, _this2);
+        contenedor.appendChild(Preregistro.GetPreregistro());
+        _this2.Preregistros_.push(Preregistro);
+      });
+    }
+  }, {
+    key: "terminar",
+    value: function terminar() {
+      var ResultadoRuta = {
+        id: this.id,
+        nombre: this.nombre,
+        fecha: this.fecha,
+        registros: []
+      };
+      var PreregistrosActivos = this.Preregistros_.filter(function (preregistro) {
+        return preregistro.Activo;
+      });
+      var PreregistrosSinDescripcion = 0;
+      var PreregistrosSinTiempo = 0;
+      var FormatoDeHoraErroneo = 0;
+      var regex = /^(?:[01]\d|2[0-3]):[0-5]\d$/;
+      PreregistrosActivos.forEach(function (preregistro) {
+        if (!preregistro.descripcionPreregistro.innerHTML || preregistro.descripcionPreregistro.innerHTML == '<br>') {
+          PreregistrosSinDescripcion++;
+        }
+        if (preregistro.TiempoAsignado == 0) {
+          PreregistrosSinTiempo++;
+        }
+        if (!regex.test(preregistro.InputTiempoPreregistro_.Input.value)) {
+          FormatoDeHoraErroneo++;
+        }
+        if (!PreregistrosSinDescripcion || !PreregistrosSinTiempo || !FormatoDeHoraErroneo) {
+          var registro = {
+            id: preregistro.id,
+            descripcion: preregistro.descripcionPreregistro.innerHTML,
+            tiempo: preregistro.TiempoAsignado
+          };
+          ResultadoRuta.registros.push(registro);
+        }
+      });
+      if (PreregistrosSinDescripcion || PreregistrosSinTiempo || FormatoDeHoraErroneo) {
+        var MensajeE = 'Tienes registros incompletos: tienes' + (PreregistrosSinDescripcion ? " ".concat(PreregistrosSinDescripcion, " registro").concat(PreregistrosSinDescripcion > 1 ? 's' : '', " sin descripci\xF3n") : '') + (PreregistrosSinDescripcion && PreregistrosSinTiempo ? ' y' : '') + (PreregistrosSinTiempo ? " ".concat(PreregistrosSinTiempo, " registro").concat(PreregistrosSinTiempo > 1 ? 's' : '', " sin tiempo") : '') + '.';
+        if (FormatoDeHoraErroneo) {
+          console.log('Preciona Enter en la hora para darle formato');
+        }
+        new Error.MostrarErrorRuta('Error', MensajeE);
+      } else {
+        if (ResultadoRuta.registros.length) {
+          new Error.MostrarError(JSON.stringify(ResultadoRuta));
+        } else {
+          new Error.MostrarError('Vacio', 'No hay registros por actualizar');
+        }
+      }
+    }
+  }, {
+    key: "DistribuirTiempo",
+    value: function DistribuirTiempo() {
+      var NumeroDeActivos = this.Contar_Registros_Activos_Sin_Proteger();
+      var TiempoGeneral_RestandoFijos = this.tiempoTotalMinutos;
+      var valorDistribuido = null;
+      var Resto = 0;
+      var Asegurados = 0;
+      this.Preregistros_.forEach(function (element) {
+        if (element.Asegurado && element.Activo) {
+          TiempoGeneral_RestandoFijos -= element.TiempoAsignado;
+          Asegurados++;
+        }
+      });
+      if (NumeroDeActivos) {
+        valorDistribuido = parseInt(TiempoGeneral_RestandoFijos / NumeroDeActivos);
+        Resto = TiempoGeneral_RestandoFijos % NumeroDeActivos;
+      }
+      if (valorDistribuido < 1 && Asegurados) {
+        new Error.MostrarErrorRuta('Error', 'No es posible distribuir el tiempo.');
+        return false;
+      }
+      this.Preregistros_.forEach(function (element) {
+        var Valor = valorDistribuido;
+        if (element.Activo && !element.Asegurado) {
+          if (Resto > 0) {
+            Valor += 1;
+            Resto--;
+          }
+          element.IngresarValorTiempo(Valor);
+        }
+      });
+      return true;
+    }
+  }, {
+    key: "SumarTiempos",
+    value: function SumarTiempos() {
+      var _this3 = this;
+      this.tiempoTotalMinutos = 0;
+      this.Preregistros_.forEach(function (preregistro) {
+        if (preregistro.Activo) {
+          _this3.tiempoTotalMinutos += preregistro.TiempoAsignado;
+        }
+      });
+      this.InputTiempoTotal_.Input.value = Minutos_a_Horas(this.tiempoTotalMinutos);
+      return true;
+    }
+  }, {
+    key: "Distribuir_Sumar_Tiempo",
+    value: function Distribuir_Sumar_Tiempo() {
+      if (this.InputCheckAsegurar.checked) {
+        return this.DistribuirTiempo();
+      } else {
+        return this.SumarTiempos();
+      }
+    }
+  }, {
+    key: "Contar_Registros_Activos_Sin_Proteger",
+    value: function Contar_Registros_Activos_Sin_Proteger() {
+      var NumeroDeActivos = 0;
+      this.Preregistros_.forEach(function (element) {
+        if (element.Activo && !element.Asegurado) NumeroDeActivos++;
+      });
+      return NumeroDeActivos;
+    }
+  }, {
+    key: "ActivarTiempoFijo",
+    value: function ActivarTiempoFijo() {
+      this.InputTiempoTotal_.Input.readOnly = false;
+      this.Distribuir_Sumar_Tiempo();
+    }
+  }, {
+    key: "DesactivarTiempoFijo",
+    value: function DesactivarTiempoFijo() {
+      this.InputTiempoTotal_.Input.readOnly = true;
+      this.Preregistros_.forEach(function (preregistro) {
+        if (preregistro.Asegurado) {
+          preregistro.InputTiempoPreregistro_.Input.classList.remove('asegurado');
+          preregistro.Asegurado = false;
+          preregistro.botonDesasegurar_Asegurar.disabled = true;
+          preregistro.InputTiempoPreregistro_.Input.disabled = false;
+        }
+      });
+    }
+  }]);
+}();
+var _Preregistro = /*#__PURE__*/new WeakMap();
+var Preregistro_ = /*#__PURE__*/function () {
+  function Preregistro_(id, titulo, color, idioma, proyecto, estado, ruta) {
+    (0,classCallCheck/* default */.A)(this, Preregistro_);
+    _classPrivateFieldInitSpec(this, _Preregistro, new CrearElementoHTML.CrearElementoHTML('DIV', null, 'preregistro').getElement());
+    (0,defineProperty/* default */.A)(this, "Ruta_", void 0);
+    (0,defineProperty/* default */.A)(this, "Activo", false);
+    (0,defineProperty/* default */.A)(this, "Asegurado", false);
+    (0,defineProperty/* default */.A)(this, "TiempoAsignado", 0);
+    (0,defineProperty/* default */.A)(this, "id", void 0);
+    (0,defineProperty/* default */.A)(this, "titulo", void 0);
+    (0,defineProperty/* default */.A)(this, "color", void 0);
+    (0,defineProperty/* default */.A)(this, "idioma", void 0);
+    (0,defineProperty/* default */.A)(this, "proyecto", void 0);
+    (0,defineProperty/* default */.A)(this, "estado", void 0);
+    (0,defineProperty/* default */.A)(this, "descripcionPreregistro", void 0);
+    (0,defineProperty/* default */.A)(this, "selectClasificacion", void 0);
+    (0,defineProperty/* default */.A)(this, "InputTiempoPreregistro_", void 0);
+    (0,defineProperty/* default */.A)(this, "botonDesasegurar_Asegurar", void 0);
+    (0,defineProperty/* default */.A)(this, "botonDeshabilitar", void 0);
+    this.id = id;
+    this.titulo = titulo;
+    this.color = color;
+    this.idioma = idioma;
+    this.proyecto = proyecto;
+    this.estado = estado;
+    this.Ruta_ = ruta;
+    this.construirPreregistro();
+  }
+  return (0,createClass/* default */.A)(Preregistro_, [{
+    key: "construirPreregistro",
+    value: function construirPreregistro() {
+      var _this4 = this;
+      var ColorHSL = (0,Color.GetHSL)(this.color);
+      var background_color = "background-color: hsl(".concat(ColorHSL[0], ", ").concat(ColorHSL[1], "%, ").concat(ColorHSL[2], "%);");
+      var background_color_2 = "background-color: hsl(".concat(ColorHSL[0], ", ").concat(ColorHSL[1], "%, 95%);");
+      var headerPreregistro = new CrearElementoHTML.CrearElementoHTML('Div', null, 'headerPreregistro', background_color).getElement();
+      var contentPreregistro = new CrearElementoHTML.CrearElementoHTML('DIV', null, 'contentPreregistro', background_color_2).getElement();
+      var botonesPreregistro = new CrearElementoHTML.CrearElementoHTML('DIV', null, 'botonesPreregistro').getElement();
+      headerPreregistro.appendChild(new CrearElementoHTML.CrearElementoHTML('DIV', null, 'idioma', "color: ".concat((0,Color.ColorRGB)(this.color)), "<span>".concat(this.idioma, "</span>")).getElement());
+      headerPreregistro.appendChild(new CrearElementoHTML.CrearElementoHTML('DIV', null, 'headerPreregistro_titulo', null, this.titulo).getElement());
+      this.descripcionPreregistro = new CrearElementoHTML.CrearElementoHTML_Text('P', '', null, 'descripcionPreregistro disabled').getElement();
+      this.selectClasificacion = new CrearElementoHTML.CrearElementoHTML_Select(this.Ruta_.clasificaciones.map(function (cla) {
+        return cla.clasificacion;
+      }), 'clasificacion', null, 'selectClasificacion').getElement();
+      this.InputTiempoPreregistro_ = new InputTiempo_(this, 'inputTiempoPreregistro');
+      this.botonDesasegurar_Asegurar = new CrearElementoHTML.CrearElementoHTML_Button(true, 'botonDesasegurar_AsegurarTiempo', 'botonDesasegurar_AsegurarTiempo').getElement();
+      this.botonDeshabilitar = new CrearElementoHTML.CrearElementoHTML_Button(true, 'BotonDeshabilitar', 'botonDeshabilitar').getElement();
+      this.botonDesasegurar_Asegurar.appendChild(new CrearElementoHTML.CrearElementoHTML_Imagen('../img/unlink-svgrepo-com_dark.svg').getElement());
+      this.botonDeshabilitar.appendChild(new CrearElementoHTML.CrearElementoHTML_Imagen('../img/delete-1-svgrepo-com.svg').getElement());
+      botonesPreregistro.appendChild(this.InputTiempoPreregistro_.Input);
+      botonesPreregistro.appendChild(this.botonDesasegurar_Asegurar);
+      botonesPreregistro.appendChild(this.botonDeshabilitar);
+      var Descripcion_Candado = new CrearElementoHTML.CrearElementoHTML('DIV', null, 'descripcion_candado').getElement();
+      Descripcion_Candado.innerHTML = "<svg class=\"svg_img\" viewBox=\"0 0 180 216\"><use xlink:href=\"./img/sprite.svg#c26\"></use></svg>";
+      Descripcion_Candado.appendChild(this.descripcionPreregistro);
+      var Botones_Plantillas = new CrearElementoHTML.CrearElementoHTML('DIV', null, 'botones_plantillas').getElement();
+      Botones_Plantillas.appendChild(this.selectClasificacion);
+      Botones_Plantillas.appendChild(botonesPreregistro);
+      contentPreregistro.appendChild(Descripcion_Candado);
+      contentPreregistro.appendChild(Botones_Plantillas);
+      _classPrivateFieldGet(_Preregistro, this).appendChild(headerPreregistro);
+      _classPrivateFieldGet(_Preregistro, this).appendChild(contentPreregistro);
+      this.InputTiempoPreregistro_.Input.disabled = true;
+      this.descripcionPreregistro.textContent = '';
+      this.descripcionPreregistro.addEventListener('click', function () {
+        if (!_this4.descripcionPreregistro.classList.contains('disabled')) new dialogo_edtitar.DialogoEditar_(_this4);
+      });
+      var observerDescripcion = new MutationObserver(function (mutationsList) {
+        mutationsList.forEach(function (mutation) {
+          if (mutation.type === 'childList' && mutation.target.innerHTML) {
+            _this4.cambioEnDescripcion();
+          }
+        });
+      });
+      observerDescripcion.observe(this.descripcionPreregistro, {
+        childList: true,
+        subtree: false,
+        characterData: true,
+        characterDataOldValue: true
+      });
+      this.botonDesasegurar_Asegurar.addEventListener('click', function () {
+        _this4.DesasegurarTiempo();
+      });
+      this.botonDeshabilitar.addEventListener('click', function () {
+        _this4.DesactivarPreregistro();
+      });
+      this.selectClasificacion.addEventListener('change', function (e) {
+        _this4.seleccionarClasificacion(e);
+      });
+    }
+  }, {
+    key: "GetPreregistro",
+    value: function GetPreregistro() {
+      return _classPrivateFieldGet(_Preregistro, this);
+    }
+  }, {
+    key: "AsegurarTiempo",
+    value: function AsegurarTiempo() {
+      if (this.Ruta_.InputCheckAsegurar.checked) {
+        if (!this.InputTiempoPreregistro_.Input.classList.contains('asegurado') && !this.Asegurado) {
+          this.InputTiempoPreregistro_.Input.classList.add('asegurado');
+          this.Asegurado = true;
+          this.botonDesasegurar_Asegurar.disabled = false;
+          this.InputTiempoPreregistro_.Input.disabled = true;
+        }
+        this.Ruta_.Distribuir_Sumar_Tiempo();
+      }
+    }
+  }, {
+    key: "DesasegurarTiempo",
+    value: function DesasegurarTiempo() {
+      if (this.InputTiempoPreregistro_.Input.classList.contains('asegurado') && this.Asegurado) {
+        this.InputTiempoPreregistro_.Input.classList.remove('asegurado');
+        this.Asegurado = false;
+        this.botonDesasegurar_Asegurar.disabled = true;
+        this.InputTiempoPreregistro_.Input.disabled = false;
+      }
+      this.Ruta_.Distribuir_Sumar_Tiempo();
+    }
+  }, {
+    key: "DesactivarPreregistro",
+    value: function DesactivarPreregistro() {
+      this.Activo = false;
+      this.botonDesasegurar_Asegurar.disabled = true;
+      this.botonDeshabilitar.disabled = true;
+      this.InputTiempoPreregistro_.Input.disabled = true;
+      this.InputTiempoPreregistro_.ReiniciarValores();
+      this.descripcionPreregistro.classList.add('disabled');
+      this.descripcionPreregistro.textContent = '';
+      this.selectClasificacion.value = 'primeraOpcion';
+      this.TiempoAsignado = 0;
+      this.descripcionPreregistro.classList.add('disabled');
+      this.Ruta_.Distribuir_Sumar_Tiempo();
+    }
+  }, {
+    key: "ActivarPreregistro",
+    value: function ActivarPreregistro() {
+      this.Activo = true;
+      this.botonDeshabilitar.disabled = false;
+      this.InputTiempoPreregistro_.Input.disabled = false;
+      this.InputTiempoPreregistro_.Input.value = '00:00';
+      this.descripcionPreregistro.classList.remove('disabled');
+      this.Ruta_.Distribuir_Sumar_Tiempo();
+    }
+  }, {
+    key: "seleccionarClasificacion",
+    value: function seleccionarClasificacion(e) {
+      this.descripcionPreregistro.textContent = this.Ruta_.clasificaciones.find(function (cla) {
+        return cla.clasificacion == e.target.options[e.target.selectedIndex].text;
+      }).plantilla;
+    }
+  }, {
+    key: "cambioEnDescripcion",
+    value: function cambioEnDescripcion() {
+      if (!this.Activo) {
+        this.ActivarPreregistro();
+      }
+    }
+  }, {
+    key: "IngresarValorTiempo",
+    value: function IngresarValorTiempo(tiempoMinutos) {
+      this.TiempoAsignado = tiempoMinutos;
+      this.InputTiempoPreregistro_.Input.value = Minutos_a_Horas(tiempoMinutos);
+    }
+  }]);
+}();
+var InputTiempo_ = /*#__PURE__*/function () {
+  function InputTiempo_(Contenedor_, classList, InputCabecera, InputVentanaEditar) {
+    var _this5 = this;
+    (0,classCallCheck/* default */.A)(this, InputTiempo_);
+    (0,defineProperty/* default */.A)(this, "Input", void 0);
+    (0,defineProperty/* default */.A)(this, "ValorAnterior", '');
+    (0,defineProperty/* default */.A)(this, "ValorAnteriorEscritura", '');
+    (0,defineProperty/* default */.A)(this, "Preregistro_", void 0);
+    (0,defineProperty/* default */.A)(this, "Ruta_", void 0);
+    (0,defineProperty/* default */.A)(this, "VentanaEditar_", void 0);
+    (0,defineProperty/* default */.A)(this, "tiempoRegistradoMinutos", 0);
+    (0,defineProperty/* default */.A)(this, "AnteriorTiempoAsignado", 0);
+    if (InputVentanaEditar) this.VentanaEditar_ = Contenedor_;else if (InputCabecera) this.Ruta_ = Contenedor_;else this.Preregistro_ = Contenedor_;
+    this.Input = new CrearElementoHTML.CrearElementoHTML_Input('text', null, classList).getElement();
+    (0,mascaraInput.aplicarMascaraHora)(null, this.Input);
+    this.Input.classList.add('InputTiempo');
+    this.Input.addEventListener('input', function (e) {
+      _this5.verificarValor(e);
+    });
+    this.Input.addEventListener('keypress', function (e) {
+      if (e.key == 'Enter') {
+        _this5.EnterEnInput();
+      }
+    });
+    this.Input.addEventListener('blur', function () {
+      _this5.EnterEnInput();
+    });
+  }
+  return (0,createClass/* default */.A)(InputTiempo_, [{
+    key: "verificarValor",
+    value: function verificarValor(e) {
+      var regex = /^(?:[0-9]|0[0-9]|1[0-9]|2[0-3])?(?::(?:[0-9]|[0-5][0-9])?)?$|^$/;
+      if (regex.test(e.target.value)) {
+        this.ValorAnteriorEscritura = e.target.value;
+      } else {
+        e.target.value = this.ValorAnteriorEscritura;
+      }
+    }
+  }, {
+    key: "EnterEnInput",
+    value: function EnterEnInput() {
+      if (this.VentanaEditar_) {
+        this.VentanaEditar_.TiempoAsignado = Horas_a_Minutos(this.Input.value);
+        this.Input.value = Minutos_a_Horas(this.VentanaEditar_.TiempoAsignado);
+      } else {
+        if (this.Ruta_) {
+          this.Ruta_.tiempoTotalMinutos = Horas_a_Minutos(this.Input.value);
+        } else {
+          this.AnteriorTiempoAsignado = this.Preregistro_.TiempoAsignado;
+          this.Preregistro_.TiempoAsignado = Horas_a_Minutos(this.Input.value);
+          this.Preregistro_.AsegurarTiempo();
+        }
+        if (this.Preregistro_ ? this.Preregistro_.Ruta_.Distribuir_Sumar_Tiempo() : this.Ruta_.Distribuir_Sumar_Tiempo()) {
+          if (!this.Ruta_) {
+            this.AnteriorTiempoAsignado = this.Preregistro_.TiempoAsignado != this.AnteriorTiempoAsignado ? this.Preregistro_.TiempoAsignado : this.AnteriorTiempoAsignado;
+          }
+          this.Input.value = Minutos_a_Horas(Horas_a_Minutos(this.Input.value));
+          this.ValorAnterior = this.Input.value != this.ValorAnterior ? this.Input.value : this.ValorAnterior;
+        } else {
+          if (!this.Ruta_) {
+            this.Preregistro_.TiempoAsignado = this.AnteriorTiempoAsignado;
+            this.Input.value = Minutos_a_Horas(this.Preregistro_.TiempoAsignado);
+            this.Preregistro_.DesasegurarTiempo();
+          } else {
+            this.Input.value = this.ValorAnterior;
+          }
+        }
+      }
+    }
+  }, {
+    key: "getInput",
+    value: function getInput() {
+      return this.Input;
+    }
+  }, {
+    key: "ReiniciarValores",
+    value: function ReiniciarValores() {
+      this.ValorAnterior = '';
+      this.ValorAnteriorEscritura = '';
+      this.tiempoRegistradoMinutos = 0;
+      this.AnteriorTiempoAsignado = 0;
+      this.Input.value = '';
+      this.Input.classList.remove('asegurado');
+    }
+  }]);
+}();
+Api.GetData("../assets/rutas.json").then(function (data) {
+  add_RutasSelect(data.rutas_vigilancia);
+});
+function add_RutasSelect(rutas) {
+  var select = document.getElementById('selectRuta');
+  select.appendChild(new CrearElementoHTML.CrearElementoHTML_Option('vacia', null, null, 'display: none', 'Selecciona una ruta').getElement()); // [x] <-- Descomentar esta linea
+  rutas.forEach(function (ruta) {
+    var option = new CrearElementoHTML.CrearElementoHTML_Option(ruta.id_ruta, null, null, null, ruta.nombre_ruta).getElement();
+    select.appendChild(option);
+  });
+}
+document.getElementById('ButtonAgregarRegistros').addEventListener('click', function () {
+  AgregarRuta();
+});
+function AgregarRuta() {
+  var SelectRuta = document.getElementById('selectRuta');
+  var FechaParaRuta = document.getElementById('fechaParaRuta');
+  if (SelectRuta.value != 'vacia' && FechaParaRuta.getAttribute('data-value') && FechaParaRuta.getAttribute('data-value') != 'undefined') {
+    ConstruirRuta(SelectRuta.value, FechaParaRuta.getAttribute('data-value'));
+    SelectRuta.value = 'vacia';
+  } else if (SelectRuta.value == 'vacia' && (!FechaParaRuta.getAttribute('data-value') || FechaParaRuta.getAttribute('data-value') == 'undefined')) {
+    new Error.MostrarErrorRuta('Completa los campos');
+  } else if (SelectRuta.value == 'vacia') {
+    new Error.MostrarErrorRuta('Seleccione una ruta');
+  } else if (!FechaParaRuta.getAttribute('data-value') || FechaParaRuta.getAttribute('data-value') == 'undefined') {
+    new Error.MostrarErrorRuta('Seleccione una fecha');
+  }
+}
+function ConstruirRuta(id_ruta, fecha) {
+  var URL = "../assets/ruta_".concat(id_ruta, ".json");
+  if (!Rutas.find(function (ruta) {
+    return ruta.id == id_ruta && ruta.fecha == fecha;
+  })) {
+    Api.GetData(URL).then(function (data) {
+      var Ruta = new Ruta_(data.id, fecha, data.nombre, data.color, data.preregistros, data.clasificaciones);
+      Rutas.push(Ruta);
+    })["catch"](function (error) {
+      console.log('Ha ocurrido un error en el llamado de la ruta', error);
+    });
+  } else {
+    new Error.MostrarErrorRuta('Ruta existente', 'La ruta especificado ya existe con la fecha indicada.');
+  }
+}
+function Horas_a_Minutos(value) {
+  var Horas_Minutos = value.split(':');
+  return parseInt(60 * (Horas_Minutos[0] ? Horas_Minutos[0] : 0)) + parseInt(Horas_Minutos[1] ? Horas_Minutos[1] : 0);
+}
+function Minutos_a_Horas(value) {
+  var hora = parseInt(value / 60);
+  var minutos = value % 60;
+  function formatear(valor) {
+    return "".concat(valor < 10 ? '0' + valor : valor);
+  }
+  return "".concat(formatear(hora), ":").concat(formatear(minutos));
+}
+var FechaParaRuta = document.getElementById('fechaParaRuta');
+var FechaHoy = (0,format/* format */.GP)(new Date(), 'yyyy-MM-dd');
+FechaParaRuta.setAttribute('data-value', FechaHoy);
+FechaParaRuta.value = FechaHoy;
+new index_es/* default */.A('#fechaParaRuta', datepicker_options.datepickerOptions);
+
+/***/ }),
+
+/***/ 5916:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   datepickerOptions: () => (/* binding */ datepickerOptions)
+/* harmony export */ });
+var button = {
+  content: 'Hoy',
+  className: 'custom-button-classname',
+  onClick: function onClick(dp) {
+    var date = new Date();
+    dp.selectDate(date);
+    dp.setViewDate(date);
+  }
+};
+var datepickerOptions = {
+  dateFormat: 'yyyy-MM-dd',
+  locale: {
+    days: ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'],
+    daysShort: ['Dom', 'Lun', 'Mar', 'Mie', 'Jue', 'Vie', 'Sab'],
+    daysMin: ['Do', 'Lu', 'Ma', 'Mi', 'Ju', 'Vi', 'Sa'],
+    months: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'],
+    monthsShort: ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'],
+    today: 'Hoy',
+    clear: 'Limpiar',
+    dateFormat: 'yyyy/mm/dd',
+    timeFormat: 'hh:ii aa',
+    firstDay: 1
+  },
+  buttons: [button],
+  todayButton: new Date(),
+  autoClose: true,
+  onSelect: function onSelect(dp) {
+    //console.log(dp.datepicker.$el);
+    if (dp.datepicker.$el.id == 'fechaPreconcepto') {
+      var Fecha_Preconcepto = document.getElementById('fechaPreconcepto');
+      Fecha_Preconcepto.setAttribute('data-value', dp.formattedDate);
+    }
+    if (document.getElementById('fechaInicial')) {
+      var Fecha_Inicial = document.getElementById('fechaInicial');
+      var Fecha_Final = document.getElementById('fechaFinal');
+      if (dp.datepicker.$el.id == 'fechaInicial') {
+        Fecha_Inicial.setAttribute('data-value', dp.formattedDate);
+      }
+      if (dp.datepicker.$el.id == 'fechaInicial' && Fecha_Inicial.dataset.contador == 1) {
+        Fecha_Final.setAttribute('data-value', dp.formattedDate);
+        Fecha_Final.value = dp.formattedDate;
+      }
+      if (dp.datepicker.$el.id == 'fechaFinal') {
+        Fecha_Inicial.dataset.contador++;
+        Fecha_Final.setAttribute('data-value', dp.formattedDate);
+      }
+    }
+    if (dp.datepicker.$el.id == 'fechaParaRuta') {
+      var _Fecha_Preconcepto = document.getElementById('fechaParaRuta');
+      _Fecha_Preconcepto.setAttribute('data-value', dp.formattedDate);
+    }
+  },
+  position: function position(_ref) {
+    var $datepicker = _ref.$datepicker,
+      $target = _ref.$target,
+      $pointer = _ref.$pointer;
+    var coords = $target.getBoundingClientRect(),
+      dpHeight = $datepicker.clientHeight,
+      dpWidth = $datepicker.clientWidth,
+      downMovement = 3;
+    var top = coords.y + coords.height + downMovement;
+    var left = coords.x;
+    $datepicker.style.left = "".concat(left, "px");
+    $datepicker.style.top = "".concat(top, "px");
+    $pointer.style.display = 'none';
+  }
+};
+
+/***/ }),
+
+/***/ 4021:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   aplicarMascaraHora: () => (/* binding */ aplicarMascaraHora)
+/* harmony export */ });
+function aplicarMascaraHora(elementoID, element) {
+  var input;
+  if (!element) {
+    input = document.getElementById(elementoID);
+  } else {
+    input = element;
+  }
+  var valorEntrada = '';
+  var horaMinutos = [];
+  var hora = '';
+  var minutos = '';
+  var seleccionado = false;
+  var seleccionadoInicio = 0;
+  var seleccionadoFinal = 0;
+  var resultadoComprobarHora = {};
+  var resultadoComprobarMinutos = {};
+  var posicionDosPuntos = 0;
+  input.addEventListener('input', function (event) {
+    valorEntrada = input.value;
+    posicionDosPuntos = valorEntrada.indexOf(':');
+    if (posicionDosPuntos == -1 || posicionDosPuntos == 3) {
+      var valorEntradaArray = valorEntrada.split('');
+      valorEntradaArray.splice(2, 0, ':');
+      valorEntrada = '';
+      valorEntradaArray.forEach(function (_char) {
+        valorEntrada += _char;
+      });
+    }
+    horaMinutos = valorEntrada.split(':');
+    resultadoComprobarHora = comprobarHoraMinutos(horaMinutos[0], 23);
+    resultadoComprobarMinutos = comprobarHoraMinutos(horaMinutos[1], 59);
+    hora = resultadoComprobarHora.retorno;
+    minutos = resultadoComprobarMinutos.retorno;
+    if (resultadoComprobarHora.resto) {
+      if (minutos) {
+        if (parseInt(minutos) < 10) {
+          minutos = parseInt(minutos) * 10;
+        }
+        var minutosCedidos = parseInt(resultadoComprobarHora.resto * 100) + parseInt(minutos);
+        minutos = comprobarHoraMinutos("".concat(minutosCedidos)).retorno;
+      } else {
+        minutos = comprobarHoraMinutos(resultadoComprobarHora.resto).retorno;
+      }
+    }
+    input.value = "".concat(hora, ":").concat(minutos);
+    valorEntrada = input.value;
+    if (event.inputType === 'deleteContentBackward') {
+      if (valorEntrada[input.selectionStart - 1] == ':') {
+        input.setSelectionRange(input.value.indexOf(':'), input.value.indexOf(':'));
+      }
+    }
+    if (seleccionado && seleccionadoInicio < input.value.indexOf(':') && seleccionadoFinal > input.value.indexOf(':')) {
+      input.setSelectionRange(input.value.indexOf(':'), input.value.indexOf(':'));
+    }
+    seleccionado = false;
+  });
+  input.addEventListener('select', function (evento) {
+    seleccionadoInicio = input.selectionStart;
+    seleccionadoFinal = input.selectionEnd;
+    seleccionado = true;
+  });
+  input.addEventListener('click', function () {
+    seleccionado = false;
+  });
+  input.onpaste = function (e) {
+    seleccionado = false;
+  };
+}
+var EsNumero = function EsNumero(_char2) {
+  return !isNaN(_char2 - parseInt(_char2));
+};
+var comprobarHoraMinutos = function comprobarHoraMinutos(dato, limite) {
+  var resultado = {
+    retorno: '',
+    resto: ''
+  };
+  if (dato) {
+    var salida = dato.replace(/\D/g, '');
+    if (salida.length > 2) {
+      salida = salida.slice(0, 2);
+    }
+    if (parseInt(salida) > limite) {
+      var demas = salida;
+      salida = salida.slice(0, 1);
+      resultado.resto = demas.slice(1, 2);
+    }
+    resultado.retorno = salida;
+  } else {
+    resultado.retorno = '';
+  }
+  return resultado;
+};
+
+/***/ })
+
+}]);

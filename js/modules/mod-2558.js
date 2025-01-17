@@ -1,1 +1,18 @@
-'use strict';function a29_0x2a43(_0x15472a,_0x3b3a2c){var _0x4a36a1=a29_0x4a36();return a29_0x2a43=function(_0x2a43bd,_0xdf1446){_0x2a43bd=_0x2a43bd-0x1a8;var _0x4ee4ff=_0x4a36a1[_0x2a43bd];return _0x4ee4ff;},a29_0x2a43(_0x15472a,_0x3b3a2c);}var a29_0x2f4288=a29_0x2a43;(function(_0x4dd482,_0x3886c5){var _0x17f474=a29_0x2a43,_0x543888=_0x4dd482();while(!![]){try{var _0x31293e=parseInt(_0x17f474(0x1aa))/0x1+parseInt(_0x17f474(0x1b7))/0x2+parseInt(_0x17f474(0x1ad))/0x3+-parseInt(_0x17f474(0x1b3))/0x4*(-parseInt(_0x17f474(0x1b4))/0x5)+parseInt(_0x17f474(0x1ae))/0x6+-parseInt(_0x17f474(0x1b5))/0x7*(parseInt(_0x17f474(0x1b0))/0x8)+-parseInt(_0x17f474(0x1b1))/0x9*(parseInt(_0x17f474(0x1ac))/0xa);if(_0x31293e===_0x3886c5)break;else _0x543888['push'](_0x543888['shift']());}catch(_0x535ec5){_0x543888['push'](_0x543888['shift']());}}}(a29_0x4a36,0xe9f13));function a29_0x4a36(){var _0x3c286b=['5659696NnZUzL','NombreEmpresa','2128758kbKAtu','push','getItem','727425GWPOcb','textContent','40470DfpUtR','2713401dDRDHa','1211382SpupDv','Nombre\x20de\x20empresa','16PtYutu','1863QGhoHq','webpackChunkkiux','1029688xNWjNR','10XORDPQ'];a29_0x4a36=function(){return _0x3c286b;};return a29_0x4a36();}(self[a29_0x2f4288(0x1b2)]=self[a29_0x2f4288(0x1b2)]||[])[a29_0x2f4288(0x1a8)]([[0x9fe],{0x9fe:(_0x479c5c,_0x1a3827,_0x16dc70)=>{_0x16dc70['r'](_0x1a3827),_0x16dc70['d'](_0x1a3827,{'NombreEmpresa':()=>_0x280f1d});function _0x280f1d(_0x22febf){var _0xb31941=a29_0x2a43;_0x22febf[_0xb31941(0x1ab)]=localStorage[_0xb31941(0x1a9)]('NombreEmpresa')?localStorage['getItem'](_0xb31941(0x1b6)):_0xb31941(0x1af);}}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[2558],{
+
+/***/ 2558:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   NombreEmpresa: () => (/* binding */ NombreEmpresa)
+/* harmony export */ });
+// Nombre de la Empresa
+function NombreEmpresa(ElementoUI) {
+  ElementoUI.textContent = localStorage.getItem('NombreEmpresa') ? localStorage.getItem('NombreEmpresa') : 'Nombre de empresa';
+}
+
+/***/ })
+
+}]);

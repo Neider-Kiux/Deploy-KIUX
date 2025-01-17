@@ -1,1 +1,66 @@
-'use strict';function a11_0x4205(){var _0x2fc770=['574680OhOtzo','round','1444040xpOvfk','length','97044TxEOAC','5997936XLlkdJ','9rMroZa','min','111735UEBBeE','91CCCyzS','00000','substr','toString','hsl(','159212OTYfLm','push','webpackChunkkiux','concat','898986naVMJM'];a11_0x4205=function(){return _0x2fc770;};return a11_0x4205();}var a11_0x1107e9=a11_0x56c8;function a11_0x56c8(_0x52722f,_0x5630ec){var _0x4205b2=a11_0x4205();return a11_0x56c8=function(_0x56c8da,_0x5633d0){_0x56c8da=_0x56c8da-0x6f;var _0x5a7869=_0x4205b2[_0x56c8da];return _0x5a7869;},a11_0x56c8(_0x52722f,_0x5630ec);}(function(_0x5630a7,_0x451e56){var _0x368829=a11_0x56c8,_0x517cbf=_0x5630a7();while(!![]){try{var _0x513b4e=-parseInt(_0x368829(0x7e))/0x1+-parseInt(_0x368829(0x76))/0x2+-parseInt(_0x368829(0x75))/0x3+parseInt(_0x368829(0x71))/0x4+parseInt(_0x368829(0x78))/0x5+parseInt(_0x368829(0x7a))/0x6*(-parseInt(_0x368829(0x7f))/0x7)+-parseInt(_0x368829(0x7b))/0x8*(-parseInt(_0x368829(0x7c))/0x9);if(_0x513b4e===_0x451e56)break;else _0x517cbf['push'](_0x517cbf['shift']());}catch(_0x2c121c){_0x517cbf['push'](_0x517cbf['shift']());}}}(a11_0x4205,0x2958a));(self[a11_0x1107e9(0x73)]=self['webpackChunkkiux']||[])[a11_0x1107e9(0x72)]([[0x1b49,0x2496,0x1bfc],{0x886:(_0x1d1554,_0xfa4a7,_0x54e600)=>{_0x54e600['r'](_0xfa4a7),_0x54e600['d'](_0xfa4a7,{'ColorRGB':()=>_0x555734,'ColorRegistroOpcion':()=>_0xca6a87,'GetHSL':()=>_0x24d8ad,'PorcentajeL':()=>_0x530f83});var _0x530f83=['94','96','45'];function _0x24d8ad(_0x2e6314){var _0x4cf235=a11_0x56c8,_0x5bbe16='00000'+_0x2e6314[_0x4cf235(0x6f)](0x10);_0x5bbe16=_0x5bbe16['substr'](_0x5bbe16[_0x4cf235(0x79)]-0x6,0x6);var _0x2cf5cb=parseInt(_0x5bbe16['substr'](0x0,0x2),0x10)/0xff,_0x3c23fa=parseInt(_0x5bbe16[_0x4cf235(0x81)](0x2,0x2),0x10)/0xff,_0x5cba31=parseInt(_0x5bbe16[_0x4cf235(0x81)](0x4,0x2),0x10)/0xff,_0xf44004=Math['max'](_0x2cf5cb,_0x3c23fa,_0x5cba31),_0xee3a1c=Math[_0x4cf235(0x7d)](_0x2cf5cb,_0x3c23fa,_0x5cba31),_0x42eaad,_0x593b80,_0x28630e=(_0xf44004+_0xee3a1c)/0x2;if(_0xf44004==_0xee3a1c)_0x42eaad=_0x593b80=0x0;else{var _0x25f222=_0xf44004-_0xee3a1c;_0x593b80=_0x28630e>0.5?_0x25f222/(0x2-_0xf44004-_0xee3a1c):_0x25f222/(_0xf44004+_0xee3a1c);switch(_0xf44004){case _0x2cf5cb:_0x42eaad=(_0x3c23fa-_0x5cba31)/_0x25f222+(_0x3c23fa<_0x5cba31?0x6:0x0);break;case _0x3c23fa:_0x42eaad=(_0x5cba31-_0x2cf5cb)/_0x25f222+0x2;break;case _0x5cba31:_0x42eaad=(_0x2cf5cb-_0x3c23fa)/_0x25f222+0x4;break;}_0x42eaad/=0x6;}return _0x42eaad=Math[_0x4cf235(0x77)](_0x42eaad*0x168),_0x593b80=Math[_0x4cf235(0x77)](_0x593b80*0x64),_0x28630e=Math['round'](_0x28630e*0x64),[_0x42eaad,_0x593b80,_0x28630e];}function _0x555734(_0xc75d80){var _0x20a930=a11_0x56c8,_0x2cc5b6=_0x20a930(0x80)+_0xc75d80[_0x20a930(0x6f)](0x10);return _0x2cc5b6=_0x2cc5b6['substr'](_0x2cc5b6[_0x20a930(0x79)]-0x6,0x6),'#'[_0x20a930(0x74)](_0x2cc5b6);}function _0xca6a87(_0x3f3481){var _0x217b16=a11_0x56c8,_0x2e4e4b=_0x24d8ad(_0x3f3481);return _0x217b16(0x70)[_0x217b16(0x74)](_0x2e4e4b[0x0],',')[_0x217b16(0x74)](_0x2e4e4b[0x1],'%,')[_0x217b16(0x74)](_0x530f83[0x0],'%)');}}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[6985,9366,7164],{
+
+/***/ 2182:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   ColorRGB: () => (/* binding */ ColorRGB),
+/* harmony export */   ColorRegistroOpcion: () => (/* binding */ ColorRegistroOpcion),
+/* harmony export */   GetHSL: () => (/* binding */ GetHSL),
+/* harmony export */   PorcentajeL: () => (/* binding */ PorcentajeL)
+/* harmony export */ });
+var PorcentajeL = ['94', '96', '45'];
+function GetHSL(ColorRGBDecimal) {
+  // let ColorRGBHexadecimal = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(`#${ColorPrincipal(ColorRGBDecimal)}`);
+  var ColorRGBHexadecimal = '00000' + ColorRGBDecimal.toString(16);
+  ColorRGBHexadecimal = ColorRGBHexadecimal.substr(ColorRGBHexadecimal.length - 6, 6);
+  var R = parseInt(ColorRGBHexadecimal.substr(0, 2), 16) / 255;
+  var G = parseInt(ColorRGBHexadecimal.substr(2, 2), 16) / 255;
+  var B = parseInt(ColorRGBHexadecimal.substr(4, 2), 16) / 255;
+  var max = Math.max(R, G, B),
+    min = Math.min(R, G, B);
+  var H,
+    S,
+    L = (max + min) / 2;
+  if (max == min) {
+    H = S = 0; // achromatic
+  } else {
+    var d = max - min;
+    S = L > 0.5 ? d / (2 - max - min) : d / (max + min);
+    switch (max) {
+      case R:
+        H = (G - B) / d + (G < B ? 6 : 0);
+        break;
+      case G:
+        H = (B - R) / d + 2;
+        break;
+      case B:
+        H = (R - G) / d + 4;
+        break;
+    }
+    H /= 6;
+  }
+  H = Math.round(H * 360);
+  S = Math.round(S * 100);
+  L = Math.round(L * 100);
+  return [H, S, L];
+}
+
+// Color RGB de decimal a hexadecimal
+function ColorRGB(ColorRGBDecimal) {
+  var ColorRGBHexadecimal = '00000' + ColorRGBDecimal.toString(16);
+  ColorRGBHexadecimal = ColorRGBHexadecimal.substr(ColorRGBHexadecimal.length - 6, 6);
+  return "#".concat(ColorRGBHexadecimal);
+}
+
+// Color Registro Opción
+function ColorRegistroOpcion(Color) {
+  var HSL = GetHSL(Color);
+  return "hsl(".concat(HSL[0], ",").concat(HSL[1], "%,").concat(PorcentajeL[0], "%)");
+}
+
+/***/ })
+
+}]);

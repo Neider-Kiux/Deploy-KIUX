@@ -1,1 +1,714 @@
-'use strict';function a13_0x333a(_0x4a672d,_0x5cb385){var _0x510fce=a13_0x510f();return a13_0x333a=function(_0x333a99,_0x1935ea){_0x333a99=_0x333a99-0xf0;var _0x4f45e1=_0x510fce[_0x333a99];return _0x4f45e1;},a13_0x333a(_0x4a672d,_0x5cb385);}function a13_0x510f(){var _0x484d5f=['setAttribute','DomEvent','checkBoxCollision','prototype','2087098yrpHtz','remove','knobSize','addEvent','Instance','click','textContent','alert','#00F','quadrant','offsetLeft','384296KDjcHa','currentStyle','dial','webkitBorderRadius','Guardar','push','hmd','removeEventListener','getCoordinates','clientX','cont_botones_3','maxDegree','castigar-registro-cantidad','TiempoActual','castigar-registro-cantidad__codigo-iso','target','castigar-registro-cantidad__valor','triggerEvent','zIndex','0.5rem','PointerEvent','ocultar-scroll','removeEvent','Castigar\x20Registro','editar-registro','stop','px\x200\x200\x20','preventDefault','35ntkvzQ','195700GqUfFO','set','getComputedStyle','cantidad_registrada','1572OjwCsE','BUTTON','pressed','10239020VrIUjx','beforeend','createEvent','background','exports','dialogo','getElementById','wrap','minDegree','ToRad','result_code','30%','sin','modal-button--default-text','appendChild','cantidad-castigada','15228gKIfRx','Ready','width','castigar-registro-seccion','opt','opacity','radius','GetData','addEventListener','codigo_iso','702810bOWZbp','now','touchend','insertAdjacentElement','return','userAgent','CastigarRegistro','_knob','createElement','match','sent','knob','innerHTML','classList','plazas_decimales','height','FechaDesde','fireEvent','targetTouches','color','SECTION','marginRight','old','Castigar\x20Gasto','mouseout','mousemove','98%','PostData','modal-button--text','left','end','50%','angle','Defaults','99npaWxr','ToDeg','_wheel','backgroundColor','rawValue','convertClockToUnit','margin','touchleave','pointerdown\x20MSPointerDown','ModernEvent','mousedown','c-Botones','CodigoAlcance','detachEvent','14705HRatsI','keydown','getQuadrant','length','degreeStartAt','contenedor-knob','CerrarVentanaClick','inputElement','wheelSize','#d32f2f','clientHeight','position','flex','getRotation','initEvent','getItem','MOUSE_UP','debug','getdatoscastigar','getAttribute','TEXT','#1a88d1','MOUSE_DOWN','convertUnitToClock','TiempoTotal','contenedor-flechas','cantidad_castigada','justifyContent','DIV','object','main','Cancelar','marginTop','progid:DXImageTransform.Microsoft.Alpha(Opacity=40)','info','castigar-registro-wrapper','MenuPpal','cantidad-registrada','attachEvent','castigarregistro','round','center','MOUSE_MOVE','webpackChunkkiux','btn-castigar-todo','pointerup\x20pointercancel\x20MSPointerUp\x20MSPointerCancel','undefined','CreateElement','next','3982TotKNt','CodigoBuscado','mouseup','JogDial','getPropertyValue','utils','touchmove','clientWidth','borderTop','extend','MobileRegEx','MOUSE_OUT','modal-button','offsetTop','FechaHasta','navigator','modal-button--save','_jogDial_','flexDirection','trunc','MobileEvent','3lDaniw','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20id=\x22btn-anular-castigo\x22\x20title=\x22Anular\x20castigo\x22\x20viewbox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22./img/sprite.svg#btn-anular--castigo\x22></use></svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20id=\x22btn-castigar-todo\x22\x20title=\x22Castigar\x20todo\x22\x20viewbox=\x220\x200\x20180\x20216\x22><use\x20xlink:href=\x22./img/sprite.svg#btn-castigar--todo\x22></use></svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','CerrarVentanaESC','getBoundingClientRect','pointerEnabled','Please\x20Check\x20your\x20code:\x0ajogDial\x20can\x20not\x20be\x20initialized\x20twice\x20in\x20a\x20same\x20element.','returnValue','function','keyCode','mark','top','borderRadius','Doc','cantidad-resultante','style','base','clientY','relative','btn-anular-castigo','apply','rotation','DegInfo','wheel','snapshot','castigar-registro__titulo','absolute','result_message','amdO','SPAN','MostrarMensajeError','split','integerPos','pointermove\x20MSPointerMove','direction','CustomEvent'];a13_0x510f=function(){return _0x484d5f;};return a13_0x510f();}var a13_0x3c07da=a13_0x333a;(function(_0x41fa6d,_0x8226f7){var _0x45d9fd=a13_0x333a,_0x8ab449=_0x41fa6d();while(!![]){try{var _0x686f3b=parseInt(_0x45d9fd(0x150))/0x1+parseInt(_0x45d9fd(0x128))/0x2*(parseInt(_0x45d9fd(0x101))/0x3)+parseInt(_0x45d9fd(0x154))/0x4*(parseInt(_0x45d9fd(0x1a1))/0x5)+-parseInt(_0x45d9fd(0x171))/0x6*(parseInt(_0x45d9fd(0x14f))/0x7)+parseInt(_0x45d9fd(0x133))/0x8*(-parseInt(_0x45d9fd(0x193))/0x9)+-parseInt(_0x45d9fd(0x157))/0xa+-parseInt(_0x45d9fd(0x1d2))/0xb*(-parseInt(_0x45d9fd(0x167))/0xc);if(_0x686f3b===_0x8226f7)break;else _0x8ab449['push'](_0x8ab449['shift']());}catch(_0x44a92b){_0x8ab449['push'](_0x8ab449['shift']());}}}(a13_0x510f,0xaeea8));(self[a13_0x3c07da(0x1cc)]=self[a13_0x3c07da(0x1cc)]||[])[a13_0x3c07da(0x138)]([[0x7b3,0x714,0x6bb],{0x7b3:(_0x244275,_0x27eb3c,_0x138a96)=>{_0x138a96['r'](_0x27eb3c),_0x138a96['d'](_0x27eb3c,{'CastigarRegistro':()=>_0x584b3e});var _0x48bfbe=_0x138a96(0x1d3),_0xb43514=_0x138a96(0x1294),_0x5d11bc=_0x138a96['n'](_0xb43514),_0x46f975=_0x138a96(0x6bb),_0x384c43=_0x138a96(0x2292),_0xe3f7d7=_0x138a96['n'](_0x384c43),_0x2560ee=_0x138a96(0x967),_0x9a1a28=_0x138a96(0x714),_0x51cb10=_0x138a96(0x1d01),_0x575f71=_0x138a96(0x1d09);function _0x584b3e(_0x9fc774,_0x3d98e7){return _0x2962d5['apply'](this,arguments);}function _0x2962d5(){var _0x292add=a13_0x333a;return _0x2962d5=(0x0,_0x48bfbe['A'])(_0x5d11bc()[_0x292add(0x10a)](function _0x19d4ed(_0x2c6e16,_0x1e8431){var _0x2967e2=_0x292add,_0x2b4909,_0x57ae65,_0x218d68,_0x34d717,_0x11c6a3,_0x53160f,_0x9a6017,_0x5812ac,_0x2629be,_0x4ec5d9,_0x2ce9c4,_0x252de4,_0x308081,_0x18f5f3,_0x3716d,_0x5d03e0,_0x3364e6,_0x39cdc5,_0x47f775,_0x3016f7,_0x2794dc,_0x151432,_0xe9dad5,_0xec4d1,_0x11fb45,_0x536d7d,_0xcd2a5,_0x57e51d,_0x77cc9e,_0x5cf5dc,_0x3ddcc1,_0x555766,_0x542094,_0x3e39d1,_0x32d0af,_0x4f46b1,_0x3be8ca,_0x18d1c5,_0xb17c03,_0x54e899,_0x461610,_0x226d47,_0x36bd17,_0x1e3bb8,_0x534aac,_0x451aba,_0x5ae028;return _0x5d11bc()[_0x2967e2(0x15e)](function _0x249470(_0x7aecb){var _0x4faf2f=_0x2967e2;while(0x1)switch(_0x7aecb['prev']=_0x7aecb[_0x4faf2f(0x1d1)]){case 0x0:_0x2b4909=(0x0,_0x2560ee['CreateElement'])(_0x4faf2f(0x185),_0x4faf2f(0x15a),[_0x4faf2f(0x15a)]),_0x57ae65=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x185),_0x4faf2f(0x15c),['dialogo']),_0x218d68=(0x0,_0x2560ee['CreateElement'])(_0x4faf2f(0x185),_0x4faf2f(0x177),[_0x4faf2f(0x14b)]),_0x7aecb['next']=0x5;return(0x0,_0x51cb10[_0x4faf2f(0x16e)])(_0x4faf2f(0x1b3),_0x2c6e16,'CastigarRegistro');case 0x5:_0x34d717=_0x7aecb[_0x4faf2f(0x17b)],_0x11c6a3=_0x34d717['tipo_registro'],_0x53160f=_0x34d717[_0x4faf2f(0x170)],_0x9a6017=_0x34d717[_0x4faf2f(0x1bb)],_0x5812ac=_0x34d717[_0x4faf2f(0x153)],_0x2629be=_0x34d717[_0x4faf2f(0x17f)],_0x4ec5d9=_0x34d717[_0x4faf2f(0x161)],_0x2ce9c4=_0x34d717[_0x4faf2f(0x11b)];_0x4ec5d9==0x0?(_0x11c6a3==0x1?(_0x3716d=function _0x247b9e(){var _0x35ca24=_0x4faf2f;_0x3ddcc1[_0x35ca24(0x191)](0x0),_0x57e51d=0x0,_0x77cc9e=_0xcd2a5-_0x57e51d,_0x2794dc['textContent']=_0x3364e6(_0x57e51d),_0x151432[_0x35ca24(0x12e)]=_0x3364e6(_0x77cc9e);},_0x5d03e0=function _0x4ca84a(){var _0x28a286=_0x4faf2f;_0x3ddcc1[_0x28a286(0x191)](_0xcd2a5*0x168),_0x57e51d=_0xcd2a5,_0x77cc9e=_0xcd2a5-_0x57e51d,_0x2794dc[_0x28a286(0x12e)]=_0x3364e6(_0x57e51d),_0x151432['textContent']=_0x3364e6(_0x77cc9e);},_0x3364e6=function _0x23134c(_0x1a57ed){var _0x413373=_0x4faf2f,_0x538025=0x3c,_0x317ee6=0.00000277777777777778,_0x39879c=Math[_0x413373(0xff)](_0x1a57ed),_0xbcc408=Math[_0x413373(0xff)]((_0x1a57ed-_0x39879c)*_0x538025+_0x317ee6);_0xbcc408==0x3c&&(_0x39879c=_0x39879c+0x1,_0xbcc408=0x0);var _0xcfdea5=Math[_0x413373(0x1c9)](_0x39879c),_0x250124=Math['round'](_0xbcc408);return(_0xcfdea5<0xa?'0'+_0xcfdea5:_0xcfdea5)+':'+(_0x250124<0xa?'0'+_0x250124:_0x250124);},_0x218d68['insertAdjacentElement'](_0x4faf2f(0x158),(0x0,_0x2560ee['CreateElement'])(_0x4faf2f(0x1bd),null,[_0x4faf2f(0x119)],'Castigar\x20Actividad')),_0x39cdc5=(0x0,_0x2560ee['CreateElement'])('SECTION',null,[_0x4faf2f(0x1a6)]),_0x47f775=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])('DIV'),_0x47f775[_0x4faf2f(0x10f)]['display']=_0x4faf2f(0x1ad),_0x47f775[_0x4faf2f(0x10f)][_0x4faf2f(0xfe)]='column',_0x3016f7=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x11d),_0x4faf2f(0x1b9)),_0x47f775[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x3016f7),_0x2794dc=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x11d),'TiempoActual'),_0x2794dc[_0x4faf2f(0x10f)][_0x4faf2f(0x184)]=_0x4faf2f(0x1aa),_0x47f775[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x2794dc),_0x151432=(0x0,_0x2560ee['CreateElement'])('SPAN','Total'),_0x151432[_0x4faf2f(0x10f)][_0x4faf2f(0xf4)]='0.0625rem\x20solid\x20#d32f2f',_0x151432[_0x4faf2f(0x10f)][_0x4faf2f(0x184)]=_0x4faf2f(0x1b6),_0x47f775[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x151432),_0x39cdc5[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x47f775),_0x218d68[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x39cdc5),_0xe9dad5=(0x0,_0x2560ee['CreateElement'])(_0x4faf2f(0x1bd),_0x4faf2f(0x135),[_0x4faf2f(0x135)]),_0x39cdc5[_0x4faf2f(0x174)]('beforeend',_0xe9dad5),_0xec4d1=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x1bd),null,[_0x4faf2f(0x1ba)]),_0xec4d1[_0x4faf2f(0x17d)]=_0x4faf2f(0x102),_0x39cdc5['insertAdjacentElement'](_0x4faf2f(0x158),_0xec4d1),_0x57ae65[_0x4faf2f(0x174)]('beforeend',_0x218d68),_0x2b4909[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x57ae65),document[_0x4faf2f(0x15d)](_0x4faf2f(0x1bf))[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x2b4909),_0x11fb45=document[_0x4faf2f(0x15d)](_0x4faf2f(0x113)),_0x11fb45['addEventListener'](_0x4faf2f(0x12d),_0x3716d),_0x536d7d=document[_0x4faf2f(0x15d)](_0x4faf2f(0x1cd)),_0x536d7d[_0x4faf2f(0x16f)]('click',_0x5d03e0),_0xcd2a5=_0x5812ac,_0x57e51d=_0x9a6017,_0x77cc9e=_0xcd2a5-_0x57e51d,_0x3016f7['textContent']=_0x3364e6(_0xcd2a5),_0x2794dc[_0x4faf2f(0x12e)]=_0x3364e6(_0x57e51d),_0x151432['textContent']=_0x3364e6(_0x77cc9e),_0x5cf5dc={'debug':![],'wheelSize':_0x4faf2f(0x18b),'minDegree':0x0,'maxDegree':_0xcd2a5*0x168,'degreeStartAt':_0x57e51d*0x168},_0x3ddcc1=JogDial(_0xe9dad5,_0x5cf5dc)['on'](_0x4faf2f(0x18a),function(_0x2d3a76){var _0x119cde=_0x4faf2f;_0x57e51d=Math[_0x119cde(0x1c9)](_0x2d3a76[_0x119cde(0x142)][_0x119cde(0x115)]/0x6)/0x3c,_0x77cc9e=_0xcd2a5-_0x57e51d,_0x2794dc[_0x119cde(0x12e)]=_0x3364e6(_0x57e51d),_0x151432['textContent']=_0x3364e6(_0x77cc9e);})):(_0x555766=function _0x2e3392(){var _0x1104d2=_0x4faf2f;_0x308081[_0x1104d2(0x151)](0x0),_0x18f5f3[_0x1104d2(0x151)](_0x5812ac-_0x308081[_0x1104d2(0x197)]);},_0x542094=function _0x59d797(){var _0x4c24ea=_0x4faf2f;_0x308081[_0x4c24ea(0x151)](_0x5812ac),_0x18f5f3[_0x4c24ea(0x151)](_0x5812ac-_0x308081[_0x4c24ea(0x197)]);},_0x218d68[_0x4faf2f(0x174)](_0x4faf2f(0x158),(0x0,_0x2560ee['CreateElement'])(_0x4faf2f(0x1bd),null,[_0x4faf2f(0x119)],_0x4faf2f(0x188))),_0x3e39d1=(0x0,_0x2560ee['CreateElement'])('SECTION',null,[_0x4faf2f(0x16a)]),_0x32d0af=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x1bd),null,[_0x4faf2f(0x1c4)]),_0x4f46b1=(0x0,_0x2560ee['CreateElement'])(_0x4faf2f(0x1bd),null,[_0x4faf2f(0x13f)]),_0x4f46b1[_0x4faf2f(0x174)]('beforeend',(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x11d),null,[_0x4faf2f(0x141)],_0x53160f)),_0x3be8ca=(0x0,_0x2560ee[_0x4faf2f(0x1a8)])(_0x4faf2f(0x1b5),null,[_0x4faf2f(0x143),_0x4faf2f(0x1c6)],_0x5812ac),_0x4f46b1[_0x4faf2f(0x174)]('beforeend',_0x3be8ca),_0x252de4=new(_0xe3f7d7())(_0x3be8ca,['integerPos',{'selectOnFocus':![],'readOnly':!![],'decimalPlaces':_0x2629be}]),_0x18d1c5=(0x0,_0x2560ee['CreateElement'])('DIV',null,['castigar-registro-cantidad']),_0x18d1c5[_0x4faf2f(0x174)]('beforeend',(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x11d),null,['castigar-registro-cantidad__codigo-iso'],_0x53160f)),_0xb17c03=(0x0,_0x2560ee[_0x4faf2f(0x1a8)])(_0x4faf2f(0x1b5),null,[_0x4faf2f(0x143),_0x4faf2f(0x166)],_0x9a6017),_0x18d1c5[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0xb17c03),_0x308081=new(_0xe3f7d7())(_0xb17c03,[_0x4faf2f(0x120),{'selectOnFocus':![],'decimalPlaces':_0x2629be,'maximumValue':_0x5812ac,'modifyValueOnWheel':![]}]),_0xb17c03[_0x4faf2f(0x16f)]('keyup',function(){var _0x1a70c0=_0x4faf2f;_0x18f5f3[_0x1a70c0(0x151)](_0x5812ac-_0x308081['rawValue']);}),_0x54e899=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])('DIV',null,[_0x4faf2f(0x13f)]),_0x54e899[_0x4faf2f(0x174)]('beforeend',(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x11d),null,['castigar-registro-cantidad__codigo-iso'],_0x53160f)),_0x461610=(0x0,_0x2560ee[_0x4faf2f(0x1a8)])('TEXT',null,['castigar-registro-cantidad__valor',_0x4faf2f(0x10e)],_0x252de4[_0x4faf2f(0x197)]-_0x308081[_0x4faf2f(0x197)]),_0x54e899[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x461610),_0x18f5f3=new(_0xe3f7d7())(_0x461610,[_0x4faf2f(0x120),{'selectOnFocus':![],'decimalPlaces':_0x2629be,'maximumValue':_0x5812ac,'modifyValueOnWheel':![]}]),_0x461610[_0x4faf2f(0x16f)]('keyup',function(){var _0x4c02c1=_0x4faf2f;_0x308081[_0x4c02c1(0x151)](_0x5812ac-_0x18f5f3[_0x4c02c1(0x197)]);}),_0x226d47=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])('DIV',null,['contenedor-flechas']),_0x226d47['innerHTML']=_0x4faf2f(0x102),_0x226d47[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x36bd17),_0x226d47[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x1e3bb8),_0x32d0af['insertAdjacentElement'](_0x4faf2f(0x158),_0x4f46b1),_0x32d0af[_0x4faf2f(0x174)]('beforeend',_0x18d1c5),_0x32d0af[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x54e899),_0x3e39d1[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x32d0af),_0x3e39d1[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x226d47),_0x218d68['insertAdjacentElement'](_0x4faf2f(0x158),_0x3e39d1),_0x57ae65[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x218d68),_0x2b4909['insertAdjacentElement'](_0x4faf2f(0x158),_0x57ae65),document[_0x4faf2f(0x15d)]('main')[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x2b4909),_0x36bd17=document[_0x4faf2f(0x15d)](_0x4faf2f(0x113)),_0x36bd17[_0x4faf2f(0x16f)]('click',_0x555766),_0x1e3bb8=document['getElementById'](_0x4faf2f(0x1cd)),_0x1e3bb8[_0x4faf2f(0x16f)]('click',_0x542094)),_0x534aac=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x1bd),_0x4faf2f(0x19e),[_0x4faf2f(0x13d)]),_0x534aac[_0x4faf2f(0x10f)][_0x4faf2f(0x1bc)]='flex-end',_0x534aac[_0x4faf2f(0x10f)][_0x4faf2f(0x1c1)]=_0x4faf2f(0x146),_0x451aba=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x155),'btnCancelar',[_0x4faf2f(0xf8),_0x4faf2f(0x164),'modal-button--text'],_0x4faf2f(0x1c0)),_0x451aba[_0x4faf2f(0x10f)][_0x4faf2f(0x186)]='0.5rem',_0x534aac['insertAdjacentElement'](_0x4faf2f(0x158),_0x451aba),_0x451aba[_0x4faf2f(0x16f)](_0x4faf2f(0x12d),function(){var _0x45efa0=_0x4faf2f;document[_0x45efa0(0x15d)](_0x45efa0(0x15a))[_0x45efa0(0x129)]();}),_0x5ae028=(0x0,_0x2560ee[_0x4faf2f(0x1d0)])(_0x4faf2f(0x155),'btnGuardar',[_0x4faf2f(0xf8),_0x4faf2f(0xfc),_0x4faf2f(0x18d)],_0x4faf2f(0x137)),_0x534aac[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x5ae028),_0x5ae028[_0x4faf2f(0x16f)](_0x4faf2f(0x12d),(0x0,_0x48bfbe['A'])(_0x5d11bc()[_0x4faf2f(0x10a)](function _0x40a7bd(){var _0x230c78=_0x4faf2f,_0xc2afc6,_0x18e63c,_0x757572,_0x3137bb,_0x4aef99,_0x282504,_0x22226f,_0x3ebba5;return _0x5d11bc()[_0x230c78(0x15e)](function _0x3be461(_0xa5367b){var _0xc70e15=_0x230c78;while(0x1)switch(_0xa5367b['prev']=_0xa5367b[_0xc70e15(0x1d1)]){case 0x0:_0xc2afc6=_0x11c6a3==0x1?document['getElementById'](_0xc70e15(0x140))['textContent']:_0x308081[_0xc70e15(0x197)],_0x18e63c=_0xc70e15(0x1c8),_0x757572={'IDRegistro':_0x2c6e16,'CantidadCastigada':_0xc2afc6},_0xa5367b[_0xc70e15(0x1d1)]=0x5;return(0x0,_0x51cb10[_0xc70e15(0x18c)])(_0x18e63c,_0x757572,'Error\x20al\x20castigar\x20datos',!![]);case 0x5:_0x3137bb=_0xa5367b[_0xc70e15(0x17b)];if(!(_0x3137bb['result_code']!==0x0)){_0xa5367b['next']=0x9;break;}new _0x575f71[(_0xc70e15(0x11e))](document[_0xc70e15(0x15d)]('dialogo'),_0x3137bb[_0xc70e15(0x11b)],_0xc70e15(0x14a));return _0xa5367b['abrupt'](_0xc70e15(0x175));case 0x9:document['getElementById']('background')[_0xc70e15(0x129)](),_0x4aef99=localStorage[_0xc70e15(0x1b0)](_0xc70e15(0x19f)),_0x282504=localStorage[_0xc70e15(0x1b0)](_0xc70e15(0x1d3)),_0x22226f=localStorage['getItem'](_0xc70e15(0x181)),_0x3ebba5=localStorage[_0xc70e15(0x1b0)](_0xc70e15(0xfa)),document[_0xc70e15(0x15d)](_0xc70e15(0x1bf))[_0xc70e15(0x17e)][_0xc70e15(0x129)](_0xc70e15(0x148)),_0x1e8431(_0x4aef99,_0x282504,_0x22226f,_0x3ebba5);case 0x10:case _0xc70e15(0x18f):return _0xa5367b['stop']();}},_0x40a7bd);}))),_0x218d68[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x534aac)):new _0x575f71['MostrarMensajeError'](document['getElementById'](_0x4faf2f(0x15c)),_0x2ce9c4,'getDatosCastigar');_0x57ae65[_0x4faf2f(0x174)]('beforeend',_0x218d68),_0x2b4909[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x57ae65),document['getElementById']('main')[_0x4faf2f(0x174)](_0x4faf2f(0x158),_0x2b4909),document[_0x4faf2f(0x15d)](_0x4faf2f(0x1bf))[_0x4faf2f(0x17e)]['add'](_0x4faf2f(0x148)),document[_0x4faf2f(0x15d)]('background')['addEventListener'](_0x4faf2f(0x19d),function(_0x2b2407){var _0x56c83c=_0x4faf2f;(0x0,_0x9a1a28[_0x56c83c(0x1a7)])(_0x2b2407,_0x56c83c(0x177));},![]),document[_0x4faf2f(0x16f)](_0x4faf2f(0x1a2),_0x9a1a28[_0x4faf2f(0x103)],![]);case 0x14:case'end':return _0x7aecb[_0x4faf2f(0x14c)]();}},_0x19d4ed);})),_0x2962d5[_0x292add(0x114)](this,arguments);}},0x714:(_0x5b107d,_0x2227fc,_0x505482)=>{_0x505482['r'](_0x2227fc),_0x505482['d'](_0x2227fc,{'CerrarVentanaClick':()=>_0x4edfaf,'CerrarVentanaESC':()=>_0x38a844,'CerrarVentanaMenuPpalClick':()=>_0x1ceecc,'CerrarVentanaMenuPpalESC':()=>_0x2b1466});function _0x1ceecc(_0x1ec377,_0x1075f1){var _0x4b947d=a13_0x333a;_0x1ec377[_0x4b947d(0x142)]['id']==_0x4b947d(0x1c5)&&document[_0x4b947d(0x15d)](_0x1075f1)&&(document[_0x4b947d(0x15d)](_0x4b947d(0x1c5))['remove'](),document[_0x4b947d(0x13a)](_0x4b947d(0x19d),_0x38a844,![]),document[_0x4b947d(0x15d)](_0x4b947d(0x1bf))[_0x4b947d(0x17e)][_0x4b947d(0x129)](_0x4b947d(0x148)));}function _0x2b1466(_0x5c2e33){var _0x2c078d=a13_0x333a;_0x5c2e33[_0x2c078d(0x109)]==0x1b&&((document[_0x2c078d(0x15d)](_0x2c078d(0x1c5))!=null||document['getElementById'](_0x2c078d(0x1c5))!=undefined)&&(document['getElementById'](_0x2c078d(0x1c5))[_0x2c078d(0x129)](),document[_0x2c078d(0x13a)](_0x2c078d(0x1a2),_0x38a844,![]),document[_0x2c078d(0x15d)](_0x2c078d(0x1bf))[_0x2c078d(0x17e)]['remove'](_0x2c078d(0x148))));}function _0x4edfaf(_0x541577,_0x135925){var _0x1b3781=a13_0x333a;_0x541577[_0x1b3781(0x142)]['id']==_0x1b3781(0x15a)&&document['getElementById'](_0x135925)&&(document[_0x1b3781(0x15d)](_0x1b3781(0x15a))[_0x1b3781(0x129)](),document[_0x1b3781(0x13a)](_0x1b3781(0x19d),_0x38a844,![]),document[_0x1b3781(0x15d)](_0x1b3781(0x1bf))['classList']['remove']('ocultar-scroll'));}function _0x38a844(_0x20a03d){var _0x9bb224=a13_0x333a;_0x20a03d[_0x9bb224(0x109)]==0x1b&&((document[_0x9bb224(0x15d)]('background')!=null||document[_0x9bb224(0x15d)](_0x9bb224(0x15a))!=undefined)&&(document[_0x9bb224(0x15d)]('background')['remove'](),document[_0x9bb224(0x13a)](_0x9bb224(0x1a2),_0x38a844,![]),document[_0x9bb224(0x15d)](_0x9bb224(0x1bf))[_0x9bb224(0x17e)][_0x9bb224(0x129)](_0x9bb224(0x148))));}},0x6bb:(_0x50495a,_0xb3d3f1,_0x2a60b2)=>{var _0x1edd1c=a13_0x3c07da;_0x2a60b2['r'](_0xb3d3f1);var _0x2c7f9a=_0x2a60b2(0x8ec);_0x50495a=_0x2a60b2[_0x1edd1c(0x139)](_0x50495a),function(_0x228949,_0x37a1e9){'use strict';var _0x38936f=_0x1edd1c;var _0xe2a317=function _0x4879d9(_0x2108ad,_0xf1247f){var _0x517c64=a13_0x333a;return new _0x4879d9[(_0x517c64(0x12c))](_0x2108ad,_0xf1247f||{});};function _0x34be1c(){var _0xf7671e=a13_0x333a;if(_0xe2a317[_0xf7671e(0x168)])return;_0xe2a317[_0xf7671e(0x10d)]=_0x228949['document'],_0xe2a317[_0xf7671e(0x160)]=Math['PI']/0xb4,_0xe2a317[_0xf7671e(0x194)]=0xb4/Math['PI'],_0xe2a317[_0xf7671e(0x19c)]=_0xe2a317[_0xf7671e(0x10d)][_0xf7671e(0x16f)]?!![]:![],_0xe2a317[_0xf7671e(0xf6)]='/Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera\x20M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/',_0xe2a317[_0xf7671e(0x100)]='ontouchstart'in _0x228949&&_0x228949[_0xf7671e(0xfb)][_0xf7671e(0x176)][_0xf7671e(0x17a)](_0xe2a317[_0xf7671e(0xf6)]),_0xe2a317[_0xf7671e(0x147)]=_0x228949[_0xf7671e(0xfb)][_0xf7671e(0x105)]||_0x228949[_0xf7671e(0xfb)]['msPointerEnabled']?!![]:![],_0xe2a317[_0xf7671e(0x192)]={'debug':![],'touchMode':'knob','knobSize':_0xf7671e(0x162),'wheelSize':'100%','zIndex':0x270f,'degreeStartAt':0x0,'minDegree':null,'maxDegree':null},_0xe2a317[_0xf7671e(0x116)]={'rotation':0x0,'quadrant':0x1},_0xe2a317['DomEvent']={'MOUSE_DOWN':_0xf7671e(0x19d),'MOUSE_MOVE':_0xf7671e(0x18a),'MOUSE_OUT':_0xf7671e(0x189),'MOUSE_UP':'mouseup'},_0xe2a317[_0xf7671e(0x123)]={'MOUSE_DOWN':_0xf7671e(0x19d),'MOUSE_MOVE':_0xf7671e(0x18a),'MOUSE_UP':_0xf7671e(0x1d4)},_0xe2a317[_0xf7671e(0xf1)]={'extend':function _0x2b686b(_0x2ca803,_0x4c4951){for(var _0x2e223d in _0x4c4951){_0x2ca803[_0x2e223d]=_0x4c4951[_0x2e223d];}return _0x2ca803;},'getComputedStyle':function _0x2b5250(_0x346186,_0x17eb82){var _0xe3f13b=_0xf7671e;if(_0x228949[_0xe3f13b(0x152)])return _0x228949['getComputedStyle'](_0x346186)[_0xe3f13b(0xf0)](_0x17eb82);else{if(_0x346186[_0xe3f13b(0x134)])return _0x346186['currentStyle'][_0x17eb82];}},'getCoordinates':function _0x810d1a(_0x550913){var _0x474cba=_0xf7671e;_0x550913=_0x550913||_0x228949['event'];var _0x331f04=_0x550913['target']||_0x550913['srcElement'],_0x27af72=_0x331f04[_0x474cba(0x104)](),_0x169746=(_0xe2a317['MobileEvent']?_0x550913[_0x474cba(0x183)][0x0][_0x474cba(0x13c)]:_0x550913[_0x474cba(0x13c)])-_0x27af72[_0x474cba(0x18e)],_0x11c965=(_0xe2a317[_0x474cba(0x100)]?_0x550913['targetTouches'][0x0][_0x474cba(0x111)]:_0x550913['clientY'])-_0x27af72[_0x474cba(0x10b)];return{'x':_0x169746,'y':_0x11c965};},'getQuadrant':function _0x2dbc5e(_0x287af9,_0x167460){if(_0x287af9>0x0&&_0x167460>0x0)return 0x4;else{if(_0x287af9<0x0&&_0x167460>0x0)return 0x3;else{if(_0x287af9<0x0&&_0x167460<0x0)return 0x2;else{if(_0x287af9>=0x0&&_0x167460<0x0)return 0x1;}}}},'getRotation':function _0x516979(_0x22f511,_0x3588ca,_0x46ca45){var _0x59b0bd=_0xf7671e,_0x1da35f,_0x19fe7c=0x0,_0xf8ee19=_0x22f511[_0x59b0bd(0x1c3)];if(_0x3588ca==0x1&&_0xf8ee19['old'][_0x59b0bd(0x131)]==0x2)_0x19fe7c=0x168;else _0x3588ca==0x2&&_0xf8ee19['old'][_0x59b0bd(0x131)]==0x1&&(_0x19fe7c=-0x168);return _0x1da35f=_0x46ca45+_0x19fe7c-_0xf8ee19[_0x59b0bd(0x187)][_0x59b0bd(0x115)]+_0xf8ee19['now']['rotation'],_0xf8ee19[_0x59b0bd(0x187)][_0x59b0bd(0x115)]=_0x46ca45,_0xf8ee19['old'][_0x59b0bd(0x131)]=_0x3588ca,_0x1da35f;},'checkBoxCollision':function _0x4e11dc(_0xab609e,_0x5d14f9){return _0xab609e['x1']<_0x5d14f9['x']&&_0xab609e['x2']>_0x5d14f9['x']&&_0xab609e['y1']<_0x5d14f9['y']&&_0xab609e['y2']>_0x5d14f9['y'];},'addEvent':function _0x50d4f7(_0x48fb25,_0x1985ae,_0x5c9712,_0x573502){var _0x44a8e6=_0xf7671e;_0x1985ae=_0x1985ae['split']('\x20');for(var _0x5e9a18=0x0;_0x5e9a18<_0x1985ae['length'];_0x5e9a18++){if(_0x48fb25[_0x44a8e6(0x16f)])_0x48fb25[_0x44a8e6(0x16f)](_0x1985ae[_0x5e9a18],_0x5c9712,_0x573502);else _0x48fb25['attachEvent']&&_0x48fb25[_0x44a8e6(0x1c7)]('on'+_0x1985ae[_0x5e9a18],_0x5c9712);}},'removeEvent':function _0x560a7c(_0x5e16d2,_0x110d1a,_0xf1924e){var _0x3f78e9=_0xf7671e;_0x110d1a=_0x110d1a[_0x3f78e9(0x11f)]('\x20');for(var _0x788788=0x0;_0x788788<_0x110d1a[_0x3f78e9(0x1a4)];_0x788788++){if(_0x5e16d2[_0x3f78e9(0x16f)])_0x5e16d2[_0x3f78e9(0x13a)](_0x110d1a[_0x788788],_0xf1924e);else _0x5e16d2['detachEvent']&&_0x5e16d2[_0x3f78e9(0x1a0)]('on'+_0x110d1a[_0x788788],_0xf1924e);}},'triggerEvent':function _0x158528(_0x33d3a2,_0x24f04f){var _0x3aa6fe=_0xf7671e,_0x3f199b;_0xe2a317[_0x3aa6fe(0x10d)][_0x3aa6fe(0x159)]?(_0x3f199b=_0xe2a317[_0x3aa6fe(0x10d)][_0x3aa6fe(0x159)]('HTMLEvents'),_0x3f199b[_0x3aa6fe(0x1af)](_0x24f04f,!![],!![]),_0x33d3a2['dispatchEvent'](_0x3f199b)):(_0x3f199b=_0xe2a317[_0x3aa6fe(0x10d)]['createEventObject'](),_0x3f199b[_0x3aa6fe(0x142)]={},_0xe2a317[_0x3aa6fe(0xf1)][_0x3aa6fe(0xf5)](_0x3f199b[_0x3aa6fe(0x142)],_0x33d3a2),_0x33d3a2[_0x3aa6fe(0x182)]('on'+_0x24f04f,_0x3f199b));},'convertClockToUnit':function _0x5911a8(_0x401ac0){return _0x401ac0%0x168-0x5a;},'convertUnitToClock':function _0x5e148d(_0x17c3fc){return _0x17c3fc>=-0xb4&&_0x17c3fc<-0x5a?0x1c2+_0x17c3fc:0x5a+_0x17c3fc;}},_0xe2a317['Ready']=!![];};_0xe2a317[_0x38936f(0x12c)]=function(_0x35a167,_0x4c8683){var _0x3b0e4e=_0x38936f;if(_0x35a167[_0x3b0e4e(0x1b4)](_0x3b0e4e(0xfd)))return _0x228949[_0x3b0e4e(0x12f)](_0x3b0e4e(0x106)),![];return _0x34be1c(),_0x364ab3(this,_0x35a167,_0x4c8683),_0x491ae3(this),_0x270c02(this),_0x4e2664(this,_0xe2a317[_0x3b0e4e(0xf1)][_0x3b0e4e(0x198)](this[_0x3b0e4e(0x16b)]['degreeStartAt'])),this;},_0xe2a317['Instance'][_0x38936f(0x127)]={'on':function _0x3b6eb8(_0x1f5718,_0x10c977){var _0x463adb=_0x38936f;return _0xe2a317[_0x463adb(0xf1)][_0x463adb(0x12b)](this[_0x463adb(0x17c)],_0x1f5718,_0x10c977,![]),this;},'off':function _0x5d1068(_0x2d5c0e,_0x266f24){var _0x344d3d=_0x38936f;return _0xe2a317[_0x344d3d(0xf1)][_0x344d3d(0x149)](this[_0x344d3d(0x17c)],_0x2d5c0e,_0x266f24),this;},'trigger':function _0x173006(_0x3b6b1d,_0x5455b8){var _0x31d707=_0x38936f;switch(_0x3b6b1d){case'angle':_0x4e2664(this,_0x5455b8);break;default:_0x228949[_0x31d707(0x12f)]('Please\x20Check\x20your\x20code:\x0ajogDial\x20does\x20not\x20have\x20triggering\x20event\x20['+_0x3b6b1d+']');break;}return this;},'angle':function _0x3b4334(_0xe679a3){var _0x32865f=_0x38936f;_0x4e2664(this,_0xe2a317[_0x32865f(0xf1)][_0x32865f(0x198)](_0xe679a3));}};function _0x364ab3(_0x211c1c,_0x2157ec,_0x332a7f){var _0x72a0a9=_0x38936f;_0x211c1c[_0x72a0a9(0x110)]=_0x2157ec,_0x211c1c[_0x72a0a9(0x110)][_0x72a0a9(0x124)]('_JogDial_',!![]),_0x211c1c[_0x72a0a9(0x16b)]=_0xe2a317[_0x72a0a9(0xf1)]['extend'](_0xe2a317[_0x72a0a9(0xf1)][_0x72a0a9(0xf5)]({},_0xe2a317['Defaults']),_0x332a7f),_0x211c1c[_0x72a0a9(0x1c3)]={}||_0x211c1c,_0x211c1c['info'][_0x72a0a9(0x172)]=_0xe2a317[_0x72a0a9(0xf1)][_0x72a0a9(0xf5)]({},_0xe2a317[_0x72a0a9(0x116)]),_0x211c1c[_0x72a0a9(0x1c3)][_0x72a0a9(0x187)]=_0xe2a317[_0x72a0a9(0xf1)]['extend']({},_0xe2a317[_0x72a0a9(0x116)]),_0x211c1c[_0x72a0a9(0x1c3)][_0x72a0a9(0x118)]=_0xe2a317[_0x72a0a9(0xf1)][_0x72a0a9(0xf5)]({},_0x211c1c[_0x72a0a9(0x1c3)]),_0x211c1c[_0x72a0a9(0x1c3)][_0x72a0a9(0x118)]['direction']=null;};function _0x491ae3(_0x1d3791){var _0x125aa7=_0x38936f,_0x332ad0={},_0x6e8e81=_0x1d3791['base'][_0x125aa7(0x1b4)]('id'),_0x45a69f=_0x1d3791['base'][_0x125aa7(0xf3)],_0x54f46e=_0x1d3791[_0x125aa7(0x110)][_0x125aa7(0x1ab)],_0x227169=_0x1d3791[_0x125aa7(0x16b)],_0xa083d0=_0x332ad0[_0x125aa7(0x17c)]=document[_0x125aa7(0x179)]('div'),_0x4060c7=_0x332ad0[_0x125aa7(0x117)]=document['createElement']('div'),_0x1f24e4=_0xa083d0[_0x125aa7(0x10f)],_0x38eb02=_0x4060c7[_0x125aa7(0x10f)],_0xcf5ef8,_0x510d59,_0x3e26e4,_0x2e9a50;_0xe2a317['utils']['getComputedStyle'](_0x1d3791[_0x125aa7(0x110)],_0x125aa7(0x1ac))==='static'&&(_0x1d3791['base'][_0x125aa7(0x10f)][_0x125aa7(0x1ac)]=_0x125aa7(0x112));_0x1d3791['base'][_0x125aa7(0x165)](_0xa083d0),_0x1d3791[_0x125aa7(0x110)][_0x125aa7(0x165)](_0x4060c7),_0xe2a317[_0x125aa7(0xf1)][_0x125aa7(0xf5)](_0x1d3791,_0x332ad0),_0x1f24e4[_0x125aa7(0x1ac)]=_0x38eb02[_0x125aa7(0x1ac)]=_0x125aa7(0x11a),_0x1f24e4[_0x125aa7(0x169)]=_0x1f24e4[_0x125aa7(0x180)]=_0x227169[_0x125aa7(0x12a)],_0x38eb02[_0x125aa7(0x169)]=_0x38eb02['height']=_0x227169[_0x125aa7(0x1a9)],_0xcf5ef8=_0xa083d0[_0x125aa7(0xf3)]/0x2,_0x510d59=_0x4060c7[_0x125aa7(0xf3)]/0x2,_0xa083d0[_0x125aa7(0x124)]('id',_0x6e8e81+_0x125aa7(0x178)),_0x1f24e4['margin']=-_0xcf5ef8+_0x125aa7(0x14d)+-_0xcf5ef8+'px',_0x1f24e4[_0x125aa7(0x145)]=_0x227169[_0x125aa7(0x145)],_0x4060c7[_0x125aa7(0x124)]('id',_0x6e8e81+_0x125aa7(0x195)),_0x3e26e4=(_0x45a69f-_0x4060c7['clientWidth'])/0x2,_0x2e9a50=(_0x54f46e-_0x4060c7['clientHeight'])/0x2,_0x38eb02[_0x125aa7(0x18e)]=_0x38eb02['top']=0x0,_0x38eb02[_0x125aa7(0x199)]=_0x2e9a50+_0x125aa7(0x14d)+_0x3e26e4+'px',_0x38eb02[_0x125aa7(0x145)]=_0x227169[_0x125aa7(0x145)],_0x1d3791[_0x125aa7(0x16d)]=_0x510d59-_0xcf5ef8,_0x1d3791[_0x125aa7(0x1ca)]={'x':_0x510d59+_0x3e26e4,'y':_0x510d59+_0x2e9a50};if(_0x227169[_0x125aa7(0x1b2)])_0x22b4b9(_0x1d3791);};function _0x22b4b9(_0x493c2e){var _0x6a04f7=_0x38936f,_0x531117=_0x493c2e[_0x6a04f7(0x17c)][_0x6a04f7(0x10f)],_0x1f2ce2=_0x493c2e['wheel']['style'];_0x531117['backgroundColor']=_0x6a04f7(0x130),_0x1f2ce2[_0x6a04f7(0x196)]='#0F0',_0x531117['opacity']=_0x1f2ce2[_0x6a04f7(0x16c)]=0.4,_0x531117['filter']=_0x1f2ce2['filter']=_0x6a04f7(0x1c2),_0x531117[_0x6a04f7(0x136)]=_0x1f2ce2[_0x6a04f7(0x136)]=_0x6a04f7(0x190),_0x531117['borderRadius']=_0x1f2ce2[_0x6a04f7(0x10c)]=_0x6a04f7(0x190);};function _0x270c02(_0x50412a){var _0x45fa66=_0x38936f;if(_0xe2a317[_0x45fa66(0x147)])_0xe2a317[_0x45fa66(0xf1)][_0x45fa66(0xf5)](_0xe2a317[_0x45fa66(0x125)],{'MOUSE_DOWN':_0x45fa66(0x19b),'MOUSE_MOVE':_0x45fa66(0x121),'MOUSE_OUT':'pointerout\x20MSPointerOut','MOUSE_UP':_0x45fa66(0x1ce)});else _0xe2a317['MobileEvent']&&_0xe2a317['utils'][_0x45fa66(0xf5)](_0xe2a317[_0x45fa66(0x125)],{'MOUSE_DOWN':'touchstart','MOUSE_MOVE':_0x45fa66(0xf2),'MOUSE_OUT':_0x45fa66(0x19a),'MOUSE_UP':_0x45fa66(0x173)});var _0x1b0748=_0x50412a[_0x45fa66(0x16b)],_0x4243cf=_0x50412a[_0x45fa66(0x1c3)],_0x4fb384=_0x50412a[_0x45fa66(0x17c)],_0x349571=_0x50412a[_0x45fa66(0x117)];_0x50412a['pressed']=![],_0xe2a317[_0x45fa66(0xf1)][_0x45fa66(0x12b)](_0x349571,_0xe2a317[_0x45fa66(0x125)][_0x45fa66(0x1b7)],_0x49b32e,![]),_0xe2a317[_0x45fa66(0xf1)][_0x45fa66(0x12b)](_0x349571,_0xe2a317[_0x45fa66(0x125)][_0x45fa66(0x1cb)],_0x314951,![]),_0xe2a317[_0x45fa66(0xf1)]['addEvent'](_0x349571,_0xe2a317[_0x45fa66(0x125)][_0x45fa66(0x1b1)],_0x20ff98,![]),_0xe2a317[_0x45fa66(0xf1)][_0x45fa66(0x12b)](_0x349571,_0xe2a317[_0x45fa66(0x125)][_0x45fa66(0xf7)],_0x20ff98,![]);function _0x49b32e(_0xca20c0){var _0xa97547=_0x45fa66;switch(_0x1b0748['touchMode']){case _0xa97547(0x17c):default:_0x50412a[_0xa97547(0x156)]=_0xe2a317[_0xa97547(0xf1)][_0xa97547(0x126)]({'x1':_0x4fb384[_0xa97547(0x132)]-_0x349571[_0xa97547(0x132)],'y1':_0x4fb384[_0xa97547(0xf9)]-_0x349571[_0xa97547(0xf9)],'x2':_0x4fb384[_0xa97547(0x132)]-_0x349571[_0xa97547(0x132)]+_0x4fb384[_0xa97547(0xf3)],'y2':_0x4fb384[_0xa97547(0xf9)]-_0x349571['offsetTop']+_0x4fb384[_0xa97547(0x1ab)]},_0xe2a317[_0xa97547(0xf1)][_0xa97547(0x13b)](_0xca20c0));break;case _0xa97547(0x117):_0x50412a[_0xa97547(0x156)]=!![],_0x314951(_0xca20c0);break;}if(_0x50412a[_0xa97547(0x156)])_0xe2a317[_0xa97547(0xf1)][_0xa97547(0x144)](_0x50412a['knob'],_0xe2a317['CustomEvent'][_0xa97547(0x1b7)]);};function _0x314951(_0x28b9a4){var _0xa6fd63=_0x45fa66;if(_0x50412a['pressed']){_0x28b9a4[_0xa6fd63(0x14e)]?_0x28b9a4[_0xa6fd63(0x14e)]():_0x28b9a4[_0xa6fd63(0x107)]=![];var _0x3c348b=_0xe2a317['utils'][_0xa6fd63(0x13b)](_0x28b9a4),_0x2d96cc=_0x3c348b['x']-_0x50412a['center']['x']+_0x349571[_0xa6fd63(0x132)],_0x490e06=_0x3c348b['y']-_0x50412a[_0xa6fd63(0x1ca)]['y']+_0x349571['offsetTop'],_0x41071b=Math['atan2'](_0x490e06,_0x2d96cc)*_0xe2a317[_0xa6fd63(0x194)],_0xb9bf58=_0xe2a317['utils']['getQuadrant'](_0x2d96cc,_0x490e06),_0x4af700=_0xe2a317[_0xa6fd63(0xf1)][_0xa6fd63(0x1b8)](_0x41071b),_0xecc974;_0x4243cf['now'][_0xa6fd63(0x115)]=_0xe2a317['utils'][_0xa6fd63(0x1ae)](_0x50412a,_0xb9bf58==_0x37a1e9?_0x4243cf[_0xa6fd63(0x187)][_0xa6fd63(0x131)]:_0xb9bf58,_0x4af700),_0xecc974=_0x4243cf['now']['rotation'];if(_0x1b0748['maxDegree']!=null&&_0x1b0748[_0xa6fd63(0x13e)]<=_0xecc974)_0x4243cf[_0xa6fd63(0x118)]['direction']==null&&(_0x4243cf[_0xa6fd63(0x118)][_0xa6fd63(0x122)]='right',_0x4243cf[_0xa6fd63(0x118)][_0xa6fd63(0x172)]=_0xe2a317['utils'][_0xa6fd63(0xf5)]({},_0x4243cf[_0xa6fd63(0x172)]),_0x4243cf[_0xa6fd63(0x118)][_0xa6fd63(0x187)]=_0xe2a317['utils'][_0xa6fd63(0xf5)]({},_0x4243cf['old'])),_0xecc974=_0x1b0748[_0xa6fd63(0x13e)],_0x41071b=_0xe2a317[_0xa6fd63(0xf1)][_0xa6fd63(0x198)](_0xecc974),_0x4af700=_0xe2a317['utils'][_0xa6fd63(0x1b8)](_0x41071b);else{if(_0x1b0748['minDegree']!=null&&_0x1b0748[_0xa6fd63(0x15f)]>=_0xecc974)_0x4243cf[_0xa6fd63(0x118)][_0xa6fd63(0x122)]==null&&(_0x4243cf['snapshot'][_0xa6fd63(0x122)]=_0xa6fd63(0x18e),_0x4243cf[_0xa6fd63(0x118)][_0xa6fd63(0x172)]=_0xe2a317[_0xa6fd63(0xf1)][_0xa6fd63(0xf5)]({},_0x4243cf[_0xa6fd63(0x172)]),_0x4243cf['snapshot']['old']=_0xe2a317[_0xa6fd63(0xf1)]['extend']({},_0x4243cf[_0xa6fd63(0x187)])),_0xecc974=_0x1b0748[_0xa6fd63(0x15f)],_0x41071b=_0xe2a317['utils'][_0xa6fd63(0x198)](_0xecc974),_0x4af700=_0xe2a317['utils'][_0xa6fd63(0x1b8)](_0x41071b);else _0x4243cf[_0xa6fd63(0x118)]['direction']!=null&&(_0x4243cf[_0xa6fd63(0x118)]['direction']=null);}_0xe2a317[_0xa6fd63(0xf1)]['extend'](_0x50412a[_0xa6fd63(0x17c)],{'rotation':_0xecc974,'degree':_0x4af700}),_0x4e2664(_0x50412a,_0x41071b);}};function _0x20ff98(){var _0x1bbf61=_0x45fa66;_0x50412a[_0x1bbf61(0x156)]&&(_0x50412a['pressed']=![],_0x50412a['info'][_0x1bbf61(0x118)][_0x1bbf61(0x122)]!=null&&(_0x50412a[_0x1bbf61(0x1c3)][_0x1bbf61(0x172)]=_0xe2a317[_0x1bbf61(0xf1)][_0x1bbf61(0xf5)]({},_0x4243cf[_0x1bbf61(0x118)][_0x1bbf61(0x172)]),_0x50412a['info']['old']=_0xe2a317['utils'][_0x1bbf61(0xf5)]({},_0x4243cf[_0x1bbf61(0x118)][_0x1bbf61(0x187)]),_0x50412a[_0x1bbf61(0x1c3)][_0x1bbf61(0x118)][_0x1bbf61(0x122)]=null),_0xe2a317[_0x1bbf61(0xf1)][_0x1bbf61(0x144)](_0x50412a['knob'],_0xe2a317[_0x1bbf61(0x123)][_0x1bbf61(0x1b1)]));};};function _0x4e2664(_0x3d598f,_0x44c27c){var _0x1edec0=_0x38936f;_0x44c27c*=_0xe2a317[_0x1edec0(0x160)];var _0x5963ca=Math['cos'](_0x44c27c)*_0x3d598f['radius']+_0x3d598f[_0x1edec0(0x1ca)]['x'],_0x36ad65=Math[_0x1edec0(0x163)](_0x44c27c)*_0x3d598f[_0x1edec0(0x16d)]+_0x3d598f[_0x1edec0(0x1ca)]['y'],_0x24d9f9=_0xe2a317[_0x1edec0(0xf1)][_0x1edec0(0x1a3)](_0x5963ca,_0x36ad65),_0x1205d3=_0xe2a317[_0x1edec0(0xf1)][_0x1edec0(0x1b8)](_0x44c27c);_0x3d598f[_0x1edec0(0x17c)][_0x1edec0(0x10f)][_0x1edec0(0x18e)]=_0x5963ca+'px',_0x3d598f[_0x1edec0(0x17c)]['style'][_0x1edec0(0x10b)]=_0x36ad65+'px',_0x3d598f[_0x1edec0(0x17c)][_0x1edec0(0x115)]==_0x37a1e9&&_0xe2a317['utils']['extend'](_0x3d598f[_0x1edec0(0x17c)],{'rotation':_0x3d598f[_0x1edec0(0x16b)][_0x1edec0(0x1a5)],'degree':_0xe2a317[_0x1edec0(0xf1)][_0x1edec0(0x1b8)](_0x44c27c)}),_0xe2a317['utils'][_0x1edec0(0x144)](_0x3d598f[_0x1edec0(0x17c)],_0xe2a317[_0x1edec0(0x123)]['MOUSE_MOVE']);};if(typeof define===_0x38936f(0x108)&&_0x2a60b2[_0x38936f(0x11c)])define(function(){return _0xe2a317;});else(typeof exports===_0x38936f(0x1cf)?_0x38936f(0x1cf):(0x0,_0x2c7f9a['A'])(exports))===_0x38936f(0x1be)?_0x50495a[_0x38936f(0x15b)]=_0xe2a317:_0x228949[_0x38936f(0x1d5)]=_0xe2a317;}(window);}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[1971,1812,1723],{
+
+/***/ 1971:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CastigarRegistro: () => (/* binding */ CastigarRegistro)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(467);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4756);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _utils_jogDial_min__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1723);
+/* harmony import */ var autonumeric__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8850);
+/* harmony import */ var autonumeric__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(autonumeric__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2407);
+/* harmony import */ var _cerrar_ventana_modal__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(1812);
+/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7425);
+/* harmony import */ var _componentes_modal_Error__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7433);
+
+
+
+
+
+
+
+
+function CastigarRegistro(_x, _x2) {
+  return _CastigarRegistro.apply(this, arguments);
+}
+function _CastigarRegistro() {
+  _CastigarRegistro = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee2(IDRegistro, CargarHistorialB) {
+    var background, dialogo, CastigarRegistro, _yield$GetData, tipo_registro, codigo_iso, cantidad_castigada, cantidad_registrada, plazas_decimales, result_code, result_message, ValorCantidadRegistrada, ValorCantidadCastigada, ValorCantidadResultante, AnularCastigo, CastigarTodo, TiempoHHMM, ContenedorKnob, ContenedorTiempo, TiempoRegistradoTexto, TiempoCastigadoTexto, TiempoResultanteTexto, Dial, ContenedorFlechas, BtnAnularCastigo, BtnCastigarTodo, CantidadRegistrada, CantidadCastigada, CantidadResultante, JogDialOptions, Perilla, _AnularCastigo, _CastigarTodo, CastigarRegistroSeccion, CastigarRegistroWrapper, CantidadRegistradaDiv, CantidadRegistradaInput, CantidadCastigadaDiv, CantidadCastigadaInput, CantidadResultanteDiv, CantidadResultanteInput, _ContenedorFlechas, _BtnAnularCastigo, _BtnCastigarTodo, ContenedorBotones, BotonCancelar, BotonGuardar;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee2$(_context2) {
+      while (1) switch (_context2.prev = _context2.next) {
+        case 0:
+          background = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SECTION', 'background', ['background']);
+          dialogo = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SECTION', 'dialogo', ['dialogo']);
+          CastigarRegistro = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SECTION', 'CastigarRegistro', ['editar-registro']);
+          _context2.next = 5;
+          return (0,_api__WEBPACK_IMPORTED_MODULE_3__.GetData)('getdatoscastigar', IDRegistro, 'CastigarRegistro');
+        case 5:
+          _yield$GetData = _context2.sent;
+          tipo_registro = _yield$GetData.tipo_registro;
+          codigo_iso = _yield$GetData.codigo_iso;
+          cantidad_castigada = _yield$GetData.cantidad_castigada;
+          cantidad_registrada = _yield$GetData.cantidad_registrada;
+          plazas_decimales = _yield$GetData.plazas_decimales;
+          result_code = _yield$GetData.result_code;
+          result_message = _yield$GetData.result_message;
+          if (result_code == 0) {
+            if (tipo_registro == 1) {
+              // ContenedorFlechas.insertAdjacentElement('beforeend', BtnAnularCastigo);
+              // ContenedorFlechas.insertAdjacentElement('beforeend', BtnCastigarTodo);
+              // // Se agregan todos los elementos al DOM
+              // Ejecución de funciones las cuales esperan que el DOM ya este listo.
+              AnularCastigo = function AnularCastigo() {
+                Perilla.angle(0);
+                CantidadCastigada = 0;
+                CantidadResultante = CantidadRegistrada - CantidadCastigada;
+                TiempoCastigadoTexto.textContent = TiempoHHMM(CantidadCastigada);
+                TiempoResultanteTexto.textContent = TiempoHHMM(CantidadResultante);
+              };
+              CastigarTodo = function CastigarTodo() {
+                Perilla.angle(CantidadRegistrada * 360);
+                CantidadCastigada = CantidadRegistrada;
+                CantidadResultante = CantidadRegistrada - CantidadCastigada;
+                TiempoCastigadoTexto.textContent = TiempoHHMM(CantidadCastigada);
+                TiempoResultanteTexto.textContent = TiempoHHMM(CantidadResultante);
+              };
+              TiempoHHMM = function TiempoHHMM(Tiempo) {
+                var SESENTA = 60;
+                var CENTECIMA_SEGUNDO = 0.00000277777777777778;
+                var HH = Math.trunc(Tiempo);
+                var MM = Math.trunc((Tiempo - HH) * SESENTA + CENTECIMA_SEGUNDO);
+                if (MM == 60) {
+                  HH = HH + 1;
+                  MM = 0;
+                }
+                var HH_ENT = Math.round(HH);
+                var MM_ENT = Math.round(MM);
+                return (HH_ENT < 10 ? '0' + HH_ENT : HH_ENT) + ':' + (MM_ENT < 10 ? '0' + MM_ENT : MM_ENT);
+              };
+              CastigarRegistro.insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', null, ['castigar-registro__titulo'], "Castigar Actividad"));
+              ContenedorKnob = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SECTION', null, ['contenedor-knob']);
+              ContenedorTiempo = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV');
+              ContenedorTiempo.style.display = 'flex';
+              ContenedorTiempo.style.flexDirection = 'column';
+              TiempoRegistradoTexto = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SPAN', 'TiempoTotal');
+              ContenedorTiempo.insertAdjacentElement('beforeend', TiempoRegistradoTexto);
+              TiempoCastigadoTexto = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SPAN', 'TiempoActual');
+              TiempoCastigadoTexto.style.color = '#d32f2f';
+              ContenedorTiempo.insertAdjacentElement('beforeend', TiempoCastigadoTexto);
+              TiempoResultanteTexto = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SPAN', 'Total');
+              TiempoResultanteTexto.style.borderTop = '0.0625rem solid #d32f2f';
+              TiempoResultanteTexto.style.color = '#1a88d1';
+              ContenedorTiempo.insertAdjacentElement('beforeend', TiempoResultanteTexto);
+              ContenedorKnob.insertAdjacentElement('beforeend', ContenedorTiempo);
+              CastigarRegistro.insertAdjacentElement('beforeend', ContenedorKnob);
+              Dial = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', 'dial', ['dial']);
+              ContenedorKnob.insertAdjacentElement('beforeend', Dial);
+              //NOTE: Aqui hay svg
+              ContenedorFlechas = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', null, ['contenedor-flechas']);
+              ContenedorFlechas.innerHTML = "\n        <svg id=\"btn-anular-castigo\" title=\"Anular castigo\" viewbox=\"0 0 180 216\"><use xlink:href=\"./img/sprite.svg#btn-anular--castigo\"></use></svg>\n        <svg id=\"btn-castigar-todo\" title=\"Castigar todo\" viewbox=\"0 0 180 216\"><use xlink:href=\"./img/sprite.svg#btn-castigar--todo\"></use></svg>\n        ";
+              ContenedorKnob.insertAdjacentElement('beforeend', ContenedorFlechas);
+              dialogo.insertAdjacentElement('beforeend', CastigarRegistro);
+              background.insertAdjacentElement('beforeend', dialogo);
+              document.getElementById('main').insertAdjacentElement('beforeend', background);
+              BtnAnularCastigo = document.getElementById('btn-anular-castigo');
+              BtnAnularCastigo.addEventListener('click', AnularCastigo);
+              BtnCastigarTodo = document.getElementById('btn-castigar-todo');
+              BtnCastigarTodo.addEventListener('click', CastigarTodo);
+              CantidadRegistrada = cantidad_registrada; // 02:30
+              CantidadCastigada = cantidad_castigada; // 00:15
+              CantidadResultante = CantidadRegistrada - CantidadCastigada;
+              TiempoRegistradoTexto.textContent = TiempoHHMM(CantidadRegistrada);
+              TiempoCastigadoTexto.textContent = TiempoHHMM(CantidadCastigada);
+              TiempoResultanteTexto.textContent = TiempoHHMM(CantidadResultante);
+              JogDialOptions = {
+                debug: false,
+                wheelSize: '98%',
+                minDegree: 0,
+                maxDegree: CantidadRegistrada * 360,
+                // una vuelta = 30 minutos
+                degreeStartAt: CantidadCastigada * 360
+              };
+              Perilla = JogDial(Dial, JogDialOptions).on('mousemove', function (event) {
+                CantidadCastigada = Math.round(event.target.rotation / 6) / 60; // redondeo a "minutos" y convierto a horas
+                CantidadResultante = CantidadRegistrada - CantidadCastigada;
+                TiempoCastigadoTexto.textContent = TiempoHHMM(CantidadCastigada);
+                TiempoResultanteTexto.textContent = TiempoHHMM(CantidadResultante);
+              });
+            } else {
+              // Ejecución de funciones las cuales esperan que el DOM ya este listo.
+              _AnularCastigo = function _AnularCastigo() {
+                ValorCantidadCastigada.set(0);
+                ValorCantidadResultante.set(cantidad_registrada - ValorCantidadCastigada.rawValue);
+              };
+              _CastigarTodo = function _CastigarTodo() {
+                ValorCantidadCastigada.set(cantidad_registrada);
+                ValorCantidadResultante.set(cantidad_registrada - ValorCantidadCastigada.rawValue);
+              };
+              CastigarRegistro.insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', null, ['castigar-registro__titulo'], "Castigar Gasto"));
+              CastigarRegistroSeccion = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SECTION', null, ['castigar-registro-seccion']);
+              CastigarRegistroWrapper = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', null, ['castigar-registro-wrapper']); // Cantidad registrada
+              CantidadRegistradaDiv = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', null, ['castigar-registro-cantidad']);
+              CantidadRegistradaDiv.insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SPAN', null, ['castigar-registro-cantidad__codigo-iso'], codigo_iso));
+              CantidadRegistradaInput = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.inputElement)('TEXT', null, ['castigar-registro-cantidad__valor', 'cantidad-registrada'], cantidad_registrada);
+              CantidadRegistradaDiv.insertAdjacentElement('beforeend', CantidadRegistradaInput);
+
+              // --------- AutoNumeric ---------
+              ValorCantidadRegistrada = new (autonumeric__WEBPACK_IMPORTED_MODULE_2___default())(CantidadRegistradaInput, ['integerPos', {
+                selectOnFocus: false,
+                readOnly: true,
+                decimalPlaces: plazas_decimales
+              }]);
+              // -------------------------------
+
+              // Cantidad castigada
+              CantidadCastigadaDiv = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', null, ['castigar-registro-cantidad']);
+              CantidadCastigadaDiv.insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SPAN', null, ['castigar-registro-cantidad__codigo-iso'], codigo_iso));
+              CantidadCastigadaInput = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.inputElement)('TEXT', null, ['castigar-registro-cantidad__valor', 'cantidad-castigada'], cantidad_castigada);
+              CantidadCastigadaDiv.insertAdjacentElement('beforeend', CantidadCastigadaInput);
+
+              // --------- AutoNumeric ---------
+              ValorCantidadCastigada = new (autonumeric__WEBPACK_IMPORTED_MODULE_2___default())(CantidadCastigadaInput, ['integerPos', {
+                selectOnFocus: false,
+                decimalPlaces: plazas_decimales,
+                maximumValue: cantidad_registrada,
+                modifyValueOnWheel: false
+              }]);
+              CantidadCastigadaInput.addEventListener('keyup', function () {
+                ValorCantidadResultante.set(cantidad_registrada - ValorCantidadCastigada.rawValue);
+              });
+
+              // -------------------------------
+
+              // Cantidad resultante
+              CantidadResultanteDiv = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', null, ['castigar-registro-cantidad']);
+              CantidadResultanteDiv.insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('SPAN', null, ['castigar-registro-cantidad__codigo-iso'], codigo_iso));
+              CantidadResultanteInput = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.inputElement)('TEXT', null, ['castigar-registro-cantidad__valor', 'cantidad-resultante'], ValorCantidadRegistrada.rawValue - ValorCantidadCastigada.rawValue);
+              CantidadResultanteDiv.insertAdjacentElement('beforeend', CantidadResultanteInput);
+
+              // --------- AutoNumeric ---------
+              ValorCantidadResultante = new (autonumeric__WEBPACK_IMPORTED_MODULE_2___default())(CantidadResultanteInput, ['integerPos', {
+                selectOnFocus: false,
+                decimalPlaces: plazas_decimales,
+                maximumValue: cantidad_registrada,
+                modifyValueOnWheel: false
+              }]);
+              CantidadResultanteInput.addEventListener('keyup', function () {
+                ValorCantidadCastigada.set(cantidad_registrada - ValorCantidadResultante.rawValue);
+              });
+
+              // -------------------------------
+              _ContenedorFlechas = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', null, ['contenedor-flechas']); //NOTE: Aqui hay svg
+              _ContenedorFlechas.innerHTML = "\n        <svg id=\"btn-anular-castigo\" title=\"Anular castigo\" viewbox=\"0 0 180 216\"><use xlink:href=\"./img/sprite.svg#btn-anular--castigo\"></use></svg>\n        <svg id=\"btn-castigar-todo\" title=\"Castigar todo\" viewbox=\"0 0 180 216\"><use xlink:href=\"./img/sprite.svg#btn-castigar--todo\"></use></svg>\n        ";
+              _ContenedorFlechas.insertAdjacentElement('beforeend', _BtnAnularCastigo);
+              _ContenedorFlechas.insertAdjacentElement('beforeend', _BtnCastigarTodo);
+
+              // -------------------------------
+
+              CastigarRegistroWrapper.insertAdjacentElement('beforeend', CantidadRegistradaDiv);
+              CastigarRegistroWrapper.insertAdjacentElement('beforeend', CantidadCastigadaDiv);
+              CastigarRegistroWrapper.insertAdjacentElement('beforeend', CantidadResultanteDiv);
+              CastigarRegistroSeccion.insertAdjacentElement('beforeend', CastigarRegistroWrapper);
+              CastigarRegistroSeccion.insertAdjacentElement('beforeend', _ContenedorFlechas);
+              CastigarRegistro.insertAdjacentElement('beforeend', CastigarRegistroSeccion);
+              dialogo.insertAdjacentElement('beforeend', CastigarRegistro);
+              background.insertAdjacentElement('beforeend', dialogo);
+              // Se agregar todos los elementos al DOM
+              document.getElementById('main').insertAdjacentElement('beforeend', background);
+              _BtnAnularCastigo = document.getElementById('btn-anular-castigo');
+              _BtnAnularCastigo.addEventListener('click', _AnularCastigo);
+              _BtnCastigarTodo = document.getElementById('btn-castigar-todo');
+              _BtnCastigarTodo.addEventListener('click', _CastigarTodo);
+            }
+
+            // Contenedor de botones
+            ContenedorBotones = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('DIV', 'c-Botones', ['cont_botones_3']);
+            ContenedorBotones.style.justifyContent = 'flex-end';
+            ContenedorBotones.style.marginTop = '0.5rem';
+
+            // Botón Cancelar
+            BotonCancelar = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('BUTTON', 'btnCancelar', ['modal-button', 'modal-button--default-text', 'modal-button--text'], 'Cancelar');
+            BotonCancelar.style.marginRight = '0.5rem';
+            ContenedorBotones.insertAdjacentElement('beforeend', BotonCancelar);
+            BotonCancelar.addEventListener('click', function () {
+              document.getElementById('background').remove();
+            });
+
+            // Botón Guardar
+            BotonGuardar = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_5__.CreateElement)('BUTTON', 'btnGuardar', ['modal-button', 'modal-button--save', 'modal-button--text'], 'Guardar');
+            ContenedorBotones.insertAdjacentElement('beforeend', BotonGuardar);
+            BotonGuardar.addEventListener('click', /*#__PURE__*/(0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee() {
+              var CantidadCastigada, URL, body, result, CodigoAlcance, CodigoBuscado, FechaDesde, FechaHasta;
+              return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
+                while (1) switch (_context.prev = _context.next) {
+                  case 0:
+                    CantidadCastigada = tipo_registro == 1 ? document.getElementById('TiempoActual').textContent : ValorCantidadCastigada.rawValue;
+                    URL = 'castigarregistro';
+                    body = {
+                      IDRegistro: IDRegistro,
+                      CantidadCastigada: CantidadCastigada
+                    };
+                    _context.next = 5;
+                    return (0,_api__WEBPACK_IMPORTED_MODULE_3__.PostData)(URL, body, 'Error al castigar datos', true);
+                  case 5:
+                    result = _context.sent;
+                    if (!(result.result_code !== 0)) {
+                      _context.next = 9;
+                      break;
+                    }
+                    new _componentes_modal_Error__WEBPACK_IMPORTED_MODULE_6__.MostrarMensajeError(document.getElementById('dialogo'), result.result_message, 'Castigar Registro');
+                    return _context.abrupt("return");
+                  case 9:
+                    document.getElementById('background').remove();
+                    CodigoAlcance = localStorage.getItem('CodigoAlcance');
+                    CodigoBuscado = localStorage.getItem('CodigoBuscado');
+                    FechaDesde = localStorage.getItem('FechaDesde');
+                    FechaHasta = localStorage.getItem('FechaHasta');
+                    document.getElementById('main').classList.remove('ocultar-scroll');
+                    CargarHistorialB(CodigoAlcance, CodigoBuscado, FechaDesde, FechaHasta);
+                  case 16:
+                  case "end":
+                    return _context.stop();
+                }
+              }, _callee);
+            })));
+            CastigarRegistro.insertAdjacentElement('beforeend', ContenedorBotones);
+          } else {
+            new _componentes_modal_Error__WEBPACK_IMPORTED_MODULE_6__.MostrarMensajeError(document.getElementById('dialogo'), result_message, 'getDatosCastigar');
+          }
+          dialogo.insertAdjacentElement('beforeend', CastigarRegistro);
+          background.insertAdjacentElement('beforeend', dialogo);
+          // Se agregar todos los elementos al DOM
+          document.getElementById('main').insertAdjacentElement('beforeend', background);
+          document.getElementById('main').classList.add('ocultar-scroll');
+
+          // Cerrar Modal con tecla [ESC] o Click por fuera del modal
+          document.getElementById('background').addEventListener('mousedown', function (event) {
+            (0,_cerrar_ventana_modal__WEBPACK_IMPORTED_MODULE_7__.CerrarVentanaClick)(event, 'CastigarRegistro');
+          }, false); // mousedown
+          document.addEventListener('keydown', _cerrar_ventana_modal__WEBPACK_IMPORTED_MODULE_7__.CerrarVentanaESC, false); // keydown
+        case 20:
+        case "end":
+          return _context2.stop();
+      }
+    }, _callee2);
+  }));
+  return _CastigarRegistro.apply(this, arguments);
+}
+
+/***/ }),
+
+/***/ 1812:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CerrarVentanaClick: () => (/* binding */ CerrarVentanaClick),
+/* harmony export */   CerrarVentanaESC: () => (/* binding */ CerrarVentanaESC),
+/* harmony export */   CerrarVentanaMenuPpalClick: () => (/* binding */ CerrarVentanaMenuPpalClick),
+/* harmony export */   CerrarVentanaMenuPpalESC: () => (/* binding */ CerrarVentanaMenuPpalESC)
+/* harmony export */ });
+function CerrarVentanaMenuPpalClick(event, ventana) {
+  if (event.target.id == 'MenuPpal' && document.getElementById(ventana)) {
+    document.getElementById('MenuPpal').remove();
+    document.removeEventListener('mousedown', CerrarVentanaESC, false); // keydown)
+    document.getElementById('main').classList.remove('ocultar-scroll');
+  }
+}
+
+// Cerrar ventana modal con la tecla de escape [ESC]
+function CerrarVentanaMenuPpalESC(event) {
+  if (event.keyCode == 27) {
+    if (document.getElementById('MenuPpal') != null || document.getElementById('MenuPpal') != undefined) {
+      document.getElementById('MenuPpal').remove();
+      document.removeEventListener('keydown', CerrarVentanaESC, false); // keydown)
+      document.getElementById('main').classList.remove('ocultar-scroll');
+    }
+  }
+}
+
+// Cerrar ventana modal al hacer click por fuera de la ventana
+function CerrarVentanaClick(event, ventana) {
+  if (event.target.id == 'background' && document.getElementById(ventana)) {
+    document.getElementById('background').remove();
+    document.removeEventListener('mousedown', CerrarVentanaESC, false); // keydown)
+    document.getElementById('main').classList.remove('ocultar-scroll');
+  }
+}
+
+// Cerrar ventana modal con la tecla de escape [ESC]
+function CerrarVentanaESC(event) {
+  if (event.keyCode == 27) {
+    if (document.getElementById('background') != null || document.getElementById('background') != undefined) {
+      document.getElementById('background').remove();
+      document.removeEventListener('keydown', CerrarVentanaESC, false); // keydown)
+      document.getElementById('main').classList.remove('ocultar-scroll');
+    }
+  }
+}
+
+/***/ }),
+
+/***/ 1723:
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _babel_runtime_helpers_typeof__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2284);
+/* module decorator */ module = __webpack_require__.hmd(module);
+
+(function (window, undefined) {
+  'use strict';
+
+  var JogDial = function JogDial(element, options) {
+    return new JogDial.Instance(element, options || {});
+  };
+  function setConstants() {
+    if (JogDial.Ready) {
+      return;
+    }
+    JogDial.Doc = window.document;
+    JogDial.ToRad = Math.PI / 180;
+    JogDial.ToDeg = 180 / Math.PI;
+    JogDial.ModernEvent = JogDial.Doc.addEventListener ? true : false;
+    JogDial.MobileRegEx = '/Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/';
+    JogDial.MobileEvent = 'ontouchstart' in window && window.navigator.userAgent.match(JogDial.MobileRegEx);
+    JogDial.PointerEvent = window.navigator.pointerEnabled || window.navigator.msPointerEnabled ? true : false;
+    JogDial.Defaults = {
+      debug: false,
+      touchMode: 'knob',
+      knobSize: '30%',
+      wheelSize: '100%',
+      zIndex: 9999,
+      degreeStartAt: 0,
+      minDegree: null,
+      maxDegree: null
+    };
+    JogDial.DegInfo = {
+      rotation: 0,
+      quadrant: 1
+    };
+    JogDial.DomEvent = {
+      MOUSE_DOWN: 'mousedown',
+      MOUSE_MOVE: 'mousemove',
+      MOUSE_OUT: 'mouseout',
+      MOUSE_UP: 'mouseup'
+    };
+    JogDial.CustomEvent = {
+      MOUSE_DOWN: 'mousedown',
+      MOUSE_MOVE: 'mousemove',
+      MOUSE_UP: 'mouseup'
+    };
+    JogDial.utils = {
+      extend: function extend(target, src) {
+        for (var key in src) {
+          target[key] = src[key];
+        }
+        return target;
+      },
+      getComputedStyle: function getComputedStyle(el, prop) {
+        if (window.getComputedStyle) {
+          return window.getComputedStyle(el).getPropertyValue(prop);
+        } else if (el.currentStyle) {
+          return el.currentStyle[prop];
+        }
+      },
+      getCoordinates: function getCoordinates(e) {
+        e = e || window.event;
+        var target = e.target || e.srcElement,
+          rect = target.getBoundingClientRect(),
+          _x = (JogDial.MobileEvent ? e.targetTouches[0].clientX : e.clientX) - rect.left,
+          _y = (JogDial.MobileEvent ? e.targetTouches[0].clientY : e.clientY) - rect.top;
+        return {
+          x: _x,
+          y: _y
+        };
+      },
+      getQuadrant: function getQuadrant(x, y) {
+        if (x > 0 && y > 0) return 4;else if (x < 0 && y > 0) return 3;else if (x < 0 && y < 0) return 2;else if (x >= 0 && y < 0) return 1;
+      },
+      getRotation: function getRotation(self, quadrant, newDegree) {
+        var rotation,
+          delta = 0,
+          info = self.info;
+        if (quadrant == 1 && info.old.quadrant == 2) {
+          delta = 360;
+        } else if (quadrant == 2 && info.old.quadrant == 1) {
+          delta = -360;
+        }
+        rotation = newDegree + delta - info.old.rotation + info.now.rotation;
+        info.old.rotation = newDegree;
+        info.old.quadrant = quadrant;
+        return rotation;
+      },
+      checkBoxCollision: function checkBoxCollision(bound, point) {
+        return bound.x1 < point.x && bound.x2 > point.x && bound.y1 < point.y && bound.y2 > point.y;
+      },
+      addEvent: function addEvent(el, type, handler, capture) {
+        type = type.split(' ');
+        for (var i = 0; i < type.length; i++) {
+          if (el.addEventListener) {
+            el.addEventListener(type[i], handler, capture);
+          } else if (el.attachEvent) {
+            el.attachEvent('on' + type[i], handler);
+          }
+        }
+      },
+      removeEvent: function removeEvent(el, type, handler) {
+        type = type.split(' ');
+        for (var i = 0; i < type.length; i++) {
+          if (el.addEventListener) {
+            el.removeEventListener(type[i], handler);
+          } else if (el.detachEvent) {
+            el.detachEvent('on' + type[i], handler);
+          }
+        }
+      },
+      triggerEvent: function triggerEvent(el, type) {
+        var evt;
+        if (JogDial.Doc.createEvent) {
+          evt = JogDial.Doc.createEvent("HTMLEvents");
+          evt.initEvent(type, true, true);
+          el.dispatchEvent(evt);
+        } else {
+          evt = JogDial.Doc.createEventObject();
+          evt.target = {};
+          JogDial.utils.extend(evt.target, el);
+          el.fireEvent('on' + type, evt);
+        }
+      },
+      convertClockToUnit: function convertClockToUnit(n) {
+        return n % 360 - 90;
+      },
+      convertUnitToClock: function convertUnitToClock(n) {
+        return n >= -180 && n < -90 ? 450 + n : 90 + n;
+      }
+    };
+    JogDial.Ready = true;
+  }
+  ;
+  JogDial.Instance = function (el, opt) {
+    if (el.getAttribute('_jogDial_')) {
+      window.alert('Please Check your code:\njogDial can not be initialized twice in a same element.');
+      return false;
+    }
+    setConstants();
+    setInstance(this, el, opt);
+    setStage(this);
+    setEvents(this);
+    angleTo(this, JogDial.utils.convertClockToUnit(this.opt.degreeStartAt));
+    return this;
+  };
+  JogDial.Instance.prototype = {
+    on: function onEvent(type, listener) {
+      JogDial.utils.addEvent(this.knob, type, listener, false);
+      return this;
+    },
+    off: function onEvent(type, listener) {
+      JogDial.utils.removeEvent(this.knob, type, listener);
+      return this;
+    },
+    trigger: function triggerEvent(type, data) {
+      switch (type) {
+        case 'angle':
+          angleTo(this, data);
+          break;
+        default:
+          window.alert('Please Check your code:\njogDial does not have triggering event [' + type + ']');
+          break;
+      }
+      return this;
+    },
+    angle: function angle(data) {
+      angleTo(this, JogDial.utils.convertClockToUnit(data));
+    }
+  };
+  function setInstance(self, el, opt) {
+    self.base = el;
+    self.base.setAttribute('_JogDial_', true);
+    self.opt = JogDial.utils.extend(JogDial.utils.extend({}, JogDial.Defaults), opt);
+    self.info = {} || self;
+    self.info.now = JogDial.utils.extend({}, JogDial.DegInfo);
+    self.info.old = JogDial.utils.extend({}, JogDial.DegInfo);
+    self.info.snapshot = JogDial.utils.extend({}, self.info);
+    self.info.snapshot.direction = null;
+  }
+  ;
+  function setStage(self) {
+    var item = {},
+      BId = self.base.getAttribute("id"),
+      BW = self.base.clientWidth,
+      BH = self.base.clientHeight,
+      opt = self.opt,
+      K = item.knob = document.createElement('div'),
+      W = item.wheel = document.createElement('div'),
+      KS = K.style,
+      WS = W.style,
+      KRad,
+      WRad,
+      WMargnLT,
+      WMargnTP;
+    if (JogDial.utils.getComputedStyle(self.base, 'position') === 'static') {
+      self.base.style.position = 'relative';
+    }
+    self.base.appendChild(K);
+    self.base.appendChild(W);
+    JogDial.utils.extend(self, item);
+    KS.position = WS.position = 'absolute';
+    KS.width = KS.height = opt.knobSize;
+    WS.width = WS.height = opt.wheelSize;
+    KRad = K.clientWidth / 2;
+    WRad = W.clientWidth / 2;
+    K.setAttribute('id', BId + '_knob');
+    KS.margin = -KRad + 'px 0 0 ' + -KRad + 'px';
+    KS.zIndex = opt.zIndex;
+    W.setAttribute('id', BId + '_wheel');
+    WMargnLT = (BW - W.clientWidth) / 2;
+    WMargnTP = (BH - W.clientHeight) / 2;
+    WS.left = WS.top = 0;
+    WS.margin = WMargnTP + 'px 0 0 ' + WMargnLT + 'px';
+    WS.zIndex = opt.zIndex;
+    self.radius = WRad - KRad;
+    self.center = {
+      x: WRad + WMargnLT,
+      y: WRad + WMargnTP
+    };
+    if (opt.debug) setDebug(self);
+  }
+  ;
+  function setDebug(self) {
+    var KS = self.knob.style;
+    var WS = self.wheel.style;
+    KS.backgroundColor = '#00F';
+    WS.backgroundColor = '#0F0';
+    KS.opacity = WS.opacity = .4;
+    KS.filter = WS.filter = 'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+    KS.webkitBorderRadius = WS.webkitBorderRadius = "50%";
+    KS.borderRadius = WS.borderRadius = "50%";
+  }
+  ;
+  function setEvents(self) {
+    if (JogDial.PointerEvent) {
+      JogDial.utils.extend(JogDial.DomEvent, {
+        MOUSE_DOWN: 'pointerdown MSPointerDown',
+        MOUSE_MOVE: 'pointermove MSPointerMove',
+        MOUSE_OUT: 'pointerout MSPointerOut',
+        MOUSE_UP: 'pointerup pointercancel MSPointerUp MSPointerCancel'
+      });
+    } else if (JogDial.MobileEvent) {
+      JogDial.utils.extend(JogDial.DomEvent, {
+        MOUSE_DOWN: 'touchstart',
+        MOUSE_MOVE: 'touchmove',
+        MOUSE_OUT: 'touchleave',
+        MOUSE_UP: 'touchend'
+      });
+    }
+    var opt = self.opt,
+      info = self.info,
+      K = self.knob,
+      W = self.wheel;
+    self.pressed = false;
+    JogDial.utils.addEvent(W, JogDial.DomEvent.MOUSE_DOWN, mouseDownEvent, false);
+    JogDial.utils.addEvent(W, JogDial.DomEvent.MOUSE_MOVE, mouseDragEvent, false);
+    JogDial.utils.addEvent(W, JogDial.DomEvent.MOUSE_UP, mouseUpEvent, false);
+    JogDial.utils.addEvent(W, JogDial.DomEvent.MOUSE_OUT, mouseUpEvent, false);
+    function mouseDownEvent(e) {
+      switch (opt.touchMode) {
+        case 'knob':
+        default:
+          self.pressed = JogDial.utils.checkBoxCollision({
+            x1: K.offsetLeft - W.offsetLeft,
+            y1: K.offsetTop - W.offsetTop,
+            x2: K.offsetLeft - W.offsetLeft + K.clientWidth,
+            y2: K.offsetTop - W.offsetTop + K.clientHeight
+          }, JogDial.utils.getCoordinates(e));
+          break;
+        case 'wheel':
+          self.pressed = true;
+          mouseDragEvent(e);
+          break;
+      }
+      if (self.pressed) JogDial.utils.triggerEvent(self.knob, JogDial.CustomEvent.MOUSE_DOWN);
+    }
+    ;
+    function mouseDragEvent(e) {
+      if (self.pressed) {
+        e.preventDefault ? e.preventDefault() : e.returnValue = false;
+        var offset = JogDial.utils.getCoordinates(e),
+          _x = offset.x - self.center.x + W.offsetLeft,
+          _y = offset.y - self.center.y + W.offsetTop,
+          radian = Math.atan2(_y, _x) * JogDial.ToDeg,
+          quadrant = JogDial.utils.getQuadrant(_x, _y),
+          degree = JogDial.utils.convertUnitToClock(radian),
+          rotation;
+        info.now.rotation = JogDial.utils.getRotation(self, quadrant == undefined ? info.old.quadrant : quadrant, degree);
+        rotation = info.now.rotation;
+        if (opt.maxDegree != null && opt.maxDegree <= rotation) {
+          if (info.snapshot.direction == null) {
+            info.snapshot.direction = 'right';
+            info.snapshot.now = JogDial.utils.extend({}, info.now);
+            info.snapshot.old = JogDial.utils.extend({}, info.old);
+          }
+          rotation = opt.maxDegree;
+          radian = JogDial.utils.convertClockToUnit(rotation);
+          degree = JogDial.utils.convertUnitToClock(radian);
+        } else if (opt.minDegree != null && opt.minDegree >= rotation) {
+          if (info.snapshot.direction == null) {
+            info.snapshot.direction = 'left';
+            info.snapshot.now = JogDial.utils.extend({}, info.now);
+            info.snapshot.old = JogDial.utils.extend({}, info.old);
+          }
+          rotation = opt.minDegree;
+          radian = JogDial.utils.convertClockToUnit(rotation);
+          degree = JogDial.utils.convertUnitToClock(radian);
+        } else if (info.snapshot.direction != null) {
+          info.snapshot.direction = null;
+        }
+        JogDial.utils.extend(self.knob, {
+          rotation: rotation,
+          degree: degree
+        });
+        angleTo(self, radian);
+      }
+    }
+    ;
+    function mouseUpEvent() {
+      if (self.pressed) {
+        self.pressed = false;
+        if (self.info.snapshot.direction != null) {
+          self.info.now = JogDial.utils.extend({}, info.snapshot.now);
+          self.info.old = JogDial.utils.extend({}, info.snapshot.old);
+          self.info.snapshot.direction = null;
+        }
+        JogDial.utils.triggerEvent(self.knob, JogDial.CustomEvent.MOUSE_UP);
+      }
+    }
+    ;
+  }
+  ;
+  function angleTo(self, radian) {
+    radian *= JogDial.ToRad;
+    var _x = Math.cos(radian) * self.radius + self.center.x,
+      _y = Math.sin(radian) * self.radius + self.center.y,
+      quadrant = JogDial.utils.getQuadrant(_x, _y),
+      degree = JogDial.utils.convertUnitToClock(radian);
+    self.knob.style.left = _x + 'px';
+    self.knob.style.top = _y + 'px';
+    if (self.knob.rotation == undefined) {
+      JogDial.utils.extend(self.knob, {
+        rotation: self.opt.degreeStartAt,
+        degree: JogDial.utils.convertUnitToClock(radian)
+      });
+    }
+    JogDial.utils.triggerEvent(self.knob, JogDial.CustomEvent.MOUSE_MOVE);
+  }
+  ;
+  if (typeof define === 'function' && __webpack_require__.amdO) {
+    define(function () {
+      return JogDial;
+    });
+  } else if ((typeof exports === "undefined" ? "undefined" : (0,_babel_runtime_helpers_typeof__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(exports)) === 'object') {
+    module.exports = JogDial;
+  } else {
+    window.JogDial = JogDial;
+  }
+})(window);
+
+/***/ })
+
+}]);

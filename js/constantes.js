@@ -1,1 +1,51 @@
-function a7_0x4351(_0x57a685,_0x4518c1){var _0x1406b1=a7_0x1406();return a7_0x4351=function(_0x435123,_0x167f85){_0x435123=_0x435123-0x102;var _0x150dce=_0x1406b1[_0x435123];return _0x150dce;},a7_0x4351(_0x57a685,_0x4518c1);}function a7_0x1406(){var _0x457d44=['KIUX_cache_','40CShBUh','184820grnXZS','exports','34140OqBKOB','concat','service-Worker-','1489446UPtVul','30zLXLrK','3klhgrs','3629356jvYscH','6595974bTjdXK','24WiuFRM','520008rHjYLr','492373fZzleF'];a7_0x1406=function(){return _0x457d44;};return a7_0x1406();}(function(_0x1b087f,_0x4f0f39){var _0x2c5419=a7_0x4351,_0x5bf86d=_0x1b087f();while(!![]){try{var _0x21bf54=-parseInt(_0x2c5419(0x10b))/0x1+parseInt(_0x2c5419(0x10d))/0x2+-parseInt(_0x2c5419(0x103))/0x3*(-parseInt(_0x2c5419(0x104))/0x4)+parseInt(_0x2c5419(0x10a))/0x5*(parseInt(_0x2c5419(0x107))/0x6)+parseInt(_0x2c5419(0x108))/0x7*(parseInt(_0x2c5419(0x106))/0x8)+parseInt(_0x2c5419(0x110))/0x9*(-parseInt(_0x2c5419(0x102))/0xa)+-parseInt(_0x2c5419(0x105))/0xb;if(_0x21bf54===_0x4f0f39)break;else _0x5bf86d['push'](_0x5bf86d['shift']());}catch(_0x134a9d){_0x5bf86d['push'](_0x5bf86d['shift']());}}}(a7_0x1406,0x85bfa),((()=>{var _0x37b868={0x130:_0x435a94=>{var _0x3ab5e8=a7_0x4351,_0x1add33='2025-01-17-1107',_0x181464=_0x3ab5e8(0x109)['concat'](_0x1add33),_0xf52b96=_0x3ab5e8(0x10f)[_0x3ab5e8(0x10e)](_0x1add33);_0x435a94[_0x3ab5e8(0x10c)]={'nombreServiceWorker':_0xf52b96,'nombreCache':_0x181464};}},_0x56d7d0={};function _0x547f8f(_0x139527){var _0x21c51f=a7_0x4351,_0x2b3108=_0x56d7d0[_0x139527];if(_0x2b3108!==undefined)return _0x2b3108[_0x21c51f(0x10c)];var _0x146acc=_0x56d7d0[_0x139527]={'exports':{}};return _0x37b868[_0x139527](_0x146acc,_0x146acc['exports'],_0x547f8f),_0x146acc[_0x21c51f(0x10c)];}var _0x66d9d3=_0x547f8f(0x130);})()));
+/******/ (() => { // webpackBootstrap
+/******/ 	var __webpack_modules__ = ({
+
+/***/ 304:
+/***/ ((module) => {
+
+var fecha_Hora = "2025-01-17-1114";
+var nombreCache = "KIUX_cache_".concat(fecha_Hora);
+var nombreServiceWorker = "service-Worker-".concat(fecha_Hora);
+module.exports = {
+  nombreServiceWorker: nombreServiceWorker,
+  nombreCache: nombreCache
+};
+
+/***/ })
+
+/******/ 	});
+/************************************************************************/
+/******/ 	// The module cache
+/******/ 	var __webpack_module_cache__ = {};
+/******/ 	
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/ 		// Check if module is in cache
+/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
+/******/ 		if (cachedModule !== undefined) {
+/******/ 			return cachedModule.exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = __webpack_module_cache__[moduleId] = {
+/******/ 			// no module.id needed
+/******/ 			// no module.loaded needed
+/******/ 			exports: {}
+/******/ 		};
+/******/ 	
+/******/ 		// Execute the module function
+/******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/ 	
+/************************************************************************/
+/******/ 	
+/******/ 	// startup
+/******/ 	// Load entry module and return exports
+/******/ 	// This entry module is referenced by other modules so it can't be inlined
+/******/ 	var __webpack_exports__ = __webpack_require__(304);
+/******/ 	
+/******/ })()
+;

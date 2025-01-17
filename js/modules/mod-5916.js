@@ -1,1 +1,81 @@
-'use strict';function a45_0x17ed(_0x544bb7,_0x4a598a){var _0x406637=a45_0x4066();return a45_0x17ed=function(_0x17edf7,_0x2be8dd){_0x17edf7=_0x17edf7-0x1b9;var _0x1afcff=_0x406637[_0x17edf7];return _0x1afcff;},a45_0x17ed(_0x544bb7,_0x4a598a);}var a45_0xf9f7c9=a45_0x17ed;(function(_0x1f6849,_0x4c04f9){var _0x20f230=a45_0x17ed,_0x2fc9b1=_0x1f6849();while(!![]){try{var _0x9abde=parseInt(_0x20f230(0x1e2))/0x1*(parseInt(_0x20f230(0x1fb))/0x2)+parseInt(_0x20f230(0x1d4))/0x3+parseInt(_0x20f230(0x1be))/0x4*(-parseInt(_0x20f230(0x1bc))/0x5)+-parseInt(_0x20f230(0x1de))/0x6+-parseInt(_0x20f230(0x1c8))/0x7+parseInt(_0x20f230(0x1cb))/0x8+parseInt(_0x20f230(0x1cc))/0x9*(parseInt(_0x20f230(0x1ca))/0xa);if(_0x9abde===_0x4c04f9)break;else _0x2fc9b1['push'](_0x2fc9b1['shift']());}catch(_0x26f784){_0x2fc9b1['push'](_0x2fc9b1['shift']());}}}(a45_0x4066,0xd3d4a));(self['webpackChunkkiux']=self['webpackChunkkiux']||[])[a45_0xf9f7c9(0x1d5)]([[0x171c],{0x171c:(_0x481a82,_0x4e5224,_0x158cf0)=>{var _0x433e36=a45_0xf9f7c9;_0x158cf0['r'](_0x4e5224),_0x158cf0['d'](_0x4e5224,{'datepickerOptions':()=>_0x2a6305});var _0x17f4a8={'content':_0x433e36(0x1d3),'className':_0x433e36(0x1c9),'onClick':function _0xa7ee6e(_0x105f23){var _0x343d54=_0x433e36,_0x45b554=new Date();_0x105f23[_0x343d54(0x1f2)](_0x45b554),_0x105f23[_0x343d54(0x1f8)](_0x45b554);}},_0x2a6305={'dateFormat':_0x433e36(0x1ef),'locale':{'days':['Domingo','Lunes',_0x433e36(0x1f3),_0x433e36(0x1f1),_0x433e36(0x1e6),_0x433e36(0x1c4),_0x433e36(0x1c6)],'daysShort':[_0x433e36(0x1bf),_0x433e36(0x1df),_0x433e36(0x1cf),_0x433e36(0x1c3),_0x433e36(0x1dc),'Vie','Sab'],'daysMin':['Do','Lu','Ma','Mi','Ju','Vi','Sa'],'months':[_0x433e36(0x1dd),_0x433e36(0x1eb),_0x433e36(0x1bd),_0x433e36(0x1d2),'Mayo','Junio',_0x433e36(0x1d6),_0x433e36(0x1d9),_0x433e36(0x1f7),'Octubre','Noviembre',_0x433e36(0x1e0)],'monthsShort':[_0x433e36(0x1db),_0x433e36(0x1ed),'Mar',_0x433e36(0x1e8),_0x433e36(0x1c1),_0x433e36(0x1fa),_0x433e36(0x1cd),'Ago','Sep','Oct',_0x433e36(0x1d0),_0x433e36(0x1f0)],'today':_0x433e36(0x1d3),'clear':_0x433e36(0x1d1),'dateFormat':_0x433e36(0x1f4),'timeFormat':'hh:ii\x20aa','firstDay':0x1},'buttons':[_0x17f4a8],'todayButton':new Date(),'autoClose':!![],'onSelect':function _0x4ba704(_0x2d3718){var _0x123873=_0x433e36;if(_0x2d3718[_0x123873(0x1ce)][_0x123873(0x1e4)]['id']=='fechaPreconcepto'){var _0x123ea0=document[_0x123873(0x1ee)](_0x123873(0x1e3));_0x123ea0['setAttribute'](_0x123873(0x1c0),_0x2d3718[_0x123873(0x1f9)]);}if(document[_0x123873(0x1ee)](_0x123873(0x1ec))){var _0x1a8e0b=document['getElementById'](_0x123873(0x1ec)),_0x5d32f6=document['getElementById'](_0x123873(0x1d7));_0x2d3718['datepicker']['$el']['id']==_0x123873(0x1ec)&&_0x1a8e0b[_0x123873(0x1bb)]('data-value',_0x2d3718[_0x123873(0x1f9)]),_0x2d3718[_0x123873(0x1ce)][_0x123873(0x1e4)]['id']==_0x123873(0x1ec)&&_0x1a8e0b[_0x123873(0x1ea)]['contador']==0x1&&(_0x5d32f6[_0x123873(0x1bb)]('data-value',_0x2d3718[_0x123873(0x1f9)]),_0x5d32f6[_0x123873(0x1da)]=_0x2d3718[_0x123873(0x1f9)]),_0x2d3718[_0x123873(0x1ce)][_0x123873(0x1e4)]['id']==_0x123873(0x1d7)&&(_0x1a8e0b['dataset'][_0x123873(0x1ba)]++,_0x5d32f6[_0x123873(0x1bb)](_0x123873(0x1c0),_0x2d3718[_0x123873(0x1f9)]));}if(_0x2d3718[_0x123873(0x1ce)]['$el']['id']==_0x123873(0x1c7)){var _0x2390e1=document['getElementById'](_0x123873(0x1c7));_0x2390e1[_0x123873(0x1bb)]('data-value',_0x2d3718[_0x123873(0x1f9)]);}},'position':function _0x2da710(_0x4216d4){var _0x463eb8=_0x433e36,_0xb00b6d=_0x4216d4['$datepicker'],_0x256519=_0x4216d4[_0x463eb8(0x1e1)],_0x1de8ca=_0x4216d4[_0x463eb8(0x1e5)],_0x10a81c=_0x256519[_0x463eb8(0x1b9)](),_0x288392=_0xb00b6d['clientHeight'],_0x49a9c0=_0xb00b6d[_0x463eb8(0x1f6)],_0x4d5d66=0x3,_0x536e4c=_0x10a81c['y']+_0x10a81c[_0x463eb8(0x1e9)]+_0x4d5d66,_0xa09d22=_0x10a81c['x'];_0xb00b6d['style'][_0x463eb8(0x1d8)]=''[_0x463eb8(0x1c2)](_0xa09d22,'px'),_0xb00b6d[_0x463eb8(0x1c5)][_0x463eb8(0x1e7)]=''['concat'](_0x536e4c,'px'),_0x1de8ca['style']['display']=_0x463eb8(0x1f5);}};}}]);function a45_0x4066(){var _0x561ac5=['Martes','yyyy/mm/dd','none','clientWidth','Septiembre','setViewDate','formattedDate','Jun','26mKjvRX','getBoundingClientRect','contador','setAttribute','10KenQLG','Marzo','926520BWzPff','Dom','data-value','May','concat','Mie','Viernes','style','Sábado','fechaParaRuta','962409vLphFy','custom-button-classname','90hXjxWZ','4241992OoZAlM','666459HsGKgg','Jul','datepicker','Mar','Nov','Limpiar','Abril','Hoy','3375528phWgHw','push','Julio','fechaFinal','left','Agosto','value','Ene','Jue','Enero','8146260naibRb','Lun','Diciembre','$target','38787WndBBT','fechaPreconcepto','$el','$pointer','Jueves','top','Abr','height','dataset','Febrero','fechaInicial','Feb','getElementById','yyyy-MM-dd','Dic','Miércoles','selectDate'];a45_0x4066=function(){return _0x561ac5;};return a45_0x4066();}
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[5916],{
+
+/***/ 5916:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   datepickerOptions: () => (/* binding */ datepickerOptions)
+/* harmony export */ });
+var button = {
+  content: 'Hoy',
+  className: 'custom-button-classname',
+  onClick: function onClick(dp) {
+    var date = new Date();
+    dp.selectDate(date);
+    dp.setViewDate(date);
+  }
+};
+var datepickerOptions = {
+  dateFormat: 'yyyy-MM-dd',
+  locale: {
+    days: ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'],
+    daysShort: ['Dom', 'Lun', 'Mar', 'Mie', 'Jue', 'Vie', 'Sab'],
+    daysMin: ['Do', 'Lu', 'Ma', 'Mi', 'Ju', 'Vi', 'Sa'],
+    months: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'],
+    monthsShort: ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'],
+    today: 'Hoy',
+    clear: 'Limpiar',
+    dateFormat: 'yyyy/mm/dd',
+    timeFormat: 'hh:ii aa',
+    firstDay: 1
+  },
+  buttons: [button],
+  todayButton: new Date(),
+  autoClose: true,
+  onSelect: function onSelect(dp) {
+    //console.log(dp.datepicker.$el);
+    if (dp.datepicker.$el.id == 'fechaPreconcepto') {
+      var Fecha_Preconcepto = document.getElementById('fechaPreconcepto');
+      Fecha_Preconcepto.setAttribute('data-value', dp.formattedDate);
+    }
+    if (document.getElementById('fechaInicial')) {
+      var Fecha_Inicial = document.getElementById('fechaInicial');
+      var Fecha_Final = document.getElementById('fechaFinal');
+      if (dp.datepicker.$el.id == 'fechaInicial') {
+        Fecha_Inicial.setAttribute('data-value', dp.formattedDate);
+      }
+      if (dp.datepicker.$el.id == 'fechaInicial' && Fecha_Inicial.dataset.contador == 1) {
+        Fecha_Final.setAttribute('data-value', dp.formattedDate);
+        Fecha_Final.value = dp.formattedDate;
+      }
+      if (dp.datepicker.$el.id == 'fechaFinal') {
+        Fecha_Inicial.dataset.contador++;
+        Fecha_Final.setAttribute('data-value', dp.formattedDate);
+      }
+    }
+    if (dp.datepicker.$el.id == 'fechaParaRuta') {
+      var _Fecha_Preconcepto = document.getElementById('fechaParaRuta');
+      _Fecha_Preconcepto.setAttribute('data-value', dp.formattedDate);
+    }
+  },
+  position: function position(_ref) {
+    var $datepicker = _ref.$datepicker,
+      $target = _ref.$target,
+      $pointer = _ref.$pointer;
+    var coords = $target.getBoundingClientRect(),
+      dpHeight = $datepicker.clientHeight,
+      dpWidth = $datepicker.clientWidth,
+      downMovement = 3;
+    var top = coords.y + coords.height + downMovement;
+    var left = coords.x;
+    $datepicker.style.left = "".concat(left, "px");
+    $datepicker.style.top = "".concat(top, "px");
+    $pointer.style.display = 'none';
+  }
+};
+
+/***/ })
+
+}]);

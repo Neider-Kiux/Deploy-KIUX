@@ -1,1 +1,333 @@
-(function(_0x535ab3,_0x335cbf){var _0x5ac770=a4_0x53c2,_0x167214=_0x535ab3();while(!![]){try{var _0x48ffcc=-parseInt(_0x5ac770(0x144))/0x1*(-parseInt(_0x5ac770(0x156))/0x2)+parseInt(_0x5ac770(0x131))/0x3*(parseInt(_0x5ac770(0x159))/0x4)+-parseInt(_0x5ac770(0x145))/0x5+parseInt(_0x5ac770(0x12c))/0x6*(parseInt(_0x5ac770(0x13c))/0x7)+-parseInt(_0x5ac770(0x149))/0x8*(parseInt(_0x5ac770(0x150))/0x9)+parseInt(_0x5ac770(0x12d))/0xa+-parseInt(_0x5ac770(0x142))/0xb*(parseInt(_0x5ac770(0x140))/0xc);if(_0x48ffcc===_0x335cbf)break;else _0x167214['push'](_0x167214['shift']());}catch(_0x5756fe){_0x167214['push'](_0x167214['shift']());}}}(a4_0x1eb8,0x2bc74),((()=>{var _0x232e8e={0x130:_0x1eb9f2=>{var _0x2c53bc=a4_0x53c2,_0x2dd8c5=_0x2c53bc(0x15f),_0x29fb36=_0x2c53bc(0x12e)[_0x2c53bc(0x162)](_0x2dd8c5),_0x1ba978=_0x2c53bc(0x134)['concat'](_0x2dd8c5);_0x1eb9f2[_0x2c53bc(0x14a)]={'nombreServiceWorker':_0x1ba978,'nombreCache':_0x29fb36};}},_0x1c5758={};function _0x40a20e(_0x25a1d4){var _0x1ff8cc=a4_0x53c2,_0x4a4b8e=_0x1c5758[_0x25a1d4];if(_0x4a4b8e!==undefined)return _0x4a4b8e[_0x1ff8cc(0x14a)];var _0x3a3ca3=_0x1c5758[_0x25a1d4]={'exports':{}};return _0x232e8e[_0x25a1d4](_0x3a3ca3,_0x3a3ca3[_0x1ff8cc(0x14a)],_0x40a20e),_0x3a3ca3['exports'];}var _0x22aa2e={};((()=>{'use strict';var _0x2fd45c=a4_0x53c2;;function _0x4b175(){var _0x4390ab=a4_0x53c2;for(var _0x515fe3=arguments[_0x4390ab(0x11d)],_0x3552e0=new Array(_0x515fe3),_0x273f4e=0x0;_0x273f4e<_0x515fe3;_0x273f4e++){_0x3552e0[_0x273f4e]=arguments[_0x273f4e];}var _0x54078c=document[_0x4390ab(0x143)](_0x3552e0[0x0]);(_0x3552e0[0x1]!=null||_0x3552e0[0x1]!=undefined)&&_0x54078c['setAttribute']('id',_0x3552e0[0x1]);(_0x3552e0[0x2]!=null||_0x3552e0[0x2]!=undefined)&&_0x3552e0[0x2]['map'](function(_0x1ecbc4){var _0x385f1a=_0x4390ab;_0x54078c[_0x385f1a(0x148)][_0x385f1a(0x163)](_0x1ecbc4);});if(_0x3552e0[0x3]!=null||_0x3552e0[0x3]!=undefined){var _0x4e56c1=document[_0x4390ab(0x133)](_0x3552e0[0x3]);_0x54078c['appendChild'](_0x4e56c1);}return(_0x3552e0[0x4]!=null||_0x3552e0[0x4]!=undefined)&&_0x54078c[_0x4390ab(0x13f)](_0x4390ab(0x12b),_0x3552e0[0x4]),(_0x3552e0[0x5]!=null||_0x3552e0[0x5]!=undefined)&&_0x54078c[_0x4390ab(0x13f)](_0x4390ab(0x13e),'autofocus'),(_0x3552e0[0x6]!=null||_0x3552e0[0x6]!=undefined)&&_0x54078c['setAttribute'](_0x4390ab(0x160),_0x3552e0[0x6]),(_0x3552e0[0x7]!=null||_0x3552e0[0x7]!=undefined)&&_0x54078c[_0x4390ab(0x13f)](_0x4390ab(0x122),_0x3552e0[0x7]),(_0x3552e0[0x8]!=null||_0x3552e0[0x8]!=undefined)&&_0x54078c[_0x4390ab(0x13f)]('contenteditable',_0x3552e0[0x8]),(_0x3552e0[0x9]!=null||_0x3552e0[0x9]!=undefined)&&_0x54078c[_0x4390ab(0x13f)]('spellcheck',_0x3552e0[0x9]),(_0x3552e0[0xa]!=null||_0x3552e0[0xa]!=undefined)&&_0x54078c[_0x4390ab(0x13f)](_0x4390ab(0x132),_0x3552e0[0xa]),(_0x3552e0[0xb]!=null||_0x3552e0[0xb]!=undefined)&&_0x54078c[_0x4390ab(0x13f)](_0x4390ab(0x15b),_0x3552e0[0xb]),_0x54078c;}function _0xa28386(){var _0x409799=a4_0x53c2;for(var _0xfa1946=arguments[_0x409799(0x11d)],_0x482c3b=new Array(_0xfa1946),_0xab2b04=0x0;_0xab2b04<_0xfa1946;_0xab2b04++){_0x482c3b[_0xab2b04]=arguments[_0xab2b04];}var _0x1b1614=document['createElement'](_0x482c3b[0x0]);(_0x482c3b[0x1]!=null||_0x482c3b[0x1]!=undefined)&&_0x1b1614['setAttribute']('id',_0x482c3b[0x1]);(_0x482c3b[0x2]!=null||_0x482c3b[0x2]!=undefined)&&_0x482c3b[0x2][_0x409799(0x11f)](function(_0x4611bb){var _0x2cea45=_0x409799;_0x1b1614[_0x2cea45(0x148)][_0x2cea45(0x163)](_0x4611bb);});if(_0x482c3b[0x3]!=null||_0x482c3b[0x3]!=undefined){var _0x5a4377=document['createTextNode'](_0x482c3b[0x3]);_0x1b1614[_0x409799(0x129)](_0x5a4377);}return(_0x482c3b[0x4]!=null||_0x482c3b[0x4]!=undefined)&&_0x1b1614[_0x409799(0x13f)](_0x409799(0x12f),_0x482c3b[0x4]),(_0x482c3b[0x5]!=null||_0x482c3b[0x5]!=undefined)&&_0x1b1614['setAttribute'](_0x409799(0x12a),_0x482c3b[0x5]),(_0x482c3b[0x6]!=null||_0x482c3b[0x6]!=undefined)&&_0x1b1614[_0x409799(0x13f)](_0x409799(0x146),_0x482c3b[0x6]),(_0x482c3b[0x7]!=null||_0x482c3b[0x7]!=undefined)&&_0x1b1614[_0x409799(0x13f)](_0x409799(0x11b),_0x482c3b[0x7]),(_0x482c3b[0x8]!=null||_0x482c3b[0x8]!=undefined)&&_0x1b1614[_0x409799(0x13f)](_0x409799(0x14d),_0x482c3b[0x8]),(_0x482c3b[0x9]!=null||_0x482c3b[0x9]!=undefined)&&_0x1b1614['setAttribute'](_0x409799(0x164),_0x482c3b[0x9]),_0x1b1614;}function _0x144643(){var _0x1f1423=a4_0x53c2,_0x3b19ab=document[_0x1f1423(0x143)]('INPUT');for(var _0x58c097=arguments['length'],_0x484832=new Array(_0x58c097),_0x2437c4=0x0;_0x2437c4<_0x58c097;_0x2437c4++){_0x484832[_0x2437c4]=arguments[_0x2437c4];}return _0x3b19ab[_0x1f1423(0x13f)]('type',_0x484832[0x0]),(_0x484832[0x1]!=null||_0x484832[0x1]!=undefined)&&_0x3b19ab[_0x1f1423(0x13f)]('id',_0x484832[0x1]),(_0x484832[0x2]!=null||_0x484832[0x2]!=undefined)&&_0x484832[0x2][_0x1f1423(0x11f)](function(_0x1b95d5){var _0x589c74=_0x1f1423;_0x3b19ab[_0x589c74(0x148)][_0x589c74(0x163)](_0x1b95d5);}),(_0x484832[0x3]!=null||_0x484832[0x3]!=undefined)&&_0x3b19ab['setAttribute'](_0x1f1423(0x12b),_0x484832[0x3]),(_0x484832[0x4]!=null||_0x484832[0x4]!=undefined)&&_0x3b19ab[_0x1f1423(0x13f)](_0x1f1423(0x128),_0x484832[0x4]),(_0x484832[0x5]!=null||_0x484832[0x5]!=undefined)&&_0x3b19ab[_0x1f1423(0x13f)](_0x1f1423(0x125),_0x484832[0x5]),(_0x484832[0x6]!=null||_0x484832[0x6]!=undefined)&&_0x3b19ab[_0x1f1423(0x13f)](_0x1f1423(0x127),_0x484832[0x6]),_0x484832[0x7]!=null||_0x484832[0x7]!=undefined?_0x3b19ab[_0x1f1423(0x13f)](_0x1f1423(0x15d),_0x484832[0x7]):_0x3b19ab[_0x1f1423(0x13f)](_0x1f1423(0x15d),_0x1f1423(0x139)),_0x3b19ab;}function _0x30b24f(){var _0x41f867=a4_0x53c2,_0x7b0adc=document['createElement']('OPTION'),_0xcd30e8;return((arguments[_0x41f867(0x11d)]<=0x0?undefined:arguments[0x0])!=null||(arguments[_0x41f867(0x11d)]<=0x0?undefined:arguments[0x0])!=undefined)&&_0x7b0adc[_0x41f867(0x13f)](_0x41f867(0x12b),arguments[_0x41f867(0x11d)]<=0x0?undefined:arguments[0x0]),(arguments[_0x41f867(0x11d)]<=0x1?undefined:arguments[0x1])!=null||(arguments[_0x41f867(0x11d)]<=0x1?undefined:arguments[0x1])!=undefined?_0xcd30e8=document[_0x41f867(0x133)](arguments[_0x41f867(0x11d)]<=0x1?undefined:arguments[0x1]):_0xcd30e8=document[_0x41f867(0x133)](arguments[_0x41f867(0x11d)]<=0x0?undefined:arguments[0x0]),((arguments[_0x41f867(0x11d)]<=0x2?undefined:arguments[0x2])!=null||(arguments[_0x41f867(0x11d)]<=0x2?undefined:arguments[0x2])!=undefined)&&(_0x7b0adc[_0x41f867(0x13f)](_0x41f867(0x147),arguments[_0x41f867(0x11d)]<=0x2?undefined:arguments[0x2]),(arguments[_0x41f867(0x11d)]<=0x0?undefined:arguments[0x0])==null&&(arguments[_0x41f867(0x11d)]<=0x1?undefined:arguments[0x1])==null&&(_0xcd30e8=document[_0x41f867(0x133)](arguments['length']<=0x2?undefined:arguments[0x2]))),((arguments[_0x41f867(0x11d)]<=0x3?undefined:arguments[0x3])!=null||(arguments['length']<=0x3?undefined:arguments[0x3])!=undefined)&&_0x7b0adc[_0x41f867(0x13f)](_0x41f867(0x126),arguments['length']<=0x3?undefined:arguments[0x3]),_0x7b0adc[_0x41f867(0x129)](_0xcd30e8),_0x7b0adc;}function _0x1a83b4(){var _0x240416=a4_0x53c2,_0x38282f=document[_0x240416(0x143)](_0x240416(0x14e));return _0x38282f[_0x240416(0x13f)](_0x240416(0x123),arguments[_0x240416(0x11d)]<=0x0?undefined:arguments[0x0]),_0x38282f[_0x240416(0x129)](document['createTextNode'](arguments['length']<=0x1?undefined:arguments[0x1])),_0x38282f;};var _0x5c388d=_0x40a20e(0x130),_0x466911=_0x5c388d['nombreServiceWorker'],_0x3559f2=![],_0x35c331,_0x49ce3f=''[_0x2fd45c(0x162)](_0x466911,_0x2fd45c(0x124));console[_0x2fd45c(0x121)](_0x466911),console['log']('El\x20nuevo\x20service\x20worker\x20es:\x20'[_0x2fd45c(0x162)](_0x49ce3f));if(_0x2fd45c(0x15a)in navigator){var _0x15bacf=undefined;navigator[_0x2fd45c(0x15a)][_0x2fd45c(0x155)]()[_0x2fd45c(0x14f)](function(_0x521b42){var _0xf02ecf=_0x2fd45c;try{_0x15bacf=_0x521b42['active']['scriptURL'],_0x35c331=_0x15bacf[_0xf02ecf(0x15e)]('/')[_0xf02ecf(0x152)]();}catch(_0x2a49be){_0x15bacf=undefined;}if(_0x35c331==_0x49ce3f||_0x15bacf==undefined)console[_0xf02ecf(0x121)](_0xf02ecf(0x166)),window[_0xf02ecf(0x120)](_0xf02ecf(0x135),function(){var _0x453b52=_0xf02ecf;_0x3559f2=!![],navigator[_0x453b52(0x15a)][_0x453b52(0x136)](''['concat'](_0x466911,'.js'))[_0x453b52(0x14f)](function(_0x2605a4){var _0x4f80c0=_0x453b52;console[_0x4f80c0(0x121)](_0x4f80c0(0x165),_0x2605a4[_0x4f80c0(0x138)]);})[_0x453b52(0x137)](function(_0x508d69){var _0x1a9c88=_0x453b52;console[_0x1a9c88(0x121)]('ServiceWorker\x20registration\x20failed:\x20',_0x508d69);});});else(_0x35c331!=_0x49ce3f||_0x15bacf!=undefined)&&console[_0xf02ecf(0x121)](_0xf02ecf(0x13d));_0x293918(_0x49ce3f,_0x35c331);});}function _0x293918(_0x2eafaa,_0x239b8f){var _0x16ee43=_0x2fd45c;_0x239b8f?(console['log'](_0x16ee43(0x11c)[_0x16ee43(0x162)](_0x239b8f)),!_0x3559f2&&_0x239b8f!==_0x2eafaa&&(console[_0x16ee43(0x121)](_0x16ee43(0x141)),_0x49330f()),console[_0x16ee43(0x121)](_0x16ee43(0x13b),_0x239b8f)):console['log'](_0x16ee43(0x158));}function _0x49330f(){var _0x3343af=_0x2fd45c,_0x2249b9='2%',_0x100b63=_0x3343af(0x11e),_0x3933dc=document[_0x3343af(0x14b)]('encabezado');_0x3933dc&&(_0x2249b9=_0x3933dc['getBoundingClientRect']()[_0x3343af(0x14c)],_0x100b63=_0x3343af(0x154)[_0x3343af(0x162)](_0x2249b9,_0x3343af(0x15c)));var _0x53a65c=_0x4b175('DIV',_0x3343af(0x153),['mensaje-actualizacion']);_0x53a65c[_0x3343af(0x151)][_0x3343af(0x161)]=''[_0x3343af(0x162)](_0x2249b9,'px'),_0x53a65c[_0x3343af(0x151)][_0x3343af(0x14c)]=_0x100b63,_0x53a65c[_0x3343af(0x157)]=_0x3343af(0x13a),document[_0x3343af(0x130)][_0x3343af(0x129)](_0x53a65c);}})());})()));function a4_0x53c2(_0x599f86,_0x176e43){var _0x1eb808=a4_0x1eb8();return a4_0x53c2=function(_0x53c292,_0x2b4862){_0x53c292=_0x53c292-0x11b;var _0x1758f1=_0x1eb808[_0x53c292];return _0x1758f1;},a4_0x53c2(_0x599f86,_0x176e43);}function a4_0x1eb8(){var _0x2985f4=['label','classList','987224gANikx','exports','getElementById','height','data-ordinal_revisor','LABEL','then','9acxEKg','style','pop','MensajeContenedor','calc(100%\x20-\x20','getRegistration','481574pcfStj','innerHTML','No\x20Service\x20Worker\x20registered.','8goXeJk','serviceWorker','title','px)','autocomplete','split','2025-01-17-1107','xlink:href','top','concat','add','data-ordinal_idioma','ServiceWorker\x20registration\x20successful\x20with\x20scope:\x20','Se\x20puede\x20instalar','data-item','El\x20actual\x20service\x20worker\x20es:\x20','length','98%','map','addEventListener','log','src','for','.js','maxlength','selected','placeholder','readonly','appendChild','data-clase','value','70254vSCzIO','3573550jOriUR','KIUX_cache_','data-orden','body','328614GuXlYI','data-value','createTextNode','service-Worker-','load','register','catch','scope','off','<div\x20id=\x22contenidoMensajeActualizacion\x22\x20class=\x22contenido-Mensaje-Actualizacion\x22>\x0a\x20\x20\x20\x20<div\x20class=\x22mensaje\x22>\x0a\x20\x20\x20\x20\x20\x20Tu\x20versión\x20de\x20<strong>KIUX</strong>\x20debe\x20ser\x20actualizada.\x20Selecciona\x20la\x20opción\x0a\x20\x20\x20\x20\x20\x20<span>Actualizar</span>\x20del\x20menú\x20principal\x20y\x20espera\x20unos\x0a\x20\x20\x20\x20\x20\x20segundos.\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<div\x20id=\x22videoMensajeActualizacion\x22\x20class=\x22video-mensaje-actualizacion\x22>\x0a\x20\x20\x20\x20\x20\x20<img\x20src=\x22https://kiux.app/archivos/actualizar-kiux.gif\x22\x20alt=\x22GIF\x20actualización\x22/>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20</div>','Service\x20Worker\x20script:','21OmfZCs','No\x20se\x20debe\x20instalar','autofocus','setAttribute','12cFBsoi','Por\x20Favor\x20presiona\x20la\x20opción\x20de\x20actualizar','5774934oQBaTi','createElement','1DBooYC','123160BmlrQr','data-codigo'];a4_0x1eb8=function(){return _0x2985f4;};return a4_0x1eb8();}
+/******/ (() => { // webpackBootstrap
+/******/ 	var __webpack_modules__ = ({
+
+/***/ 304:
+/***/ ((module) => {
+
+var fecha_Hora = "2025-01-17-1114";
+var nombreCache = "KIUX_cache_".concat(fecha_Hora);
+var nombreServiceWorker = "service-Worker-".concat(fecha_Hora);
+module.exports = {
+  nombreServiceWorker: nombreServiceWorker,
+  nombreCache: nombreCache
+};
+
+/***/ })
+
+/******/ 	});
+/************************************************************************/
+/******/ 	// The module cache
+/******/ 	var __webpack_module_cache__ = {};
+/******/ 	
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/ 		// Check if module is in cache
+/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
+/******/ 		if (cachedModule !== undefined) {
+/******/ 			return cachedModule.exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = __webpack_module_cache__[moduleId] = {
+/******/ 			// no module.id needed
+/******/ 			// no module.loaded needed
+/******/ 			exports: {}
+/******/ 		};
+/******/ 	
+/******/ 		// Execute the module function
+/******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/ 	
+/************************************************************************/
+var __webpack_exports__ = {};
+// This entry need to be wrapped in an IIFE because it need to be in strict mode.
+(() => {
+"use strict";
+
+;// CONCATENATED MODULE: ./src/js/elements/htmlElements.js
+function CreateElement() {
+  for (var _len = arguments.length, arrayArguments = new Array(_len), _key = 0; _key < _len; _key++) {
+    arrayArguments[_key] = arguments[_key];
+  }
+  // document.createElement - crea un elemento nodo tipo HTML
+  var elementNode = document.createElement(arrayArguments[0]);
+  if (arrayArguments[1] != null || arrayArguments[1] != undefined) {
+    // setAttribute - Agrega el atributo especificado
+    elementNode.setAttribute('id', arrayArguments[1]);
+    // if (arrayArguments[1] == arrayArguments[1].toLowerCase())
+    //   console.log('Minúsculas = ', arrayArguments[1]);
+    // else
+    //   console.log('NO Minúsculas = ', arrayArguments[1]);
+  }
+  if (arrayArguments[2] != null || arrayArguments[2] != undefined) {
+    // el metodo .map() itera sobre un array pasando un callback sobre cada elemento
+    arrayArguments[2].map(function (valor) {
+      // El metodo classList.add() agrega una clase a un nodo te tipo HTML
+      elementNode.classList.add(valor);
+    });
+  }
+  if (arrayArguments[3] != null || arrayArguments[3] != undefined) {
+    // document.createTextNode - crea un elemento nodo tipo Texto
+    var textNode = document.createTextNode(arrayArguments[3]);
+    // El metodo .appendChild(); inserta un nodo al elemento especificado
+    elementNode.appendChild(textNode);
+  }
+  if (arrayArguments[4] != null || arrayArguments[4] != undefined) {
+    // setAttribute - Agrega el atributo especificado
+    elementNode.setAttribute('value', arrayArguments[4]);
+  }
+  if (arrayArguments[5] != null || arrayArguments[5] != undefined) {
+    // setAttribute - Agrega el atributo especificado
+    elementNode.setAttribute('autofocus', 'autofocus');
+  }
+  if (arrayArguments[6] != null || arrayArguments[6] != undefined) {
+    // setAttribute - Agrega el atributo especificado
+    elementNode.setAttribute('xlink:href', arrayArguments[6]);
+  }
+  if (arrayArguments[7] != null || arrayArguments[7] != undefined) {
+    // setAttribute - Agrega el atributo especificado
+    elementNode.setAttribute('src', arrayArguments[7]);
+  }
+  if (arrayArguments[8] != null || arrayArguments[8] != undefined) {
+    // setAttribute - Agrega el atributo especificado
+    // Boolean
+    elementNode.setAttribute('contenteditable', arrayArguments[8]);
+  }
+  if (arrayArguments[9] != null || arrayArguments[9] != undefined) {
+    // setAttribute - Agrega el atributo especificado
+    // Boolean
+    elementNode.setAttribute('spellcheck', arrayArguments[9]);
+  }
+  if (arrayArguments[10] != null || arrayArguments[10] != undefined) {
+    // setAttribute - Agrega el atributo especificado
+    // data-value="[valor]"
+    elementNode.setAttribute('data-value', arrayArguments[10]);
+  }
+  if (arrayArguments[11] != null || arrayArguments[11] != undefined) {
+    elementNode.setAttribute('title', arrayArguments[11]);
+  }
+  // returnando el valor final del elemento creado
+  return elementNode;
+  // CreateElement(nodeElement, id, ['className' ...], nodeText).
+  /**
+   * nodeElement --> Elemento de HTML a crear ('div', 'p').
+   * nodeText --> Texto a insertar.
+   * id --> id del elemento
+   * Opcional
+   * Array de string con nombres de clases
+   */
+}
+function Selector() {
+  for (var _len2 = arguments.length, arrayArguments = new Array(_len2), _key2 = 0; _key2 < _len2; _key2++) {
+    arrayArguments[_key2] = arguments[_key2];
+  }
+  // Type nodeElement
+  var elementNode = document.createElement(arrayArguments[0]);
+  // ID
+  if (arrayArguments[1] != null || arrayArguments[1] != undefined) {
+    elementNode.setAttribute('id', arrayArguments[1]);
+    // if (arrayArguments[1] == arrayArguments[1].toLowerCase())
+    //   console.log('Minúsculas = ', arrayArguments[1]);
+    // else
+    //   console.log('NO Minúsculas = ', arrayArguments[1]);
+  }
+  // Class
+  if (arrayArguments[2] != null || arrayArguments[2] != undefined) {
+    arrayArguments[2].map(function (valor) {
+      elementNode.classList.add(valor);
+    });
+  }
+  // Type nodeText
+  if (arrayArguments[3] != null || arrayArguments[3] != undefined) {
+    var textNode = document.createTextNode(arrayArguments[3]);
+    elementNode.appendChild(textNode);
+  }
+  // Attribute data-[valor]
+  if (arrayArguments[4] != null || arrayArguments[4] != undefined) {
+    elementNode.setAttribute('data-orden', arrayArguments[4]);
+  }
+  if (arrayArguments[5] != null || arrayArguments[5] != undefined) {
+    elementNode.setAttribute('data-clase', arrayArguments[5]);
+  }
+  if (arrayArguments[6] != null || arrayArguments[6] != undefined) {
+    elementNode.setAttribute('data-codigo', arrayArguments[6]);
+  }
+  if (arrayArguments[7] != null || arrayArguments[7] != undefined) {
+    elementNode.setAttribute('data-item', arrayArguments[7]);
+  }
+  if (arrayArguments[8] != null || arrayArguments[8] != undefined) {
+    elementNode.setAttribute('data-ordinal_revisor', arrayArguments[8]);
+  }
+  if (arrayArguments[9] != null || arrayArguments[9] != undefined) {
+    elementNode.setAttribute('data-ordinal_idioma', arrayArguments[9]);
+  }
+  return elementNode;
+}
+function inputElement() {
+  var inputElement = document.createElement('INPUT');
+  // Tipo del input
+  for (var _len3 = arguments.length, arrayArguments = new Array(_len3), _key3 = 0; _key3 < _len3; _key3++) {
+    arrayArguments[_key3] = arguments[_key3];
+  }
+  inputElement.setAttribute('type', arrayArguments[0]);
+  // Id del elemento
+  if (arrayArguments[1] != null || arrayArguments[1] != undefined) {
+    inputElement.setAttribute('id', arrayArguments[1]);
+    // if (arrayArguments[1] == arrayArguments[1].toLowerCase())
+    //   console.log('Minúsculas = ', arrayArguments[1]);
+    // else
+    //   console.log('NO Minúsculas = ', arrayArguments[1]);
+  }
+  // Class del elemento
+  if (arrayArguments[2] != null || arrayArguments[2] != undefined) {
+    arrayArguments[2].map(function (valor) {
+      inputElement.classList.add(valor);
+    });
+  }
+  // Valor del elemento
+  if (arrayArguments[3] != null || arrayArguments[3] != undefined) {
+    inputElement.setAttribute('value', arrayArguments[3]);
+  }
+  if (arrayArguments[4] != null || arrayArguments[4] != undefined) {
+    inputElement.setAttribute('readonly', arrayArguments[4]);
+  }
+  if (arrayArguments[5] != null || arrayArguments[5] != undefined) {
+    inputElement.setAttribute('maxlength', arrayArguments[5]);
+  }
+  // Placeholder
+  if (arrayArguments[6] != null || arrayArguments[6] != undefined) {
+    inputElement.setAttribute('placeholder', arrayArguments[6]);
+  }
+  // Placeholder
+  if (arrayArguments[7] != null || arrayArguments[7] != undefined) {
+    inputElement.setAttribute('autocomplete', arrayArguments[7]);
+  } else {
+    // autocomplete="off" deshabilita el autocompletado.
+    inputElement.setAttribute('autocomplete', 'off');
+  }
+  return inputElement;
+}
+function optionElement() {
+  // document.createElement('HTMLElementOption') - crea un elemento de html <option>;
+  var optionElement = document.createElement('OPTION');
+  // variable textValue que sera utilizada mas adelante
+  var textValue;
+  // Condicional Sí arrayArguments[0] != null ó arrayArguments[0] != undefined se
+  // agregara un atributo tipo value al elemento html creado anteriormente
+  if ((arguments.length <= 0 ? undefined : arguments[0]) != null || (arguments.length <= 0 ? undefined : arguments[0]) != undefined) {
+    optionElement.setAttribute('value', arguments.length <= 0 ? undefined : arguments[0]);
+  }
+  // Sí arrayArguments[1] != null ó arrayArguments[1] != undefined
+  // sera asignado el valor de acuerdo si se cumple la condicion a la variable textValue
+  if ((arguments.length <= 1 ? undefined : arguments[1]) != null || (arguments.length <= 1 ? undefined : arguments[1]) != undefined) {
+    // document.createTextNode(texto); creara un texNode que sera el valor asignado a la variable textValue
+    textValue = document.createTextNode(arguments.length <= 1 ? undefined : arguments[1]);
+  } else {
+    // si el valor es igual a null o undefined la varible tendra como lo que este en arrayArguments[0]
+    textValue = document.createTextNode(arguments.length <= 0 ? undefined : arguments[0]);
+  }
+  // Sí arrayArguments[2] != null ó arrayArguments[2] != undefined agregara un atributo de tipo label
+  if ((arguments.length <= 2 ? undefined : arguments[2]) != null || (arguments.length <= 2 ? undefined : arguments[2]) != undefined) {
+    optionElement.setAttribute('label', arguments.length <= 2 ? undefined : arguments[2]);
+    // Sí arrayArguments[0] == null y arrayArguments[1] == null estan sin contenido es decir null o undefined
+    // la variable textValue tendra el valor que este en arrayArguments[2]
+    if ((arguments.length <= 0 ? undefined : arguments[0]) == null && (arguments.length <= 1 ? undefined : arguments[1]) == null) {
+      textValue = document.createTextNode(arguments.length <= 2 ? undefined : arguments[2]);
+    }
+  }
+  if ((arguments.length <= 3 ? undefined : arguments[3]) != null || (arguments.length <= 3 ? undefined : arguments[3]) != undefined) {
+    optionElement.setAttribute('selected', arguments.length <= 3 ? undefined : arguments[3]);
+  }
+  // agrega el valor final de textValue y lo inserta como textNode al elemento html <option>
+  optionElement.appendChild(textValue);
+  // returna el elemento HTML creado.
+  return optionElement;
+  // optionElement(value, textNode, [... label]).
+  /**
+   * value --> string - atributo value
+   * textNode --> string - texto a insertar dentro del elemento creado
+   * label --> string (opcional) atributo label
+   */
+}
+function labelElement() {
+  var labelElement = document.createElement('LABEL');
+  labelElement.setAttribute('for', arguments.length <= 0 ? undefined : arguments[0]);
+  labelElement.appendChild(document.createTextNode(arguments.length <= 1 ? undefined : arguments[1]));
+  return labelElement;
+}
+;// CONCATENATED MODULE: ./public/registerSW.js
+
+var _require = __webpack_require__(304),
+  nombreServiceWorker = _require.nombreServiceWorker;
+
+/** Para que exista la forma de comprobar si existe una nueva actualización se utiliza el nombre del service worker
+ * para indicar cambios en el codigo, para esto se modifica la variable "nombreServiceWorker" en el directorio "public/js/constantes.js"
+ * indicando el nombre del service worker seguido de la fecha en formato 'yyyy-MM-dd' seguido de la hora separada por "-",
+ * por ejemplo: 'service-Worker_2024-04-25_14-29'. Esto permite que el archivo "registerSW.js", que no se guarda en cache,
+ * haga la comprobación y muestre el mensaje de ser necesario.
+ */
+var ServiceWorkerInstalandose = false;
+var NombreArchivoActual;
+var ServiceWorkerEntrante = "".concat(nombreServiceWorker, ".js");
+console.log(nombreServiceWorker);
+console.log("El nuevo service worker es: ".concat(ServiceWorkerEntrante));
+if ('serviceWorker' in navigator) {
+  var urlActual = undefined;
+  navigator.serviceWorker.getRegistration().then(function (registration) {
+    try {
+      urlActual = registration.active.scriptURL;
+      NombreArchivoActual = urlActual.split('/').pop();
+    } catch (_unused) {
+      urlActual = undefined;
+    }
+    if (NombreArchivoActual == ServiceWorkerEntrante || urlActual == undefined) {
+      console.log('Se puede instalar');
+      window.addEventListener('load', function () {
+        ServiceWorkerInstalandose = true;
+        navigator.serviceWorker.register("".concat(nombreServiceWorker, ".js")).then(function (register) {
+          console.log('ServiceWorker registration successful with scope: ', register.scope);
+        })["catch"](function (error) {
+          console.log('ServiceWorker registration failed: ', error);
+        });
+      });
+    } else if (NombreArchivoActual != ServiceWorkerEntrante || urlActual != undefined) {
+      console.log("No se debe instalar");
+    }
+    ValidarVersionAplicacion(ServiceWorkerEntrante, NombreArchivoActual);
+  });
+}
+function ValidarVersionAplicacion(ServiceWorkerIn, FileNameActual) {
+  if (FileNameActual) {
+    console.log("El actual service worker es: ".concat(FileNameActual));
+    if (!ServiceWorkerInstalandose && FileNameActual !== ServiceWorkerIn) {
+      console.log('Por Favor presiona la opción de actualizar');
+      MostrarMensajeActulizarAplicacion();
+    }
+    console.log('Service Worker script:', FileNameActual);
+  } else {
+    console.log('No Service Worker registered.');
+  }
+}
+function MostrarMensajeActulizarAplicacion() {
+  var techo = '2%';
+  var altura = '98%';
+  var header = document.getElementById('encabezado');
+  if (header) {
+    techo = header.getBoundingClientRect().height;
+    altura = "calc(100% - ".concat(techo, "px)");
+  }
+
+  //NOTE: Para versiones futuras se recomienda eliminar los estilos en linea debido a que no seran necesarios.
+
+  var ventanaActualizacion = CreateElement('DIV', 'MensajeContenedor', ['mensaje-actualizacion']);
+  ventanaActualizacion.style.top = "".concat(techo, "px");
+  ventanaActualizacion.style.height = altura;
+  ventanaActualizacion.innerHTML = "<div id=\"contenidoMensajeActualizacion\" class=\"contenido-Mensaje-Actualizacion\">\n    <div class=\"mensaje\">\n      Tu versi\xF3n de <strong>KIUX</strong> debe ser actualizada. Selecciona la opci\xF3n\n      <span>Actualizar</span> del men\xFA principal y espera unos\n      segundos.\n    </div>\n    <div id=\"videoMensajeActualizacion\" class=\"video-mensaje-actualizacion\">\n      <img src=\"https://kiux.app/archivos/actualizar-kiux.gif\" alt=\"GIF actualizaci\xF3n\"/>\n    </div>\n  </div>";
+  document.body.appendChild(ventanaActualizacion);
+}
+})();
+
+/******/ })()
+;

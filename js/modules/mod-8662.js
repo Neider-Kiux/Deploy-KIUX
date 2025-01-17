@@ -1,1 +1,31 @@
-'use strict';(function(_0x18156a,_0x270529){var _0xf123c9=a43_0x3dc3,_0x32c95e=_0x18156a();while(!![]){try{var _0x11be72=-parseInt(_0xf123c9(0x108))/0x1*(-parseInt(_0xf123c9(0x10a))/0x2)+parseInt(_0xf123c9(0x10d))/0x3*(-parseInt(_0xf123c9(0x100))/0x4)+parseInt(_0xf123c9(0x10e))/0x5+-parseInt(_0xf123c9(0x10f))/0x6+-parseInt(_0xf123c9(0x113))/0x7*(-parseInt(_0xf123c9(0x101))/0x8)+parseInt(_0xf123c9(0x106))/0x9*(parseInt(_0xf123c9(0x117))/0xa)+-parseInt(_0xf123c9(0x118))/0xb;if(_0x11be72===_0x270529)break;else _0x32c95e['push'](_0x32c95e['shift']());}catch(_0x189d19){_0x32c95e['push'](_0x32c95e['shift']());}}}(a43_0x3bda,0x2d583));function a43_0x3dc3(_0x47fc5a,_0x414bae){var _0x3bda70=a43_0x3bda();return a43_0x3dc3=function(_0x3dc3a2,_0x2586d6){_0x3dc3a2=_0x3dc3a2-0xfe;var _0xab8271=_0x3bda70[_0x3dc3a2];return _0xab8271;},a43_0x3dc3(_0x47fc5a,_0x414bae);}function a43_0x3bda(){var _0x33b400=['251190EMpYEl','2878194eHfVBv','catch','error','12kcTUSI','1984YPCSom','clear','collection','then','CollectionTokenID','9xPZLuN','Error\x20removing\x20document:\x20','13246txaSJQ','delete','16egWURF','login.html','deleteToken','92733TGkJuf','1137700OuwuDn','468990qtDziW','href','getItem','Tokens','7329EQGUCJ','Document\x20successfully\x20deleted!','TokenNotificacionesPush','log'];a43_0x3bda=function(){return _0x33b400;};return a43_0x3bda();}(self['webpackChunkkiux']=self['webpackChunkkiux']||[])['push']([[0x21d6],{0x21d6:(_0x4dc65a,_0x222bef,_0x2e4729)=>{_0x2e4729['r'](_0x222bef),_0x2e4729['d'](_0x222bef,{'CerrarSesion':()=>_0x55f123});function _0x55f123(_0xf124a1,_0x43ca50){var _0x4fbb9d=a43_0x3dc3;localStorage['getItem']('CollectionTokenID')?_0xf124a1[_0x4fbb9d(0x103)](_0x4fbb9d(0x112))['doc'](localStorage[_0x4fbb9d(0x111)](_0x4fbb9d(0x105)))[_0x4fbb9d(0x109)]()[_0x4fbb9d(0x104)](function(){var _0x2dc33b=_0x4fbb9d;console[_0x2dc33b(0x116)](_0x2dc33b(0x114)),console['log'](localStorage[_0x2dc33b(0x111)](_0x2dc33b(0x115))),_0x43ca50[_0x2dc33b(0x10c)](localStorage[_0x2dc33b(0x111)](_0x2dc33b(0x115)))['then'](function(_0x50052a){var _0x1ee4da=_0x2dc33b;localStorage[_0x1ee4da(0x102)](),location[_0x1ee4da(0x110)]=_0x1ee4da(0x10b);});})[_0x4fbb9d(0xfe)](function(_0x2a3925){var _0x37801b=_0x4fbb9d;console[_0x37801b(0xff)](_0x37801b(0x107),_0x2a3925);}):(localStorage[_0x4fbb9d(0x102)](),location[_0x4fbb9d(0x110)]=_0x4fbb9d(0x10b));}}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[8662],{
+
+/***/ 8662:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CerrarSesion: () => (/* binding */ CerrarSesion)
+/* harmony export */ });
+function CerrarSesion(db, messaging) {
+  if (localStorage.getItem('CollectionTokenID')) {
+    db.collection('Tokens').doc(localStorage.getItem('CollectionTokenID'))["delete"]().then(function () {
+      console.log('Document successfully deleted!');
+      console.log(localStorage.getItem('TokenNotificacionesPush'));
+      messaging.deleteToken(localStorage.getItem('TokenNotificacionesPush')).then(function (result) {
+        localStorage.clear();
+        location.href = 'login.html';
+      });
+    })["catch"](function (error) {
+      console.error('Error removing document: ', error);
+    });
+  } else {
+    localStorage.clear();
+    location.href = 'login.html';
+  }
+}
+
+/***/ })
+
+}]);

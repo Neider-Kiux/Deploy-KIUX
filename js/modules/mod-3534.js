@@ -1,1 +1,183 @@
-'use strict';var a52_0x3c730=a52_0x2e31;(function(_0x4870ef,_0x342ccb){var _0x15c949=a52_0x2e31,_0x904e8=_0x4870ef();while(!![]){try{var _0x2246e4=-parseInt(_0x15c949(0x13e))/0x1+-parseInt(_0x15c949(0x16e))/0x2*(-parseInt(_0x15c949(0x14a))/0x3)+parseInt(_0x15c949(0x157))/0x4+parseInt(_0x15c949(0x14b))/0x5*(parseInt(_0x15c949(0x13c))/0x6)+-parseInt(_0x15c949(0x16d))/0x7*(-parseInt(_0x15c949(0x15c))/0x8)+-parseInt(_0x15c949(0x144))/0x9*(parseInt(_0x15c949(0x13a))/0xa)+-parseInt(_0x15c949(0x151))/0xb;if(_0x2246e4===_0x342ccb)break;else _0x904e8['push'](_0x904e8['shift']());}catch(_0xdb80e6){_0x904e8['push'](_0x904e8['shift']());}}}(a52_0x1292,0x1c0a3));function a52_0x2e31(_0x40893f,_0x519022){var _0x1292d6=a52_0x1292();return a52_0x2e31=function(_0x2e31aa,_0x4d49f3){_0x2e31aa=_0x2e31aa-0x139;var _0x1d2152=_0x1292d6[_0x2e31aa];return _0x1d2152;},a52_0x2e31(_0x40893f,_0x519022);}function a52_0x1292(){var _0x452fbb=['contains','removeAllRanges','push','add','addRange','ListaPalabras','matches','input','toLowerCase','1591646lQVPYC','3856TPKfAh','className','BuscarProyectosTexto','length','display','forEach','textContent','collapse','getSelection','grid','13340FYRZie','createElement','73122EhfmHX','dropdown-content','167395txEzAY','querySelectorAll','innerHTML','classList','insertAdjacentElement','slice','1116iNIwnn','mouseover','removeEventListener','filter','toLocaleLowerCase','startsWith','351xmXHrO','15vcJkaI','keydown','Enter','style','click','ArrowDown','1859891SJnjfU','appendChild','key','beforeend','createRange','div','508912BNCPpb','parentElement','preventDefault','none','seleccionado','8MlyhXb','focus','target','index','getElementById','remove','addEventListener','selectNodeContents'];a52_0x1292=function(){return _0x452fbb;};return a52_0x1292();}(self['webpackChunkkiux']=self['webpackChunkkiux']||[])[a52_0x3c730(0x166)]([[0xdce],{0xdce:(_0x41c89d,_0x2a202d,_0x4637ed)=>{var _0x3b6ad1=a52_0x3c730;_0x4637ed['r'](_0x2a202d),_0x4637ed['d'](_0x2a202d,{'eliminarDropDown':()=>_0x1d0827,'menuPredictor':()=>_0x3328f2});var _0x409a6d=_0x4637ed(0x1552),_0x4357cc='',_0x25cc76='',_0x3dd20e=JSON['parse'](localStorage['getItem'](_0x3b6ad1(0x169)));function _0x3328f2(_0x5d4138){var _0x9feb62=_0x3b6ad1;_0x4357cc=_0x5d4138;var _0x11f3d1=document[_0x9feb62(0x13b)](_0x9feb62(0x156));_0x11f3d1['className']=_0x9feb62(0x13d),_0x11f3d1['id']=_0x9feb62(0x13d);var _0xc1557c=document[_0x9feb62(0x160)](_0x5d4138);_0xc1557c[_0x9feb62(0x158)][_0x9feb62(0x142)](_0x9feb62(0x154),_0x11f3d1),_0xc1557c[_0x9feb62(0x162)](_0x9feb62(0x16b),_0x32c075),_0xc1557c[_0x9feb62(0x162)](_0x9feb62(0x14c),_0x2255fd);}function _0x32c075(_0x37048f){var _0x5942e3=_0x3b6ad1,_0x2cb8b9=0xf,_0x51b5ac=document['createElement']('div');_0x51b5ac[_0x5942e3(0x16f)]=_0x5942e3(0x13d),_0x51b5ac['id']=_0x5942e3(0x13d);var _0x22607e=_0x37048f['target'],_0x420eb6=this['innerHTML'][_0x5942e3(0x16c)](),_0x9bc47d=document[_0x5942e3(0x160)](_0x5942e3(0x13d)),_0x27ae41=_0x5e4386(_0x420eb6),_0x22fbeb=_0x3f4e30(_0x420eb6,_0x27ae41),_0x25c198=_0x22fbeb[0x1];_0x25cc76=_0x22fbeb[0x0],_0x9bc47d['innerHTML']='';if(_0x420eb6){var _0x470f67=[];_0x25c198!=''&&(_0x470f67=_0x3dd20e[_0x5942e3(0x147)](function(_0x42c83d){var _0x531ac8=_0x5942e3;return _0x42c83d['toLocaleLowerCase']()[_0x531ac8(0x149)](_0x25c198);}));var _0x283d4d=function _0x656297(){var _0x109ee8=_0x5942e3,_0x2ce7cd=_0x470f67[_0x198dfb];if(_0x2ce7cd){var _0x443c06=document[_0x109ee8(0x13b)](_0x109ee8(0x156));_0x443c06[_0x109ee8(0x174)]=_0x2ce7cd[_0x109ee8(0x148)](),_0x198dfb==0x0&&_0x443c06[_0x109ee8(0x141)][_0x109ee8(0x167)](_0x109ee8(0x15b)),_0x443c06[_0x109ee8(0x162)](_0x109ee8(0x14f),function(){var _0x337fe7=_0x109ee8;_0x22607e[_0x337fe7(0x140)]=_0x25cc76+_0x2ce7cd[_0x337fe7(0x148)](),_0x9bc47d[_0x337fe7(0x140)]='',_0x36f36d(document[_0x337fe7(0x160)]('BuscarProyectosTexto'));}),_0x443c06[_0x109ee8(0x162)](_0x109ee8(0x145),_0x565d91),_0x9bc47d[_0x109ee8(0x152)](_0x443c06);}};for(var _0x198dfb=0x0;_0x198dfb<_0x2cb8b9;_0x198dfb++){_0x283d4d();}_0x470f67[_0x5942e3(0x171)]>=0x1?_0x9bc47d[_0x5942e3(0x14e)][_0x5942e3(0x172)]=_0x5942e3(0x139):_0x9bc47d[_0x5942e3(0x14e)][_0x5942e3(0x172)]=_0x5942e3(0x15a);}else _0x9bc47d[_0x5942e3(0x14e)][_0x5942e3(0x172)]=_0x5942e3(0x15a);document[_0x5942e3(0x162)](_0x5942e3(0x14f),_0x454afb(_0x37048f));}function _0x3f4e30(_0x216acf,_0x26e0b9){var _0x1968f8=_0x3b6ad1,_0x5cd48b=['',''];return _0x5cd48b[0x0]=_0x216acf[_0x1968f8(0x143)](0x0,_0x26e0b9+0x1),_0x5cd48b[0x1]=_0x216acf[_0x1968f8(0x143)](_0x26e0b9+0x1,_0x216acf[_0x1968f8(0x171)]),_0x5cd48b;}function _0x5e4386(_0x384a38){var _0x5b9def=_0x3b6ad1,_0x5428ce=/[ -]/g,_0x296f9e=-0x1,_0x5a542c;while((_0x5a542c=_0x5428ce['exec'](_0x384a38))!==null){_0x296f9e=_0x5a542c[_0x5b9def(0x15f)];}return _0x296f9e;}function _0x454afb(_0x1f246c){var _0x39098f=_0x3b6ad1;!_0x1f246c[_0x39098f(0x15e)][_0x39098f(0x16a)]('#autocomplete-input')&&document[_0x39098f(0x160)]('dropdown-content')[_0x39098f(0x158)][_0x39098f(0x141)]['remove']('show');}function _0x2255fd(_0x27a368){var _0x4040c9=_0x3b6ad1,_0x2e9370='';document[_0x4040c9(0x160)](_0x4040c9(0x13d))&&(_0x2e9370=document['getElementById'](_0x4040c9(0x13d))[_0x4040c9(0x140)]);if((_0x27a368[_0x4040c9(0x153)]=='ArrowUp'||_0x27a368['key']=='ArrowDown'||_0x27a368[_0x4040c9(0x153)]==_0x4040c9(0x14d))&&_0x2e9370&&document[_0x4040c9(0x160)](_0x4040c9(0x13d))){_0x27a368[_0x4040c9(0x159)]();var _0x4a342e=(0x0,_0x409a6d['A'])(document[_0x4040c9(0x160)](_0x4040c9(0x13d))[_0x4040c9(0x13f)](_0x4040c9(0x156)));if(_0x27a368['key']=='ArrowUp')_0x576198(-0x1,_0x4a342e);else{if(_0x27a368[_0x4040c9(0x153)]==_0x4040c9(0x150))_0x576198(0x1,_0x4a342e);else _0x27a368[_0x4040c9(0x153)]==_0x4040c9(0x14d)&&_0x4f2843(_0x4a342e);}}}function _0x576198(_0x4548d4,_0x15ad5c){var _0x56615f=_0x3b6ad1,_0x32f175=0x0;_0x15ad5c['forEach'](function(_0x3b962b,_0x3f4808){var _0x4a4c71=a52_0x2e31;_0x3b962b[_0x4a4c71(0x141)]['contains'](_0x4a4c71(0x15b))&&(_0x32f175=_0x3f4808+_0x4548d4,_0x32f175<0x0&&(_0x32f175=_0x15ad5c[_0x4a4c71(0x171)]-0x1),_0x32f175>_0x15ad5c[_0x4a4c71(0x171)]-0x1&&(_0x32f175=0x0),_0x3b962b['classList'][_0x4a4c71(0x161)](_0x4a4c71(0x15b)));}),_0x15ad5c[_0x32f175][_0x56615f(0x141)]['add'](_0x56615f(0x15b));}function _0x4f2843(_0x22a7bd){var _0x36b35b=_0x3b6ad1,_0x312bcd=document[_0x36b35b(0x160)](_0x4357cc);_0x22a7bd[_0x36b35b(0x173)](function(_0x484962){var _0x244604=_0x36b35b;_0x484962[_0x244604(0x141)][_0x244604(0x164)]('seleccionado')&&(_0x312bcd[_0x244604(0x140)]=_0x25cc76+_0x484962['innerHTML']['toLocaleLowerCase'](),document[_0x244604(0x160)](_0x244604(0x13d))[_0x244604(0x140)]='',_0x36f36d(_0x312bcd));});}function _0x36f36d(_0x153cd3){var _0x2a40c5=_0x3b6ad1,_0x39532d=_0x153cd3[_0x2a40c5(0x140)],_0x490243=_0x39532d[_0x2a40c5(0x171)];_0x39532d=_0x39532d['replace'](/\n/g,'\x20'),_0x153cd3[_0x2a40c5(0x140)]=_0x39532d;var _0x36f164=document[_0x2a40c5(0x155)](),_0x38b18e=window[_0x2a40c5(0x176)]();_0x36f164[_0x2a40c5(0x163)](_0x153cd3),_0x36f164[_0x2a40c5(0x175)](![]),_0x38b18e[_0x2a40c5(0x165)](),_0x38b18e[_0x2a40c5(0x168)](_0x36f164),_0x153cd3[_0x2a40c5(0x15d)]();}function _0x565d91(_0xc5c6ad){var _0x3b6343=_0x3b6ad1,_0xb4bdb=(0x0,_0x409a6d['A'])(document['getElementById'](_0x3b6343(0x13d))[_0x3b6343(0x13f)](_0x3b6343(0x156)));_0xb4bdb[_0x3b6343(0x173)](function(_0x428a52,_0x1d6c4a){var _0x294517=_0x3b6343;_0x428a52[_0x294517(0x141)][_0x294517(0x164)](_0x294517(0x15b))&&_0x428a52[_0x294517(0x141)][_0x294517(0x161)](_0x294517(0x15b));}),_0xc5c6ad[_0x3b6343(0x15e)][_0x3b6343(0x141)][_0x3b6343(0x167)]('seleccionado');}function _0x1d0827(){var _0x128489=_0x3b6ad1;document[_0x128489(0x160)](_0x128489(0x170))[_0x128489(0x146)]('input',_0x32c075),document[_0x128489(0x146)](_0x128489(0x14f),_0x454afb(e));}}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[3534],{
+
+/***/ 3534:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   eliminarDropDown: () => (/* binding */ eliminarDropDown),
+/* harmony export */   menuPredictor: () => (/* binding */ menuPredictor)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5458);
+
+var TidInput = '';
+var previousText = '';
+var collection = JSON.parse(localStorage.getItem('ListaPalabras'));
+function menuPredictor(idInput) {
+  TidInput = idInput;
+  var dropdown = document.createElement('div');
+  dropdown.className = 'dropdown-content';
+  dropdown.id = 'dropdown-content';
+  var Entrada = document.getElementById(idInput);
+  Entrada.parentElement.insertAdjacentElement('beforeend', dropdown);
+  Entrada.addEventListener('input', entradaAInput);
+  Entrada.addEventListener('keydown', precionarFlechasEnter);
+}
+function entradaAInput(e) {
+  var limiteOpciones = 15;
+  var dropdown = document.createElement('div');
+  dropdown.className = 'dropdown-content';
+  dropdown.id = 'dropdown-content';
+  var Entrada = e.target;
+  var input = this.innerHTML.toLowerCase();
+  var dropdownContent = document.getElementById('dropdown-content');
+  var posLastSeparator = last_Separator(input);
+  var splitInput = dividirInput(input, posLastSeparator);
+  var lastWord = splitInput[1];
+  previousText = splitInput[0];
+  // Limpiar el contenido previo del dropdown
+  dropdownContent.innerHTML = '';
+  if (input) {
+    // Filtrar las palabras que comienzan con el texto ingresado
+    var filteredWords = [];
+    if (lastWord != '') {
+      filteredWords = collection.filter(function (word) {
+        return word.toLocaleLowerCase().startsWith(lastWord);
+      });
+    }
+    var _loop = function _loop() {
+      var word = filteredWords[i];
+      if (word) {
+        var option = document.createElement('div');
+        option.textContent = word.toLocaleLowerCase();
+        if (i == 0) {
+          option.classList.add('seleccionado');
+        }
+        option.addEventListener('click', function () {
+          // Al hacer clic en una opción, completar el input con la palabra seleccionada
+          Entrada.innerHTML = previousText + word.toLocaleLowerCase();
+          // Limpiar el contenido del dropdown
+          dropdownContent.innerHTML = '';
+          ordenerTexto(document.getElementById('BuscarProyectosTexto'));
+        });
+        option.addEventListener('mouseover', hoverEnOpcion);
+        dropdownContent.appendChild(option);
+      }
+    };
+    for (var i = 0; i < limiteOpciones; i++) {
+      _loop();
+    }
+
+    // Mostrar el dropdown si hay opciones
+    if (filteredWords.length >= 1) {
+      dropdownContent.style.display = 'grid';
+    } else {
+      dropdownContent.style.display = 'none';
+    }
+  } else {
+    dropdownContent.style.display = 'none';
+  }
+
+  // Ocultar el dropdown cuando se hace clic fuera del mismo
+  document.addEventListener('click', oculatarDropDown(e));
+}
+function dividirInput(input, posLastSeparator) {
+  var arrayRetorno = ['', ''];
+  arrayRetorno[0] = input.slice(0, posLastSeparator + 1);
+  arrayRetorno[1] = input.slice(posLastSeparator + 1, input.length);
+  return arrayRetorno;
+}
+function last_Separator(text) {
+  var regex = /[ -]/g;
+  var lastPosition = -1;
+  var match;
+  while ((match = regex.exec(text)) !== null) {
+    lastPosition = match.index;
+  }
+  return lastPosition;
+}
+function oculatarDropDown(e) {
+  if (!e.target.matches('#autocomplete-input')) {
+    document.getElementById('dropdown-content').parentElement.classList.remove('show');
+  }
+}
+function precionarFlechasEnter(e) {
+  var contenidoDropDown = '';
+  if (document.getElementById('dropdown-content')) {
+    contenidoDropDown = document.getElementById('dropdown-content').innerHTML;
+  }
+  if ((e.key == 'ArrowUp' || e.key == 'ArrowDown' || e.key == 'Enter') && contenidoDropDown && document.getElementById('dropdown-content')) {
+    e.preventDefault();
+    var listaOpciones = (0,_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(document.getElementById('dropdown-content').querySelectorAll('div'));
+    if (e.key == 'ArrowUp') {
+      moverOpcion(-1, listaOpciones);
+    } else if (e.key == 'ArrowDown') {
+      moverOpcion(1, listaOpciones);
+    } else if (e.key == 'Enter') {
+      seleccionarConEnter(listaOpciones);
+    }
+  }
+}
+function moverOpcion(direccion, listaOpciones) {
+  var nuevaPosicion = 0;
+  listaOpciones.forEach(function (opcion, iterador) {
+    if (opcion.classList.contains('seleccionado')) {
+      nuevaPosicion = iterador + direccion;
+      if (nuevaPosicion < 0) {
+        nuevaPosicion = listaOpciones.length - 1;
+      }
+      if (nuevaPosicion > listaOpciones.length - 1) {
+        nuevaPosicion = 0;
+      }
+      opcion.classList.remove('seleccionado');
+    }
+  });
+  listaOpciones[nuevaPosicion].classList.add('seleccionado');
+}
+function seleccionarConEnter(listaOpciones) {
+  var entradaParaTexto = document.getElementById(TidInput);
+  listaOpciones.forEach(function (opcion) {
+    if (opcion.classList.contains('seleccionado')) {
+      entradaParaTexto.innerHTML = previousText + opcion.innerHTML.toLocaleLowerCase();
+      document.getElementById('dropdown-content').innerHTML = '';
+      ordenerTexto(entradaParaTexto);
+    }
+  });
+}
+function ordenerTexto(entradaParaTexto) {
+  var texto = entradaParaTexto.innerHTML;
+  var tamaño = texto.length;
+  texto = texto.replace(/\n/g, ' ');
+  entradaParaTexto.innerHTML = texto;
+  var range = document.createRange();
+  // Crear una selección
+  var selection = window.getSelection();
+  // Seleccionar el contenido del div
+  range.selectNodeContents(entradaParaTexto);
+  // Colocar el cursor al final
+  range.collapse(false);
+  // Limpiar la selección existente
+  selection.removeAllRanges();
+  // Añadir el nuevo rango con el cursor al final
+  selection.addRange(range);
+  // Enfocar el elemento editable
+  entradaParaTexto.focus();
+}
+function hoverEnOpcion(e) {
+  var listaOpciones = (0,_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(document.getElementById('dropdown-content').querySelectorAll('div'));
+  listaOpciones.forEach(function (opcion, iterador) {
+    if (opcion.classList.contains('seleccionado')) {
+      opcion.classList.remove('seleccionado');
+    }
+  });
+  e.target.classList.add('seleccionado');
+}
+function eliminarDropDown() {
+  document.getElementById('BuscarProyectosTexto').removeEventListener('input', entradaAInput);
+  document.removeEventListener('click', oculatarDropDown(e));
+}
+
+/***/ })
+
+}]);

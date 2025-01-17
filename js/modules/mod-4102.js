@@ -1,1 +1,2326 @@
-'use strict';var a65_0x154392=a65_0x5364;(function(_0x4aef2f,_0x1d24bd){var _0x42ee04=a65_0x5364,_0xe77508=_0x4aef2f();while(!![]){try{var _0x7889df=-parseInt(_0x42ee04(0x236))/0x1*(parseInt(_0x42ee04(0x1d7))/0x2)+parseInt(_0x42ee04(0x276))/0x3*(-parseInt(_0x42ee04(0x22a))/0x4)+parseInt(_0x42ee04(0x170))/0x5+-parseInt(_0x42ee04(0x19a))/0x6+parseInt(_0x42ee04(0x1cf))/0x7+-parseInt(_0x42ee04(0x27d))/0x8*(-parseInt(_0x42ee04(0x275))/0x9)+parseInt(_0x42ee04(0x248))/0xa;if(_0x7889df===_0x1d24bd)break;else _0xe77508['push'](_0xe77508['shift']());}catch(_0x15d6b6){_0xe77508['push'](_0xe77508['shift']());}}}(a65_0x1e07,0xa2a6d));function a65_0x5364(_0x2e33a5,_0x58175e){var _0x1e07a8=a65_0x1e07();return a65_0x5364=function(_0x5364c3,_0x81c353){_0x5364c3=_0x5364c3-0x15f;var _0x1768cc=_0x1e07a8[_0x5364c3];return _0x1768cc;},a65_0x5364(_0x2e33a5,_0x58175e);}(self[a65_0x154392(0x1e7)]=self[a65_0x154392(0x1e7)]||[])['push']([[0x1006,0x2504],{0x2213:(_0x5d81f5,_0x34688e,_0x87824c)=>{_0x87824c['d'](_0x34688e,{'P':()=>_0x2c7a40});var _0x351307=_0x87824c(0xa52);function _0x2c7a40(_0x3992ff){var _0x5ba3ba=a65_0x5364;const _0x5a9b83=(0x0,_0x351307['a'])(_0x3992ff),_0xd011b5=_0x5a9b83[_0x5ba3ba(0x17f)]();return _0xd011b5;}var _0x1bbc94=null&&_0x2c7a40;},0x2504:(_0x3c95a2,_0x118f83,_0x992629)=>{var _0x5df92e=a65_0x154392;_0x992629['d'](_0x118f83,{'Ay':()=>_0x1df472});var _0x4b2004;(function(_0x2d6a69){var _0x44bc1b=a65_0x5364;_0x2d6a69[_0x44bc1b(0x241)]=_0x44bc1b(0x22b),_0x2d6a69[_0x44bc1b(0x211)]=_0x44bc1b(0x21a),_0x2d6a69[_0x44bc1b(0x267)]=_0x44bc1b(0x28a),_0x2d6a69['Count']=_0x44bc1b(0x207),_0x2d6a69[_0x44bc1b(0x1bc)]=_0x44bc1b(0x185);}(_0x4b2004||(_0x4b2004={})));var _0x2adfb3;(function(_0x201e2f){var _0x1a7af9=a65_0x5364;_0x201e2f[_0x201e2f['None']=-0x1]='None',_0x201e2f[_0x201e2f['NoValue']=0x0]=_0x1a7af9(0x204),_0x201e2f[_0x201e2f[_0x1a7af9(0x257)]=0x1]=_0x1a7af9(0x257),_0x201e2f[_0x201e2f[_0x1a7af9(0x258)]=0x2]=_0x1a7af9(0x258);}(_0x2adfb3||(_0x2adfb3={})));function _0x48754b(_0x11fcd8){var _0x5b40ee=a65_0x5364;return _0x3dbcc8(_0x11fcd8)&&typeof _0x11fcd8['from']===_0x5b40ee(0x229);}function _0x3dbcc8(_0x1c8d65){var _0x3f9531=a65_0x5364;return typeof _0x1c8d65===_0x3f9531(0x26f)&&typeof _0x1c8d65['to']===_0x3f9531(0x229);}function _0xc4929e(_0x21c248){var _0x392da9=a65_0x5364;_0x21c248[_0x392da9(0x1ad)][_0x392da9(0x26e)](_0x21c248);}function _0xf40e13(_0x37d5f1){return _0x37d5f1!==null&&_0x37d5f1!==undefined;}function _0x4e0fef(_0x459c70){var _0x471520=a65_0x5364;_0x459c70[_0x471520(0x26b)]();}function _0x4644fe(_0x4d8e6f){return _0x4d8e6f['filter'](function(_0x523404){return!this[_0x523404]?this[_0x523404]=!![]:![];},{});}function _0x59bfae(_0xed7cb9,_0x1d85a4){var _0x216ba9=a65_0x5364;return Math[_0x216ba9(0x19b)](_0xed7cb9/_0x1d85a4)*_0x1d85a4;}function _0x3ab24b(_0x17d1d9,_0x1cc787){var _0x510979=a65_0x5364,_0x221fcf=_0x17d1d9[_0x510979(0x195)](),_0x4a4b42=_0x17d1d9['ownerDocument'],_0x4f4caf=_0x4a4b42[_0x510979(0x1f4)],_0x153833=_0x539b7d(_0x4a4b42);return/webkit.*Chrome.*Mobile/i[_0x510979(0x190)](navigator[_0x510979(0x272)])&&(_0x153833['x']=0x0),_0x1cc787?_0x221fcf['top']+_0x153833['y']-_0x4f4caf[_0x510979(0x238)]:_0x221fcf[_0x510979(0x1ed)]+_0x153833['x']-_0x4f4caf[_0x510979(0x17a)];}function _0x5c4242(_0x4e60e1){var _0x366faf=a65_0x5364;return typeof _0x4e60e1===_0x366faf(0x18f)&&!isNaN(_0x4e60e1)&&isFinite(_0x4e60e1);}function _0x577b3a(_0x137d6e,_0x210626,_0x15b652){_0x15b652>0x0&&(_0x1c1e7e(_0x137d6e,_0x210626),setTimeout(function(){_0xd5ad87(_0x137d6e,_0x210626);},_0x15b652));}function _0x1869bf(_0x313f51){var _0x40d06d=a65_0x5364;return Math[_0x40d06d(0x168)](Math[_0x40d06d(0x281)](_0x313f51,0x64),0x0);}function _0x4405cf(_0x5b8391){var _0x74d723=a65_0x5364;return Array[_0x74d723(0x182)](_0x5b8391)?_0x5b8391:[_0x5b8391];}function _0x40fba9(_0x488270){var _0x3300fd=a65_0x5364;_0x488270=String(_0x488270);var _0x1e5485=_0x488270[_0x3300fd(0x27e)]('.');return _0x1e5485[_0x3300fd(0x214)]>0x1?_0x1e5485[0x1][_0x3300fd(0x214)]:0x0;}function _0x1c1e7e(_0x1dab0f,_0xee3150){var _0xdf0a0a=a65_0x5364;_0x1dab0f[_0xdf0a0a(0x1d6)]&&!/\s/[_0xdf0a0a(0x190)](_0xee3150)?_0x1dab0f[_0xdf0a0a(0x1d6)][_0xdf0a0a(0x1c9)](_0xee3150):_0x1dab0f['className']+='\x20'+_0xee3150;}function _0xd5ad87(_0x1b44de,_0x154299){var _0x5207cc=a65_0x5364;_0x1b44de['classList']&&!/\s/['test'](_0x154299)?_0x1b44de[_0x5207cc(0x1d6)][_0x5207cc(0x221)](_0x154299):_0x1b44de['className']=_0x1b44de[_0x5207cc(0x183)][_0x5207cc(0x20c)](new RegExp('(^|\x5cb)'+_0x154299[_0x5207cc(0x27e)]('\x20')[_0x5207cc(0x23a)]('|')+_0x5207cc(0x17e),'gi'),'\x20');}function _0x3c8bb5(_0x3ec5a6,_0x46dbf1){var _0x3c485d=a65_0x5364;return _0x3ec5a6['classList']?_0x3ec5a6[_0x3c485d(0x1d6)][_0x3c485d(0x277)](_0x46dbf1):new RegExp('\x5cb'+_0x46dbf1+'\x5cb')[_0x3c485d(0x190)](_0x3ec5a6[_0x3c485d(0x183)]);}function _0x539b7d(_0x51bc21){var _0x3a6f71=a65_0x5364,_0x32f745=window[_0x3a6f71(0x227)]!==undefined,_0x310077=(_0x51bc21[_0x3a6f71(0x249)]||'')===_0x3a6f71(0x26d),_0x523414=_0x32f745?window[_0x3a6f71(0x227)]:_0x310077?_0x51bc21[_0x3a6f71(0x1f4)]['scrollLeft']:_0x51bc21['body'][_0x3a6f71(0x1b3)],_0x2c6ef2=_0x32f745?window['pageYOffset']:_0x310077?_0x51bc21[_0x3a6f71(0x1f4)]['scrollTop']:_0x51bc21['body'][_0x3a6f71(0x1df)];return{'x':_0x523414,'y':_0x2c6ef2};}function _0x52d26c(){var _0x5d45be=a65_0x5364;return window['navigator'][_0x5d45be(0x176)]?{'start':_0x5d45be(0x212),'move':_0x5d45be(0x19e),'end':_0x5d45be(0x243)}:window['navigator'][_0x5d45be(0x237)]?{'start':_0x5d45be(0x1e9),'move':'MSPointerMove','end':'MSPointerUp'}:{'start':_0x5d45be(0x162),'move':_0x5d45be(0x20f),'end':_0x5d45be(0x17b)};}function _0x1a2983(){var _0x2ed9bf=a65_0x5364,_0x545815=![];try{var _0x13ce94=Object[_0x2ed9bf(0x198)]({},'passive',{'get':function(){_0x545815=!![];}});window[_0x2ed9bf(0x1c7)](_0x2ed9bf(0x190),null,_0x13ce94);}catch(_0x3b02e6){}return _0x545815;}function _0x3581e6(){var _0x425c1b=a65_0x5364;return window['CSS']&&CSS[_0x425c1b(0x1f5)]&&CSS[_0x425c1b(0x1f5)](_0x425c1b(0x1c3),'none');}function _0x4d4dc9(_0x133795,_0x194104){return 0x64/(_0x194104-_0x133795);}function _0x38320a(_0x4c6ded,_0x27e82d,_0x1ed639){return _0x27e82d*0x64/(_0x4c6ded[_0x1ed639+0x1]-_0x4c6ded[_0x1ed639]);}function _0x26aa8e(_0x3cb895,_0x440f9e){var _0x242a52=a65_0x5364;return _0x38320a(_0x3cb895,_0x3cb895[0x0]<0x0?_0x440f9e+Math[_0x242a52(0x1fb)](_0x3cb895[0x0]):_0x440f9e-_0x3cb895[0x0],0x0);}function _0x34e7bd(_0x4a3cea,_0x30d6f9){return _0x30d6f9*(_0x4a3cea[0x1]-_0x4a3cea[0x0])/0x64+_0x4a3cea[0x0];}function _0x56c665(_0x7b388d,_0x43ced2){var _0x5301a8=0x1;while(_0x7b388d>=_0x43ced2[_0x5301a8]){_0x5301a8+=0x1;}return _0x5301a8;}function _0x35bbca(_0x1e151f,_0x59f76a,_0x573383){var _0x3557b0=a65_0x5364;if(_0x573383>=_0x1e151f[_0x3557b0(0x25a)](-0x1)[0x0])return 0x64;var _0x1d25c7=_0x56c665(_0x573383,_0x1e151f),_0x4e0960=_0x1e151f[_0x1d25c7-0x1],_0x56b6ed=_0x1e151f[_0x1d25c7],_0x3e9369=_0x59f76a[_0x1d25c7-0x1],_0x27ac4c=_0x59f76a[_0x1d25c7];return _0x3e9369+_0x26aa8e([_0x4e0960,_0x56b6ed],_0x573383)/_0x4d4dc9(_0x3e9369,_0x27ac4c);}function _0x39d503(_0x312b38,_0x3cf7c8,_0x53d69b){if(_0x53d69b>=0x64)return _0x312b38['slice'](-0x1)[0x0];var _0x296183=_0x56c665(_0x53d69b,_0x3cf7c8),_0x40f3aa=_0x312b38[_0x296183-0x1],_0x22e217=_0x312b38[_0x296183],_0x1d99ee=_0x3cf7c8[_0x296183-0x1],_0x214481=_0x3cf7c8[_0x296183];return _0x34e7bd([_0x40f3aa,_0x22e217],(_0x53d69b-_0x1d99ee)*_0x4d4dc9(_0x1d99ee,_0x214481));}function _0x1ef455(_0x170ac6,_0x571629,_0x72c547,_0x4e98a8){if(_0x4e98a8===0x64)return _0x4e98a8;var _0x22d1da=_0x56c665(_0x4e98a8,_0x170ac6),_0x48e7e2=_0x170ac6[_0x22d1da-0x1],_0x42e259=_0x170ac6[_0x22d1da];if(_0x72c547){if(_0x4e98a8-_0x48e7e2>(_0x42e259-_0x48e7e2)/0x2)return _0x42e259;return _0x48e7e2;}if(!_0x571629[_0x22d1da-0x1])return _0x4e98a8;return _0x170ac6[_0x22d1da-0x1]+_0x59bfae(_0x4e98a8-_0x170ac6[_0x22d1da-0x1],_0x571629[_0x22d1da-0x1]);}var _0x4d0cec=(function(){var _0x1cb755=a65_0x5364;function _0x387bf5(_0x3bc57c,_0x46ee34,_0x1a1e86){var _0x270fb5=a65_0x5364;this[_0x270fb5(0x1dc)]=[],this[_0x270fb5(0x24d)]=[],this['xSteps']=[],this[_0x270fb5(0x1b8)]=[],this[_0x270fb5(0x1ac)]=[],this[_0x270fb5(0x1b5)]=[_0x1a1e86||![]],this[_0x270fb5(0x1b8)]=[![]],this[_0x270fb5(0x233)]=_0x46ee34;var _0xb848d4,_0x5c057a=[];Object[_0x270fb5(0x26c)](_0x3bc57c)[_0x270fb5(0x253)](function(_0x37b2ab){var _0x320517=_0x270fb5;_0x5c057a[_0x320517(0x242)]([_0x4405cf(_0x3bc57c[_0x37b2ab]),_0x37b2ab]);}),_0x5c057a[_0x270fb5(0x1ea)](function(_0x12f02a,_0x245a9c){return _0x12f02a[0x0][0x0]-_0x245a9c[0x0][0x0];});for(_0xb848d4=0x0;_0xb848d4<_0x5c057a[_0x270fb5(0x214)];_0xb848d4++){this[_0x270fb5(0x23b)](_0x5c057a[_0xb848d4][0x1],_0x5c057a[_0xb848d4][0x0]);}this[_0x270fb5(0x1b8)]=this['xSteps'][_0x270fb5(0x25a)](0x0);for(_0xb848d4=0x0;_0xb848d4<this[_0x270fb5(0x1b8)][_0x270fb5(0x214)];_0xb848d4++){this[_0x270fb5(0x216)](_0xb848d4,this['xNumSteps'][_0xb848d4]);}}return _0x387bf5['prototype']['getDistance']=function(_0x297594){var _0x4fbe59=a65_0x5364,_0xff8db8=[];for(var _0xe42310=0x0;_0xe42310<this[_0x4fbe59(0x1b8)]['length']-0x1;_0xe42310++){_0xff8db8[_0xe42310]=_0x38320a(this[_0x4fbe59(0x24d)],_0x297594,_0xe42310);}return _0xff8db8;},_0x387bf5[_0x1cb755(0x273)][_0x1cb755(0x266)]=function(_0x85fc7c,_0x4ed3b8,_0x2f6faf){var _0x5b2453=_0x1cb755,_0x38dc2b=0x0;if(_0x85fc7c<this[_0x5b2453(0x1dc)][this[_0x5b2453(0x1dc)][_0x5b2453(0x214)]-0x1])while(_0x85fc7c>this['xPct'][_0x38dc2b+0x1]){_0x38dc2b++;}else _0x85fc7c===this[_0x5b2453(0x1dc)][this[_0x5b2453(0x1dc)][_0x5b2453(0x214)]-0x1]&&(_0x38dc2b=this[_0x5b2453(0x1dc)][_0x5b2453(0x214)]-0x2);!_0x2f6faf&&_0x85fc7c===this[_0x5b2453(0x1dc)][_0x38dc2b+0x1]&&_0x38dc2b++;_0x4ed3b8===null&&(_0x4ed3b8=[]);var _0x4e1d0a,_0x11e4fe=0x1,_0x5e48e5=_0x4ed3b8[_0x38dc2b],_0x12cdd8=0x0,_0x310db9=0x0,_0x25a4e2=0x0,_0x23c608=0x0;_0x2f6faf?_0x4e1d0a=(_0x85fc7c-this[_0x5b2453(0x1dc)][_0x38dc2b])/(this[_0x5b2453(0x1dc)][_0x38dc2b+0x1]-this['xPct'][_0x38dc2b]):_0x4e1d0a=(this['xPct'][_0x38dc2b+0x1]-_0x85fc7c)/(this['xPct'][_0x38dc2b+0x1]-this[_0x5b2453(0x1dc)][_0x38dc2b]);while(_0x5e48e5>0x0){_0x12cdd8=this[_0x5b2453(0x1dc)][_0x38dc2b+0x1+_0x23c608]-this[_0x5b2453(0x1dc)][_0x38dc2b+_0x23c608],_0x4ed3b8[_0x38dc2b+_0x23c608]*_0x11e4fe+0x64-_0x4e1d0a*0x64>0x64?(_0x310db9=_0x12cdd8*_0x4e1d0a,_0x11e4fe=(_0x5e48e5-0x64*_0x4e1d0a)/_0x4ed3b8[_0x38dc2b+_0x23c608],_0x4e1d0a=0x1):(_0x310db9=_0x4ed3b8[_0x38dc2b+_0x23c608]*_0x12cdd8/0x64*_0x11e4fe,_0x11e4fe=0x0),_0x2f6faf?(_0x25a4e2=_0x25a4e2-_0x310db9,this['xPct'][_0x5b2453(0x214)]+_0x23c608>=0x1&&_0x23c608--):(_0x25a4e2=_0x25a4e2+_0x310db9,this['xPct'][_0x5b2453(0x214)]-_0x23c608>=0x1&&_0x23c608++),_0x5e48e5=_0x4ed3b8[_0x38dc2b+_0x23c608]*_0x11e4fe;}return _0x85fc7c+_0x25a4e2;},_0x387bf5[_0x1cb755(0x273)][_0x1cb755(0x1af)]=function(_0x191b29){var _0x3d1590=_0x1cb755;return _0x191b29=_0x35bbca(this[_0x3d1590(0x24d)],this[_0x3d1590(0x1dc)],_0x191b29),_0x191b29;},_0x387bf5['prototype'][_0x1cb755(0x1e8)]=function(_0x5703e8){var _0x452ad3=_0x1cb755;return _0x39d503(this[_0x452ad3(0x24d)],this[_0x452ad3(0x1dc)],_0x5703e8);},_0x387bf5[_0x1cb755(0x273)][_0x1cb755(0x259)]=function(_0x371c75){var _0x105b73=_0x1cb755;return _0x371c75=_0x1ef455(this[_0x105b73(0x1dc)],this[_0x105b73(0x1b5)],this[_0x105b73(0x233)],_0x371c75),_0x371c75;},_0x387bf5['prototype'][_0x1cb755(0x1c0)]=function(_0x502ad4,_0x16ad2c,_0x38878f){var _0x3b3b0a=_0x1cb755,_0x51553f=_0x56c665(_0x502ad4,this[_0x3b3b0a(0x1dc)]);return(_0x502ad4===0x64||_0x16ad2c&&_0x502ad4===this[_0x3b3b0a(0x1dc)][_0x51553f-0x1])&&(_0x51553f=Math[_0x3b3b0a(0x168)](_0x51553f-0x1,0x1)),(this['xVal'][_0x51553f]-this[_0x3b3b0a(0x24d)][_0x51553f-0x1])/_0x38878f;},_0x387bf5[_0x1cb755(0x273)][_0x1cb755(0x1fc)]=function(_0x486872){var _0x42b4e2=_0x1cb755,_0x54eb0d=_0x56c665(_0x486872,this[_0x42b4e2(0x1dc)]);return{'stepBefore':{'startValue':this['xVal'][_0x54eb0d-0x2],'step':this['xNumSteps'][_0x54eb0d-0x2],'highestStep':this['xHighestCompleteStep'][_0x54eb0d-0x2]},'thisStep':{'startValue':this['xVal'][_0x54eb0d-0x1],'step':this[_0x42b4e2(0x1b8)][_0x54eb0d-0x1],'highestStep':this[_0x42b4e2(0x1ac)][_0x54eb0d-0x1]},'stepAfter':{'startValue':this['xVal'][_0x54eb0d],'step':this['xNumSteps'][_0x54eb0d],'highestStep':this[_0x42b4e2(0x1ac)][_0x54eb0d]}};},_0x387bf5[_0x1cb755(0x273)]['countStepDecimals']=function(){var _0x3b1d49=_0x1cb755,_0x2007e6=this['xNumSteps'][_0x3b1d49(0x1c5)](_0x40fba9);return Math[_0x3b1d49(0x168)][_0x3b1d49(0x270)](null,_0x2007e6);},_0x387bf5[_0x1cb755(0x273)]['hasNoSize']=function(){var _0x51feaf=_0x1cb755;return this[_0x51feaf(0x24d)][0x0]===this[_0x51feaf(0x24d)][this[_0x51feaf(0x24d)][_0x51feaf(0x214)]-0x1];},_0x387bf5[_0x1cb755(0x273)]['convert']=function(_0x57443f){var _0x5b0485=_0x1cb755;return this[_0x5b0485(0x259)](this[_0x5b0485(0x1af)](_0x57443f));},_0x387bf5['prototype']['handleEntryPoint']=function(_0x59fd55,_0x34d18f){var _0x4be4b4=_0x1cb755,_0x604d33;if(_0x59fd55===_0x4be4b4(0x281))_0x604d33=0x0;else _0x59fd55==='max'?_0x604d33=0x64:_0x604d33=parseFloat(_0x59fd55);if(!_0x5c4242(_0x604d33)||!_0x5c4242(_0x34d18f[0x0]))throw new Error('noUiSlider:\x20\x27range\x27\x20value\x20isn\x27t\x20numeric.');this[_0x4be4b4(0x1dc)]['push'](_0x604d33),this['xVal'][_0x4be4b4(0x242)](_0x34d18f[0x0]);var _0x557360=Number(_0x34d18f[0x1]);!_0x604d33?!isNaN(_0x557360)&&(this['xSteps'][0x0]=_0x557360):this['xSteps']['push'](isNaN(_0x557360)?![]:_0x557360),this[_0x4be4b4(0x1ac)][_0x4be4b4(0x242)](0x0);},_0x387bf5[_0x1cb755(0x273)][_0x1cb755(0x216)]=function(_0x464c3a,_0x34e259){var _0x1544be=_0x1cb755;if(!_0x34e259)return;if(this[_0x1544be(0x24d)][_0x464c3a]===this[_0x1544be(0x24d)][_0x464c3a+0x1]){this[_0x1544be(0x1b5)][_0x464c3a]=this[_0x1544be(0x1ac)][_0x464c3a]=this[_0x1544be(0x24d)][_0x464c3a];return;}this[_0x1544be(0x1b5)][_0x464c3a]=_0x38320a([this[_0x1544be(0x24d)][_0x464c3a],this[_0x1544be(0x24d)][_0x464c3a+0x1]],_0x34e259,0x0)/_0x4d4dc9(this[_0x1544be(0x1dc)][_0x464c3a],this['xPct'][_0x464c3a+0x1]);var _0x37f2d0=(this[_0x1544be(0x24d)][_0x464c3a+0x1]-this['xVal'][_0x464c3a])/this[_0x1544be(0x1b8)][_0x464c3a],_0x3936ba=Math['ceil'](Number(_0x37f2d0[_0x1544be(0x1d3)](0x3))-0x1),_0x4a7121=this[_0x1544be(0x24d)][_0x464c3a]+this['xNumSteps'][_0x464c3a]*_0x3936ba;this['xHighestCompleteStep'][_0x464c3a]=_0x4a7121;},_0x387bf5;}()),_0x1a40b8={'to':function(_0x1364ba){return _0x1364ba===undefined?'':_0x1364ba['toFixed'](0x2);},'from':Number},_0x2ad6d4={'target':_0x5df92e(0x1cb),'base':_0x5df92e(0x225),'origin':_0x5df92e(0x1e6),'handle':_0x5df92e(0x1db),'handleLower':_0x5df92e(0x1c6),'handleUpper':_0x5df92e(0x1cd),'touchArea':_0x5df92e(0x25f),'horizontal':_0x5df92e(0x278),'vertical':'vertical','background':_0x5df92e(0x265),'connect':'connect','connects':'connects','ltr':'ltr','rtl':_0x5df92e(0x1f9),'textDirectionLtr':_0x5df92e(0x231),'textDirectionRtl':'txt-dir-rtl','draggable':_0x5df92e(0x1d9),'drag':'state-drag','tap':_0x5df92e(0x172),'active':_0x5df92e(0x186),'tooltip':_0x5df92e(0x208),'pips':_0x5df92e(0x262),'pipsHorizontal':_0x5df92e(0x184),'pipsVertical':_0x5df92e(0x254),'marker':'marker','markerHorizontal':'marker-horizontal','markerVertical':_0x5df92e(0x250),'markerNormal':'marker-normal','markerLarge':_0x5df92e(0x27b),'markerSub':'marker-sub','value':'value','valueHorizontal':'value-horizontal','valueVertical':_0x5df92e(0x251),'valueNormal':_0x5df92e(0x169),'valueLarge':_0x5df92e(0x1b9),'valueSub':'value-sub'},_0x1a1e38={'tooltips':_0x5df92e(0x1f7),'aria':'.__aria'};function _0x2e1d77(_0x534395,_0x2adb06){var _0x1d4ffe=_0x5df92e;if(!_0x5c4242(_0x2adb06))throw new Error(_0x1d4ffe(0x21c));_0x534395[_0x1d4ffe(0x166)]=_0x2adb06;}function _0x4a0ca5(_0x2da3a0,_0x5d72f8){var _0x76c6f9=_0x5df92e;if(!_0x5c4242(_0x5d72f8))throw new Error(_0x76c6f9(0x20a));_0x2da3a0['keyboardPageMultiplier']=_0x5d72f8;}function _0x3ec783(_0x4e4d89,_0x14389e){var _0x4e7479=_0x5df92e;if(!_0x5c4242(_0x14389e))throw new Error('noUiSlider:\x20\x27keyboardMultiplier\x27\x20is\x20not\x20numeric.');_0x4e4d89[_0x4e7479(0x164)]=_0x14389e;}function _0x4031f1(_0x1da762,_0x5b888d){var _0x5710f3=_0x5df92e;if(!_0x5c4242(_0x5b888d))throw new Error('noUiSlider:\x20\x27keyboardDefaultStep\x27\x20is\x20not\x20numeric.');_0x1da762[_0x5710f3(0x19f)]=_0x5b888d;}function _0x5037d1(_0x273f5b,_0x66ce9d){var _0xdff26d=_0x5df92e;if(typeof _0x66ce9d!==_0xdff26d(0x26f)||Array[_0xdff26d(0x182)](_0x66ce9d))throw new Error(_0xdff26d(0x18b));if(_0x66ce9d[_0xdff26d(0x281)]===undefined||_0x66ce9d[_0xdff26d(0x168)]===undefined)throw new Error(_0xdff26d(0x192));_0x273f5b['spectrum']=new _0x4d0cec(_0x66ce9d,_0x273f5b[_0xdff26d(0x233)]||![],_0x273f5b['singleStep']);}function _0x584dc3(_0x350886,_0x46bfb0){var _0xedaf12=_0x5df92e;_0x46bfb0=_0x4405cf(_0x46bfb0);if(!Array[_0xedaf12(0x182)](_0x46bfb0)||!_0x46bfb0[_0xedaf12(0x214)])throw new Error(_0xedaf12(0x1da));_0x350886[_0xedaf12(0x1e5)]=_0x46bfb0[_0xedaf12(0x214)],_0x350886['start']=_0x46bfb0;}function _0x5b6e49(_0x4b6e63,_0x28c578){var _0x58444e=_0x5df92e;if(typeof _0x28c578!==_0x58444e(0x24e))throw new Error(_0x58444e(0x27f));_0x4b6e63[_0x58444e(0x233)]=_0x28c578;}function _0x31b570(_0x1ce476,_0x4d3cff){var _0x3212f3=_0x5df92e;if(typeof _0x4d3cff!=='boolean')throw new Error('noUiSlider:\x20\x27animate\x27\x20option\x20must\x20be\x20a\x20boolean.');_0x1ce476[_0x3212f3(0x23d)]=_0x4d3cff;}function _0x1bd183(_0x24d6bd,_0x2a6047){var _0x10a1c2=_0x5df92e;if(typeof _0x2a6047!==_0x10a1c2(0x18f))throw new Error('noUiSlider:\x20\x27animationDuration\x27\x20option\x20must\x20be\x20a\x20number.');_0x24d6bd[_0x10a1c2(0x256)]=_0x2a6047;}function _0x25ea2f(_0x34739d,_0x19491b){var _0xc9a62e=_0x5df92e,_0x44dc6c=[![]],_0x443136;if(_0x19491b===_0xc9a62e(0x1bb))_0x19491b=[!![],![]];else _0x19491b===_0xc9a62e(0x228)&&(_0x19491b=[![],!![]]);if(_0x19491b===!![]||_0x19491b===![]){for(_0x443136=0x1;_0x443136<_0x34739d['handles'];_0x443136++){_0x44dc6c[_0xc9a62e(0x242)](_0x19491b);}_0x44dc6c['push'](![]);}else{if(!Array['isArray'](_0x19491b)||!_0x19491b[_0xc9a62e(0x214)]||_0x19491b[_0xc9a62e(0x214)]!==_0x34739d['handles']+0x1)throw new Error(_0xc9a62e(0x180));else _0x44dc6c=_0x19491b;}_0x34739d[_0xc9a62e(0x235)]=_0x44dc6c;}function _0x294992(_0x541a97,_0x3812e3){var _0x172c7a=_0x5df92e;switch(_0x3812e3){case _0x172c7a(0x278):_0x541a97['ort']=0x0;break;case'vertical':_0x541a97[_0x172c7a(0x178)]=0x1;break;default:throw new Error(_0x172c7a(0x282));}}function _0x4f2349(_0x5f4f2f,_0x11aa5b){var _0x3f691a=_0x5df92e;if(!_0x5c4242(_0x11aa5b))throw new Error(_0x3f691a(0x199));if(_0x11aa5b===0x0)return;_0x5f4f2f[_0x3f691a(0x280)]=_0x5f4f2f[_0x3f691a(0x1b2)][_0x3f691a(0x16a)](_0x11aa5b);}function _0x37d04c(_0x49c82d,_0x455f30){var _0x1829ad=_0x5df92e;if(!_0x5c4242(_0x455f30))throw new Error(_0x1829ad(0x209));_0x49c82d[_0x1829ad(0x193)]=_0x49c82d[_0x1829ad(0x1b2)][_0x1829ad(0x16a)](_0x455f30);if(!_0x49c82d[_0x1829ad(0x193)]||_0x49c82d['handles']<0x2)throw new Error('noUiSlider:\x20\x27limit\x27\x20option\x20is\x20only\x20supported\x20on\x20linear\x20sliders\x20with\x202\x20or\x20more\x20handles.');}function _0x426931(_0x50d0e0,_0x31ba85){var _0x18aa5a=_0x5df92e,_0x5f376b;if(!_0x5c4242(_0x31ba85)&&!Array['isArray'](_0x31ba85))throw new Error(_0x18aa5a(0x234));if(Array['isArray'](_0x31ba85)&&!(_0x31ba85['length']===0x2||_0x5c4242(_0x31ba85[0x0])||_0x5c4242(_0x31ba85[0x1])))throw new Error(_0x18aa5a(0x234));if(_0x31ba85===0x0)return;!Array[_0x18aa5a(0x182)](_0x31ba85)&&(_0x31ba85=[_0x31ba85,_0x31ba85]);_0x50d0e0[_0x18aa5a(0x246)]=[_0x50d0e0[_0x18aa5a(0x1b2)][_0x18aa5a(0x16a)](_0x31ba85[0x0]),_0x50d0e0[_0x18aa5a(0x1b2)]['getDistance'](_0x31ba85[0x1])];for(_0x5f376b=0x0;_0x5f376b<_0x50d0e0[_0x18aa5a(0x1b2)][_0x18aa5a(0x1b8)]['length']-0x1;_0x5f376b++){if(_0x50d0e0['padding'][0x0][_0x5f376b]<0x0||_0x50d0e0['padding'][0x1][_0x5f376b]<0x0)throw new Error(_0x18aa5a(0x232));}var _0x1ca4e0=_0x31ba85[0x0]+_0x31ba85[0x1],_0x3b424f=_0x50d0e0[_0x18aa5a(0x1b2)][_0x18aa5a(0x24d)][0x0],_0x48bddb=_0x50d0e0[_0x18aa5a(0x1b2)][_0x18aa5a(0x24d)][_0x50d0e0[_0x18aa5a(0x1b2)][_0x18aa5a(0x24d)][_0x18aa5a(0x214)]-0x1];if(_0x1ca4e0/(_0x48bddb-_0x3b424f)>0x1)throw new Error(_0x18aa5a(0x1ca));}function _0x5e3e07(_0x2a32b8,_0xaffad6){var _0x1245f9=_0x5df92e;switch(_0xaffad6){case _0x1245f9(0x247):_0x2a32b8[_0x1245f9(0x191)]=0x0;break;case _0x1245f9(0x1f9):_0x2a32b8[_0x1245f9(0x191)]=0x1;break;default:throw new Error('noUiSlider:\x20\x27direction\x27\x20option\x20was\x20not\x20recognized.');}}function _0xd5e99d(_0x11dea6,_0x2f568e){var _0x2578ff=_0x5df92e;if(typeof _0x2f568e!==_0x2578ff(0x210))throw new Error(_0x2578ff(0x1b1));var _0x5670ce=_0x2f568e[_0x2578ff(0x285)](_0x2578ff(0x197))>=0x0,_0x5cb151=_0x2f568e['indexOf'](_0x2578ff(0x201))>=0x0,_0x418553=_0x2f568e['indexOf'](_0x2578ff(0x1dd))>=0x0,_0x5950bc=_0x2f568e[_0x2578ff(0x285)](_0x2578ff(0x233))>=0x0,_0x26d95c=_0x2f568e[_0x2578ff(0x285)](_0x2578ff(0x217))>=0x0,_0x152796=_0x2f568e['indexOf'](_0x2578ff(0x26a))>=0x0,_0x2f700c=_0x2f568e[_0x2578ff(0x285)](_0x2578ff(0x1f6))>=0x0,_0x410dfe=_0x2f568e[_0x2578ff(0x285)](_0x2578ff(0x1fa))>=0x0;if(_0x418553){if(_0x11dea6[_0x2578ff(0x1e5)]!==0x2)throw new Error(_0x2578ff(0x20e));_0x4f2349(_0x11dea6,_0x11dea6[_0x2578ff(0x25b)][0x1]-_0x11dea6[_0x2578ff(0x25b)][0x0]);}if(_0x152796&&(_0x11dea6[_0x2578ff(0x280)]||_0x11dea6[_0x2578ff(0x193)]))throw new Error(_0x2578ff(0x16c));_0x11dea6['events']={'tap':_0x5670ce||_0x5950bc,'drag':_0x5cb151,'dragAll':_0x2f700c,'smoothSteps':_0x410dfe,'fixed':_0x418553,'snap':_0x5950bc,'hover':_0x26d95c,'unconstrained':_0x152796};}function _0x7d20ec(_0x1a39cf,_0x4ac2dc){var _0x3b8c91=_0x5df92e;if(_0x4ac2dc===![])return;if(_0x4ac2dc===!![]||_0x3dbcc8(_0x4ac2dc)){_0x1a39cf[_0x3b8c91(0x187)]=[];for(var _0x513b67=0x0;_0x513b67<_0x1a39cf['handles'];_0x513b67++){_0x1a39cf[_0x3b8c91(0x187)][_0x3b8c91(0x242)](_0x4ac2dc);}}else{_0x4ac2dc=_0x4405cf(_0x4ac2dc);if(_0x4ac2dc[_0x3b8c91(0x214)]!==_0x1a39cf['handles'])throw new Error(_0x3b8c91(0x174));_0x4ac2dc[_0x3b8c91(0x253)](function(_0xa5e0f2){var _0x406c95=_0x3b8c91;if(typeof _0xa5e0f2!==_0x406c95(0x24e)&&!_0x3dbcc8(_0xa5e0f2))throw new Error(_0x406c95(0x213));}),_0x1a39cf[_0x3b8c91(0x187)]=_0x4ac2dc;}}function _0x2397c7(_0x4f0d63,_0x436b1e){var _0x26cd2b=_0x5df92e;if(_0x436b1e[_0x26cd2b(0x214)]!==_0x4f0d63[_0x26cd2b(0x1e5)])throw new Error(_0x26cd2b(0x21b));_0x4f0d63[_0x26cd2b(0x263)]=_0x436b1e;}function _0x2818f5(_0x25794c,_0x486358){var _0x3a9762=_0x5df92e;if(!_0x3dbcc8(_0x486358))throw new Error(_0x3a9762(0x1b6));_0x25794c[_0x3a9762(0x284)]=_0x486358;}function _0x1cb729(_0x13a539,_0x3efeb3){var _0x1d96d1=_0x5df92e;if(!_0x48754b(_0x3efeb3))throw new Error(_0x1d96d1(0x252));_0x13a539[_0x1d96d1(0x203)]=_0x3efeb3;}function _0x22ce22(_0x5eefac,_0x407b4b){if(typeof _0x407b4b!=='boolean')throw new Error('noUiSlider:\x20\x27keyboardSupport\x27\x20option\x20must\x20be\x20a\x20boolean.');_0x5eefac['keyboardSupport']=_0x407b4b;}function _0xe7a3d6(_0x3f2ea3,_0x20efde){_0x3f2ea3['documentElement']=_0x20efde;}function _0x1405d0(_0x40b53d,_0x3111b7){var _0x26cb04=_0x5df92e;if(typeof _0x3111b7!==_0x26cb04(0x210)&&_0x3111b7!==![])throw new Error(_0x26cb04(0x1bd));_0x40b53d['cssPrefix']=_0x3111b7;}function _0x332929(_0x21a96f,_0x373455){var _0x180bdb=_0x5df92e;if(typeof _0x373455!=='object')throw new Error(_0x180bdb(0x21f));typeof _0x21a96f[_0x180bdb(0x161)]==='string'?(_0x21a96f[_0x180bdb(0x1b0)]={},Object['keys'](_0x373455)[_0x180bdb(0x253)](function(_0x4083eb){var _0xb25215=_0x180bdb;_0x21a96f[_0xb25215(0x1b0)][_0x4083eb]=_0x21a96f[_0xb25215(0x161)]+_0x373455[_0x4083eb];})):_0x21a96f[_0x180bdb(0x1b0)]=_0x373455;}function _0x306dd6(_0x490915){var _0x3d811b=_0x5df92e,_0x21f7ce={'margin':null,'limit':null,'padding':null,'animate':!![],'animationDuration':0x12c,'ariaFormat':_0x1a40b8,'format':_0x1a40b8},_0x1704cb={'step':{'r':![],'t':_0x2e1d77},'keyboardPageMultiplier':{'r':![],'t':_0x4a0ca5},'keyboardMultiplier':{'r':![],'t':_0x3ec783},'keyboardDefaultStep':{'r':![],'t':_0x4031f1},'start':{'r':!![],'t':_0x584dc3},'connect':{'r':!![],'t':_0x25ea2f},'direction':{'r':!![],'t':_0x5e3e07},'snap':{'r':![],'t':_0x5b6e49},'animate':{'r':![],'t':_0x31b570},'animationDuration':{'r':![],'t':_0x1bd183},'range':{'r':!![],'t':_0x5037d1},'orientation':{'r':![],'t':_0x294992},'margin':{'r':![],'t':_0x4f2349},'limit':{'r':![],'t':_0x37d04c},'padding':{'r':![],'t':_0x426931},'behaviour':{'r':!![],'t':_0xd5e99d},'ariaFormat':{'r':![],'t':_0x2818f5},'format':{'r':![],'t':_0x1cb729},'tooltips':{'r':![],'t':_0x7d20ec},'keyboardSupport':{'r':!![],'t':_0x22ce22},'documentElement':{'r':![],'t':_0xe7a3d6},'cssPrefix':{'r':!![],'t':_0x1405d0},'cssClasses':{'r':!![],'t':_0x332929},'handleAttributes':{'r':![],'t':_0x2397c7}},_0x12e40b={'connect':![],'direction':'ltr','behaviour':_0x3d811b(0x197),'orientation':_0x3d811b(0x278),'keyboardSupport':!![],'cssPrefix':_0x3d811b(0x196),'cssClasses':_0x2ad6d4,'keyboardPageMultiplier':0x5,'keyboardMultiplier':0x1,'keyboardDefaultStep':0xa};_0x490915['format']&&!_0x490915[_0x3d811b(0x284)]&&(_0x490915['ariaFormat']=_0x490915['format']);Object[_0x3d811b(0x26c)](_0x1704cb)[_0x3d811b(0x253)](function(_0x94d58f){var _0x217546=_0x3d811b;if(!_0xf40e13(_0x490915[_0x94d58f])&&_0x12e40b[_0x94d58f]===undefined){if(_0x1704cb[_0x94d58f]['r'])throw new Error(_0x217546(0x16d)+_0x94d58f+_0x217546(0x1e2));return;}_0x1704cb[_0x94d58f]['t'](_0x21f7ce,!_0xf40e13(_0x490915[_0x94d58f])?_0x12e40b[_0x94d58f]:_0x490915[_0x94d58f]);}),_0x21f7ce['pips']=_0x490915[_0x3d811b(0x262)];var _0x58e31c=document[_0x3d811b(0x27c)](_0x3d811b(0x1d4)),_0x1ffbde=_0x58e31c['style'][_0x3d811b(0x25d)]!==undefined,_0xcaf28=_0x58e31c[_0x3d811b(0x1b7)]['transform']!==undefined;_0x21f7ce['transformRule']=_0xcaf28?'transform':_0x1ffbde?_0x3d811b(0x25d):_0x3d811b(0x19d);var _0x3df8f5=[[_0x3d811b(0x1ed),_0x3d811b(0x240)],['right',_0x3d811b(0x1e0)]];return _0x21f7ce[_0x3d811b(0x1b7)]=_0x3df8f5[_0x21f7ce[_0x3d811b(0x191)]][_0x21f7ce[_0x3d811b(0x178)]],_0x21f7ce;}function _0x118907(_0x3e17b7,_0x3ad8bb,_0x31a672){var _0x49ca6d=_0x5df92e,_0x45726a=_0x52d26c(),_0x1c9ace=_0x3581e6(),_0x549af3=_0x1c9ace&&_0x1a2983(),_0x585495=_0x3e17b7,_0x4d03b1,_0x5b36ae,_0x1e951f,_0x578674,_0x24ac8a,_0x6a58eb=_0x3ad8bb[_0x49ca6d(0x1b2)],_0x295cea=[],_0xf1a936=[],_0x310974=[],_0x1f282d=0x0,_0x11c66f={},_0x1fe0f5=_0x3e17b7['ownerDocument'],_0xd79ec5=_0x3ad8bb[_0x49ca6d(0x1f4)]||_0x1fe0f5[_0x49ca6d(0x1f4)],_0x4680eb=_0x1fe0f5['body'],_0x5d5a4b=_0x1fe0f5[_0x49ca6d(0x191)]===_0x49ca6d(0x1f9)||_0x3ad8bb[_0x49ca6d(0x178)]===0x1?0x0:0x64;function _0x39a673(_0x660482,_0x215462){var _0x3d718a=_0x49ca6d,_0x27284c=_0x1fe0f5['createElement']('div');return _0x215462&&_0x1c1e7e(_0x27284c,_0x215462),_0x660482[_0x3d718a(0x283)](_0x27284c),_0x27284c;}function _0x44d992(_0x114c3d,_0x24353b){var _0xb9684a=_0x49ca6d,_0xe6e355=_0x39a673(_0x114c3d,_0x3ad8bb[_0xb9684a(0x1b0)]['origin']),_0x193f38=_0x39a673(_0xe6e355,_0x3ad8bb[_0xb9684a(0x1b0)]['handle']);_0x39a673(_0x193f38,_0x3ad8bb[_0xb9684a(0x1b0)]['touchArea']),_0x193f38[_0xb9684a(0x24b)](_0xb9684a(0x1fd),String(_0x24353b));_0x3ad8bb['keyboardSupport']&&(_0x193f38[_0xb9684a(0x24b)](_0xb9684a(0x181),'0'),_0x193f38[_0xb9684a(0x1c7)](_0xb9684a(0x23c),function(_0x4a494e){return _0x3b6e9a(_0x4a494e,_0x24353b);}));if(_0x3ad8bb[_0xb9684a(0x263)]!==undefined){var _0x282e81=_0x3ad8bb['handleAttributes'][_0x24353b];Object[_0xb9684a(0x26c)](_0x282e81)['forEach'](function(_0x33f211){_0x193f38['setAttribute'](_0x33f211,_0x282e81[_0x33f211]);});}_0x193f38['setAttribute'](_0xb9684a(0x1eb),_0xb9684a(0x22c)),_0x193f38['setAttribute'](_0xb9684a(0x18d),_0x3ad8bb[_0xb9684a(0x178)]?_0xb9684a(0x222):_0xb9684a(0x278));if(_0x24353b===0x0)_0x1c1e7e(_0x193f38,_0x3ad8bb[_0xb9684a(0x1b0)][_0xb9684a(0x1e1)]);else _0x24353b===_0x3ad8bb[_0xb9684a(0x1e5)]-0x1&&_0x1c1e7e(_0x193f38,_0x3ad8bb[_0xb9684a(0x1b0)][_0xb9684a(0x21d)]);return _0xe6e355[_0xb9684a(0x1db)]=_0x193f38,_0xe6e355;}function _0x43fe60(_0x4bf638,_0x490836){var _0x5ca989=_0x49ca6d;if(!_0x490836)return![];return _0x39a673(_0x4bf638,_0x3ad8bb[_0x5ca989(0x1b0)][_0x5ca989(0x235)]);}function _0x52e4de(_0x2ccdcd,_0x5e068d){var _0x425d1b=_0x49ca6d,_0x4569cd=_0x39a673(_0x5e068d,_0x3ad8bb[_0x425d1b(0x1b0)][_0x425d1b(0x24a)]);_0x5b36ae=[],_0x1e951f=[],_0x1e951f[_0x425d1b(0x242)](_0x43fe60(_0x4569cd,_0x2ccdcd[0x0]));for(var _0x53160d=0x0;_0x53160d<_0x3ad8bb['handles'];_0x53160d++){_0x5b36ae[_0x425d1b(0x242)](_0x44d992(_0x5e068d,_0x53160d)),_0x310974[_0x53160d]=_0x53160d,_0x1e951f[_0x425d1b(0x242)](_0x43fe60(_0x4569cd,_0x2ccdcd[_0x53160d+0x1]));}}function _0xa6effe(_0x4b2810){var _0x751686=_0x49ca6d;_0x1c1e7e(_0x4b2810,_0x3ad8bb[_0x751686(0x1b0)][_0x751686(0x1cb)]);_0x3ad8bb[_0x751686(0x191)]===0x0?_0x1c1e7e(_0x4b2810,_0x3ad8bb[_0x751686(0x1b0)][_0x751686(0x247)]):_0x1c1e7e(_0x4b2810,_0x3ad8bb[_0x751686(0x1b0)]['rtl']);_0x3ad8bb['ort']===0x0?_0x1c1e7e(_0x4b2810,_0x3ad8bb[_0x751686(0x1b0)][_0x751686(0x278)]):_0x1c1e7e(_0x4b2810,_0x3ad8bb['cssClasses'][_0x751686(0x222)]);var _0x2d2419=getComputedStyle(_0x4b2810)[_0x751686(0x194)];return _0x2d2419===_0x751686(0x1f9)?_0x1c1e7e(_0x4b2810,_0x3ad8bb['cssClasses']['textDirectionRtl']):_0x1c1e7e(_0x4b2810,_0x3ad8bb['cssClasses'][_0x751686(0x189)]),_0x39a673(_0x4b2810,_0x3ad8bb[_0x751686(0x1b0)]['base']);}function _0x37c5c9(_0x5cb197,_0x69ff9e){var _0xcc8029=_0x49ca6d;if(!_0x3ad8bb[_0xcc8029(0x187)]||!_0x3ad8bb[_0xcc8029(0x187)][_0x69ff9e])return![];return _0x39a673(_0x5cb197[_0xcc8029(0x1de)],_0x3ad8bb[_0xcc8029(0x1b0)][_0xcc8029(0x208)]);}function _0x72e5de(){var _0x2ed88d=_0x49ca6d;return _0x585495[_0x2ed88d(0x18a)](_0x2ed88d(0x17d));}function _0x3211d2(_0x47a497){var _0x4bfbe7=_0x5b36ae[_0x47a497];return _0x4bfbe7['hasAttribute']('disabled');}function _0x546cc6(_0x37095b){var _0x575cd7=_0x49ca6d;_0x37095b!==null&&_0x37095b!==undefined?(_0x5b36ae[_0x37095b]['setAttribute']('disabled',''),_0x5b36ae[_0x37095b][_0x575cd7(0x1db)]['removeAttribute'](_0x575cd7(0x181))):(_0x585495[_0x575cd7(0x24b)](_0x575cd7(0x17d),''),_0x5b36ae['forEach'](function(_0x4b13bf){var _0xfc0df1=_0x575cd7;_0x4b13bf[_0xfc0df1(0x1db)][_0xfc0df1(0x1f1)]('tabindex');}));}function _0x3030f6(_0x406660){var _0x1c65ee=_0x49ca6d;_0x406660!==null&&_0x406660!==undefined?(_0x5b36ae[_0x406660][_0x1c65ee(0x1f1)](_0x1c65ee(0x17d)),_0x5b36ae[_0x406660][_0x1c65ee(0x1db)][_0x1c65ee(0x24b)]('tabindex','0')):(_0x585495['removeAttribute'](_0x1c65ee(0x17d)),_0x5b36ae[_0x1c65ee(0x253)](function(_0x1d1a57){var _0x507a52=_0x1c65ee;_0x1d1a57[_0x507a52(0x1f1)]('disabled'),_0x1d1a57[_0x507a52(0x1db)][_0x507a52(0x24b)](_0x507a52(0x181),'0');}));}function _0x1a5f4c(){var _0x1ad832=_0x49ca6d;_0x24ac8a&&(_0x4febe0(_0x1ad832(0x1a5)+_0x1a1e38['tooltips']),_0x24ac8a['forEach'](function(_0x10700c){_0x10700c&&_0xc4929e(_0x10700c);}),_0x24ac8a=null);}function _0x1393df(){var _0x450b87=_0x49ca6d;_0x1a5f4c(),_0x24ac8a=_0x5b36ae[_0x450b87(0x1c5)](_0x37c5c9),_0x462b30(_0x450b87(0x1a5)+_0x1a1e38[_0x450b87(0x187)],function(_0x179add,_0x290f3d,_0x2dc683){var _0x4fcf66=_0x450b87;if(!_0x24ac8a||!_0x3ad8bb[_0x4fcf66(0x187)])return;if(_0x24ac8a[_0x290f3d]===![])return;var _0x58ee9e=_0x179add[_0x290f3d];_0x3ad8bb[_0x4fcf66(0x187)][_0x290f3d]!==!![]&&(_0x58ee9e=_0x3ad8bb[_0x4fcf66(0x187)][_0x290f3d]['to'](_0x2dc683[_0x290f3d])),_0x24ac8a[_0x290f3d][_0x4fcf66(0x167)]=_0x58ee9e;});}function _0x307ec9(){var _0x622520=_0x49ca6d;_0x4febe0('update'+_0x1a1e38['aria']),_0x462b30('update'+_0x1a1e38[_0x622520(0x1f0)],function(_0x1369ff,_0x289da7,_0x4cfbe1,_0x49f806,_0x551f24){var _0x5e673d=_0x622520;_0x310974[_0x5e673d(0x253)](function(_0x3156ce){var _0x3c2ce3=_0x5e673d,_0x5bf041=_0x5b36ae[_0x3156ce],_0x4eb517=_0x3e221e(_0xf1a936,_0x3156ce,0x0,!![],!![],!![]),_0x2e218d=_0x3e221e(_0xf1a936,_0x3156ce,0x64,!![],!![],!![]),_0x25800b=_0x551f24[_0x3156ce],_0x4adcea=String(_0x3ad8bb['ariaFormat']['to'](_0x4cfbe1[_0x3156ce]));_0x4eb517=_0x6a58eb[_0x3c2ce3(0x1e8)](_0x4eb517)['toFixed'](0x1),_0x2e218d=_0x6a58eb[_0x3c2ce3(0x1e8)](_0x2e218d)['toFixed'](0x1),_0x25800b=_0x6a58eb[_0x3c2ce3(0x1e8)](_0x25800b)[_0x3c2ce3(0x1d3)](0x1),_0x5bf041[_0x3c2ce3(0x255)][0x0][_0x3c2ce3(0x24b)](_0x3c2ce3(0x1a4),_0x4eb517),_0x5bf041[_0x3c2ce3(0x255)][0x0][_0x3c2ce3(0x24b)](_0x3c2ce3(0x24f),_0x2e218d),_0x5bf041[_0x3c2ce3(0x255)][0x0][_0x3c2ce3(0x24b)](_0x3c2ce3(0x179),_0x25800b),_0x5bf041[_0x3c2ce3(0x255)][0x0]['setAttribute'](_0x3c2ce3(0x1fe),_0x4adcea);});});}function _0x1aa510(_0x1e0071){var _0x5c23ee=_0x49ca6d;if(_0x1e0071['mode']===_0x4b2004['Range']||_0x1e0071[_0x5c23ee(0x20d)]===_0x4b2004[_0x5c23ee(0x211)])return _0x6a58eb[_0x5c23ee(0x24d)];if(_0x1e0071['mode']===_0x4b2004[_0x5c23ee(0x224)]){if(_0x1e0071[_0x5c23ee(0x185)]<0x2)throw new Error('noUiSlider:\x20\x27values\x27\x20(>=\x202)\x20required\x20for\x20mode\x20\x27count\x27.');var _0x2988f2=_0x1e0071[_0x5c23ee(0x185)]-0x1,_0x58845=0x64/_0x2988f2,_0x513297=[];while(_0x2988f2--){_0x513297[_0x2988f2]=_0x2988f2*_0x58845;}return _0x513297[_0x5c23ee(0x242)](0x64),_0x23c129(_0x513297,_0x1e0071[_0x5c23ee(0x165)]);}if(_0x1e0071[_0x5c23ee(0x20d)]===_0x4b2004[_0x5c23ee(0x267)])return _0x23c129(_0x1e0071[_0x5c23ee(0x185)],_0x1e0071[_0x5c23ee(0x165)]);if(_0x1e0071[_0x5c23ee(0x20d)]===_0x4b2004[_0x5c23ee(0x1bc)]){if(_0x1e0071[_0x5c23ee(0x165)])return _0x1e0071[_0x5c23ee(0x185)][_0x5c23ee(0x1c5)](function(_0x3d5774){var _0x1fb292=_0x5c23ee;return _0x6a58eb['fromStepping'](_0x6a58eb[_0x1fb292(0x259)](_0x6a58eb[_0x1fb292(0x1af)](_0x3d5774)));});return _0x1e0071[_0x5c23ee(0x185)];}return[];}function _0x23c129(_0x10971e,_0x271075){var _0x26e696=_0x49ca6d;return _0x10971e[_0x26e696(0x1c5)](function(_0x1554f9){var _0x4125eb=_0x26e696;return _0x6a58eb['fromStepping'](_0x271075?_0x6a58eb[_0x4125eb(0x259)](_0x1554f9):_0x1554f9);});}function _0x3ffd4b(_0x208f22){var _0x40ddf6=_0x49ca6d;function _0x59b030(_0x5449ee,_0x5b6b80){return Number((_0x5449ee+_0x5b6b80)['toFixed'](0x7));}var _0x4cdeb1=_0x1aa510(_0x208f22),_0x1d92eb={},_0x186635=_0x6a58eb[_0x40ddf6(0x24d)][0x0],_0x5bc6fa=_0x6a58eb[_0x40ddf6(0x24d)][_0x6a58eb[_0x40ddf6(0x24d)][_0x40ddf6(0x214)]-0x1],_0xa745ac=![],_0x19d7f6=![],_0x9cc991=0x0;return _0x4cdeb1=_0x4644fe(_0x4cdeb1[_0x40ddf6(0x25a)]()['sort'](function(_0x163da5,_0x5f1cef){return _0x163da5-_0x5f1cef;})),_0x4cdeb1[0x0]!==_0x186635&&(_0x4cdeb1[_0x40ddf6(0x1be)](_0x186635),_0xa745ac=!![]),_0x4cdeb1[_0x4cdeb1[_0x40ddf6(0x214)]-0x1]!==_0x5bc6fa&&(_0x4cdeb1[_0x40ddf6(0x242)](_0x5bc6fa),_0x19d7f6=!![]),_0x4cdeb1[_0x40ddf6(0x253)](function(_0x264a5f,_0x45e9a0){var _0x406482=_0x40ddf6,_0x383aaa,_0x539277,_0x570fe2,_0x5cbfdf=_0x264a5f,_0xb0bb30=_0x4cdeb1[_0x45e9a0+0x1],_0x5c0acb,_0x4fd57b,_0x4faf1c,_0x5c3635,_0xe0c79d,_0x233e97,_0x427feb,_0x30f501=_0x208f22['mode']===_0x4b2004[_0x406482(0x211)];_0x30f501&&(_0x383aaa=_0x6a58eb[_0x406482(0x1b8)][_0x45e9a0]);!_0x383aaa&&(_0x383aaa=_0xb0bb30-_0x5cbfdf);_0xb0bb30===undefined&&(_0xb0bb30=_0x5cbfdf);_0x383aaa=Math[_0x406482(0x168)](_0x383aaa,1e-7);for(_0x539277=_0x5cbfdf;_0x539277<=_0xb0bb30;_0x539277=_0x59b030(_0x539277,_0x383aaa)){_0x5c0acb=_0x6a58eb[_0x406482(0x1af)](_0x539277),_0x4fd57b=_0x5c0acb-_0x9cc991,_0xe0c79d=_0x4fd57b/(_0x208f22[_0x406482(0x25c)]||0x1),_0x233e97=Math[_0x406482(0x19b)](_0xe0c79d),_0x427feb=_0x4fd57b/_0x233e97;for(_0x570fe2=0x1;_0x570fe2<=_0x233e97;_0x570fe2+=0x1){_0x4faf1c=_0x9cc991+_0x570fe2*_0x427feb,_0x1d92eb[_0x4faf1c[_0x406482(0x1d3)](0x5)]=[_0x6a58eb['fromStepping'](_0x4faf1c),0x0];}_0x5c3635=_0x4cdeb1[_0x406482(0x285)](_0x539277)>-0x1?_0x2adfb3[_0x406482(0x257)]:_0x30f501?_0x2adfb3[_0x406482(0x258)]:_0x2adfb3['NoValue'],!_0x45e9a0&&_0xa745ac&&_0x539277!==_0xb0bb30&&(_0x5c3635=0x0),!(_0x539277===_0xb0bb30&&_0x19d7f6)&&(_0x1d92eb[_0x5c0acb[_0x406482(0x1d3)](0x5)]=[_0x539277,_0x5c3635]),_0x9cc991=_0x5c0acb;}}),_0x1d92eb;}function _0x2b8bd0(_0x12eb21,_0xa6646f,_0x375c74){var _0x1c1f3a=_0x49ca6d,_0x37ea0f,_0x5905b3,_0xb1180=_0x1fe0f5[_0x1c1f3a(0x27c)]('div'),_0x5d0584=(_0x37ea0f={},_0x37ea0f[_0x2adfb3[_0x1c1f3a(0x223)]]='',_0x37ea0f[_0x2adfb3[_0x1c1f3a(0x204)]]=_0x3ad8bb[_0x1c1f3a(0x1b0)][_0x1c1f3a(0x1ef)],_0x37ea0f[_0x2adfb3[_0x1c1f3a(0x257)]]=_0x3ad8bb[_0x1c1f3a(0x1b0)][_0x1c1f3a(0x160)],_0x37ea0f[_0x2adfb3['SmallValue']]=_0x3ad8bb[_0x1c1f3a(0x1b0)]['valueSub'],_0x37ea0f),_0x24c3cd=(_0x5905b3={},_0x5905b3[_0x2adfb3['None']]='',_0x5905b3[_0x2adfb3[_0x1c1f3a(0x204)]]=_0x3ad8bb['cssClasses']['markerNormal'],_0x5905b3[_0x2adfb3[_0x1c1f3a(0x257)]]=_0x3ad8bb[_0x1c1f3a(0x1b0)]['markerLarge'],_0x5905b3[_0x2adfb3[_0x1c1f3a(0x258)]]=_0x3ad8bb[_0x1c1f3a(0x1b0)][_0x1c1f3a(0x1c8)],_0x5905b3),_0xe79216=[_0x3ad8bb['cssClasses'][_0x1c1f3a(0x206)],_0x3ad8bb[_0x1c1f3a(0x1b0)][_0x1c1f3a(0x23f)]],_0x5b6d68=[_0x3ad8bb['cssClasses'][_0x1c1f3a(0x215)],_0x3ad8bb['cssClasses'][_0x1c1f3a(0x173)]];_0x1c1e7e(_0xb1180,_0x3ad8bb[_0x1c1f3a(0x1b0)][_0x1c1f3a(0x262)]),_0x1c1e7e(_0xb1180,_0x3ad8bb[_0x1c1f3a(0x178)]===0x0?_0x3ad8bb[_0x1c1f3a(0x1b0)]['pipsHorizontal']:_0x3ad8bb['cssClasses'][_0x1c1f3a(0x287)]);function _0x2900aa(_0x1be51f,_0x4b8e28){var _0xe23ff7=_0x1c1f3a,_0x3a1f52=_0x4b8e28===_0x3ad8bb[_0xe23ff7(0x1b0)][_0xe23ff7(0x22e)],_0x301c6f=_0x3a1f52?_0xe79216:_0x5b6d68,_0x1e06cb=_0x3a1f52?_0x5d0584:_0x24c3cd;return _0x4b8e28+'\x20'+_0x301c6f[_0x3ad8bb[_0xe23ff7(0x178)]]+'\x20'+_0x1e06cb[_0x1be51f];}function _0x488d67(_0x2f4c3b,_0x3528b7,_0x54eb4e){var _0x3fc87b=_0x1c1f3a;_0x54eb4e=_0xa6646f?_0xa6646f(_0x3528b7,_0x54eb4e):_0x54eb4e;if(_0x54eb4e===_0x2adfb3[_0x3fc87b(0x223)])return;var _0x461ed=_0x39a673(_0xb1180,![]);_0x461ed[_0x3fc87b(0x183)]=_0x2900aa(_0x54eb4e,_0x3ad8bb[_0x3fc87b(0x1b0)][_0x3fc87b(0x205)]),_0x461ed[_0x3fc87b(0x1b7)][_0x3ad8bb['style']]=_0x2f4c3b+'%',_0x54eb4e>_0x2adfb3['NoValue']&&(_0x461ed=_0x39a673(_0xb1180,![]),_0x461ed[_0x3fc87b(0x183)]=_0x2900aa(_0x54eb4e,_0x3ad8bb[_0x3fc87b(0x1b0)][_0x3fc87b(0x22e)]),_0x461ed[_0x3fc87b(0x24b)]('data-value',String(_0x3528b7)),_0x461ed[_0x3fc87b(0x1b7)][_0x3ad8bb[_0x3fc87b(0x1b7)]]=_0x2f4c3b+'%',_0x461ed[_0x3fc87b(0x167)]=String(_0x375c74['to'](_0x3528b7)));}return Object['keys'](_0x12eb21)['forEach'](function(_0x2275f8){_0x488d67(_0x2275f8,_0x12eb21[_0x2275f8][0x0],_0x12eb21[_0x2275f8][0x1]);}),_0xb1180;}function _0x22e255(){_0x578674&&(_0xc4929e(_0x578674),_0x578674=null);}function _0x23108f(_0x121a28){var _0x4c3c37=_0x49ca6d;_0x22e255();var _0x568ecf=_0x3ffd4b(_0x121a28),_0x1374f3=_0x121a28[_0x4c3c37(0x219)],_0x1107b9=_0x121a28[_0x4c3c37(0x203)]||{'to':function(_0xa53b21){return String(Math['round'](_0xa53b21));}};return _0x578674=_0x585495[_0x4c3c37(0x283)](_0x2b8bd0(_0x568ecf,_0x1374f3,_0x1107b9)),_0x578674;}function _0x37e15a(){var _0x19270e=_0x49ca6d,_0x5787ae=_0x4d03b1['getBoundingClientRect'](),_0x45efe8='offset'+[_0x19270e(0x274),_0x19270e(0x1b4)][_0x3ad8bb['ort']];return _0x3ad8bb[_0x19270e(0x178)]===0x0?_0x5787ae[_0x19270e(0x18c)]||_0x4d03b1[_0x45efe8]:_0x5787ae[_0x19270e(0x1a9)]||_0x4d03b1[_0x45efe8];}function _0x4b7487(_0x5e39cc,_0x17305b,_0x4efe78,_0x483421){var _0x5670f3=_0x49ca6d,_0x24a511=function(_0xd2ab84){var _0x4b0b2a=a65_0x5364,_0x3fced9=_0x43ac75(_0xd2ab84,_0x483421[_0x4b0b2a(0x17c)],_0x483421[_0x4b0b2a(0x1cb)]||_0x17305b);if(!_0x3fced9)return![];if(_0x72e5de()&&!_0x483421[_0x4b0b2a(0x230)])return![];if(_0x3c8bb5(_0x585495,_0x3ad8bb['cssClasses']['tap'])&&!_0x483421[_0x4b0b2a(0x230)])return![];if(_0x5e39cc===_0x45726a[_0x4b0b2a(0x25b)]&&_0x3fced9[_0x4b0b2a(0x24c)]!==undefined&&_0x3fced9[_0x4b0b2a(0x24c)]>0x1)return![];if(_0x483421[_0x4b0b2a(0x217)]&&_0x3fced9[_0x4b0b2a(0x24c)])return![];!_0x549af3&&_0x3fced9['preventDefault']();_0x3fced9[_0x4b0b2a(0x1a2)]=_0x3fced9[_0x4b0b2a(0x1e4)][_0x3ad8bb[_0x4b0b2a(0x178)]],_0x4efe78(_0x3fced9,_0x483421);return;},_0x24b3e3=[];return _0x5e39cc[_0x5670f3(0x27e)]('\x20')['forEach'](function(_0x29bdde){var _0x210971=_0x5670f3;_0x17305b['addEventListener'](_0x29bdde,_0x24a511,_0x549af3?{'passive':!![]}:![]),_0x24b3e3[_0x210971(0x242)]([_0x29bdde,_0x24a511]);}),_0x24b3e3;}function _0x43ac75(_0x5c59c7,_0x56b063,_0x538a31){var _0x568e6e=_0x49ca6d,_0x17b54d=_0x5c59c7['type'][_0x568e6e(0x285)](_0x568e6e(0x1c1))===0x0,_0x4fe583=_0x5c59c7['type'][_0x568e6e(0x285)](_0x568e6e(0x261))===0x0,_0x2b6804=_0x5c59c7['type'][_0x568e6e(0x285)](_0x568e6e(0x1a6))===0x0,_0x45189d=0x0,_0x222a77=0x0;_0x5c59c7[_0x568e6e(0x1ff)]['indexOf'](_0x568e6e(0x16f))===0x0&&(_0x2b6804=!![]);if(_0x5c59c7[_0x568e6e(0x1ff)]===_0x568e6e(0x1f8)&&!_0x5c59c7[_0x568e6e(0x24c)]&&!_0x5c59c7[_0x568e6e(0x239)])return![];if(_0x17b54d){var _0x10ce1e=function(_0x5779c2){var _0x5e1e4b=_0x568e6e,_0x26d248=_0x5779c2[_0x5e1e4b(0x1cb)];return _0x26d248===_0x538a31||_0x538a31[_0x5e1e4b(0x277)](_0x26d248)||_0x5c59c7['composed']&&_0x5c59c7[_0x5e1e4b(0x19c)]()[_0x5e1e4b(0x1ba)]()===_0x538a31;};if(_0x5c59c7[_0x568e6e(0x1ff)]===_0x568e6e(0x22d)){var _0x481914=Array['prototype'][_0x568e6e(0x219)][_0x568e6e(0x16e)](_0x5c59c7[_0x568e6e(0x239)],_0x10ce1e);if(_0x481914[_0x568e6e(0x214)]>0x1)return![];_0x45189d=_0x481914[0x0][_0x568e6e(0x202)],_0x222a77=_0x481914[0x0][_0x568e6e(0x171)];}else{var _0x328555=Array[_0x568e6e(0x273)][_0x568e6e(0x16b)]['call'](_0x5c59c7[_0x568e6e(0x175)],_0x10ce1e);if(!_0x328555)return![];_0x45189d=_0x328555['pageX'],_0x222a77=_0x328555[_0x568e6e(0x171)];}}return _0x56b063=_0x56b063||_0x539b7d(_0x1fe0f5),(_0x4fe583||_0x2b6804)&&(_0x45189d=_0x5c59c7[_0x568e6e(0x1a8)]+_0x56b063['x'],_0x222a77=_0x5c59c7[_0x568e6e(0x1ec)]+_0x56b063['y']),_0x5c59c7[_0x568e6e(0x17c)]=_0x56b063,_0x5c59c7['points']=[_0x45189d,_0x222a77],_0x5c59c7[_0x568e6e(0x1c4)]=_0x4fe583||_0x2b6804,_0x5c59c7;}function _0x194899(_0x4d53ff){var _0x399078=_0x49ca6d,_0x538fed=_0x4d53ff-_0x3ab24b(_0x4d03b1,_0x3ad8bb[_0x399078(0x178)]),_0x55973c=_0x538fed*0x64/_0x37e15a();return _0x55973c=_0x1869bf(_0x55973c),_0x3ad8bb[_0x399078(0x191)]?0x64-_0x55973c:_0x55973c;}function _0xc38f03(_0x17ac84){var _0x31d6a8=_0x49ca6d,_0x434c67=0x64,_0x48c795=![];return _0x5b36ae[_0x31d6a8(0x253)](function(_0x5f714,_0x37e7a6){var _0x202556=_0x31d6a8;if(_0x3211d2(_0x37e7a6))return;var _0x3d80fd=_0xf1a936[_0x37e7a6],_0x49fd89=Math[_0x202556(0x1fb)](_0x3d80fd-_0x17ac84),_0x46d81a=_0x49fd89===0x64&&_0x434c67===0x64,_0x384b11=_0x49fd89<_0x434c67,_0x40b9ed=_0x49fd89<=_0x434c67&&_0x17ac84>_0x3d80fd;(_0x384b11||_0x40b9ed||_0x46d81a)&&(_0x48c795=_0x37e7a6,_0x434c67=_0x49fd89);}),_0x48c795;}function _0x4b6039(_0x5b26a3,_0x4c698e){var _0x3149ea=_0x49ca6d;_0x5b26a3[_0x3149ea(0x1ff)]===_0x3149ea(0x1e3)&&_0x5b26a3[_0x3149ea(0x1cb)]['nodeName']==='HTML'&&_0x5b26a3[_0x3149ea(0x226)]===null&&_0x39754f(_0x5b26a3,_0x4c698e);}function _0x4b78cd(_0x30b23a,_0x3822e6){var _0x24b678=_0x49ca6d;if(navigator[_0x24b678(0x268)][_0x24b678(0x285)](_0x24b678(0x1aa))===-0x1&&_0x30b23a[_0x24b678(0x24c)]===0x0&&_0x3822e6[_0x24b678(0x188)]!==0x0)return _0x39754f(_0x30b23a,_0x3822e6);var _0x73e133=(_0x3ad8bb[_0x24b678(0x191)]?-0x1:0x1)*(_0x30b23a['calcPoint']-_0x3822e6[_0x24b678(0x1d8)]),_0x18956b=_0x73e133*0x64/_0x3822e6[_0x24b678(0x1a1)];_0x46b583(_0x73e133>0x0,_0x18956b,_0x3822e6[_0x24b678(0x177)],_0x3822e6['handleNumbers'],_0x3822e6['connect']);}function _0x39754f(_0x527d77,_0x94e497){var _0x4a81d0=_0x49ca6d;_0x94e497[_0x4a81d0(0x1db)]&&(_0xd5ad87(_0x94e497[_0x4a81d0(0x1db)],_0x3ad8bb[_0x4a81d0(0x1b0)][_0x4a81d0(0x186)]),_0x1f282d-=0x1),_0x94e497[_0x4a81d0(0x245)][_0x4a81d0(0x253)](function(_0x314d12){_0xd79ec5['removeEventListener'](_0x314d12[0x0],_0x314d12[0x1]);}),_0x1f282d===0x0&&(_0xd5ad87(_0x585495,_0x3ad8bb[_0x4a81d0(0x1b0)][_0x4a81d0(0x201)]),_0x4ef774(),_0x527d77[_0x4a81d0(0x1c4)]&&(_0x4680eb[_0x4a81d0(0x1b7)]['cursor']='',_0x4680eb[_0x4a81d0(0x218)](_0x4a81d0(0x163),_0x4e0fef))),_0x3ad8bb[_0x4a81d0(0x1cc)][_0x4a81d0(0x260)]&&(_0x94e497['handleNumbers'][_0x4a81d0(0x253)](function(_0x3a4b88){_0x27efaa(_0x3a4b88,_0xf1a936[_0x3a4b88],!![],!![],![],![]);}),_0x94e497[_0x4a81d0(0x1a0)][_0x4a81d0(0x253)](function(_0x43e8af){var _0x2cb328=_0x4a81d0;_0x241a10(_0x2cb328(0x1a5),_0x43e8af);})),_0x94e497[_0x4a81d0(0x1a0)][_0x4a81d0(0x253)](function(_0x56dbdb){_0x241a10('change',_0x56dbdb),_0x241a10('set',_0x56dbdb),_0x241a10('end',_0x56dbdb);});}function _0x326918(_0x36deda,_0x1047a2){var _0x53156b=_0x49ca6d;if(_0x1047a2[_0x53156b(0x1a0)]['some'](_0x3211d2))return;var _0x74ef30;if(_0x1047a2[_0x53156b(0x1a0)][_0x53156b(0x214)]===0x1){var _0x2a3e53=_0x5b36ae[_0x1047a2[_0x53156b(0x1a0)][0x0]];_0x74ef30=_0x2a3e53[_0x53156b(0x255)][0x0],_0x1f282d+=0x1,_0x1c1e7e(_0x74ef30,_0x3ad8bb[_0x53156b(0x1b0)]['active']);}_0x36deda[_0x53156b(0x1d0)]();var _0x5cdfb6=[],_0x2564d9=_0x4b7487(_0x45726a['move'],_0xd79ec5,_0x4b78cd,{'target':_0x36deda[_0x53156b(0x1cb)],'handle':_0x74ef30,'connect':_0x1047a2[_0x53156b(0x235)],'listeners':_0x5cdfb6,'startCalcPoint':_0x36deda[_0x53156b(0x1a2)],'baseSize':_0x37e15a(),'pageOffset':_0x36deda['pageOffset'],'handleNumbers':_0x1047a2[_0x53156b(0x1a0)],'buttonsProperty':_0x36deda[_0x53156b(0x24c)],'locations':_0xf1a936[_0x53156b(0x25a)]()}),_0x48e92e=_0x4b7487(_0x45726a[_0x53156b(0x1ce)],_0xd79ec5,_0x39754f,{'target':_0x36deda[_0x53156b(0x1cb)],'handle':_0x74ef30,'listeners':_0x5cdfb6,'doNotReject':!![],'handleNumbers':_0x1047a2['handleNumbers']}),_0x5279de=_0x4b7487(_0x53156b(0x1e3),_0xd79ec5,_0x4b6039,{'target':_0x36deda['target'],'handle':_0x74ef30,'listeners':_0x5cdfb6,'doNotReject':!![],'handleNumbers':_0x1047a2[_0x53156b(0x1a0)]});_0x5cdfb6['push'][_0x53156b(0x270)](_0x5cdfb6,_0x2564d9[_0x53156b(0x1ae)](_0x48e92e,_0x5279de)),_0x36deda[_0x53156b(0x1c4)]&&(_0x4680eb[_0x53156b(0x1b7)][_0x53156b(0x1c4)]=getComputedStyle(_0x36deda['target'])[_0x53156b(0x1c4)],_0x5b36ae[_0x53156b(0x214)]>0x1&&_0x1c1e7e(_0x585495,_0x3ad8bb[_0x53156b(0x1b0)][_0x53156b(0x201)]),_0x4680eb['addEventListener']('selectstart',_0x4e0fef,![])),_0x1047a2['handleNumbers'][_0x53156b(0x253)](function(_0x290da5){var _0x2a010c=_0x53156b;_0x241a10(_0x2a010c(0x25b),_0x290da5);});}function _0x209cd5(_0x30a36c){var _0x55262a=_0x49ca6d;_0x30a36c[_0x55262a(0x1d0)]();var _0x21f265=_0x194899(_0x30a36c[_0x55262a(0x1a2)]),_0x2e9c38=_0xc38f03(_0x21f265);if(_0x2e9c38===![])return;!_0x3ad8bb[_0x55262a(0x1cc)][_0x55262a(0x233)]&&_0x577b3a(_0x585495,_0x3ad8bb[_0x55262a(0x1b0)][_0x55262a(0x197)],_0x3ad8bb[_0x55262a(0x256)]),_0x27efaa(_0x2e9c38,_0x21f265,!![],!![]),_0x4ef774(),_0x241a10('slide',_0x2e9c38,!![]),_0x241a10('update',_0x2e9c38,!![]),!_0x3ad8bb['events'][_0x55262a(0x233)]?(_0x241a10(_0x55262a(0x271),_0x2e9c38,!![]),_0x241a10(_0x55262a(0x15f),_0x2e9c38,!![])):_0x326918(_0x30a36c,{'handleNumbers':[_0x2e9c38]});}function _0x446851(_0x24add1){var _0xf6bddb=_0x49ca6d,_0x180cef=_0x194899(_0x24add1[_0xf6bddb(0x1a2)]),_0x1cb640=_0x6a58eb['getStep'](_0x180cef),_0x1c7a60=_0x6a58eb[_0xf6bddb(0x1e8)](_0x1cb640);Object[_0xf6bddb(0x26c)](_0x11c66f)[_0xf6bddb(0x253)](function(_0x534507){var _0x1c2534=_0xf6bddb;_0x1c2534(0x217)===_0x534507[_0x1c2534(0x27e)]('.')[0x0]&&_0x11c66f[_0x534507][_0x1c2534(0x253)](function(_0x29cb68){var _0xfe4387=_0x1c2534;_0x29cb68[_0xfe4387(0x16e)](_0x26c027,_0x1c7a60);});});}function _0x3b6e9a(_0x81687e,_0x27782c){var _0x156b45=_0x49ca6d;if(_0x72e5de()||_0x3211d2(_0x27782c))return![];var _0x5d4180=[_0x156b45(0x1a7),_0x156b45(0x244)],_0x5d313b=['Down','Up'],_0x8adb4c=[_0x156b45(0x1f3),_0x156b45(0x20b)],_0x2548e8=['Home',_0x156b45(0x23e)];if(_0x3ad8bb['dir']&&!_0x3ad8bb[_0x156b45(0x178)])_0x5d4180[_0x156b45(0x264)]();else _0x3ad8bb['ort']&&!_0x3ad8bb['dir']&&(_0x5d313b[_0x156b45(0x264)](),_0x8adb4c[_0x156b45(0x264)]());var _0x4bfd24=_0x81687e['key'][_0x156b45(0x20c)](_0x156b45(0x286),''),_0x166c36=_0x4bfd24===_0x8adb4c[0x0],_0x9aecee=_0x4bfd24===_0x8adb4c[0x1],_0x4f090c=_0x4bfd24===_0x5d313b[0x0]||_0x4bfd24===_0x5d4180[0x0]||_0x166c36,_0xd15e87=_0x4bfd24===_0x5d313b[0x1]||_0x4bfd24===_0x5d4180[0x1]||_0x9aecee,_0x3405c1=_0x4bfd24===_0x2548e8[0x0],_0xfd433c=_0x4bfd24===_0x2548e8[0x1];if(!_0x4f090c&&!_0xd15e87&&!_0x3405c1&&!_0xfd433c)return!![];_0x81687e[_0x156b45(0x26b)]();var _0x38a3dc;if(_0xd15e87||_0x4f090c){var _0x1e0567=_0x4f090c?0x0:0x1,_0x49c1e6=_0x32aa5e(_0x27782c),_0x59b90c=_0x49c1e6[_0x1e0567];if(_0x59b90c===null)return![];_0x59b90c===![]&&(_0x59b90c=_0x6a58eb[_0x156b45(0x1c0)](_0xf1a936[_0x27782c],_0x4f090c,_0x3ad8bb[_0x156b45(0x19f)])),_0x9aecee||_0x166c36?_0x59b90c*=_0x3ad8bb[_0x156b45(0x1bf)]:_0x59b90c*=_0x3ad8bb[_0x156b45(0x164)],_0x59b90c=Math[_0x156b45(0x168)](_0x59b90c,1e-7),_0x59b90c=(_0x4f090c?-0x1:0x1)*_0x59b90c,_0x38a3dc=_0x295cea[_0x27782c]+_0x59b90c;}else _0xfd433c?_0x38a3dc=_0x3ad8bb[_0x156b45(0x1b2)]['xVal'][_0x3ad8bb[_0x156b45(0x1b2)][_0x156b45(0x24d)][_0x156b45(0x214)]-0x1]:_0x38a3dc=_0x3ad8bb['spectrum'][_0x156b45(0x24d)][0x0];return _0x27efaa(_0x27782c,_0x6a58eb[_0x156b45(0x1af)](_0x38a3dc),!![],!![]),_0x241a10(_0x156b45(0x1ab),_0x27782c),_0x241a10(_0x156b45(0x1a5),_0x27782c),_0x241a10(_0x156b45(0x271),_0x27782c),_0x241a10(_0x156b45(0x15f),_0x27782c),![];}function _0x15d857(_0x309512){var _0x8dcef3=_0x49ca6d;!_0x309512[_0x8dcef3(0x1dd)]&&_0x5b36ae[_0x8dcef3(0x253)](function(_0x3fdd99,_0x4c5359){var _0x4b7c9f=_0x8dcef3;_0x4b7487(_0x45726a[_0x4b7c9f(0x25b)],_0x3fdd99[_0x4b7c9f(0x255)][0x0],_0x326918,{'handleNumbers':[_0x4c5359]});}),_0x309512[_0x8dcef3(0x197)]&&_0x4b7487(_0x45726a[_0x8dcef3(0x25b)],_0x4d03b1,_0x209cd5,{}),_0x309512['hover']&&_0x4b7487(_0x45726a[_0x8dcef3(0x279)],_0x4d03b1,_0x446851,{'hover':!![]}),_0x309512[_0x8dcef3(0x201)]&&_0x1e951f['forEach'](function(_0x228010,_0x1a4d0f){var _0x48fd47=_0x8dcef3;if(_0x228010===![]||_0x1a4d0f===0x0||_0x1a4d0f===_0x1e951f[_0x48fd47(0x214)]-0x1)return;var _0x546dde=_0x5b36ae[_0x1a4d0f-0x1],_0xc02712=_0x5b36ae[_0x1a4d0f],_0x2a4f5f=[_0x228010],_0x337f76=[_0x546dde,_0xc02712],_0x397625=[_0x1a4d0f-0x1,_0x1a4d0f];_0x1c1e7e(_0x228010,_0x3ad8bb[_0x48fd47(0x1b0)][_0x48fd47(0x1d9)]),_0x309512['fixed']&&(_0x2a4f5f[_0x48fd47(0x242)](_0x546dde[_0x48fd47(0x255)][0x0]),_0x2a4f5f[_0x48fd47(0x242)](_0xc02712[_0x48fd47(0x255)][0x0])),_0x309512[_0x48fd47(0x1ee)]&&(_0x337f76=_0x5b36ae,_0x397625=_0x310974),_0x2a4f5f[_0x48fd47(0x253)](function(_0x2acd8f){var _0xa9e866=_0x48fd47;_0x4b7487(_0x45726a[_0xa9e866(0x25b)],_0x2acd8f,_0x326918,{'handles':_0x337f76,'handleNumbers':_0x397625,'connect':_0x228010});});});}function _0x462b30(_0x396286,_0x1a734f){var _0x3c294e=_0x49ca6d;_0x11c66f[_0x396286]=_0x11c66f[_0x396286]||[],_0x11c66f[_0x396286][_0x3c294e(0x242)](_0x1a734f),_0x396286['split']('.')[0x0]==='update'&&_0x5b36ae['forEach'](function(_0x509367,_0x5b36ff){_0x241a10('update',_0x5b36ff);});}function _0x3ce62a(_0x5ac06d){var _0x205117=_0x49ca6d;return _0x5ac06d===_0x1a1e38[_0x205117(0x1f0)]||_0x5ac06d===_0x1a1e38[_0x205117(0x187)];}function _0x4febe0(_0x3430de){var _0x52c970=_0x49ca6d,_0x16a0d1=_0x3430de&&_0x3430de['split']('.')[0x0],_0x3cddcf=_0x16a0d1?_0x3430de['substring'](_0x16a0d1[_0x52c970(0x214)]):_0x3430de;Object[_0x52c970(0x26c)](_0x11c66f)[_0x52c970(0x253)](function(_0x37c36f){var _0x1ac795=_0x52c970,_0x5cb2ff=_0x37c36f[_0x1ac795(0x27e)]('.')[0x0],_0x5e3737=_0x37c36f['substring'](_0x5cb2ff[_0x1ac795(0x214)]);(!_0x16a0d1||_0x16a0d1===_0x5cb2ff)&&(!_0x3cddcf||_0x3cddcf===_0x5e3737)&&((!_0x3ce62a(_0x5e3737)||_0x3cddcf===_0x5e3737)&&delete _0x11c66f[_0x37c36f]);});}function _0x241a10(_0x4c54bf,_0x4d87a3,_0x3520ad){Object['keys'](_0x11c66f)['forEach'](function(_0x311a25){var _0x498924=a65_0x5364,_0x24c11f=_0x311a25['split']('.')[0x0];_0x4c54bf===_0x24c11f&&_0x11c66f[_0x311a25][_0x498924(0x253)](function(_0x1cdce0){var _0x4b3ac7=_0x498924;_0x1cdce0['call'](_0x26c027,_0x295cea[_0x4b3ac7(0x1c5)](_0x3ad8bb[_0x4b3ac7(0x203)]['to']),_0x4d87a3,_0x295cea[_0x4b3ac7(0x25a)](),_0x3520ad||![],_0xf1a936[_0x4b3ac7(0x25a)](),_0x26c027);});});}function _0x3e221e(_0x4f3286,_0x7cc538,_0x4e16fb,_0x5e38ee,_0xf183e2,_0xc534e1,_0x38a9d8){var _0x148513=_0x49ca6d,_0x46efa1;_0x5b36ae[_0x148513(0x214)]>0x1&&!_0x3ad8bb[_0x148513(0x1cc)][_0x148513(0x26a)]&&(_0x5e38ee&&_0x7cc538>0x0&&(_0x46efa1=_0x6a58eb['getAbsoluteDistance'](_0x4f3286[_0x7cc538-0x1],_0x3ad8bb['margin'],![]),_0x4e16fb=Math['max'](_0x4e16fb,_0x46efa1)),_0xf183e2&&_0x7cc538<_0x5b36ae[_0x148513(0x214)]-0x1&&(_0x46efa1=_0x6a58eb[_0x148513(0x266)](_0x4f3286[_0x7cc538+0x1],_0x3ad8bb['margin'],!![]),_0x4e16fb=Math[_0x148513(0x281)](_0x4e16fb,_0x46efa1)));_0x5b36ae['length']>0x1&&_0x3ad8bb[_0x148513(0x193)]&&(_0x5e38ee&&_0x7cc538>0x0&&(_0x46efa1=_0x6a58eb[_0x148513(0x266)](_0x4f3286[_0x7cc538-0x1],_0x3ad8bb[_0x148513(0x193)],![]),_0x4e16fb=Math['min'](_0x4e16fb,_0x46efa1)),_0xf183e2&&_0x7cc538<_0x5b36ae['length']-0x1&&(_0x46efa1=_0x6a58eb[_0x148513(0x266)](_0x4f3286[_0x7cc538+0x1],_0x3ad8bb[_0x148513(0x193)],!![]),_0x4e16fb=Math['max'](_0x4e16fb,_0x46efa1)));_0x3ad8bb[_0x148513(0x246)]&&(_0x7cc538===0x0&&(_0x46efa1=_0x6a58eb[_0x148513(0x266)](0x0,_0x3ad8bb[_0x148513(0x246)][0x0],![]),_0x4e16fb=Math['max'](_0x4e16fb,_0x46efa1)),_0x7cc538===_0x5b36ae[_0x148513(0x214)]-0x1&&(_0x46efa1=_0x6a58eb['getAbsoluteDistance'](0x64,_0x3ad8bb[_0x148513(0x246)][0x1],!![]),_0x4e16fb=Math[_0x148513(0x281)](_0x4e16fb,_0x46efa1)));!_0x38a9d8&&(_0x4e16fb=_0x6a58eb['getStep'](_0x4e16fb));_0x4e16fb=_0x1869bf(_0x4e16fb);if(_0x4e16fb===_0x4f3286[_0x7cc538]&&!_0xc534e1)return![];return _0x4e16fb;}function _0x4f0a55(_0x4b9c40,_0x28ccdc){var _0x204b10=_0x49ca6d,_0x312bc9=_0x3ad8bb[_0x204b10(0x178)];return(_0x312bc9?_0x28ccdc:_0x4b9c40)+',\x20'+(_0x312bc9?_0x4b9c40:_0x28ccdc);}function _0x46b583(_0x162357,_0x31c273,_0x2ae9cf,_0x377533,_0x50e745){var _0xc5e5f6=_0x49ca6d,_0x359c1c=_0x2ae9cf[_0xc5e5f6(0x25a)](),_0x3883c6=_0x377533[0x0],_0x32c498=_0x3ad8bb['events'][_0xc5e5f6(0x260)],_0x15f930=[!_0x162357,_0x162357],_0x1b6d50=[_0x162357,!_0x162357];_0x377533=_0x377533[_0xc5e5f6(0x25a)]();_0x162357&&_0x377533['reverse']();_0x377533[_0xc5e5f6(0x214)]>0x1?_0x377533[_0xc5e5f6(0x253)](function(_0x52e1f3,_0x5d6934){var _0x4ce19b=_0x3e221e(_0x359c1c,_0x52e1f3,_0x359c1c[_0x52e1f3]+_0x31c273,_0x15f930[_0x5d6934],_0x1b6d50[_0x5d6934],![],_0x32c498);_0x4ce19b===![]?_0x31c273=0x0:(_0x31c273=_0x4ce19b-_0x359c1c[_0x52e1f3],_0x359c1c[_0x52e1f3]=_0x4ce19b);}):_0x15f930=_0x1b6d50=[!![]];var _0x1439a3=![];_0x377533[_0xc5e5f6(0x253)](function(_0x4dc631,_0x10d6b3){_0x1439a3=_0x27efaa(_0x4dc631,_0x2ae9cf[_0x4dc631]+_0x31c273,_0x15f930[_0x10d6b3],_0x1b6d50[_0x10d6b3],![],_0x32c498)||_0x1439a3;}),_0x1439a3&&(_0x377533[_0xc5e5f6(0x253)](function(_0x582f0b){var _0x29ec32=_0xc5e5f6;_0x241a10('update',_0x582f0b),_0x241a10(_0x29ec32(0x1ab),_0x582f0b);}),_0x50e745!=undefined&&_0x241a10('drag',_0x3883c6));}function _0x256216(_0x442393,_0x32babf){return _0x3ad8bb['dir']?0x64-_0x442393-_0x32babf:_0x442393;}function _0x43da7b(_0x3a7bc2,_0x55df68){var _0x9dc16c=_0x49ca6d;_0xf1a936[_0x3a7bc2]=_0x55df68,_0x295cea[_0x3a7bc2]=_0x6a58eb[_0x9dc16c(0x1e8)](_0x55df68);var _0x45c635=_0x256216(_0x55df68,0x0)-_0x5d5a4b,_0x52db1b=_0x9dc16c(0x288)+_0x4f0a55(_0x45c635+'%','0')+')';_0x5b36ae[_0x3a7bc2][_0x9dc16c(0x1b7)][_0x3ad8bb[_0x9dc16c(0x18e)]]=_0x52db1b,_0x24af13(_0x3a7bc2),_0x24af13(_0x3a7bc2+0x1);}function _0x4ef774(){var _0x2a1d40=_0x49ca6d;_0x310974[_0x2a1d40(0x253)](function(_0x3243f3){var _0x2879ff=_0x2a1d40,_0x5bac63=_0xf1a936[_0x3243f3]>0x32?-0x1:0x1,_0x56bcc7=0x3+(_0x5b36ae[_0x2879ff(0x214)]+_0x5bac63*_0x3243f3);_0x5b36ae[_0x3243f3][_0x2879ff(0x1b7)][_0x2879ff(0x22f)]=String(_0x56bcc7);});}function _0x27efaa(_0x37edc0,_0x53c9b5,_0xf13474,_0x3b288b,_0x944117,_0x142815){!_0x944117&&(_0x53c9b5=_0x3e221e(_0xf1a936,_0x37edc0,_0x53c9b5,_0xf13474,_0x3b288b,![],_0x142815));if(_0x53c9b5===![])return![];return _0x43da7b(_0x37edc0,_0x53c9b5),!![];}function _0x24af13(_0x5e31d0){var _0x27eb87=_0x49ca6d;if(!_0x1e951f[_0x5e31d0])return;var _0x86d864=0x0,_0x1374e6=0x64;_0x5e31d0!==0x0&&(_0x86d864=_0xf1a936[_0x5e31d0-0x1]);_0x5e31d0!==_0x1e951f['length']-0x1&&(_0x1374e6=_0xf1a936[_0x5e31d0]);var _0xb5ab2=_0x1374e6-_0x86d864,_0x9e1c0d=_0x27eb87(0x288)+_0x4f0a55(_0x256216(_0x86d864,_0xb5ab2)+'%','0')+')',_0x58b7cb='scale('+_0x4f0a55(_0xb5ab2/0x64,'1')+')';_0x1e951f[_0x5e31d0]['style'][_0x3ad8bb[_0x27eb87(0x18e)]]=_0x9e1c0d+'\x20'+_0x58b7cb;}function _0x1bcc52(_0x22da90,_0x5c6649){var _0x2f5ff2=_0x49ca6d;if(_0x22da90===null||_0x22da90===![]||_0x22da90===undefined)return _0xf1a936[_0x5c6649];typeof _0x22da90===_0x2f5ff2(0x18f)&&(_0x22da90=String(_0x22da90));_0x22da90=_0x3ad8bb[_0x2f5ff2(0x203)][_0x2f5ff2(0x289)](_0x22da90);_0x22da90!==![]&&(_0x22da90=_0x6a58eb[_0x2f5ff2(0x1af)](_0x22da90));if(_0x22da90===![]||isNaN(_0x22da90))return _0xf1a936[_0x5c6649];return _0x22da90;}function _0x3c8159(_0x5275e2,_0x5a941b,_0x18c242){var _0x56f487=_0x49ca6d,_0x3d8f7b=_0x4405cf(_0x5275e2),_0x4034ea=_0xf1a936[0x0]===undefined;_0x5a941b=_0x5a941b===undefined?!![]:_0x5a941b;_0x3ad8bb['animate']&&!_0x4034ea&&_0x577b3a(_0x585495,_0x3ad8bb[_0x56f487(0x1b0)][_0x56f487(0x197)],_0x3ad8bb[_0x56f487(0x256)]);_0x310974[_0x56f487(0x253)](function(_0x3d9aab){_0x27efaa(_0x3d9aab,_0x1bcc52(_0x3d8f7b[_0x3d9aab],_0x3d9aab),!![],![],_0x18c242);});var _0x4b229a=_0x310974[_0x56f487(0x214)]===0x1?0x0:0x1;if(_0x4034ea&&_0x6a58eb[_0x56f487(0x21e)]()){_0x18c242=!![],_0xf1a936[0x0]=0x0;if(_0x310974[_0x56f487(0x214)]>0x1){var _0x3aa3ae=0x64/(_0x310974['length']-0x1);_0x310974['forEach'](function(_0x4ca10f){_0xf1a936[_0x4ca10f]=_0x4ca10f*_0x3aa3ae;});}}for(;_0x4b229a<_0x310974[_0x56f487(0x214)];++_0x4b229a){_0x310974[_0x56f487(0x253)](function(_0x1813ba){_0x27efaa(_0x1813ba,_0xf1a936[_0x1813ba],!![],!![],_0x18c242);});}_0x4ef774(),_0x310974[_0x56f487(0x253)](function(_0x49adec){var _0x250758=_0x56f487;_0x241a10(_0x250758(0x1a5),_0x49adec),_0x3d8f7b[_0x49adec]!==null&&_0x5a941b&&_0x241a10(_0x250758(0x15f),_0x49adec);});}function _0x532628(_0x5d5896){var _0x1ddbae=_0x49ca6d;_0x3c8159(_0x3ad8bb[_0x1ddbae(0x25b)],_0x5d5896);}function _0x251a66(_0x1573f7,_0x104e2d,_0x2aeea2,_0x29e373){var _0x39f5dd=_0x49ca6d;_0x1573f7=Number(_0x1573f7);if(!(_0x1573f7>=0x0&&_0x1573f7<_0x310974[_0x39f5dd(0x214)]))throw new Error(_0x39f5dd(0x1d1)+_0x1573f7);_0x27efaa(_0x1573f7,_0x1bcc52(_0x104e2d,_0x1573f7),!![],!![],_0x29e373),_0x241a10(_0x39f5dd(0x1a5),_0x1573f7),_0x2aeea2&&_0x241a10('set',_0x1573f7);}function _0x3833d9(_0x24441d){var _0x5401d5=_0x49ca6d;_0x24441d===void 0x0&&(_0x24441d=![]);if(_0x24441d)return _0x295cea[_0x5401d5(0x214)]===0x1?_0x295cea[0x0]:_0x295cea[_0x5401d5(0x25a)](0x0);var _0x729ad5=_0x295cea[_0x5401d5(0x1c5)](_0x3ad8bb['format']['to']);if(_0x729ad5[_0x5401d5(0x214)]===0x1)return _0x729ad5[0x0];return _0x729ad5;}function _0x39a36b(){var _0x5e1df8=_0x49ca6d;_0x4febe0(_0x1a1e38['aria']),_0x4febe0(_0x1a1e38[_0x5e1df8(0x187)]),Object['keys'](_0x3ad8bb[_0x5e1df8(0x1b0)])[_0x5e1df8(0x253)](function(_0x3ccf0b){_0xd5ad87(_0x585495,_0x3ad8bb['cssClasses'][_0x3ccf0b]);});while(_0x585495['firstChild']){_0x585495[_0x5e1df8(0x26e)](_0x585495[_0x5e1df8(0x1de)]);}delete _0x585495['noUiSlider'];}function _0x32aa5e(_0xf94810){var _0x11d75d=_0x49ca6d,_0x346c0d=_0xf1a936[_0xf94810],_0x1a2382=_0x6a58eb[_0x11d75d(0x1fc)](_0x346c0d),_0x45bd45=_0x295cea[_0xf94810],_0x3b5adc=_0x1a2382[_0x11d75d(0x25e)][_0x11d75d(0x27a)],_0x25a58f=null;if(_0x3ad8bb['snap'])return[_0x45bd45-_0x1a2382[_0x11d75d(0x1f2)][_0x11d75d(0x269)]||null,_0x1a2382[_0x11d75d(0x1d5)][_0x11d75d(0x269)]-_0x45bd45||null];_0x3b5adc!==![]&&(_0x45bd45+_0x3b5adc>_0x1a2382[_0x11d75d(0x1d5)][_0x11d75d(0x269)]&&(_0x3b5adc=_0x1a2382[_0x11d75d(0x1d5)][_0x11d75d(0x269)]-_0x45bd45));if(_0x45bd45>_0x1a2382['thisStep'][_0x11d75d(0x269)])_0x25a58f=_0x1a2382[_0x11d75d(0x25e)][_0x11d75d(0x27a)];else _0x1a2382[_0x11d75d(0x1f2)][_0x11d75d(0x27a)]===![]?_0x25a58f=![]:_0x25a58f=_0x45bd45-_0x1a2382[_0x11d75d(0x1f2)][_0x11d75d(0x1d2)];if(_0x346c0d===0x64)_0x3b5adc=null;else _0x346c0d===0x0&&(_0x25a58f=null);var _0x47670d=_0x6a58eb[_0x11d75d(0x200)]();return _0x3b5adc!==null&&_0x3b5adc!==![]&&(_0x3b5adc=Number(_0x3b5adc[_0x11d75d(0x1d3)](_0x47670d))),_0x25a58f!==null&&_0x25a58f!==![]&&(_0x25a58f=Number(_0x25a58f[_0x11d75d(0x1d3)](_0x47670d))),[_0x25a58f,_0x3b5adc];}function _0x4f059b(){var _0x367ea5=_0x49ca6d;return _0x310974[_0x367ea5(0x1c5)](_0x32aa5e);}function _0x4a0151(_0x41e2be,_0xf79772){var _0x2049cb=_0x49ca6d,_0x58cb5b=_0x3833d9(),_0xa13ea7=[_0x2049cb(0x280),_0x2049cb(0x193),_0x2049cb(0x246),_0x2049cb(0x22b),_0x2049cb(0x23d),_0x2049cb(0x233),_0x2049cb(0x27a),_0x2049cb(0x203),_0x2049cb(0x262),_0x2049cb(0x187)];_0xa13ea7[_0x2049cb(0x253)](function(_0x3f0621){_0x41e2be[_0x3f0621]!==undefined&&(_0x31a672[_0x3f0621]=_0x41e2be[_0x3f0621]);});var _0xd7afc7=_0x306dd6(_0x31a672);_0xa13ea7[_0x2049cb(0x253)](function(_0x54e1cf){_0x41e2be[_0x54e1cf]!==undefined&&(_0x3ad8bb[_0x54e1cf]=_0xd7afc7[_0x54e1cf]);}),_0x6a58eb=_0xd7afc7[_0x2049cb(0x1b2)],_0x3ad8bb[_0x2049cb(0x280)]=_0xd7afc7['margin'],_0x3ad8bb[_0x2049cb(0x193)]=_0xd7afc7[_0x2049cb(0x193)],_0x3ad8bb['padding']=_0xd7afc7[_0x2049cb(0x246)],_0x3ad8bb[_0x2049cb(0x262)]?_0x23108f(_0x3ad8bb[_0x2049cb(0x262)]):_0x22e255(),_0x3ad8bb[_0x2049cb(0x187)]?_0x1393df():_0x1a5f4c(),_0xf1a936=[],_0x3c8159(_0xf40e13(_0x41e2be[_0x2049cb(0x25b)])?_0x41e2be['start']:_0x58cb5b,_0xf79772);}function _0x45366c(){var _0x3f3724=_0x49ca6d;_0x4d03b1=_0xa6effe(_0x585495),_0x52e4de(_0x3ad8bb[_0x3f3724(0x235)],_0x4d03b1),_0x15d857(_0x3ad8bb['events']),_0x3c8159(_0x3ad8bb[_0x3f3724(0x25b)]),_0x3ad8bb[_0x3f3724(0x262)]&&_0x23108f(_0x3ad8bb['pips']),_0x3ad8bb[_0x3f3724(0x187)]&&_0x1393df(),_0x307ec9();}_0x45366c();var _0x26c027={'destroy':_0x39a36b,'steps':_0x4f059b,'on':_0x462b30,'off':_0x4febe0,'get':_0x3833d9,'set':_0x3c8159,'setHandle':_0x251a66,'reset':_0x532628,'disable':_0x546cc6,'enable':_0x3030f6,'__moveHandles':function(_0x4d216e,_0x22369d,_0x5d2641){_0x46b583(_0x4d216e,_0x22369d,_0xf1a936,_0x5d2641);},'options':_0x31a672,'updateOptions':_0x4a0151,'target':_0x585495,'removePips':_0x22e255,'removeTooltips':_0x1a5f4c,'getPositions':function(){var _0x2f5f46=_0x49ca6d;return _0xf1a936[_0x2f5f46(0x25a)]();},'getTooltips':function(){return _0x24ac8a;},'getOrigins':function(){return _0x5b36ae;},'pips':_0x23108f};return _0x26c027;}function _0x4297bd(_0x37d628,_0x3cd5bf){var _0x21fbba=_0x5df92e;if(!_0x37d628||!_0x37d628[_0x21fbba(0x220)])throw new Error(_0x21fbba(0x1a3)+_0x37d628);if(_0x37d628[_0x21fbba(0x1c2)])throw new Error('noUiSlider:\x20Slider\x20was\x20already\x20initialized.');var _0x2a682a=_0x306dd6(_0x3cd5bf),_0x24908a=_0x118907(_0x37d628,_0x2a682a,_0x3cd5bf);return _0x37d628[_0x21fbba(0x1c2)]=_0x24908a,_0x24908a;}const _0x1df472={'__spectrum':_0x4d0cec,'cssClasses':_0x2ad6d4,'create':_0x4297bd};}}]);function a65_0x1e07(){var _0x1879ca=['stepAfter','classList','2088cpYLKl','startCalcPoint','draggable','noUiSlider:\x20\x27start\x27\x20option\x20is\x20incorrect.','handle','xPct','fixed','firstChild','scrollTop','bottom','handleLower','\x27\x20is\x20required.','mouseout','points','handles','origin','webpackChunkkiux','fromStepping','MSPointerDown','sort','role','clientY','left','dragAll','valueNormal','aria','removeAttribute','stepBefore','PageDown','documentElement','supports','drag-all','.__tooltips','mousedown','rtl','smooth-steps','abs','getNearbySteps','data-handle','aria-valuetext','type','countStepDecimals','drag','pageX','format','NoValue','marker','valueHorizontal','count','tooltip','noUiSlider:\x20\x27limit\x27\x20option\x20must\x20be\x20numeric.','noUiSlider:\x20\x27keyboardPageMultiplier\x27\x20is\x20not\x20numeric.','PageUp','replace','mode','noUiSlider:\x20\x27fixed\x27\x20behaviour\x20must\x20be\x20used\x20with\x202\x20handles','mousemove\x20touchmove','string','Steps','pointerdown','noUiSlider:\x20\x27tooltips\x27\x20must\x20be\x20passed\x20a\x20formatter\x20or\x20\x27false\x27.','length','markerHorizontal','handleStepPoint','hover','removeEventListener','filter','steps','noUiSlider:\x20must\x20pass\x20a\x20attributes\x20for\x20all\x20handles.','noUiSlider:\x20\x27step\x27\x20is\x20not\x20numeric.','handleUpper','hasNoSize','noUiSlider:\x20\x27cssClasses\x27\x20must\x20be\x20an\x20object.','nodeName','remove','vertical','None','Count','base','relatedTarget','pageXOffset','upper','function','39300VBNqAd','range','slider','touchstart','value','zIndex','doNotReject','txt-dir-ltr','noUiSlider:\x20\x27padding\x27\x20option\x20must\x20be\x20a\x20positive\x20number(s).','snap','noUiSlider:\x20\x27padding\x27\x20option\x20must\x20be\x20numeric\x20or\x20array\x20of\x20exactly\x202\x20numbers.','connect','808oVZTdA','msPointerEnabled','clientTop','touches','join','handleEntryPoint','keydown','animate','End','valueVertical','top','Range','push','pointerup','Right','listeners','padding','ltr','15699500wAYwNO','compatMode','connects','setAttribute','buttons','xVal','boolean','aria-valuemax','marker-vertical','value-vertical','noUiSlider:\x20\x27format\x27\x20requires\x20\x27to\x27\x20and\x20\x27from\x27\x20methods.','forEach','pips-vertical','children','animationDuration','LargeValue','SmallValue','getStep','slice','start','density','msTransform','thisStep','touch-area','smoothSteps','mouse','pips','handleAttributes','reverse','background','getAbsoluteDistance','Positions','appVersion','startValue','unconstrained','preventDefault','keys','CSS1Compat','removeChild','object','apply','change','userAgent','prototype','Width','9lUNinl','105unnwlE','contains','horizontal','move','step','marker-large','createElement','3740216htmFPc','split','noUiSlider:\x20\x27snap\x27\x20option\x20must\x20be\x20a\x20boolean.','margin','min','noUiSlider:\x20\x27orientation\x27\x20option\x20is\x20invalid.','appendChild','ariaFormat','indexOf','Arrow','pipsVertical','translate(','from','positions','set','valueLarge','cssPrefix','mousedown\x20touchstart','selectstart','keyboardMultiplier','stepped','singleStep','innerHTML','max','value-normal','getDistance','find','noUiSlider:\x20\x27unconstrained\x27\x20behaviour\x20cannot\x20be\x20used\x20with\x20margin\x20or\x20limit','noUiSlider:\x20\x27','call','MSPointer','3445905dUlMnA','pageY','state-tap','markerVertical','noUiSlider:\x20must\x20pass\x20a\x20formatter\x20for\x20all\x20handles.','changedTouches','pointerEnabled','locations','ort','aria-valuenow','clientLeft','mouseup\x20touchend','pageOffset','disabled','(\x5cb|$)','getDay','noUiSlider:\x20\x27connect\x27\x20option\x20doesn\x27t\x20match\x20handle\x20count.','tabindex','isArray','className','pips-horizontal','values','active','tooltips','buttonsProperty','textDirectionLtr','hasAttribute','noUiSlider:\x20\x27range\x27\x20is\x20not\x20an\x20object.','width','aria-orientation','transformRule','number','test','dir','noUiSlider:\x20Missing\x20\x27min\x27\x20or\x20\x27max\x27\x20in\x20\x27range\x27.','limit','direction','getBoundingClientRect','noUi-','tap','defineProperty','noUiSlider:\x20\x27margin\x27\x20option\x20must\x20be\x20numeric.','7218108eHLXTE','round','composedPath','webkitTransform','pointermove','keyboardDefaultStep','handleNumbers','baseSize','calcPoint','noUiSlider:\x20create\x20requires\x20a\x20single\x20element,\x20got:\x20','aria-valuemin','update','pointer','Left','clientX','height','MSIE\x209','slide','xHighestCompleteStep','parentElement','concat','toStepping','cssClasses','noUiSlider:\x20\x27behaviour\x27\x20must\x20be\x20a\x20string\x20containing\x20options.','spectrum','scrollLeft','Height','xSteps','noUiSlider:\x20\x27ariaFormat\x27\x20requires\x20\x27to\x27\x20method.','style','xNumSteps','value-large','shift','lower','Values','noUiSlider:\x20\x27cssPrefix\x27\x20must\x20be\x20a\x20string\x20or\x20`false`.','unshift','keyboardPageMultiplier','getDefaultStep','touch','noUiSlider','touch-action','cursor','map','handle-lower','addEventListener','markerSub','add','noUiSlider:\x20\x27padding\x27\x20option\x20must\x20not\x20exceed\x20100%\x20of\x20the\x20range.','target','events','handle-upper','end','2310056xkFybP','stopPropagation','noUiSlider:\x20invalid\x20handle\x20number,\x20got:\x20','highestStep','toFixed','div'];a65_0x1e07=function(){return _0x1879ca;};return a65_0x1e07();}
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[4102,9476],{
+
+/***/ 8723:
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   P: () => (/* binding */ getDay)
+/* harmony export */ });
+/* harmony import */ var _toDate_mjs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2642);
+
+
+/**
+ * @name getDay
+ * @category Weekday Helpers
+ * @summary Get the day of the week of the given date.
+ *
+ * @description
+ * Get the day of the week of the given date.
+ *
+ * @typeParam DateType - The `Date` type, the function operates on. Gets inferred from passed arguments. Allows to use extensions like [`UTCDate`](https://github.com/date-fns/utc).
+ *
+ * @param date - The given date
+ *
+ * @returns The day of week, 0 represents Sunday
+ *
+ * @example
+ * // Which day of the week is 29 February 2012?
+ * const result = getDay(new Date(2012, 1, 29))
+ * //=> 3
+ */
+function getDay(date) {
+  const _date = (0,_toDate_mjs__WEBPACK_IMPORTED_MODULE_0__/* .toDate */ .a)(date);
+  const day = _date.getDay();
+  return day;
+}
+
+// Fallback for modularized imports:
+/* unused harmony default export */ var __WEBPACK_DEFAULT_EXPORT__ = ((/* unused pure expression or super */ null && (getDay)));
+
+
+/***/ }),
+
+/***/ 9476:
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Ay: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* unused harmony exports PipsMode, PipsType, create, cssClasses */
+
+var PipsMode;
+(function (PipsMode) {
+    PipsMode["Range"] = "range";
+    PipsMode["Steps"] = "steps";
+    PipsMode["Positions"] = "positions";
+    PipsMode["Count"] = "count";
+    PipsMode["Values"] = "values";
+})(PipsMode || (PipsMode = {}));
+var PipsType;
+(function (PipsType) {
+    PipsType[PipsType["None"] = -1] = "None";
+    PipsType[PipsType["NoValue"] = 0] = "NoValue";
+    PipsType[PipsType["LargeValue"] = 1] = "LargeValue";
+    PipsType[PipsType["SmallValue"] = 2] = "SmallValue";
+})(PipsType || (PipsType = {}));
+//region Helper Methods
+function isValidFormatter(entry) {
+    return isValidPartialFormatter(entry) && typeof entry.from === "function";
+}
+function isValidPartialFormatter(entry) {
+    // partial formatters only need a to function and not a from function
+    return typeof entry === "object" && typeof entry.to === "function";
+}
+function removeElement(el) {
+    el.parentElement.removeChild(el);
+}
+function isSet(value) {
+    return value !== null && value !== undefined;
+}
+// Bindable version
+function preventDefault(e) {
+    e.preventDefault();
+}
+// Removes duplicates from an array.
+function unique(array) {
+    return array.filter(function (a) {
+        return !this[a] ? (this[a] = true) : false;
+    }, {});
+}
+// Round a value to the closest 'to'.
+function closest(value, to) {
+    return Math.round(value / to) * to;
+}
+// Current position of an element relative to the document.
+function offset(elem, orientation) {
+    var rect = elem.getBoundingClientRect();
+    var doc = elem.ownerDocument;
+    var docElem = doc.documentElement;
+    var pageOffset = getPageOffset(doc);
+    // getBoundingClientRect contains left scroll in Chrome on Android.
+    // I haven't found a feature detection that proves this. Worst case
+    // scenario on mis-match: the 'tap' feature on horizontal sliders breaks.
+    if (/webkit.*Chrome.*Mobile/i.test(navigator.userAgent)) {
+        pageOffset.x = 0;
+    }
+    return orientation ? rect.top + pageOffset.y - docElem.clientTop : rect.left + pageOffset.x - docElem.clientLeft;
+}
+// Checks whether a value is numerical.
+function isNumeric(a) {
+    return typeof a === "number" && !isNaN(a) && isFinite(a);
+}
+// Sets a class and removes it after [duration] ms.
+function addClassFor(element, className, duration) {
+    if (duration > 0) {
+        addClass(element, className);
+        setTimeout(function () {
+            removeClass(element, className);
+        }, duration);
+    }
+}
+// Limits a value to 0 - 100
+function limit(a) {
+    return Math.max(Math.min(a, 100), 0);
+}
+// Wraps a variable as an array, if it isn't one yet.
+// Note that an input array is returned by reference!
+function asArray(a) {
+    return Array.isArray(a) ? a : [a];
+}
+// Counts decimals
+function countDecimals(numStr) {
+    numStr = String(numStr);
+    var pieces = numStr.split(".");
+    return pieces.length > 1 ? pieces[1].length : 0;
+}
+// http://youmightnotneedjquery.com/#add_class
+function addClass(el, className) {
+    if (el.classList && !/\s/.test(className)) {
+        el.classList.add(className);
+    }
+    else {
+        el.className += " " + className;
+    }
+}
+// http://youmightnotneedjquery.com/#remove_class
+function removeClass(el, className) {
+    if (el.classList && !/\s/.test(className)) {
+        el.classList.remove(className);
+    }
+    else {
+        el.className = el.className.replace(new RegExp("(^|\\b)" + className.split(" ").join("|") + "(\\b|$)", "gi"), " ");
+    }
+}
+// https://plainjs.com/javascript/attributes/adding-removing-and-testing-for-classes-9/
+function hasClass(el, className) {
+    return el.classList ? el.classList.contains(className) : new RegExp("\\b" + className + "\\b").test(el.className);
+}
+// https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollY#Notes
+function getPageOffset(doc) {
+    var supportPageOffset = window.pageXOffset !== undefined;
+    var isCSS1Compat = (doc.compatMode || "") === "CSS1Compat";
+    var x = supportPageOffset
+        ? window.pageXOffset
+        : isCSS1Compat
+            ? doc.documentElement.scrollLeft
+            : doc.body.scrollLeft;
+    var y = supportPageOffset
+        ? window.pageYOffset
+        : isCSS1Compat
+            ? doc.documentElement.scrollTop
+            : doc.body.scrollTop;
+    return {
+        x: x,
+        y: y,
+    };
+}
+// we provide a function to compute constants instead
+// of accessing window.* as soon as the module needs it
+// so that we do not compute anything if not needed
+function getActions() {
+    // Determine the events to bind. IE11 implements pointerEvents without
+    // a prefix, which breaks compatibility with the IE10 implementation.
+    return window.navigator.pointerEnabled
+        ? {
+            start: "pointerdown",
+            move: "pointermove",
+            end: "pointerup",
+        }
+        : window.navigator.msPointerEnabled
+            ? {
+                start: "MSPointerDown",
+                move: "MSPointerMove",
+                end: "MSPointerUp",
+            }
+            : {
+                start: "mousedown touchstart",
+                move: "mousemove touchmove",
+                end: "mouseup touchend",
+            };
+}
+// https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md
+// Issue #785
+function getSupportsPassive() {
+    var supportsPassive = false;
+    /* eslint-disable */
+    try {
+        var opts = Object.defineProperty({}, "passive", {
+            get: function () {
+                supportsPassive = true;
+            },
+        });
+        // @ts-ignore
+        window.addEventListener("test", null, opts);
+    }
+    catch (e) { }
+    /* eslint-enable */
+    return supportsPassive;
+}
+function getSupportsTouchActionNone() {
+    return window.CSS && CSS.supports && CSS.supports("touch-action", "none");
+}
+//endregion
+//region Range Calculation
+// Determine the size of a sub-range in relation to a full range.
+function subRangeRatio(pa, pb) {
+    return 100 / (pb - pa);
+}
+// (percentage) How many percent is this value of this range?
+function fromPercentage(range, value, startRange) {
+    return (value * 100) / (range[startRange + 1] - range[startRange]);
+}
+// (percentage) Where is this value on this range?
+function toPercentage(range, value) {
+    return fromPercentage(range, range[0] < 0 ? value + Math.abs(range[0]) : value - range[0], 0);
+}
+// (value) How much is this percentage on this range?
+function isPercentage(range, value) {
+    return (value * (range[1] - range[0])) / 100 + range[0];
+}
+function getJ(value, arr) {
+    var j = 1;
+    while (value >= arr[j]) {
+        j += 1;
+    }
+    return j;
+}
+// (percentage) Input a value, find where, on a scale of 0-100, it applies.
+function toStepping(xVal, xPct, value) {
+    if (value >= xVal.slice(-1)[0]) {
+        return 100;
+    }
+    var j = getJ(value, xVal);
+    var va = xVal[j - 1];
+    var vb = xVal[j];
+    var pa = xPct[j - 1];
+    var pb = xPct[j];
+    return pa + toPercentage([va, vb], value) / subRangeRatio(pa, pb);
+}
+// (value) Input a percentage, find where it is on the specified range.
+function fromStepping(xVal, xPct, value) {
+    // There is no range group that fits 100
+    if (value >= 100) {
+        return xVal.slice(-1)[0];
+    }
+    var j = getJ(value, xPct);
+    var va = xVal[j - 1];
+    var vb = xVal[j];
+    var pa = xPct[j - 1];
+    var pb = xPct[j];
+    return isPercentage([va, vb], (value - pa) * subRangeRatio(pa, pb));
+}
+// (percentage) Get the step that applies at a certain value.
+function getStep(xPct, xSteps, snap, value) {
+    if (value === 100) {
+        return value;
+    }
+    var j = getJ(value, xPct);
+    var a = xPct[j - 1];
+    var b = xPct[j];
+    // If 'snap' is set, steps are used as fixed points on the slider.
+    if (snap) {
+        // Find the closest position, a or b.
+        if (value - a > (b - a) / 2) {
+            return b;
+        }
+        return a;
+    }
+    if (!xSteps[j - 1]) {
+        return value;
+    }
+    return xPct[j - 1] + closest(value - xPct[j - 1], xSteps[j - 1]);
+}
+//endregion
+//region Spectrum
+var Spectrum = /** @class */ (function () {
+    function Spectrum(entry, snap, singleStep) {
+        this.xPct = [];
+        this.xVal = [];
+        this.xSteps = [];
+        this.xNumSteps = [];
+        this.xHighestCompleteStep = [];
+        this.xSteps = [singleStep || false];
+        this.xNumSteps = [false];
+        this.snap = snap;
+        var index;
+        var ordered = [];
+        // Map the object keys to an array.
+        Object.keys(entry).forEach(function (index) {
+            ordered.push([asArray(entry[index]), index]);
+        });
+        // Sort all entries by value (numeric sort).
+        ordered.sort(function (a, b) {
+            return a[0][0] - b[0][0];
+        });
+        // Convert all entries to subranges.
+        for (index = 0; index < ordered.length; index++) {
+            this.handleEntryPoint(ordered[index][1], ordered[index][0]);
+        }
+        // Store the actual step values.
+        // xSteps is sorted in the same order as xPct and xVal.
+        this.xNumSteps = this.xSteps.slice(0);
+        // Convert all numeric steps to the percentage of the subrange they represent.
+        for (index = 0; index < this.xNumSteps.length; index++) {
+            this.handleStepPoint(index, this.xNumSteps[index]);
+        }
+    }
+    Spectrum.prototype.getDistance = function (value) {
+        var distances = [];
+        for (var index = 0; index < this.xNumSteps.length - 1; index++) {
+            distances[index] = fromPercentage(this.xVal, value, index);
+        }
+        return distances;
+    };
+    // Calculate the percentual distance over the whole scale of ranges.
+    // direction: 0 = backwards / 1 = forwards
+    Spectrum.prototype.getAbsoluteDistance = function (value, distances, direction) {
+        var xPct_index = 0;
+        // Calculate range where to start calculation
+        if (value < this.xPct[this.xPct.length - 1]) {
+            while (value > this.xPct[xPct_index + 1]) {
+                xPct_index++;
+            }
+        }
+        else if (value === this.xPct[this.xPct.length - 1]) {
+            xPct_index = this.xPct.length - 2;
+        }
+        // If looking backwards and the value is exactly at a range separator then look one range further
+        if (!direction && value === this.xPct[xPct_index + 1]) {
+            xPct_index++;
+        }
+        if (distances === null) {
+            distances = [];
+        }
+        var start_factor;
+        var rest_factor = 1;
+        var rest_rel_distance = distances[xPct_index];
+        var range_pct = 0;
+        var rel_range_distance = 0;
+        var abs_distance_counter = 0;
+        var range_counter = 0;
+        // Calculate what part of the start range the value is
+        if (direction) {
+            start_factor = (value - this.xPct[xPct_index]) / (this.xPct[xPct_index + 1] - this.xPct[xPct_index]);
+        }
+        else {
+            start_factor = (this.xPct[xPct_index + 1] - value) / (this.xPct[xPct_index + 1] - this.xPct[xPct_index]);
+        }
+        // Do until the complete distance across ranges is calculated
+        while (rest_rel_distance > 0) {
+            // Calculate the percentage of total range
+            range_pct = this.xPct[xPct_index + 1 + range_counter] - this.xPct[xPct_index + range_counter];
+            // Detect if the margin, padding or limit is larger then the current range and calculate
+            if (distances[xPct_index + range_counter] * rest_factor + 100 - start_factor * 100 > 100) {
+                // If larger then take the percentual distance of the whole range
+                rel_range_distance = range_pct * start_factor;
+                // Rest factor of relative percentual distance still to be calculated
+                rest_factor = (rest_rel_distance - 100 * start_factor) / distances[xPct_index + range_counter];
+                // Set start factor to 1 as for next range it does not apply.
+                start_factor = 1;
+            }
+            else {
+                // If smaller or equal then take the percentual distance of the calculate percentual part of that range
+                rel_range_distance = ((distances[xPct_index + range_counter] * range_pct) / 100) * rest_factor;
+                // No rest left as the rest fits in current range
+                rest_factor = 0;
+            }
+            if (direction) {
+                abs_distance_counter = abs_distance_counter - rel_range_distance;
+                // Limit range to first range when distance becomes outside of minimum range
+                if (this.xPct.length + range_counter >= 1) {
+                    range_counter--;
+                }
+            }
+            else {
+                abs_distance_counter = abs_distance_counter + rel_range_distance;
+                // Limit range to last range when distance becomes outside of maximum range
+                if (this.xPct.length - range_counter >= 1) {
+                    range_counter++;
+                }
+            }
+            // Rest of relative percentual distance still to be calculated
+            rest_rel_distance = distances[xPct_index + range_counter] * rest_factor;
+        }
+        return value + abs_distance_counter;
+    };
+    Spectrum.prototype.toStepping = function (value) {
+        value = toStepping(this.xVal, this.xPct, value);
+        return value;
+    };
+    Spectrum.prototype.fromStepping = function (value) {
+        return fromStepping(this.xVal, this.xPct, value);
+    };
+    Spectrum.prototype.getStep = function (value) {
+        value = getStep(this.xPct, this.xSteps, this.snap, value);
+        return value;
+    };
+    Spectrum.prototype.getDefaultStep = function (value, isDown, size) {
+        var j = getJ(value, this.xPct);
+        // When at the top or stepping down, look at the previous sub-range
+        if (value === 100 || (isDown && value === this.xPct[j - 1])) {
+            j = Math.max(j - 1, 1);
+        }
+        return (this.xVal[j] - this.xVal[j - 1]) / size;
+    };
+    Spectrum.prototype.getNearbySteps = function (value) {
+        var j = getJ(value, this.xPct);
+        return {
+            stepBefore: {
+                startValue: this.xVal[j - 2],
+                step: this.xNumSteps[j - 2],
+                highestStep: this.xHighestCompleteStep[j - 2],
+            },
+            thisStep: {
+                startValue: this.xVal[j - 1],
+                step: this.xNumSteps[j - 1],
+                highestStep: this.xHighestCompleteStep[j - 1],
+            },
+            stepAfter: {
+                startValue: this.xVal[j],
+                step: this.xNumSteps[j],
+                highestStep: this.xHighestCompleteStep[j],
+            },
+        };
+    };
+    Spectrum.prototype.countStepDecimals = function () {
+        var stepDecimals = this.xNumSteps.map(countDecimals);
+        return Math.max.apply(null, stepDecimals);
+    };
+    Spectrum.prototype.hasNoSize = function () {
+        return this.xVal[0] === this.xVal[this.xVal.length - 1];
+    };
+    // Outside testing
+    Spectrum.prototype.convert = function (value) {
+        return this.getStep(this.toStepping(value));
+    };
+    Spectrum.prototype.handleEntryPoint = function (index, value) {
+        var percentage;
+        // Covert min/max syntax to 0 and 100.
+        if (index === "min") {
+            percentage = 0;
+        }
+        else if (index === "max") {
+            percentage = 100;
+        }
+        else {
+            percentage = parseFloat(index);
+        }
+        // Check for correct input.
+        if (!isNumeric(percentage) || !isNumeric(value[0])) {
+            throw new Error("noUiSlider: 'range' value isn't numeric.");
+        }
+        // Store values.
+        this.xPct.push(percentage);
+        this.xVal.push(value[0]);
+        var value1 = Number(value[1]);
+        // NaN will evaluate to false too, but to keep
+        // logging clear, set step explicitly. Make sure
+        // not to override the 'step' setting with false.
+        if (!percentage) {
+            if (!isNaN(value1)) {
+                this.xSteps[0] = value1;
+            }
+        }
+        else {
+            this.xSteps.push(isNaN(value1) ? false : value1);
+        }
+        this.xHighestCompleteStep.push(0);
+    };
+    Spectrum.prototype.handleStepPoint = function (i, n) {
+        // Ignore 'false' stepping.
+        if (!n) {
+            return;
+        }
+        // Step over zero-length ranges (#948);
+        if (this.xVal[i] === this.xVal[i + 1]) {
+            this.xSteps[i] = this.xHighestCompleteStep[i] = this.xVal[i];
+            return;
+        }
+        // Factor to range ratio
+        this.xSteps[i] =
+            fromPercentage([this.xVal[i], this.xVal[i + 1]], n, 0) / subRangeRatio(this.xPct[i], this.xPct[i + 1]);
+        var totalSteps = (this.xVal[i + 1] - this.xVal[i]) / this.xNumSteps[i];
+        var highestStep = Math.ceil(Number(totalSteps.toFixed(3)) - 1);
+        var step = this.xVal[i] + this.xNumSteps[i] * highestStep;
+        this.xHighestCompleteStep[i] = step;
+    };
+    return Spectrum;
+}());
+//endregion
+//region Options
+/*	Every input option is tested and parsed. This will prevent
+    endless validation in internal methods. These tests are
+    structured with an item for every option available. An
+    option can be marked as required by setting the 'r' flag.
+    The testing function is provided with three arguments:
+        - The provided value for the option;
+        - A reference to the options object;
+        - The name for the option;
+
+    The testing function returns false when an error is detected,
+    or true when everything is OK. It can also modify the option
+    object, to make sure all values can be correctly looped elsewhere. */
+//region Defaults
+var defaultFormatter = {
+    to: function (value) {
+        return value === undefined ? "" : value.toFixed(2);
+    },
+    from: Number,
+};
+var cssClasses = {
+    target: "target",
+    base: "base",
+    origin: "origin",
+    handle: "handle",
+    handleLower: "handle-lower",
+    handleUpper: "handle-upper",
+    touchArea: "touch-area",
+    horizontal: "horizontal",
+    vertical: "vertical",
+    background: "background",
+    connect: "connect",
+    connects: "connects",
+    ltr: "ltr",
+    rtl: "rtl",
+    textDirectionLtr: "txt-dir-ltr",
+    textDirectionRtl: "txt-dir-rtl",
+    draggable: "draggable",
+    drag: "state-drag",
+    tap: "state-tap",
+    active: "active",
+    tooltip: "tooltip",
+    pips: "pips",
+    pipsHorizontal: "pips-horizontal",
+    pipsVertical: "pips-vertical",
+    marker: "marker",
+    markerHorizontal: "marker-horizontal",
+    markerVertical: "marker-vertical",
+    markerNormal: "marker-normal",
+    markerLarge: "marker-large",
+    markerSub: "marker-sub",
+    value: "value",
+    valueHorizontal: "value-horizontal",
+    valueVertical: "value-vertical",
+    valueNormal: "value-normal",
+    valueLarge: "value-large",
+    valueSub: "value-sub",
+};
+// Namespaces of internal event listeners
+var INTERNAL_EVENT_NS = {
+    tooltips: ".__tooltips",
+    aria: ".__aria",
+};
+//endregion
+function testStep(parsed, entry) {
+    if (!isNumeric(entry)) {
+        throw new Error("noUiSlider: 'step' is not numeric.");
+    }
+    // The step option can still be used to set stepping
+    // for linear sliders. Overwritten if set in 'range'.
+    parsed.singleStep = entry;
+}
+function testKeyboardPageMultiplier(parsed, entry) {
+    if (!isNumeric(entry)) {
+        throw new Error("noUiSlider: 'keyboardPageMultiplier' is not numeric.");
+    }
+    parsed.keyboardPageMultiplier = entry;
+}
+function testKeyboardMultiplier(parsed, entry) {
+    if (!isNumeric(entry)) {
+        throw new Error("noUiSlider: 'keyboardMultiplier' is not numeric.");
+    }
+    parsed.keyboardMultiplier = entry;
+}
+function testKeyboardDefaultStep(parsed, entry) {
+    if (!isNumeric(entry)) {
+        throw new Error("noUiSlider: 'keyboardDefaultStep' is not numeric.");
+    }
+    parsed.keyboardDefaultStep = entry;
+}
+function testRange(parsed, entry) {
+    // Filter incorrect input.
+    if (typeof entry !== "object" || Array.isArray(entry)) {
+        throw new Error("noUiSlider: 'range' is not an object.");
+    }
+    // Catch missing start or end.
+    if (entry.min === undefined || entry.max === undefined) {
+        throw new Error("noUiSlider: Missing 'min' or 'max' in 'range'.");
+    }
+    parsed.spectrum = new Spectrum(entry, parsed.snap || false, parsed.singleStep);
+}
+function testStart(parsed, entry) {
+    entry = asArray(entry);
+    // Validate input. Values aren't tested, as the public .val method
+    // will always provide a valid location.
+    if (!Array.isArray(entry) || !entry.length) {
+        throw new Error("noUiSlider: 'start' option is incorrect.");
+    }
+    // Store the number of handles.
+    parsed.handles = entry.length;
+    // When the slider is initialized, the .val method will
+    // be called with the start options.
+    parsed.start = entry;
+}
+function testSnap(parsed, entry) {
+    if (typeof entry !== "boolean") {
+        throw new Error("noUiSlider: 'snap' option must be a boolean.");
+    }
+    // Enforce 100% stepping within subranges.
+    parsed.snap = entry;
+}
+function testAnimate(parsed, entry) {
+    if (typeof entry !== "boolean") {
+        throw new Error("noUiSlider: 'animate' option must be a boolean.");
+    }
+    // Enforce 100% stepping within subranges.
+    parsed.animate = entry;
+}
+function testAnimationDuration(parsed, entry) {
+    if (typeof entry !== "number") {
+        throw new Error("noUiSlider: 'animationDuration' option must be a number.");
+    }
+    parsed.animationDuration = entry;
+}
+function testConnect(parsed, entry) {
+    var connect = [false];
+    var i;
+    // Map legacy options
+    if (entry === "lower") {
+        entry = [true, false];
+    }
+    else if (entry === "upper") {
+        entry = [false, true];
+    }
+    // Handle boolean options
+    if (entry === true || entry === false) {
+        for (i = 1; i < parsed.handles; i++) {
+            connect.push(entry);
+        }
+        connect.push(false);
+    }
+    // Reject invalid input
+    else if (!Array.isArray(entry) || !entry.length || entry.length !== parsed.handles + 1) {
+        throw new Error("noUiSlider: 'connect' option doesn't match handle count.");
+    }
+    else {
+        connect = entry;
+    }
+    parsed.connect = connect;
+}
+function testOrientation(parsed, entry) {
+    // Set orientation to an a numerical value for easy
+    // array selection.
+    switch (entry) {
+        case "horizontal":
+            parsed.ort = 0;
+            break;
+        case "vertical":
+            parsed.ort = 1;
+            break;
+        default:
+            throw new Error("noUiSlider: 'orientation' option is invalid.");
+    }
+}
+function testMargin(parsed, entry) {
+    if (!isNumeric(entry)) {
+        throw new Error("noUiSlider: 'margin' option must be numeric.");
+    }
+    // Issue #582
+    if (entry === 0) {
+        return;
+    }
+    parsed.margin = parsed.spectrum.getDistance(entry);
+}
+function testLimit(parsed, entry) {
+    if (!isNumeric(entry)) {
+        throw new Error("noUiSlider: 'limit' option must be numeric.");
+    }
+    parsed.limit = parsed.spectrum.getDistance(entry);
+    if (!parsed.limit || parsed.handles < 2) {
+        throw new Error("noUiSlider: 'limit' option is only supported on linear sliders with 2 or more handles.");
+    }
+}
+function testPadding(parsed, entry) {
+    var index;
+    if (!isNumeric(entry) && !Array.isArray(entry)) {
+        throw new Error("noUiSlider: 'padding' option must be numeric or array of exactly 2 numbers.");
+    }
+    if (Array.isArray(entry) && !(entry.length === 2 || isNumeric(entry[0]) || isNumeric(entry[1]))) {
+        throw new Error("noUiSlider: 'padding' option must be numeric or array of exactly 2 numbers.");
+    }
+    if (entry === 0) {
+        return;
+    }
+    if (!Array.isArray(entry)) {
+        entry = [entry, entry];
+    }
+    // 'getDistance' returns false for invalid values.
+    parsed.padding = [parsed.spectrum.getDistance(entry[0]), parsed.spectrum.getDistance(entry[1])];
+    for (index = 0; index < parsed.spectrum.xNumSteps.length - 1; index++) {
+        // last "range" can't contain step size as it is purely an endpoint.
+        if (parsed.padding[0][index] < 0 || parsed.padding[1][index] < 0) {
+            throw new Error("noUiSlider: 'padding' option must be a positive number(s).");
+        }
+    }
+    var totalPadding = entry[0] + entry[1];
+    var firstValue = parsed.spectrum.xVal[0];
+    var lastValue = parsed.spectrum.xVal[parsed.spectrum.xVal.length - 1];
+    if (totalPadding / (lastValue - firstValue) > 1) {
+        throw new Error("noUiSlider: 'padding' option must not exceed 100% of the range.");
+    }
+}
+function testDirection(parsed, entry) {
+    // Set direction as a numerical value for easy parsing.
+    // Invert connection for RTL sliders, so that the proper
+    // handles get the connect/background classes.
+    switch (entry) {
+        case "ltr":
+            parsed.dir = 0;
+            break;
+        case "rtl":
+            parsed.dir = 1;
+            break;
+        default:
+            throw new Error("noUiSlider: 'direction' option was not recognized.");
+    }
+}
+function testBehaviour(parsed, entry) {
+    // Make sure the input is a string.
+    if (typeof entry !== "string") {
+        throw new Error("noUiSlider: 'behaviour' must be a string containing options.");
+    }
+    // Check if the string contains any keywords.
+    // None are required.
+    var tap = entry.indexOf("tap") >= 0;
+    var drag = entry.indexOf("drag") >= 0;
+    var fixed = entry.indexOf("fixed") >= 0;
+    var snap = entry.indexOf("snap") >= 0;
+    var hover = entry.indexOf("hover") >= 0;
+    var unconstrained = entry.indexOf("unconstrained") >= 0;
+    var dragAll = entry.indexOf("drag-all") >= 0;
+    var smoothSteps = entry.indexOf("smooth-steps") >= 0;
+    if (fixed) {
+        if (parsed.handles !== 2) {
+            throw new Error("noUiSlider: 'fixed' behaviour must be used with 2 handles");
+        }
+        // Use margin to enforce fixed state
+        testMargin(parsed, parsed.start[1] - parsed.start[0]);
+    }
+    if (unconstrained && (parsed.margin || parsed.limit)) {
+        throw new Error("noUiSlider: 'unconstrained' behaviour cannot be used with margin or limit");
+    }
+    parsed.events = {
+        tap: tap || snap,
+        drag: drag,
+        dragAll: dragAll,
+        smoothSteps: smoothSteps,
+        fixed: fixed,
+        snap: snap,
+        hover: hover,
+        unconstrained: unconstrained,
+    };
+}
+function testTooltips(parsed, entry) {
+    if (entry === false) {
+        return;
+    }
+    if (entry === true || isValidPartialFormatter(entry)) {
+        parsed.tooltips = [];
+        for (var i = 0; i < parsed.handles; i++) {
+            parsed.tooltips.push(entry);
+        }
+    }
+    else {
+        entry = asArray(entry);
+        if (entry.length !== parsed.handles) {
+            throw new Error("noUiSlider: must pass a formatter for all handles.");
+        }
+        entry.forEach(function (formatter) {
+            if (typeof formatter !== "boolean" && !isValidPartialFormatter(formatter)) {
+                throw new Error("noUiSlider: 'tooltips' must be passed a formatter or 'false'.");
+            }
+        });
+        parsed.tooltips = entry;
+    }
+}
+function testHandleAttributes(parsed, entry) {
+    if (entry.length !== parsed.handles) {
+        throw new Error("noUiSlider: must pass a attributes for all handles.");
+    }
+    parsed.handleAttributes = entry;
+}
+function testAriaFormat(parsed, entry) {
+    if (!isValidPartialFormatter(entry)) {
+        throw new Error("noUiSlider: 'ariaFormat' requires 'to' method.");
+    }
+    parsed.ariaFormat = entry;
+}
+function testFormat(parsed, entry) {
+    if (!isValidFormatter(entry)) {
+        throw new Error("noUiSlider: 'format' requires 'to' and 'from' methods.");
+    }
+    parsed.format = entry;
+}
+function testKeyboardSupport(parsed, entry) {
+    if (typeof entry !== "boolean") {
+        throw new Error("noUiSlider: 'keyboardSupport' option must be a boolean.");
+    }
+    parsed.keyboardSupport = entry;
+}
+function testDocumentElement(parsed, entry) {
+    // This is an advanced option. Passed values are used without validation.
+    parsed.documentElement = entry;
+}
+function testCssPrefix(parsed, entry) {
+    if (typeof entry !== "string" && entry !== false) {
+        throw new Error("noUiSlider: 'cssPrefix' must be a string or `false`.");
+    }
+    parsed.cssPrefix = entry;
+}
+function testCssClasses(parsed, entry) {
+    if (typeof entry !== "object") {
+        throw new Error("noUiSlider: 'cssClasses' must be an object.");
+    }
+    if (typeof parsed.cssPrefix === "string") {
+        parsed.cssClasses = {};
+        Object.keys(entry).forEach(function (key) {
+            parsed.cssClasses[key] = parsed.cssPrefix + entry[key];
+        });
+    }
+    else {
+        parsed.cssClasses = entry;
+    }
+}
+// Test all developer settings and parse to assumption-safe values.
+function testOptions(options) {
+    // To prove a fix for #537, freeze options here.
+    // If the object is modified, an error will be thrown.
+    // Object.freeze(options);
+    var parsed = {
+        margin: null,
+        limit: null,
+        padding: null,
+        animate: true,
+        animationDuration: 300,
+        ariaFormat: defaultFormatter,
+        format: defaultFormatter,
+    };
+    // Tests are executed in the order they are presented here.
+    var tests = {
+        step: { r: false, t: testStep },
+        keyboardPageMultiplier: { r: false, t: testKeyboardPageMultiplier },
+        keyboardMultiplier: { r: false, t: testKeyboardMultiplier },
+        keyboardDefaultStep: { r: false, t: testKeyboardDefaultStep },
+        start: { r: true, t: testStart },
+        connect: { r: true, t: testConnect },
+        direction: { r: true, t: testDirection },
+        snap: { r: false, t: testSnap },
+        animate: { r: false, t: testAnimate },
+        animationDuration: { r: false, t: testAnimationDuration },
+        range: { r: true, t: testRange },
+        orientation: { r: false, t: testOrientation },
+        margin: { r: false, t: testMargin },
+        limit: { r: false, t: testLimit },
+        padding: { r: false, t: testPadding },
+        behaviour: { r: true, t: testBehaviour },
+        ariaFormat: { r: false, t: testAriaFormat },
+        format: { r: false, t: testFormat },
+        tooltips: { r: false, t: testTooltips },
+        keyboardSupport: { r: true, t: testKeyboardSupport },
+        documentElement: { r: false, t: testDocumentElement },
+        cssPrefix: { r: true, t: testCssPrefix },
+        cssClasses: { r: true, t: testCssClasses },
+        handleAttributes: { r: false, t: testHandleAttributes },
+    };
+    var defaults = {
+        connect: false,
+        direction: "ltr",
+        behaviour: "tap",
+        orientation: "horizontal",
+        keyboardSupport: true,
+        cssPrefix: "noUi-",
+        cssClasses: cssClasses,
+        keyboardPageMultiplier: 5,
+        keyboardMultiplier: 1,
+        keyboardDefaultStep: 10,
+    };
+    // AriaFormat defaults to regular format, if any.
+    if (options.format && !options.ariaFormat) {
+        options.ariaFormat = options.format;
+    }
+    // Run all options through a testing mechanism to ensure correct
+    // input. It should be noted that options might get modified to
+    // be handled properly. E.g. wrapping integers in arrays.
+    Object.keys(tests).forEach(function (name) {
+        // If the option isn't set, but it is required, throw an error.
+        if (!isSet(options[name]) && defaults[name] === undefined) {
+            if (tests[name].r) {
+                throw new Error("noUiSlider: '" + name + "' is required.");
+            }
+            return;
+        }
+        tests[name].t(parsed, !isSet(options[name]) ? defaults[name] : options[name]);
+    });
+    // Forward pips options
+    parsed.pips = options.pips;
+    // All recent browsers accept unprefixed transform.
+    // We need -ms- for IE9 and -webkit- for older Android;
+    // Assume use of -webkit- if unprefixed and -ms- are not supported.
+    // https://caniuse.com/#feat=transforms2d
+    var d = document.createElement("div");
+    var msPrefix = d.style.msTransform !== undefined;
+    var noPrefix = d.style.transform !== undefined;
+    parsed.transformRule = noPrefix ? "transform" : msPrefix ? "msTransform" : "webkitTransform";
+    // Pips don't move, so we can place them using left/top.
+    var styles = [
+        ["left", "top"],
+        ["right", "bottom"],
+    ];
+    parsed.style = styles[parsed.dir][parsed.ort];
+    return parsed;
+}
+//endregion
+function scope(target, options, originalOptions) {
+    var actions = getActions();
+    var supportsTouchActionNone = getSupportsTouchActionNone();
+    var supportsPassive = supportsTouchActionNone && getSupportsPassive();
+    // All variables local to 'scope' are prefixed with 'scope_'
+    // Slider DOM Nodes
+    var scope_Target = target;
+    var scope_Base;
+    var scope_Handles;
+    var scope_Connects;
+    var scope_Pips;
+    var scope_Tooltips;
+    // Slider state values
+    var scope_Spectrum = options.spectrum;
+    var scope_Values = [];
+    var scope_Locations = [];
+    var scope_HandleNumbers = [];
+    var scope_ActiveHandlesCount = 0;
+    var scope_Events = {};
+    // Document Nodes
+    var scope_Document = target.ownerDocument;
+    var scope_DocumentElement = options.documentElement || scope_Document.documentElement;
+    var scope_Body = scope_Document.body;
+    // For horizontal sliders in standard ltr documents,
+    // make .noUi-origin overflow to the left so the document doesn't scroll.
+    var scope_DirOffset = scope_Document.dir === "rtl" || options.ort === 1 ? 0 : 100;
+    // Creates a node, adds it to target, returns the new node.
+    function addNodeTo(addTarget, className) {
+        var div = scope_Document.createElement("div");
+        if (className) {
+            addClass(div, className);
+        }
+        addTarget.appendChild(div);
+        return div;
+    }
+    // Append a origin to the base
+    function addOrigin(base, handleNumber) {
+        var origin = addNodeTo(base, options.cssClasses.origin);
+        var handle = addNodeTo(origin, options.cssClasses.handle);
+        addNodeTo(handle, options.cssClasses.touchArea);
+        handle.setAttribute("data-handle", String(handleNumber));
+        if (options.keyboardSupport) {
+            // https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex
+            // 0 = focusable and reachable
+            handle.setAttribute("tabindex", "0");
+            handle.addEventListener("keydown", function (event) {
+                return eventKeydown(event, handleNumber);
+            });
+        }
+        if (options.handleAttributes !== undefined) {
+            var attributes_1 = options.handleAttributes[handleNumber];
+            Object.keys(attributes_1).forEach(function (attribute) {
+                handle.setAttribute(attribute, attributes_1[attribute]);
+            });
+        }
+        handle.setAttribute("role", "slider");
+        handle.setAttribute("aria-orientation", options.ort ? "vertical" : "horizontal");
+        if (handleNumber === 0) {
+            addClass(handle, options.cssClasses.handleLower);
+        }
+        else if (handleNumber === options.handles - 1) {
+            addClass(handle, options.cssClasses.handleUpper);
+        }
+        origin.handle = handle;
+        return origin;
+    }
+    // Insert nodes for connect elements
+    function addConnect(base, add) {
+        if (!add) {
+            return false;
+        }
+        return addNodeTo(base, options.cssClasses.connect);
+    }
+    // Add handles to the slider base.
+    function addElements(connectOptions, base) {
+        var connectBase = addNodeTo(base, options.cssClasses.connects);
+        scope_Handles = [];
+        scope_Connects = [];
+        scope_Connects.push(addConnect(connectBase, connectOptions[0]));
+        // [::::O====O====O====]
+        // connectOptions = [0, 1, 1, 1]
+        for (var i = 0; i < options.handles; i++) {
+            // Keep a list of all added handles.
+            scope_Handles.push(addOrigin(base, i));
+            scope_HandleNumbers[i] = i;
+            scope_Connects.push(addConnect(connectBase, connectOptions[i + 1]));
+        }
+    }
+    // Initialize a single slider.
+    function addSlider(addTarget) {
+        // Apply classes and data to the target.
+        addClass(addTarget, options.cssClasses.target);
+        if (options.dir === 0) {
+            addClass(addTarget, options.cssClasses.ltr);
+        }
+        else {
+            addClass(addTarget, options.cssClasses.rtl);
+        }
+        if (options.ort === 0) {
+            addClass(addTarget, options.cssClasses.horizontal);
+        }
+        else {
+            addClass(addTarget, options.cssClasses.vertical);
+        }
+        var textDirection = getComputedStyle(addTarget).direction;
+        if (textDirection === "rtl") {
+            addClass(addTarget, options.cssClasses.textDirectionRtl);
+        }
+        else {
+            addClass(addTarget, options.cssClasses.textDirectionLtr);
+        }
+        return addNodeTo(addTarget, options.cssClasses.base);
+    }
+    function addTooltip(handle, handleNumber) {
+        if (!options.tooltips || !options.tooltips[handleNumber]) {
+            return false;
+        }
+        return addNodeTo(handle.firstChild, options.cssClasses.tooltip);
+    }
+    function isSliderDisabled() {
+        return scope_Target.hasAttribute("disabled");
+    }
+    // Disable the slider dragging if any handle is disabled
+    function isHandleDisabled(handleNumber) {
+        var handleOrigin = scope_Handles[handleNumber];
+        return handleOrigin.hasAttribute("disabled");
+    }
+    function disable(handleNumber) {
+        if (handleNumber !== null && handleNumber !== undefined) {
+            scope_Handles[handleNumber].setAttribute("disabled", "");
+            scope_Handles[handleNumber].handle.removeAttribute("tabindex");
+        }
+        else {
+            scope_Target.setAttribute("disabled", "");
+            scope_Handles.forEach(function (handle) {
+                handle.handle.removeAttribute("tabindex");
+            });
+        }
+    }
+    function enable(handleNumber) {
+        if (handleNumber !== null && handleNumber !== undefined) {
+            scope_Handles[handleNumber].removeAttribute("disabled");
+            scope_Handles[handleNumber].handle.setAttribute("tabindex", "0");
+        }
+        else {
+            scope_Target.removeAttribute("disabled");
+            scope_Handles.forEach(function (handle) {
+                handle.removeAttribute("disabled");
+                handle.handle.setAttribute("tabindex", "0");
+            });
+        }
+    }
+    function removeTooltips() {
+        if (scope_Tooltips) {
+            removeEvent("update" + INTERNAL_EVENT_NS.tooltips);
+            scope_Tooltips.forEach(function (tooltip) {
+                if (tooltip) {
+                    removeElement(tooltip);
+                }
+            });
+            scope_Tooltips = null;
+        }
+    }
+    // The tooltips option is a shorthand for using the 'update' event.
+    function tooltips() {
+        removeTooltips();
+        // Tooltips are added with options.tooltips in original order.
+        scope_Tooltips = scope_Handles.map(addTooltip);
+        bindEvent("update" + INTERNAL_EVENT_NS.tooltips, function (values, handleNumber, unencoded) {
+            if (!scope_Tooltips || !options.tooltips) {
+                return;
+            }
+            if (scope_Tooltips[handleNumber] === false) {
+                return;
+            }
+            var formattedValue = values[handleNumber];
+            if (options.tooltips[handleNumber] !== true) {
+                formattedValue = options.tooltips[handleNumber].to(unencoded[handleNumber]);
+            }
+            scope_Tooltips[handleNumber].innerHTML = formattedValue;
+        });
+    }
+    function aria() {
+        removeEvent("update" + INTERNAL_EVENT_NS.aria);
+        bindEvent("update" + INTERNAL_EVENT_NS.aria, function (values, handleNumber, unencoded, tap, positions) {
+            // Update Aria Values for all handles, as a change in one changes min and max values for the next.
+            scope_HandleNumbers.forEach(function (index) {
+                var handle = scope_Handles[index];
+                var min = checkHandlePosition(scope_Locations, index, 0, true, true, true);
+                var max = checkHandlePosition(scope_Locations, index, 100, true, true, true);
+                var now = positions[index];
+                // Formatted value for display
+                var text = String(options.ariaFormat.to(unencoded[index]));
+                // Map to slider range values
+                min = scope_Spectrum.fromStepping(min).toFixed(1);
+                max = scope_Spectrum.fromStepping(max).toFixed(1);
+                now = scope_Spectrum.fromStepping(now).toFixed(1);
+                handle.children[0].setAttribute("aria-valuemin", min);
+                handle.children[0].setAttribute("aria-valuemax", max);
+                handle.children[0].setAttribute("aria-valuenow", now);
+                handle.children[0].setAttribute("aria-valuetext", text);
+            });
+        });
+    }
+    function getGroup(pips) {
+        // Use the range.
+        if (pips.mode === PipsMode.Range || pips.mode === PipsMode.Steps) {
+            return scope_Spectrum.xVal;
+        }
+        if (pips.mode === PipsMode.Count) {
+            if (pips.values < 2) {
+                throw new Error("noUiSlider: 'values' (>= 2) required for mode 'count'.");
+            }
+            // Divide 0 - 100 in 'count' parts.
+            var interval = pips.values - 1;
+            var spread = 100 / interval;
+            var values = [];
+            // List these parts and have them handled as 'positions'.
+            while (interval--) {
+                values[interval] = interval * spread;
+            }
+            values.push(100);
+            return mapToRange(values, pips.stepped);
+        }
+        if (pips.mode === PipsMode.Positions) {
+            // Map all percentages to on-range values.
+            return mapToRange(pips.values, pips.stepped);
+        }
+        if (pips.mode === PipsMode.Values) {
+            // If the value must be stepped, it needs to be converted to a percentage first.
+            if (pips.stepped) {
+                return pips.values.map(function (value) {
+                    // Convert to percentage, apply step, return to value.
+                    return scope_Spectrum.fromStepping(scope_Spectrum.getStep(scope_Spectrum.toStepping(value)));
+                });
+            }
+            // Otherwise, we can simply use the values.
+            return pips.values;
+        }
+        return []; // pips.mode = never
+    }
+    function mapToRange(values, stepped) {
+        return values.map(function (value) {
+            return scope_Spectrum.fromStepping(stepped ? scope_Spectrum.getStep(value) : value);
+        });
+    }
+    function generateSpread(pips) {
+        function safeIncrement(value, increment) {
+            // Avoid floating point variance by dropping the smallest decimal places.
+            return Number((value + increment).toFixed(7));
+        }
+        var group = getGroup(pips);
+        var indexes = {};
+        var firstInRange = scope_Spectrum.xVal[0];
+        var lastInRange = scope_Spectrum.xVal[scope_Spectrum.xVal.length - 1];
+        var ignoreFirst = false;
+        var ignoreLast = false;
+        var prevPct = 0;
+        // Create a copy of the group, sort it and filter away all duplicates.
+        group = unique(group.slice().sort(function (a, b) {
+            return a - b;
+        }));
+        // Make sure the range starts with the first element.
+        if (group[0] !== firstInRange) {
+            group.unshift(firstInRange);
+            ignoreFirst = true;
+        }
+        // Likewise for the last one.
+        if (group[group.length - 1] !== lastInRange) {
+            group.push(lastInRange);
+            ignoreLast = true;
+        }
+        group.forEach(function (current, index) {
+            // Get the current step and the lower + upper positions.
+            var step;
+            var i;
+            var q;
+            var low = current;
+            var high = group[index + 1];
+            var newPct;
+            var pctDifference;
+            var pctPos;
+            var type;
+            var steps;
+            var realSteps;
+            var stepSize;
+            var isSteps = pips.mode === PipsMode.Steps;
+            // When using 'steps' mode, use the provided steps.
+            // Otherwise, we'll step on to the next subrange.
+            if (isSteps) {
+                step = scope_Spectrum.xNumSteps[index];
+            }
+            // Default to a 'full' step.
+            if (!step) {
+                step = high - low;
+            }
+            // If high is undefined we are at the last subrange. Make sure it iterates once (#1088)
+            if (high === undefined) {
+                high = low;
+            }
+            // Make sure step isn't 0, which would cause an infinite loop (#654)
+            step = Math.max(step, 0.0000001);
+            // Find all steps in the subrange.
+            for (i = low; i <= high; i = safeIncrement(i, step)) {
+                // Get the percentage value for the current step,
+                // calculate the size for the subrange.
+                newPct = scope_Spectrum.toStepping(i);
+                pctDifference = newPct - prevPct;
+                steps = pctDifference / (pips.density || 1);
+                realSteps = Math.round(steps);
+                // This ratio represents the amount of percentage-space a point indicates.
+                // For a density 1 the points/percentage = 1. For density 2, that percentage needs to be re-divided.
+                // Round the percentage offset to an even number, then divide by two
+                // to spread the offset on both sides of the range.
+                stepSize = pctDifference / realSteps;
+                // Divide all points evenly, adding the correct number to this subrange.
+                // Run up to <= so that 100% gets a point, event if ignoreLast is set.
+                for (q = 1; q <= realSteps; q += 1) {
+                    // The ratio between the rounded value and the actual size might be ~1% off.
+                    // Correct the percentage offset by the number of points
+                    // per subrange. density = 1 will result in 100 points on the
+                    // full range, 2 for 50, 4 for 25, etc.
+                    pctPos = prevPct + q * stepSize;
+                    indexes[pctPos.toFixed(5)] = [scope_Spectrum.fromStepping(pctPos), 0];
+                }
+                // Determine the point type.
+                type = group.indexOf(i) > -1 ? PipsType.LargeValue : isSteps ? PipsType.SmallValue : PipsType.NoValue;
+                // Enforce the 'ignoreFirst' option by overwriting the type for 0.
+                if (!index && ignoreFirst && i !== high) {
+                    type = 0;
+                }
+                if (!(i === high && ignoreLast)) {
+                    // Mark the 'type' of this point. 0 = plain, 1 = real value, 2 = step value.
+                    indexes[newPct.toFixed(5)] = [i, type];
+                }
+                // Update the percentage count.
+                prevPct = newPct;
+            }
+        });
+        return indexes;
+    }
+    function addMarking(spread, filterFunc, formatter) {
+        var _a, _b;
+        var element = scope_Document.createElement("div");
+        var valueSizeClasses = (_a = {},
+            _a[PipsType.None] = "",
+            _a[PipsType.NoValue] = options.cssClasses.valueNormal,
+            _a[PipsType.LargeValue] = options.cssClasses.valueLarge,
+            _a[PipsType.SmallValue] = options.cssClasses.valueSub,
+            _a);
+        var markerSizeClasses = (_b = {},
+            _b[PipsType.None] = "",
+            _b[PipsType.NoValue] = options.cssClasses.markerNormal,
+            _b[PipsType.LargeValue] = options.cssClasses.markerLarge,
+            _b[PipsType.SmallValue] = options.cssClasses.markerSub,
+            _b);
+        var valueOrientationClasses = [options.cssClasses.valueHorizontal, options.cssClasses.valueVertical];
+        var markerOrientationClasses = [options.cssClasses.markerHorizontal, options.cssClasses.markerVertical];
+        addClass(element, options.cssClasses.pips);
+        addClass(element, options.ort === 0 ? options.cssClasses.pipsHorizontal : options.cssClasses.pipsVertical);
+        function getClasses(type, source) {
+            var a = source === options.cssClasses.value;
+            var orientationClasses = a ? valueOrientationClasses : markerOrientationClasses;
+            var sizeClasses = a ? valueSizeClasses : markerSizeClasses;
+            return source + " " + orientationClasses[options.ort] + " " + sizeClasses[type];
+        }
+        function addSpread(offset, value, type) {
+            // Apply the filter function, if it is set.
+            type = filterFunc ? filterFunc(value, type) : type;
+            if (type === PipsType.None) {
+                return;
+            }
+            // Add a marker for every point
+            var node = addNodeTo(element, false);
+            node.className = getClasses(type, options.cssClasses.marker);
+            node.style[options.style] = offset + "%";
+            // Values are only appended for points marked '1' or '2'.
+            if (type > PipsType.NoValue) {
+                node = addNodeTo(element, false);
+                node.className = getClasses(type, options.cssClasses.value);
+                node.setAttribute("data-value", String(value));
+                node.style[options.style] = offset + "%";
+                node.innerHTML = String(formatter.to(value));
+            }
+        }
+        // Append all points.
+        Object.keys(spread).forEach(function (offset) {
+            addSpread(offset, spread[offset][0], spread[offset][1]);
+        });
+        return element;
+    }
+    function removePips() {
+        if (scope_Pips) {
+            removeElement(scope_Pips);
+            scope_Pips = null;
+        }
+    }
+    function pips(pips) {
+        // Fix #669
+        removePips();
+        var spread = generateSpread(pips);
+        var filter = pips.filter;
+        var format = pips.format || {
+            to: function (value) {
+                return String(Math.round(value));
+            },
+        };
+        scope_Pips = scope_Target.appendChild(addMarking(spread, filter, format));
+        return scope_Pips;
+    }
+    // Shorthand for base dimensions.
+    function baseSize() {
+        var rect = scope_Base.getBoundingClientRect();
+        var alt = ("offset" + ["Width", "Height"][options.ort]);
+        return options.ort === 0 ? rect.width || scope_Base[alt] : rect.height || scope_Base[alt];
+    }
+    // Handler for attaching events trough a proxy.
+    function attachEvent(events, element, callback, data) {
+        // This function can be used to 'filter' events to the slider.
+        // element is a node, not a nodeList
+        var method = function (event) {
+            var e = fixEvent(event, data.pageOffset, data.target || element);
+            // fixEvent returns false if this event has a different target
+            // when handling (multi-) touch events;
+            if (!e) {
+                return false;
+            }
+            // doNotReject is passed by all end events to make sure released touches
+            // are not rejected, leaving the slider "stuck" to the cursor;
+            if (isSliderDisabled() && !data.doNotReject) {
+                return false;
+            }
+            // Stop if an active 'tap' transition is taking place.
+            if (hasClass(scope_Target, options.cssClasses.tap) && !data.doNotReject) {
+                return false;
+            }
+            // Ignore right or middle clicks on start #454
+            if (events === actions.start && e.buttons !== undefined && e.buttons > 1) {
+                return false;
+            }
+            // Ignore right or middle clicks on start #454
+            if (data.hover && e.buttons) {
+                return false;
+            }
+            // 'supportsPassive' is only true if a browser also supports touch-action: none in CSS.
+            // iOS safari does not, so it doesn't get to benefit from passive scrolling. iOS does support
+            // touch-action: manipulation, but that allows panning, which breaks
+            // sliders after zooming/on non-responsive pages.
+            // See: https://bugs.webkit.org/show_bug.cgi?id=133112
+            if (!supportsPassive) {
+                e.preventDefault();
+            }
+            e.calcPoint = e.points[options.ort];
+            // Call the event handler with the event [ and additional data ].
+            callback(e, data);
+            return;
+        };
+        var methods = [];
+        // Bind a closure on the target for every event type.
+        events.split(" ").forEach(function (eventName) {
+            element.addEventListener(eventName, method, supportsPassive ? { passive: true } : false);
+            methods.push([eventName, method]);
+        });
+        return methods;
+    }
+    // Provide a clean event with standardized offset values.
+    function fixEvent(e, pageOffset, eventTarget) {
+        // Filter the event to register the type, which can be
+        // touch, mouse or pointer. Offset changes need to be
+        // made on an event specific basis.
+        var touch = e.type.indexOf("touch") === 0;
+        var mouse = e.type.indexOf("mouse") === 0;
+        var pointer = e.type.indexOf("pointer") === 0;
+        var x = 0;
+        var y = 0;
+        // IE10 implemented pointer events with a prefix;
+        if (e.type.indexOf("MSPointer") === 0) {
+            pointer = true;
+        }
+        // Erroneous events seem to be passed in occasionally on iOS/iPadOS after user finishes interacting with
+        // the slider. They appear to be of type MouseEvent, yet they don't have usual properties set. Ignore
+        // events that have no touches or buttons associated with them. (#1057, #1079, #1095)
+        if (e.type === "mousedown" && !e.buttons && !e.touches) {
+            return false;
+        }
+        // The only thing one handle should be concerned about is the touches that originated on top of it.
+        if (touch) {
+            // Returns true if a touch originated on the target.
+            var isTouchOnTarget = function (checkTouch) {
+                var target = checkTouch.target;
+                return (target === eventTarget ||
+                    eventTarget.contains(target) ||
+                    (e.composed && e.composedPath().shift() === eventTarget));
+            };
+            // In the case of touchstart events, we need to make sure there is still no more than one
+            // touch on the target so we look amongst all touches.
+            if (e.type === "touchstart") {
+                var targetTouches = Array.prototype.filter.call(e.touches, isTouchOnTarget);
+                // Do not support more than one touch per handle.
+                if (targetTouches.length > 1) {
+                    return false;
+                }
+                x = targetTouches[0].pageX;
+                y = targetTouches[0].pageY;
+            }
+            else {
+                // In the other cases, find on changedTouches is enough.
+                var targetTouch = Array.prototype.find.call(e.changedTouches, isTouchOnTarget);
+                // Cancel if the target touch has not moved.
+                if (!targetTouch) {
+                    return false;
+                }
+                x = targetTouch.pageX;
+                y = targetTouch.pageY;
+            }
+        }
+        pageOffset = pageOffset || getPageOffset(scope_Document);
+        if (mouse || pointer) {
+            x = e.clientX + pageOffset.x;
+            y = e.clientY + pageOffset.y;
+        }
+        e.pageOffset = pageOffset;
+        e.points = [x, y];
+        e.cursor = mouse || pointer; // Fix #435
+        return e;
+    }
+    // Translate a coordinate in the document to a percentage on the slider
+    function calcPointToPercentage(calcPoint) {
+        var location = calcPoint - offset(scope_Base, options.ort);
+        var proposal = (location * 100) / baseSize();
+        // Clamp proposal between 0% and 100%
+        // Out-of-bound coordinates may occur when .noUi-base pseudo-elements
+        // are used (e.g. contained handles feature)
+        proposal = limit(proposal);
+        return options.dir ? 100 - proposal : proposal;
+    }
+    // Find handle closest to a certain percentage on the slider
+    function getClosestHandle(clickedPosition) {
+        var smallestDifference = 100;
+        var handleNumber = false;
+        scope_Handles.forEach(function (handle, index) {
+            // Disabled handles are ignored
+            if (isHandleDisabled(index)) {
+                return;
+            }
+            var handlePosition = scope_Locations[index];
+            var differenceWithThisHandle = Math.abs(handlePosition - clickedPosition);
+            // Initial state
+            var clickAtEdge = differenceWithThisHandle === 100 && smallestDifference === 100;
+            // Difference with this handle is smaller than the previously checked handle
+            var isCloser = differenceWithThisHandle < smallestDifference;
+            var isCloserAfter = differenceWithThisHandle <= smallestDifference && clickedPosition > handlePosition;
+            if (isCloser || isCloserAfter || clickAtEdge) {
+                handleNumber = index;
+                smallestDifference = differenceWithThisHandle;
+            }
+        });
+        return handleNumber;
+    }
+    // Fire 'end' when a mouse or pen leaves the document.
+    function documentLeave(event, data) {
+        if (event.type === "mouseout" &&
+            event.target.nodeName === "HTML" &&
+            event.relatedTarget === null) {
+            eventEnd(event, data);
+        }
+    }
+    // Handle movement on document for handle and range drag.
+    function eventMove(event, data) {
+        // Fix #498
+        // Check value of .buttons in 'start' to work around a bug in IE10 mobile (data.buttonsProperty).
+        // https://connect.microsoft.com/IE/feedback/details/927005/mobile-ie10-windows-phone-buttons-property-of-pointermove-event-always-zero
+        // IE9 has .buttons and .which zero on mousemove.
+        // Firefox breaks the spec MDN defines.
+        if (navigator.appVersion.indexOf("MSIE 9") === -1 && event.buttons === 0 && data.buttonsProperty !== 0) {
+            return eventEnd(event, data);
+        }
+        // Check if we are moving up or down
+        var movement = (options.dir ? -1 : 1) * (event.calcPoint - data.startCalcPoint);
+        // Convert the movement into a percentage of the slider width/height
+        var proposal = (movement * 100) / data.baseSize;
+        moveHandles(movement > 0, proposal, data.locations, data.handleNumbers, data.connect);
+    }
+    // Unbind move events on document, call callbacks.
+    function eventEnd(event, data) {
+        // The handle is no longer active, so remove the class.
+        if (data.handle) {
+            removeClass(data.handle, options.cssClasses.active);
+            scope_ActiveHandlesCount -= 1;
+        }
+        // Unbind the move and end events, which are added on 'start'.
+        data.listeners.forEach(function (c) {
+            scope_DocumentElement.removeEventListener(c[0], c[1]);
+        });
+        if (scope_ActiveHandlesCount === 0) {
+            // Remove dragging class.
+            removeClass(scope_Target, options.cssClasses.drag);
+            setZindex();
+            // Remove cursor styles and text-selection events bound to the body.
+            if (event.cursor) {
+                scope_Body.style.cursor = "";
+                scope_Body.removeEventListener("selectstart", preventDefault);
+            }
+        }
+        if (options.events.smoothSteps) {
+            data.handleNumbers.forEach(function (handleNumber) {
+                setHandle(handleNumber, scope_Locations[handleNumber], true, true, false, false);
+            });
+            data.handleNumbers.forEach(function (handleNumber) {
+                fireEvent("update", handleNumber);
+            });
+        }
+        data.handleNumbers.forEach(function (handleNumber) {
+            fireEvent("change", handleNumber);
+            fireEvent("set", handleNumber);
+            fireEvent("end", handleNumber);
+        });
+    }
+    // Bind move events on document.
+    function eventStart(event, data) {
+        // Ignore event if any handle is disabled
+        if (data.handleNumbers.some(isHandleDisabled)) {
+            return;
+        }
+        var handle;
+        if (data.handleNumbers.length === 1) {
+            var handleOrigin = scope_Handles[data.handleNumbers[0]];
+            handle = handleOrigin.children[0];
+            scope_ActiveHandlesCount += 1;
+            // Mark the handle as 'active' so it can be styled.
+            addClass(handle, options.cssClasses.active);
+        }
+        // A drag should never propagate up to the 'tap' event.
+        event.stopPropagation();
+        // Record the event listeners.
+        var listeners = [];
+        // Attach the move and end events.
+        var moveEvent = attachEvent(actions.move, scope_DocumentElement, eventMove, {
+            // The event target has changed so we need to propagate the original one so that we keep
+            // relying on it to extract target touches.
+            target: event.target,
+            handle: handle,
+            connect: data.connect,
+            listeners: listeners,
+            startCalcPoint: event.calcPoint,
+            baseSize: baseSize(),
+            pageOffset: event.pageOffset,
+            handleNumbers: data.handleNumbers,
+            buttonsProperty: event.buttons,
+            locations: scope_Locations.slice(),
+        });
+        var endEvent = attachEvent(actions.end, scope_DocumentElement, eventEnd, {
+            target: event.target,
+            handle: handle,
+            listeners: listeners,
+            doNotReject: true,
+            handleNumbers: data.handleNumbers,
+        });
+        var outEvent = attachEvent("mouseout", scope_DocumentElement, documentLeave, {
+            target: event.target,
+            handle: handle,
+            listeners: listeners,
+            doNotReject: true,
+            handleNumbers: data.handleNumbers,
+        });
+        // We want to make sure we pushed the listeners in the listener list rather than creating
+        // a new one as it has already been passed to the event handlers.
+        listeners.push.apply(listeners, moveEvent.concat(endEvent, outEvent));
+        // Text selection isn't an issue on touch devices,
+        // so adding cursor styles can be skipped.
+        if (event.cursor) {
+            // Prevent the 'I' cursor and extend the range-drag cursor.
+            scope_Body.style.cursor = getComputedStyle(event.target).cursor;
+            // Mark the target with a dragging state.
+            if (scope_Handles.length > 1) {
+                addClass(scope_Target, options.cssClasses.drag);
+            }
+            // Prevent text selection when dragging the handles.
+            // In noUiSlider <= 9.2.0, this was handled by calling preventDefault on mouse/touch start/move,
+            // which is scroll blocking. The selectstart event is supported by FireFox starting from version 52,
+            // meaning the only holdout is iOS Safari. This doesn't matter: text selection isn't triggered there.
+            // The 'cursor' flag is false.
+            // See: http://caniuse.com/#search=selectstart
+            scope_Body.addEventListener("selectstart", preventDefault, false);
+        }
+        data.handleNumbers.forEach(function (handleNumber) {
+            fireEvent("start", handleNumber);
+        });
+    }
+    // Move closest handle to tapped location.
+    function eventTap(event) {
+        // The tap event shouldn't propagate up
+        event.stopPropagation();
+        var proposal = calcPointToPercentage(event.calcPoint);
+        var handleNumber = getClosestHandle(proposal);
+        // Tackle the case that all handles are 'disabled'.
+        if (handleNumber === false) {
+            return;
+        }
+        // Flag the slider as it is now in a transitional state.
+        // Transition takes a configurable amount of ms (default 300). Re-enable the slider after that.
+        if (!options.events.snap) {
+            addClassFor(scope_Target, options.cssClasses.tap, options.animationDuration);
+        }
+        setHandle(handleNumber, proposal, true, true);
+        setZindex();
+        fireEvent("slide", handleNumber, true);
+        fireEvent("update", handleNumber, true);
+        if (!options.events.snap) {
+            fireEvent("change", handleNumber, true);
+            fireEvent("set", handleNumber, true);
+        }
+        else {
+            eventStart(event, { handleNumbers: [handleNumber] });
+        }
+    }
+    // Fires a 'hover' event for a hovered mouse/pen position.
+    function eventHover(event) {
+        var proposal = calcPointToPercentage(event.calcPoint);
+        var to = scope_Spectrum.getStep(proposal);
+        var value = scope_Spectrum.fromStepping(to);
+        Object.keys(scope_Events).forEach(function (targetEvent) {
+            if ("hover" === targetEvent.split(".")[0]) {
+                scope_Events[targetEvent].forEach(function (callback) {
+                    callback.call(scope_Self, value);
+                });
+            }
+        });
+    }
+    // Handles keydown on focused handles
+    // Don't move the document when pressing arrow keys on focused handles
+    function eventKeydown(event, handleNumber) {
+        if (isSliderDisabled() || isHandleDisabled(handleNumber)) {
+            return false;
+        }
+        var horizontalKeys = ["Left", "Right"];
+        var verticalKeys = ["Down", "Up"];
+        var largeStepKeys = ["PageDown", "PageUp"];
+        var edgeKeys = ["Home", "End"];
+        if (options.dir && !options.ort) {
+            // On an right-to-left slider, the left and right keys act inverted
+            horizontalKeys.reverse();
+        }
+        else if (options.ort && !options.dir) {
+            // On a top-to-bottom slider, the up and down keys act inverted
+            verticalKeys.reverse();
+            largeStepKeys.reverse();
+        }
+        // Strip "Arrow" for IE compatibility. https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key
+        var key = event.key.replace("Arrow", "");
+        var isLargeDown = key === largeStepKeys[0];
+        var isLargeUp = key === largeStepKeys[1];
+        var isDown = key === verticalKeys[0] || key === horizontalKeys[0] || isLargeDown;
+        var isUp = key === verticalKeys[1] || key === horizontalKeys[1] || isLargeUp;
+        var isMin = key === edgeKeys[0];
+        var isMax = key === edgeKeys[1];
+        if (!isDown && !isUp && !isMin && !isMax) {
+            return true;
+        }
+        event.preventDefault();
+        var to;
+        if (isUp || isDown) {
+            var direction = isDown ? 0 : 1;
+            var steps = getNextStepsForHandle(handleNumber);
+            var step = steps[direction];
+            // At the edge of a slider, do nothing
+            if (step === null) {
+                return false;
+            }
+            // No step set, use the default of 10% of the sub-range
+            if (step === false) {
+                step = scope_Spectrum.getDefaultStep(scope_Locations[handleNumber], isDown, options.keyboardDefaultStep);
+            }
+            if (isLargeUp || isLargeDown) {
+                step *= options.keyboardPageMultiplier;
+            }
+            else {
+                step *= options.keyboardMultiplier;
+            }
+            // Step over zero-length ranges (#948);
+            step = Math.max(step, 0.0000001);
+            // Decrement for down steps
+            step = (isDown ? -1 : 1) * step;
+            to = scope_Values[handleNumber] + step;
+        }
+        else if (isMax) {
+            // End key
+            to = options.spectrum.xVal[options.spectrum.xVal.length - 1];
+        }
+        else {
+            // Home key
+            to = options.spectrum.xVal[0];
+        }
+        setHandle(handleNumber, scope_Spectrum.toStepping(to), true, true);
+        fireEvent("slide", handleNumber);
+        fireEvent("update", handleNumber);
+        fireEvent("change", handleNumber);
+        fireEvent("set", handleNumber);
+        return false;
+    }
+    // Attach events to several slider parts.
+    function bindSliderEvents(behaviour) {
+        // Attach the standard drag event to the handles.
+        if (!behaviour.fixed) {
+            scope_Handles.forEach(function (handle, index) {
+                // These events are only bound to the visual handle
+                // element, not the 'real' origin element.
+                attachEvent(actions.start, handle.children[0], eventStart, {
+                    handleNumbers: [index],
+                });
+            });
+        }
+        // Attach the tap event to the slider base.
+        if (behaviour.tap) {
+            attachEvent(actions.start, scope_Base, eventTap, {});
+        }
+        // Fire hover events
+        if (behaviour.hover) {
+            attachEvent(actions.move, scope_Base, eventHover, {
+                hover: true,
+            });
+        }
+        // Make the range draggable.
+        if (behaviour.drag) {
+            scope_Connects.forEach(function (connect, index) {
+                if (connect === false || index === 0 || index === scope_Connects.length - 1) {
+                    return;
+                }
+                var handleBefore = scope_Handles[index - 1];
+                var handleAfter = scope_Handles[index];
+                var eventHolders = [connect];
+                var handlesToDrag = [handleBefore, handleAfter];
+                var handleNumbersToDrag = [index - 1, index];
+                addClass(connect, options.cssClasses.draggable);
+                // When the range is fixed, the entire range can
+                // be dragged by the handles. The handle in the first
+                // origin will propagate the start event upward,
+                // but it needs to be bound manually on the other.
+                if (behaviour.fixed) {
+                    eventHolders.push(handleBefore.children[0]);
+                    eventHolders.push(handleAfter.children[0]);
+                }
+                if (behaviour.dragAll) {
+                    handlesToDrag = scope_Handles;
+                    handleNumbersToDrag = scope_HandleNumbers;
+                }
+                eventHolders.forEach(function (eventHolder) {
+                    attachEvent(actions.start, eventHolder, eventStart, {
+                        handles: handlesToDrag,
+                        handleNumbers: handleNumbersToDrag,
+                        connect: connect,
+                    });
+                });
+            });
+        }
+    }
+    // Attach an event to this slider, possibly including a namespace
+    function bindEvent(namespacedEvent, callback) {
+        scope_Events[namespacedEvent] = scope_Events[namespacedEvent] || [];
+        scope_Events[namespacedEvent].push(callback);
+        // If the event bound is 'update,' fire it immediately for all handles.
+        if (namespacedEvent.split(".")[0] === "update") {
+            scope_Handles.forEach(function (a, index) {
+                fireEvent("update", index);
+            });
+        }
+    }
+    function isInternalNamespace(namespace) {
+        return namespace === INTERNAL_EVENT_NS.aria || namespace === INTERNAL_EVENT_NS.tooltips;
+    }
+    // Undo attachment of event
+    function removeEvent(namespacedEvent) {
+        var event = namespacedEvent && namespacedEvent.split(".")[0];
+        var namespace = event ? namespacedEvent.substring(event.length) : namespacedEvent;
+        Object.keys(scope_Events).forEach(function (bind) {
+            var tEvent = bind.split(".")[0];
+            var tNamespace = bind.substring(tEvent.length);
+            if ((!event || event === tEvent) && (!namespace || namespace === tNamespace)) {
+                // only delete protected internal event if intentional
+                if (!isInternalNamespace(tNamespace) || namespace === tNamespace) {
+                    delete scope_Events[bind];
+                }
+            }
+        });
+    }
+    // External event handling
+    function fireEvent(eventName, handleNumber, tap) {
+        Object.keys(scope_Events).forEach(function (targetEvent) {
+            var eventType = targetEvent.split(".")[0];
+            if (eventName === eventType) {
+                scope_Events[targetEvent].forEach(function (callback) {
+                    callback.call(
+                    // Use the slider public API as the scope ('this')
+                    scope_Self, 
+                    // Return values as array, so arg_1[arg_2] is always valid.
+                    scope_Values.map(options.format.to), 
+                    // Handle index, 0 or 1
+                    handleNumber, 
+                    // Un-formatted slider values
+                    scope_Values.slice(), 
+                    // Event is fired by tap, true or false
+                    tap || false, 
+                    // Left offset of the handle, in relation to the slider
+                    scope_Locations.slice(), 
+                    // add the slider public API to an accessible parameter when this is unavailable
+                    scope_Self);
+                });
+            }
+        });
+    }
+    // Split out the handle positioning logic so the Move event can use it, too
+    function checkHandlePosition(reference, handleNumber, to, lookBackward, lookForward, getValue, smoothSteps) {
+        var distance;
+        // For sliders with multiple handles, limit movement to the other handle.
+        // Apply the margin option by adding it to the handle positions.
+        if (scope_Handles.length > 1 && !options.events.unconstrained) {
+            if (lookBackward && handleNumber > 0) {
+                distance = scope_Spectrum.getAbsoluteDistance(reference[handleNumber - 1], options.margin, false);
+                to = Math.max(to, distance);
+            }
+            if (lookForward && handleNumber < scope_Handles.length - 1) {
+                distance = scope_Spectrum.getAbsoluteDistance(reference[handleNumber + 1], options.margin, true);
+                to = Math.min(to, distance);
+            }
+        }
+        // The limit option has the opposite effect, limiting handles to a
+        // maximum distance from another. Limit must be > 0, as otherwise
+        // handles would be unmovable.
+        if (scope_Handles.length > 1 && options.limit) {
+            if (lookBackward && handleNumber > 0) {
+                distance = scope_Spectrum.getAbsoluteDistance(reference[handleNumber - 1], options.limit, false);
+                to = Math.min(to, distance);
+            }
+            if (lookForward && handleNumber < scope_Handles.length - 1) {
+                distance = scope_Spectrum.getAbsoluteDistance(reference[handleNumber + 1], options.limit, true);
+                to = Math.max(to, distance);
+            }
+        }
+        // The padding option keeps the handles a certain distance from the
+        // edges of the slider. Padding must be > 0.
+        if (options.padding) {
+            if (handleNumber === 0) {
+                distance = scope_Spectrum.getAbsoluteDistance(0, options.padding[0], false);
+                to = Math.max(to, distance);
+            }
+            if (handleNumber === scope_Handles.length - 1) {
+                distance = scope_Spectrum.getAbsoluteDistance(100, options.padding[1], true);
+                to = Math.min(to, distance);
+            }
+        }
+        if (!smoothSteps) {
+            to = scope_Spectrum.getStep(to);
+        }
+        // Limit percentage to the 0 - 100 range
+        to = limit(to);
+        // Return false if handle can't move
+        if (to === reference[handleNumber] && !getValue) {
+            return false;
+        }
+        return to;
+    }
+    // Uses slider orientation to create CSS rules. a = base value;
+    function inRuleOrder(v, a) {
+        var o = options.ort;
+        return (o ? a : v) + ", " + (o ? v : a);
+    }
+    // Moves handle(s) by a percentage
+    // (bool, % to move, [% where handle started, ...], [index in scope_Handles, ...])
+    function moveHandles(upward, proposal, locations, handleNumbers, connect) {
+        var proposals = locations.slice();
+        // Store first handle now, so we still have it in case handleNumbers is reversed
+        var firstHandle = handleNumbers[0];
+        var smoothSteps = options.events.smoothSteps;
+        var b = [!upward, upward];
+        var f = [upward, !upward];
+        // Copy handleNumbers so we don't change the dataset
+        handleNumbers = handleNumbers.slice();
+        // Check to see which handle is 'leading'.
+        // If that one can't move the second can't either.
+        if (upward) {
+            handleNumbers.reverse();
+        }
+        // Step 1: get the maximum percentage that any of the handles can move
+        if (handleNumbers.length > 1) {
+            handleNumbers.forEach(function (handleNumber, o) {
+                var to = checkHandlePosition(proposals, handleNumber, proposals[handleNumber] + proposal, b[o], f[o], false, smoothSteps);
+                // Stop if one of the handles can't move.
+                if (to === false) {
+                    proposal = 0;
+                }
+                else {
+                    proposal = to - proposals[handleNumber];
+                    proposals[handleNumber] = to;
+                }
+            });
+        }
+        // If using one handle, check backward AND forward
+        else {
+            b = f = [true];
+        }
+        var state = false;
+        // Step 2: Try to set the handles with the found percentage
+        handleNumbers.forEach(function (handleNumber, o) {
+            state =
+                setHandle(handleNumber, locations[handleNumber] + proposal, b[o], f[o], false, smoothSteps) || state;
+        });
+        // Step 3: If a handle moved, fire events
+        if (state) {
+            handleNumbers.forEach(function (handleNumber) {
+                fireEvent("update", handleNumber);
+                fireEvent("slide", handleNumber);
+            });
+            // If target is a connect, then fire drag event
+            if (connect != undefined) {
+                fireEvent("drag", firstHandle);
+            }
+        }
+    }
+    // Takes a base value and an offset. This offset is used for the connect bar size.
+    // In the initial design for this feature, the origin element was 1% wide.
+    // Unfortunately, a rounding bug in Chrome makes it impossible to implement this feature
+    // in this manner: https://bugs.chromium.org/p/chromium/issues/detail?id=798223
+    function transformDirection(a, b) {
+        return options.dir ? 100 - a - b : a;
+    }
+    // Updates scope_Locations and scope_Values, updates visual state
+    function updateHandlePosition(handleNumber, to) {
+        // Update locations.
+        scope_Locations[handleNumber] = to;
+        // Convert the value to the slider stepping/range.
+        scope_Values[handleNumber] = scope_Spectrum.fromStepping(to);
+        var translation = transformDirection(to, 0) - scope_DirOffset;
+        var translateRule = "translate(" + inRuleOrder(translation + "%", "0") + ")";
+        scope_Handles[handleNumber].style[options.transformRule] = translateRule;
+        updateConnect(handleNumber);
+        updateConnect(handleNumber + 1);
+    }
+    // Handles before the slider middle are stacked later = higher,
+    // Handles after the middle later is lower
+    // [[7] [8] .......... | .......... [5] [4]
+    function setZindex() {
+        scope_HandleNumbers.forEach(function (handleNumber) {
+            var dir = scope_Locations[handleNumber] > 50 ? -1 : 1;
+            var zIndex = 3 + (scope_Handles.length + dir * handleNumber);
+            scope_Handles[handleNumber].style.zIndex = String(zIndex);
+        });
+    }
+    // Test suggested values and apply margin, step.
+    // if exactInput is true, don't run checkHandlePosition, then the handle can be placed in between steps (#436)
+    function setHandle(handleNumber, to, lookBackward, lookForward, exactInput, smoothSteps) {
+        if (!exactInput) {
+            to = checkHandlePosition(scope_Locations, handleNumber, to, lookBackward, lookForward, false, smoothSteps);
+        }
+        if (to === false) {
+            return false;
+        }
+        updateHandlePosition(handleNumber, to);
+        return true;
+    }
+    // Updates style attribute for connect nodes
+    function updateConnect(index) {
+        // Skip connects set to false
+        if (!scope_Connects[index]) {
+            return;
+        }
+        var l = 0;
+        var h = 100;
+        if (index !== 0) {
+            l = scope_Locations[index - 1];
+        }
+        if (index !== scope_Connects.length - 1) {
+            h = scope_Locations[index];
+        }
+        // We use two rules:
+        // 'translate' to change the left/top offset;
+        // 'scale' to change the width of the element;
+        // As the element has a width of 100%, a translation of 100% is equal to 100% of the parent (.noUi-base)
+        var connectWidth = h - l;
+        var translateRule = "translate(" + inRuleOrder(transformDirection(l, connectWidth) + "%", "0") + ")";
+        var scaleRule = "scale(" + inRuleOrder(connectWidth / 100, "1") + ")";
+        scope_Connects[index].style[options.transformRule] =
+            translateRule + " " + scaleRule;
+    }
+    // Parses value passed to .set method. Returns current value if not parse-able.
+    function resolveToValue(to, handleNumber) {
+        // Setting with null indicates an 'ignore'.
+        // Inputting 'false' is invalid.
+        if (to === null || to === false || to === undefined) {
+            return scope_Locations[handleNumber];
+        }
+        // If a formatted number was passed, attempt to decode it.
+        if (typeof to === "number") {
+            to = String(to);
+        }
+        to = options.format.from(to);
+        if (to !== false) {
+            to = scope_Spectrum.toStepping(to);
+        }
+        // If parsing the number failed, use the current value.
+        if (to === false || isNaN(to)) {
+            return scope_Locations[handleNumber];
+        }
+        return to;
+    }
+    // Set the slider value.
+    function valueSet(input, fireSetEvent, exactInput) {
+        var values = asArray(input);
+        var isInit = scope_Locations[0] === undefined;
+        // Event fires by default
+        fireSetEvent = fireSetEvent === undefined ? true : fireSetEvent;
+        // Animation is optional.
+        // Make sure the initial values were set before using animated placement.
+        if (options.animate && !isInit) {
+            addClassFor(scope_Target, options.cssClasses.tap, options.animationDuration);
+        }
+        // First pass, without lookAhead but with lookBackward. Values are set from left to right.
+        scope_HandleNumbers.forEach(function (handleNumber) {
+            setHandle(handleNumber, resolveToValue(values[handleNumber], handleNumber), true, false, exactInput);
+        });
+        var i = scope_HandleNumbers.length === 1 ? 0 : 1;
+        // Spread handles evenly across the slider if the range has no size (min=max)
+        if (isInit && scope_Spectrum.hasNoSize()) {
+            exactInput = true;
+            scope_Locations[0] = 0;
+            if (scope_HandleNumbers.length > 1) {
+                var space_1 = 100 / (scope_HandleNumbers.length - 1);
+                scope_HandleNumbers.forEach(function (handleNumber) {
+                    scope_Locations[handleNumber] = handleNumber * space_1;
+                });
+            }
+        }
+        // Secondary passes. Now that all base values are set, apply constraints.
+        // Iterate all handles to ensure constraints are applied for the entire slider (Issue #1009)
+        for (; i < scope_HandleNumbers.length; ++i) {
+            scope_HandleNumbers.forEach(function (handleNumber) {
+                setHandle(handleNumber, scope_Locations[handleNumber], true, true, exactInput);
+            });
+        }
+        setZindex();
+        scope_HandleNumbers.forEach(function (handleNumber) {
+            fireEvent("update", handleNumber);
+            // Fire the event only for handles that received a new value, as per #579
+            if (values[handleNumber] !== null && fireSetEvent) {
+                fireEvent("set", handleNumber);
+            }
+        });
+    }
+    // Reset slider to initial values
+    function valueReset(fireSetEvent) {
+        valueSet(options.start, fireSetEvent);
+    }
+    // Set value for a single handle
+    function valueSetHandle(handleNumber, value, fireSetEvent, exactInput) {
+        // Ensure numeric input
+        handleNumber = Number(handleNumber);
+        if (!(handleNumber >= 0 && handleNumber < scope_HandleNumbers.length)) {
+            throw new Error("noUiSlider: invalid handle number, got: " + handleNumber);
+        }
+        // Look both backward and forward, since we don't want this handle to "push" other handles (#960);
+        // The exactInput argument can be used to ignore slider stepping (#436)
+        setHandle(handleNumber, resolveToValue(value, handleNumber), true, true, exactInput);
+        fireEvent("update", handleNumber);
+        if (fireSetEvent) {
+            fireEvent("set", handleNumber);
+        }
+    }
+    // Get the slider value.
+    function valueGet(unencoded) {
+        if (unencoded === void 0) { unencoded = false; }
+        if (unencoded) {
+            // return a copy of the raw values
+            return scope_Values.length === 1 ? scope_Values[0] : scope_Values.slice(0);
+        }
+        var values = scope_Values.map(options.format.to);
+        // If only one handle is used, return a single value.
+        if (values.length === 1) {
+            return values[0];
+        }
+        return values;
+    }
+    // Removes classes from the root and empties it.
+    function destroy() {
+        // remove protected internal listeners
+        removeEvent(INTERNAL_EVENT_NS.aria);
+        removeEvent(INTERNAL_EVENT_NS.tooltips);
+        Object.keys(options.cssClasses).forEach(function (key) {
+            removeClass(scope_Target, options.cssClasses[key]);
+        });
+        while (scope_Target.firstChild) {
+            scope_Target.removeChild(scope_Target.firstChild);
+        }
+        delete scope_Target.noUiSlider;
+    }
+    function getNextStepsForHandle(handleNumber) {
+        var location = scope_Locations[handleNumber];
+        var nearbySteps = scope_Spectrum.getNearbySteps(location);
+        var value = scope_Values[handleNumber];
+        var increment = nearbySteps.thisStep.step;
+        var decrement = null;
+        // If snapped, directly use defined step value
+        if (options.snap) {
+            return [
+                value - nearbySteps.stepBefore.startValue || null,
+                nearbySteps.stepAfter.startValue - value || null,
+            ];
+        }
+        // If the next value in this step moves into the next step,
+        // the increment is the start of the next step - the current value
+        if (increment !== false) {
+            if (value + increment > nearbySteps.stepAfter.startValue) {
+                increment = nearbySteps.stepAfter.startValue - value;
+            }
+        }
+        // If the value is beyond the starting point
+        if (value > nearbySteps.thisStep.startValue) {
+            decrement = nearbySteps.thisStep.step;
+        }
+        else if (nearbySteps.stepBefore.step === false) {
+            decrement = false;
+        }
+        // If a handle is at the start of a step, it always steps back into the previous step first
+        else {
+            decrement = value - nearbySteps.stepBefore.highestStep;
+        }
+        // Now, if at the slider edges, there is no in/decrement
+        if (location === 100) {
+            increment = null;
+        }
+        else if (location === 0) {
+            decrement = null;
+        }
+        // As per #391, the comparison for the decrement step can have some rounding issues.
+        var stepDecimals = scope_Spectrum.countStepDecimals();
+        // Round per #391
+        if (increment !== null && increment !== false) {
+            increment = Number(increment.toFixed(stepDecimals));
+        }
+        if (decrement !== null && decrement !== false) {
+            decrement = Number(decrement.toFixed(stepDecimals));
+        }
+        return [decrement, increment];
+    }
+    // Get the current step size for the slider.
+    function getNextSteps() {
+        return scope_HandleNumbers.map(getNextStepsForHandle);
+    }
+    // Updatable: margin, limit, padding, step, range, animate, snap
+    function updateOptions(optionsToUpdate, fireSetEvent) {
+        // Spectrum is created using the range, snap, direction and step options.
+        // 'snap' and 'step' can be updated.
+        // If 'snap' and 'step' are not passed, they should remain unchanged.
+        var v = valueGet();
+        var updateAble = [
+            "margin",
+            "limit",
+            "padding",
+            "range",
+            "animate",
+            "snap",
+            "step",
+            "format",
+            "pips",
+            "tooltips",
+        ];
+        // Only change options that we're actually passed to update.
+        updateAble.forEach(function (name) {
+            // Check for undefined. null removes the value.
+            if (optionsToUpdate[name] !== undefined) {
+                originalOptions[name] = optionsToUpdate[name];
+            }
+        });
+        var newOptions = testOptions(originalOptions);
+        // Load new options into the slider state
+        updateAble.forEach(function (name) {
+            if (optionsToUpdate[name] !== undefined) {
+                options[name] = newOptions[name];
+            }
+        });
+        scope_Spectrum = newOptions.spectrum;
+        // Limit, margin and padding depend on the spectrum but are stored outside of it. (#677)
+        options.margin = newOptions.margin;
+        options.limit = newOptions.limit;
+        options.padding = newOptions.padding;
+        // Update pips, removes existing.
+        if (options.pips) {
+            pips(options.pips);
+        }
+        else {
+            removePips();
+        }
+        // Update tooltips, removes existing.
+        if (options.tooltips) {
+            tooltips();
+        }
+        else {
+            removeTooltips();
+        }
+        // Invalidate the current positioning so valueSet forces an update.
+        scope_Locations = [];
+        valueSet(isSet(optionsToUpdate.start) ? optionsToUpdate.start : v, fireSetEvent);
+    }
+    // Initialization steps
+    function setupSlider() {
+        // Create the base element, initialize HTML and set classes.
+        // Add handles and connect elements.
+        scope_Base = addSlider(scope_Target);
+        addElements(options.connect, scope_Base);
+        // Attach user events.
+        bindSliderEvents(options.events);
+        // Use the public value method to set the start values.
+        valueSet(options.start);
+        if (options.pips) {
+            pips(options.pips);
+        }
+        if (options.tooltips) {
+            tooltips();
+        }
+        aria();
+    }
+    setupSlider();
+    var scope_Self = {
+        destroy: destroy,
+        steps: getNextSteps,
+        on: bindEvent,
+        off: removeEvent,
+        get: valueGet,
+        set: valueSet,
+        setHandle: valueSetHandle,
+        reset: valueReset,
+        disable: disable,
+        enable: enable,
+        // Exposed for unit testing, don't use this in your application.
+        __moveHandles: function (upward, proposal, handleNumbers) {
+            moveHandles(upward, proposal, scope_Locations, handleNumbers);
+        },
+        options: originalOptions,
+        updateOptions: updateOptions,
+        target: scope_Target,
+        removePips: removePips,
+        removeTooltips: removeTooltips,
+        getPositions: function () {
+            return scope_Locations.slice();
+        },
+        getTooltips: function () {
+            return scope_Tooltips;
+        },
+        getOrigins: function () {
+            return scope_Handles;
+        },
+        pips: pips, // Issue #594
+    };
+    return scope_Self;
+}
+// Run the standard initializer
+function initialize(target, originalOptions) {
+    if (!target || !target.nodeName) {
+        throw new Error("noUiSlider: create requires a single element, got: " + target);
+    }
+    // Throw an error if the slider was already initialized.
+    if (target.noUiSlider) {
+        throw new Error("noUiSlider: Slider was already initialized.");
+    }
+    // Test the options and create the slider environment;
+    var options = testOptions(originalOptions);
+    var api = scope(target, options, originalOptions);
+    target.noUiSlider = api;
+    return api;
+}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+    // Exposed for unit testing, don't use this in your application.
+    __spectrum: Spectrum,
+    // A reference to the default classes, allows global changes.
+    // Use the cssClasses option for changes to one slider.
+    cssClasses: cssClasses,
+    create: initialize,
+});
+
+
+/***/ })
+
+}]);

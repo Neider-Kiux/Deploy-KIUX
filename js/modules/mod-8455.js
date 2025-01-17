@@ -1,1 +1,118 @@
-'use strict';var a20_0x5ce22a=a20_0x131b;(function(_0x865c32,_0x55300e){var _0x5584a0=a20_0x131b,_0x44d458=_0x865c32();while(!![]){try{var _0x1b13a8=parseInt(_0x5584a0(0xdc))/0x1+parseInt(_0x5584a0(0xa3))/0x2*(parseInt(_0x5584a0(0x9a))/0x3)+parseInt(_0x5584a0(0xa7))/0x4*(-parseInt(_0x5584a0(0xc7))/0x5)+-parseInt(_0x5584a0(0xa8))/0x6+parseInt(_0x5584a0(0xb1))/0x7*(-parseInt(_0x5584a0(0xcb))/0x8)+parseInt(_0x5584a0(0xd4))/0x9*(parseInt(_0x5584a0(0x9f))/0xa)+parseInt(_0x5584a0(0xc8))/0xb*(-parseInt(_0x5584a0(0xb3))/0xc);if(_0x1b13a8===_0x55300e)break;else _0x44d458['push'](_0x44d458['shift']());}catch(_0x326ab4){_0x44d458['push'](_0x44d458['shift']());}}}(a20_0x3e7d,0x97054));function a20_0x131b(_0x54821e,_0x262239){var _0x3e7d54=a20_0x3e7d();return a20_0x131b=function(_0x131b86,_0x558943){_0x131b86=_0x131b86-0x97;var _0x2c50b5=_0x3e7d54[_0x131b86];return _0x2c50b5;},a20_0x131b(_0x54821e,_0x262239);}(self[a20_0x5ce22a(0xbe)]=self[a20_0x5ce22a(0xbe)]||[])[a20_0x5ce22a(0xb5)]([[0x2107],{0x2107:(_0x462fca,_0x240d12,_0x4a6562)=>{_0x4a6562['r'](_0x240d12),_0x4a6562['d'](_0x240d12,{'CerrarModal':()=>_0x563335,'ModalNotificaciones':()=>_0x584d33});var _0x130aa2=_0x4a6562(0x1d3),_0x2fea7d=_0x4a6562(0x1294),_0x524a1b=_0x4a6562['n'](_0x2fea7d),_0x2785ab=_0x4a6562(0x1d01),_0x3e65da=_0x4a6562(0x88c),_0x44be02=_0x4a6562(0xb0d),_0x563335=function _0x1f8e2b(_0x1aef85){var _0x2b7346=a20_0x131b;_0x1aef85[_0x2b7346(0xc6)]['id']==_0x2b7346(0xaa)&&(document[_0x2b7346(0x9e)](_0x2b7346(0xdb))[_0x2b7346(0xac)](),document[_0x2b7346(0x9e)](_0x2b7346(0xe0))[_0x2b7346(0xa9)]['remove'](_0x2b7346(0xc9)),(0x0,_0x44be02['revisarNotificaciones'])());},_0x584d33=(function(){var _0x27b250=a20_0x131b,_0x1d7bc7=(0x0,_0x130aa2['A'])(_0x524a1b()[_0x27b250(0xd6)](function _0x113b4c(){var _0x4a2554=_0x27b250,_0x316a5a,_0x4cf425,_0x13b429,_0x4ecfbb,_0xc4e2fc,_0x4b1c30,_0x4ff438;return _0x524a1b()[_0x4a2554(0x9c)](function _0x4ed6cb(_0x2850ef){var _0x5aa48d=_0x4a2554;while(0x1)switch(_0x2850ef[_0x5aa48d(0xd2)]=_0x2850ef[_0x5aa48d(0xd9)]){case 0x0:document[_0x5aa48d(0x9e)](_0x5aa48d(0xe0))[_0x5aa48d(0xa9)]['add'](_0x5aa48d(0xc9)),_0x316a5a=document[_0x5aa48d(0xcc)](_0x5aa48d(0xa0)),_0x4cf425=document[_0x5aa48d(0xcc)](_0x5aa48d(0xa0)),_0x316a5a['classList'][_0x5aa48d(0x98)](_0x5aa48d(0xaa)),_0x316a5a['id']=_0x5aa48d(0xaa),_0x4cf425['classList']['add']('dialogo'),_0x316a5a[_0x5aa48d(0xba)](_0x4cf425),document[_0x5aa48d(0xd1)][_0x5aa48d(0xba)](_0x316a5a),_0x13b429=_0x5aa48d(0xb2),_0x4ecfbb='',_0x2850ef['next']=0xc;return(0x0,_0x2785ab['GetData'])(_0x13b429,_0x4ecfbb);case 0xc:_0xc4e2fc=_0x2850ef[_0x5aa48d(0xa1)],_0x4b1c30=_0xc4e2fc[_0x5aa48d(0xcf)],_0x4ff438=_0x12be94(_0x4b1c30),_0x4cf425[_0x5aa48d(0xae)]=_0x4ff438[_0x5aa48d(0xc4)](),document[_0x5aa48d(0xcd)](_0x5aa48d(0xaa))['addEventListener'](_0x5aa48d(0x97),_0x563335),_0x5dc9a9();case 0x12:case _0x5aa48d(0x99):return _0x2850ef[_0x5aa48d(0xd5)]();}},_0x113b4c);}));return function _0x3a76e2(){var _0x295c40=_0x27b250;return _0x1d7bc7[_0x295c40(0xc3)](this,arguments);};}()),_0xce5e16=function _0x48af6d(_0x479c34){var _0x396327=a20_0x131b;console[_0x396327(0xc1)](_0x396327(0xbf));},_0x5dc9a9=function _0x50b36f(){var _0x5145ab=a20_0x131b,_0x8290b2=document[_0x5145ab(0xd7)](_0x5145ab(0x9b));_0x8290b2['forEach'](function(_0x1d0880){var _0x545988=_0x5145ab,_0x4f77b2=null;_0x1d0880[_0x545988(0xb4)]('click',function(_0x35bb52){var _0xed121d=_0x545988;_0x35bb52[_0xed121d(0xc6)][_0xed121d(0xb6)]?_0x4f77b2=setTimeout((0x0,_0x130aa2['A'])(_0x524a1b()[_0xed121d(0xd6)](function _0x88e61f(){var _0x3c47d0=_0xed121d,_0x51de33,_0x409629,_0x18d4a5;return _0x524a1b()[_0x3c47d0(0x9c)](function _0x4c68ba(_0x4acbd2){var _0x38df26=_0x3c47d0;while(0x1)switch(_0x4acbd2['prev']=_0x4acbd2[_0x38df26(0xd9)]){case 0x0:_0x51de33=_0x38df26(0xb0),_0x409629=_0x35bb52['target']['value'],_0x4acbd2['next']=0x4;return(0x0,_0x2785ab[_0x38df26(0xa5)])(_0x51de33,_0x409629);case 0x4:_0x18d4a5=_0x4acbd2[_0x38df26(0xa1)],_0x35bb52[_0x38df26(0xc6)][_0x38df26(0x9d)][_0x38df26(0xa2)]='hidden',_0x35bb52[_0x38df26(0xc6)][_0x38df26(0xdf)][_0x38df26(0xdf)]['classList']['add'](_0x38df26(0xd3));case 0x7:case _0x38df26(0x99):return _0x4acbd2[_0x38df26(0xd5)]();}},_0x88e61f);})),0xfa):clearTimeout(_0x4f77b2);});});},_0x12be94=function _0x3016dd(_0x29163f){var _0x4d6a34=a20_0x131b,_0x33b48a=_0x29163f[_0x4d6a34(0xd0)](function(_0x546930){var _0x23c8bb=_0x4d6a34,_0x1ac3f2=_0x546930['antiguedad'],_0x1d7fee=_0x546930[_0x23c8bb(0xd8)],_0x329c64=_0x546930[_0x23c8bb(0xbc)],_0x46fd29=_0x546930[_0x23c8bb(0xda)],_0x1fd907=_0x546930[_0x23c8bb(0xde)],_0x21b73d=_0x546930['titulo'],_0x105a9d=(0x0,_0x3e65da[_0x23c8bb(0xad)])(_0x1d7fee);return _0x23c8bb(0xc0)['concat'](_0x105a9d,_0x23c8bb(0xa4))['concat'](_0x329c64?_0x23c8bb(0xd3):'',_0x23c8bb(0xb7))['concat'](_0x1fd907,_0x23c8bb(0xb8))['concat'](_0x105a9d,_0x23c8bb(0xdd))[_0x23c8bb(0xc5)](_0x1ac3f2,_0x23c8bb(0xaf))[_0x23c8bb(0xc5)](_0x21b73d,_0x23c8bb(0xab))['concat'](!_0x329c64?_0x23c8bb(0xca)[_0x23c8bb(0xc5)](_0x1fd907,_0x23c8bb(0xce)):'',_0x23c8bb(0xc2))[_0x23c8bb(0xc5)](_0x46fd29,_0x23c8bb(0xb9));});return _0x4d6a34(0xbd)[_0x4d6a34(0xc5)](_0x33b48a[_0x4d6a34(0xa6)](''),_0x4d6a34(0xbb));};}}]);function a20_0x3e7d(){var _0x2b8898=['innerHTML','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22titulo-notificacion\x22>','clicknotificacion','78953ooRHjI','getnotificaciones','2341992vnPQRY','addEventListener','push','checked','\x22\x20numero_notificacion=\x22','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22encabezado-notificacion\x22\x20style=\x22background-color:\x20','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20</li>\x0a\x20\x20\x20\x20','appendChild','\x0a\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20','leida','\x0a\x20\x20\x20\x20<div\x20class=\x22contenedor-notificaciones\x22>\x0a\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','webpackChunkkiux','hizo\x20click\x20en\x20una\x20noticiación...','\x0a\x20\x20\x20\x20\x20\x20<li\x20style=\x22border-color:\x20','log','\x0a\x20\x20\x20\x20\x20\x20\x20\x20</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22contenido-notificacion\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>','apply','trim','concat','target','550pMtDtP','55FCRQRa','ocultar-scroll','<input\x20type=\x22checkbox\x22\x20id=\x22leer-notificacion\x22\x20name=\x22vista\x22\x20value=\x22','16IpWeOy','createElement','getElementById','\x22\x20class=\x22notificacion-check\x22>','notificaciones','map','body','prev','notificacion-deshabilitada','8191377ioowul','stop','mark','querySelectorAll','color_rgb','next','notificacion','.background','779679YAatWS','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22tiempo-notificacion\x22>','numero_notificacion','parentElement','main','mousedown','add','end','51lhvaYb','#leer-notificacion','wrap','style','querySelector','10LDNmkv','DIV','sent','visibility','74314ECFRUO','\x22\x20class=\x22contenedor-notificacion\x20','GetData','join','4924fTCbyi','3414738GiIXlQ','classList','background','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','remove','ColorRGB'];a20_0x3e7d=function(){return _0x2b8898;};return a20_0x3e7d();}
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[8455],{
+
+/***/ 8455:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CerrarModal: () => (/* binding */ CerrarModal),
+/* harmony export */   ModalNotificaciones: () => (/* binding */ ModalNotificaciones)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(467);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4756);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7425);
+/* harmony import */ var _utils_Color__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2188);
+/* harmony import */ var _utils_revisarNotificaciones__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2829);
+
+
+
+
+
+var CerrarModal = function CerrarModal(event) {
+  if (event.target.id == 'background') {
+    document.querySelector('.background').remove();
+    document.querySelector('main').classList.remove('ocultar-scroll');
+    (0,_utils_revisarNotificaciones__WEBPACK_IMPORTED_MODULE_2__.revisarNotificaciones)();
+  }
+};
+var ModalNotificaciones = /*#__PURE__*/function () {
+  var _ref = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee() {
+    var Background, Dialogo, url, path, _yield$GetData, notificaciones, content;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
+      while (1) switch (_context.prev = _context.next) {
+        case 0:
+          document.querySelector('main').classList.add('ocultar-scroll');
+          Background = document.createElement('DIV');
+          Dialogo = document.createElement('DIV');
+          Background.classList.add('background');
+          Background.id = 'background';
+          Dialogo.classList.add('dialogo');
+          Background.appendChild(Dialogo);
+          document.body.appendChild(Background);
+          url = 'getnotificaciones';
+          path = '';
+          _context.next = 12;
+          return (0,_api__WEBPACK_IMPORTED_MODULE_1__.GetData)(url, path);
+        case 12:
+          _yield$GetData = _context.sent;
+          notificaciones = _yield$GetData.notificaciones;
+          content = crearNotificaciones(notificaciones);
+          Dialogo.innerHTML = content.trim();
+          document.getElementById('background').addEventListener('mousedown', CerrarModal);
+          activarLeerNotificacion();
+        case 18:
+        case "end":
+          return _context.stop();
+      }
+    }, _callee);
+  }));
+  return function ModalNotificaciones() {
+    return _ref.apply(this, arguments);
+  };
+}();
+
+// la función ClickLink está en desarrollo y servirá para marcar como "leída"
+// una notificación al hacer click en un link de ésta
+var ClickLink = function ClickLink(Texto) {
+  console.log('hizo click en una noticiación...');
+};
+var activarLeerNotificacion = function activarLeerNotificacion() {
+  var checkboxes = document.querySelectorAll('#leer-notificacion');
+  checkboxes.forEach(function (item) {
+    var IntervalId = null;
+    item.addEventListener('click', function (e) {
+      if (e.target.checked) {
+        IntervalId = setTimeout( /*#__PURE__*/(0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee2() {
+          var url, path, data;
+          return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee2$(_context2) {
+            while (1) switch (_context2.prev = _context2.next) {
+              case 0:
+                url = 'clicknotificacion';
+                path = e.target.value;
+                _context2.next = 4;
+                return (0,_api__WEBPACK_IMPORTED_MODULE_1__.GetData)(url, path);
+              case 4:
+                data = _context2.sent;
+                e.target.style.visibility = 'hidden';
+                e.target.parentElement.parentElement.classList.add('notificacion-deshabilitada');
+              case 7:
+              case "end":
+                return _context2.stop();
+            }
+          }, _callee2);
+        })), 250);
+      } else {
+        clearTimeout(IntervalId);
+      }
+    });
+  });
+};
+var crearNotificaciones = function crearNotificaciones(notificaciones) {
+  var NotificacionesContent = notificaciones.map(function (_ref3) {
+    var antiguedad = _ref3.antiguedad,
+      color_rgb = _ref3.color_rgb,
+      leida = _ref3.leida,
+      notificacion = _ref3.notificacion,
+      numero_notificacion = _ref3.numero_notificacion,
+      titulo = _ref3.titulo;
+    var Color = (0,_utils_Color__WEBPACK_IMPORTED_MODULE_4__.ColorRGB)(color_rgb);
+    return "\n      <li style=\"border-color: ".concat(Color, "\" class=\"contenedor-notificacion ").concat(leida ? 'notificacion-deshabilitada' : '', "\" numero_notificacion=\"").concat(numero_notificacion, "\">\n        <label class=\"encabezado-notificacion\" style=\"background-color: ").concat(Color, "\">\n          <p class=\"tiempo-notificacion\">").concat(antiguedad, "</p>\n          <p class=\"titulo-notificacion\">").concat(titulo, "</p>\n          ").concat(!leida ? "<input type=\"checkbox\" id=\"leer-notificacion\" name=\"vista\" value=\"".concat(numero_notificacion, "\" class=\"notificacion-check\">") : '', "\n        </label>\n        <div class=\"contenido-notificacion\">\n          <p>").concat(notificacion, "</p>\n        </div>\n      </li>\n    ");
+  });
+  return "\n    <div class=\"contenedor-notificaciones\">\n      <ul>\n        ".concat(NotificacionesContent.join(''), "\n      </ul>\n    </div>\n  ");
+};
+
+/***/ })
+
+}]);

@@ -1,1 +1,79 @@
-'use strict';function a50_0x15ac(_0x3bee1d,_0x5dce22){var _0x2f48d1=a50_0x2f48();return a50_0x15ac=function(_0x15acfc,_0xbf29d9){_0x15acfc=_0x15acfc-0x1ce;var _0xf0f22d=_0x2f48d1[_0x15acfc];return _0xf0f22d;},a50_0x15ac(_0x3bee1d,_0x5dce22);}var a50_0x12dc9c=a50_0x15ac;function a50_0x2f48(){var _0x196b0e=['Suplantando','forEach','pathname','prev','3380NQEHHO','1889335OLYZrm','5031747RjrJQr','BotonesActivos','setItem','location','suplantando','style','sent','CustomFetch','getItem','nombre_anexo','registro','querySelectorAll','.btn-oculto','abrupt','9576OVqlGt','href','nombre_usuario','919150HbhKbB','result_code','end','webpackChunkkiux','stop','clear','registro.html','none','apply','mark','NombreAnexo','NombreUsuario','botones_registrar','wrap','puede_suplantar','89VTwqfv','PuedeSuplantar','5736592ulfZDW','stringify','330IpewPQ','new_token','return','4738sxYkFc','includes','next','1185KYbVgm'];a50_0x2f48=function(){return _0x196b0e;};return a50_0x2f48();}(function(_0x4059be,_0x2a415b){var _0x17f370=a50_0x15ac,_0x464b88=_0x4059be();while(!![]){try{var _0xeb15bf=parseInt(_0x17f370(0x1e9))/0x1*(-parseInt(_0x17f370(0x1f0))/0x2)+parseInt(_0x17f370(0x1f3))/0x3*(-parseInt(_0x17f370(0x1f8))/0x4)+-parseInt(_0x17f370(0x1f9))/0x5+-parseInt(_0x17f370(0x1ed))/0x6*(parseInt(_0x17f370(0x1d7))/0x7)+parseInt(_0x17f370(0x1eb))/0x8+parseInt(_0x17f370(0x1fa))/0x9+parseInt(_0x17f370(0x1da))/0xa;if(_0xeb15bf===_0x2a415b)break;else _0x464b88['push'](_0x464b88['shift']());}catch(_0x1fb738){_0x464b88['push'](_0x464b88['shift']());}}}(a50_0x2f48,0x5a6ad));(self[a50_0x12dc9c(0x1dd)]=self[a50_0x12dc9c(0x1dd)]||[])['push']([[0x234d],{0x234d:(_0x111932,_0xd5fcdb,_0x3f399a)=>{_0x3f399a['r'](_0xd5fcdb),_0x3f399a['d'](_0xd5fcdb,{'CargarDatosUsuario':()=>_0x133f19});var _0x494121=_0x3f399a(0x1552),_0x265f63=_0x3f399a(0x1d3),_0x2347c8=_0x3f399a(0x1294),_0x12cc25=_0x3f399a['n'](_0x2347c8),_0x3ef3e1=_0x3f399a(0x267a),_0x58bc46=_0x3f399a(0x1d01);function _0x133f19(){return _0x4fba28['apply'](this,arguments);}function _0x4fba28(){var _0xe8f39c=a50_0x15ac;return _0x4fba28=(0x0,_0x265f63['A'])(_0x12cc25()[_0xe8f39c(0x1e3)](function _0x507ba2(){var _0x2645ce=_0xe8f39c,_0x4c9b93,_0x153b9d,_0x4979b0;return _0x12cc25()[_0x2645ce(0x1e7)](function _0x8bb556(_0x328595){var _0x507932=_0x2645ce;while(0x1)switch(_0x328595[_0x507932(0x1f7)]=_0x328595['next']){case 0x0:_0x4c9b93='getdatosusuario/'['concat'](localStorage[_0x507932(0x1d1)]('Token')),_0x328595['next']=0x3;return(0x0,_0x58bc46[_0x507932(0x1d0)])(_0x4c9b93);case 0x3:_0x153b9d=_0x328595[_0x507932(0x1cf)];if(!(_0x153b9d[_0x507932(0x1db)]==0x0)){_0x328595[_0x507932(0x1f2)]=0x14;break;}localStorage[_0x507932(0x1fc)](_0x507932(0x1e5),_0x153b9d[_0x507932(0x1d9)]),localStorage[_0x507932(0x1fc)](_0x507932(0x1e4),_0x153b9d[_0x507932(0x1d2)]),localStorage['setItem'](_0x507932(0x1ea),_0x153b9d[_0x507932(0x1e8)]),localStorage[_0x507932(0x1fc)](_0x507932(0x1f4),_0x153b9d[_0x507932(0x1fe)]),_0x4979b0=JSON[_0x507932(0x1ec)](_0x153b9d[_0x507932(0x1e6)]),localStorage[_0x507932(0x1fc)]('BotonesRegistrar',_0x4979b0),localStorage[_0x507932(0x1fc)]('Token',_0x153b9d[_0x507932(0x1ee)]);window[_0x507932(0x1fd)][_0x507932(0x1f6)]['includes'](_0x507932(0x1d3))&&((0x0,_0x494121['A'])(document[_0x507932(0x1d4)](_0x507932(0x1d5)))['length']>0x0&&(0x0,_0x494121['A'])(document['querySelectorAll']('.btn-oculto'))[_0x507932(0x1f5)](function(_0x405d22){var _0x73f0cb=_0x507932;_0x405d22[_0x73f0cb(0x1ce)]['display']=_0x73f0cb(0x1e1);}),(0x0,_0x3ef3e1[_0x507932(0x1fb)])());if(!window[_0x507932(0x1fd)][_0x507932(0x1f6)][_0x507932(0x1f1)](_0x507932(0x1d3))){_0x328595[_0x507932(0x1f2)]=0x11;break;}return _0x328595[_0x507932(0x1d6)](_0x507932(0x1ef));case 0x11:location[_0x507932(0x1d8)]=_0x507932(0x1e0);case 0x12:_0x328595['next']=0x16;break;case 0x14:localStorage[_0x507932(0x1df)](),location[_0x507932(0x1d8)]='login.html';case 0x16:case _0x507932(0x1dc):return _0x328595[_0x507932(0x1de)]();}},_0x507ba2);})),_0x4fba28[_0xe8f39c(0x1e2)](this,arguments);}}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[9037],{
+
+/***/ 9037:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CargarDatosUsuario: () => (/* binding */ CargarDatosUsuario)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5458);
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(467);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4756);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _BotonesActivos__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(9850);
+/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7425);
+
+
+
+
+
+function CargarDatosUsuario() {
+  return _CargarDatosUsuario.apply(this, arguments);
+}
+function _CargarDatosUsuario() {
+  _CargarDatosUsuario = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee() {
+    var path, result, botones_registrar;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
+      while (1) switch (_context.prev = _context.next) {
+        case 0:
+          path = "getdatosusuario/".concat(localStorage.getItem('Token'));
+          _context.next = 3;
+          return (0,_api__WEBPACK_IMPORTED_MODULE_1__.CustomFetch)(path);
+        case 3:
+          result = _context.sent;
+          if (!(result.result_code == 0)) {
+            _context.next = 20;
+            break;
+          }
+          localStorage.setItem('NombreUsuario', result.nombre_usuario);
+          localStorage.setItem('NombreAnexo', result.nombre_anexo);
+          localStorage.setItem('PuedeSuplantar', result.puede_suplantar);
+          localStorage.setItem('Suplantando', result.suplantando);
+          botones_registrar = JSON.stringify(result.botones_registrar);
+          localStorage.setItem('BotonesRegistrar', botones_registrar);
+          localStorage.setItem('Token', result.new_token);
+          if (window.location.pathname.includes('registro')) {
+            if ((0,_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(document.querySelectorAll('.btn-oculto')).length > 0) {
+              (0,_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)(document.querySelectorAll('.btn-oculto')).forEach(function (btnOcultar) {
+                btnOcultar.style.display = 'none';
+              });
+            }
+            (0,_BotonesActivos__WEBPACK_IMPORTED_MODULE_4__.BotonesActivos)();
+          }
+          if (!window.location.pathname.includes('registro')) {
+            _context.next = 17;
+            break;
+          }
+          return _context.abrupt("return");
+        case 17:
+          location.href = 'registro.html';
+        case 18:
+          _context.next = 22;
+          break;
+        case 20:
+          localStorage.clear();
+          location.href = 'login.html';
+        case 22:
+        case "end":
+          return _context.stop();
+      }
+    }, _callee);
+  }));
+  return _CargarDatosUsuario.apply(this, arguments);
+}
+
+/***/ })
+
+}]);

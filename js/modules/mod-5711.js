@@ -1,1 +1,66 @@
-'use strict';var a40_0x333dfe=a40_0x13d6;function a40_0x1c81(){var _0x456d8b=['stop','sent','GetData','CargarHistorialB','wrap','725169nfVXxE','8505XCEsJY','mark','next','3648csBeMG','return','historialb','apply','15806NrGmIN','abrupt','4412045UHNooR','4700844dUqxit','prev','5672ejskwu','end','1683768pOPRfb','webpackChunkkiux','1581049gVrEbl'];a40_0x1c81=function(){return _0x456d8b;};return a40_0x1c81();}(function(_0xeafc03,_0x2dbefa){var _0x45cb9f=a40_0x13d6,_0x280af5=_0xeafc03();while(!![]){try{var _0x3eeb4d=parseInt(_0x45cb9f(0x73))/0x1+parseInt(_0x45cb9f(0x71))/0x2+-parseInt(_0x45cb9f(0x79))/0x3+-parseInt(_0x45cb9f(0x6d))/0x4+-parseInt(_0x45cb9f(0x6c))/0x5+-parseInt(_0x45cb9f(0x7d))/0x6*(-parseInt(_0x45cb9f(0x6a))/0x7)+parseInt(_0x45cb9f(0x6f))/0x8*(-parseInt(_0x45cb9f(0x7a))/0x9);if(_0x3eeb4d===_0x2dbefa)break;else _0x280af5['push'](_0x280af5['shift']());}catch(_0x4b6ee7){_0x280af5['push'](_0x280af5['shift']());}}}(a40_0x1c81,0xc9c51));function a40_0x13d6(_0x5bc371,_0x4375e0){var _0x1c815e=a40_0x1c81();return a40_0x13d6=function(_0x13d63b,_0x43b8e5){_0x13d63b=_0x13d63b-0x67;var _0x40fc42=_0x1c815e[_0x13d63b];return _0x40fc42;},a40_0x13d6(_0x5bc371,_0x4375e0);}(self[a40_0x333dfe(0x72)]=self[a40_0x333dfe(0x72)]||[])['push']([[0x164f],{0x164f:(_0x543326,_0x5a4944,_0x33e72d)=>{_0x33e72d['r'](_0x5a4944),_0x33e72d['d'](_0x5a4944,{'GetAvance':()=>_0x28ef36,'GetHistorialB':()=>_0x39f1c0});var _0x560848=_0x33e72d(0x1d3),_0x509cd8=_0x33e72d(0x1294),_0x7938d1=_0x33e72d['n'](_0x509cd8),_0x2e0b37=_0x33e72d(0x1d01),_0x28ef36=(function(){var _0xb96dfe=(0x0,_0x560848['A'])(_0x7938d1()['mark'](function _0x5d2f6b(_0x905c82){var _0x5aa01b=a40_0x13d6,_0x59a29a,_0x27ebc0;return _0x7938d1()[_0x5aa01b(0x78)](function _0x25aac5(_0x5d9c9e){var _0x419282=_0x5aa01b;while(0x1)switch(_0x5d9c9e[_0x419282(0x6e)]=_0x5d9c9e['next']){case 0x0:_0x59a29a='avance',_0x5d9c9e[_0x419282(0x7c)]=0x3;return(0x0,_0x2e0b37[_0x419282(0x76)])(_0x59a29a,_0x905c82,_0x419282(0x77));case 0x3:_0x27ebc0=_0x5d9c9e[_0x419282(0x75)];return _0x5d9c9e[_0x419282(0x6b)]('return',_0x27ebc0);case 0x5:case _0x419282(0x70):return _0x5d9c9e[_0x419282(0x74)]();}},_0x5d2f6b);}));return function _0x4832cc(_0x179b7a){var _0x3e1d67=a40_0x13d6;return _0xb96dfe[_0x3e1d67(0x69)](this,arguments);};}()),_0x39f1c0=(function(){var _0x383b89=a40_0x13d6,_0x3f3c06=(0x0,_0x560848['A'])(_0x7938d1()[_0x383b89(0x7b)](function _0x1ce220(_0x39610b){var _0x30f3b4,_0x5c1481;return _0x7938d1()['wrap'](function _0x2a8cc5(_0x113619){var _0x388308=a40_0x13d6;while(0x1)switch(_0x113619[_0x388308(0x6e)]=_0x113619['next']){case 0x0:_0x30f3b4=_0x388308(0x68),_0x113619['next']=0x3;return(0x0,_0x2e0b37['GetData'])(_0x30f3b4,_0x39610b,_0x388308(0x77));case 0x3:_0x5c1481=_0x113619['sent'];return _0x113619[_0x388308(0x6b)](_0x388308(0x67),_0x5c1481);case 0x5:case _0x388308(0x70):return _0x113619[_0x388308(0x74)]();}},_0x1ce220);}));return function _0x5d61e6(_0x41f020){var _0x17eaf2=_0x383b89;return _0x3f3c06[_0x17eaf2(0x69)](this,arguments);};}());}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[5711],{
+
+/***/ 5711:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   GetAvance: () => (/* binding */ GetAvance),
+/* harmony export */   GetHistorialB: () => (/* binding */ GetHistorialB)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(467);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4756);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7425);
+
+
+
+var GetAvance = /*#__PURE__*/function () {
+  var _ref = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee(PATH) {
+    var URL, data;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
+      while (1) switch (_context.prev = _context.next) {
+        case 0:
+          URL = 'avance';
+          _context.next = 3;
+          return (0,_api__WEBPACK_IMPORTED_MODULE_1__.GetData)(URL, PATH, 'CargarHistorialB');
+        case 3:
+          data = _context.sent;
+          return _context.abrupt("return", data);
+        case 5:
+        case "end":
+          return _context.stop();
+      }
+    }, _callee);
+  }));
+  return function GetAvance(_x) {
+    return _ref.apply(this, arguments);
+  };
+}();
+var GetHistorialB = /*#__PURE__*/function () {
+  var _ref2 = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee2(PATH) {
+    var URL, data;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee2$(_context2) {
+      while (1) switch (_context2.prev = _context2.next) {
+        case 0:
+          URL = 'historialb';
+          _context2.next = 3;
+          return (0,_api__WEBPACK_IMPORTED_MODULE_1__.GetData)(URL, PATH, 'CargarHistorialB');
+        case 3:
+          data = _context2.sent;
+          return _context2.abrupt("return", data);
+        case 5:
+        case "end":
+          return _context2.stop();
+      }
+    }, _callee2);
+  }));
+  return function GetHistorialB(_x2) {
+    return _ref2.apply(this, arguments);
+  };
+}();
+
+/***/ })
+
+}]);

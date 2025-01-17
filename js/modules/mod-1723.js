@@ -1,1 +1,370 @@
-'use strict';function a55_0x413a(_0x778b2,_0x1716bd){var _0x2eb11f=a55_0x2eb1();return a55_0x413a=function(_0x413a4e,_0x1b56d0){_0x413a4e=_0x413a4e-0x196;var _0x568680=_0x2eb11f[_0x413a4e];return _0x568680;},a55_0x413a(_0x778b2,_0x1716bd);}var a55_0x1b1f30=a55_0x413a;(function(_0x58264e,_0x47c906){var _0x25ed5c=a55_0x413a,_0x58fea0=_0x58264e();while(!![]){try{var _0x541f60=-parseInt(_0x25ed5c(0x1bf))/0x1*(parseInt(_0x25ed5c(0x1d6))/0x2)+-parseInt(_0x25ed5c(0x1f5))/0x3+parseInt(_0x25ed5c(0x216))/0x4+-parseInt(_0x25ed5c(0x1db))/0x5*(-parseInt(_0x25ed5c(0x20e))/0x6)+parseInt(_0x25ed5c(0x19a))/0x7*(parseInt(_0x25ed5c(0x1af))/0x8)+parseInt(_0x25ed5c(0x1ad))/0x9*(-parseInt(_0x25ed5c(0x1b8))/0xa)+parseInt(_0x25ed5c(0x1e6))/0xb;if(_0x541f60===_0x47c906)break;else _0x58fea0['push'](_0x58fea0['shift']());}catch(_0x4928ba){_0x58fea0['push'](_0x58fea0['shift']());}}}(a55_0x2eb1,0xb7220));(self[a55_0x1b1f30(0x1c6)]=self[a55_0x1b1f30(0x1c6)]||[])[a55_0x1b1f30(0x196)]([[0x6bb],{0x6bb:(_0xf9736d,_0x5e5a38,_0x10c2f8)=>{var _0x2bf450=a55_0x1b1f30;_0x10c2f8['r'](_0x5e5a38);var _0x27252a=_0x10c2f8(0x8ec);_0xf9736d=_0x10c2f8[_0x2bf450(0x210)](_0xf9736d),function(_0x521b75,_0x5d775a){'use strict';var _0x53f573=_0x2bf450;var _0x1ccbd0=function _0x3fe2c9(_0x56499d,_0xc0913f){var _0x3c46e6=a55_0x413a;return new _0x3fe2c9[(_0x3c46e6(0x1ed))](_0x56499d,_0xc0913f||{});};function _0x396653(){var _0xd14844=a55_0x413a;if(_0x1ccbd0[_0xd14844(0x1b7)])return;_0x1ccbd0[_0xd14844(0x197)]=_0x521b75['document'],_0x1ccbd0[_0xd14844(0x1da)]=Math['PI']/0xb4,_0x1ccbd0[_0xd14844(0x1de)]=0xb4/Math['PI'],_0x1ccbd0['ModernEvent']=_0x1ccbd0['Doc'][_0xd14844(0x1ae)]?!![]:![],_0x1ccbd0[_0xd14844(0x1d8)]=_0xd14844(0x208),_0x1ccbd0[_0xd14844(0x1e4)]=_0xd14844(0x1a0)in _0x521b75&&_0x521b75[_0xd14844(0x1fd)][_0xd14844(0x1c0)][_0xd14844(0x200)](_0x1ccbd0[_0xd14844(0x1d8)]),_0x1ccbd0[_0xd14844(0x1e3)]=_0x521b75[_0xd14844(0x1fd)]['pointerEnabled']||_0x521b75[_0xd14844(0x1fd)][_0xd14844(0x1cc)]?!![]:![],_0x1ccbd0[_0xd14844(0x215)]={'debug':![],'touchMode':_0xd14844(0x1d9),'knobSize':_0xd14844(0x1d2),'wheelSize':_0xd14844(0x1c5),'zIndex':0x270f,'degreeStartAt':0x0,'minDegree':null,'maxDegree':null},_0x1ccbd0[_0xd14844(0x1cb)]={'rotation':0x0,'quadrant':0x1},_0x1ccbd0[_0xd14844(0x1dc)]={'MOUSE_DOWN':_0xd14844(0x20d),'MOUSE_MOVE':_0xd14844(0x1fe),'MOUSE_OUT':_0xd14844(0x1bc),'MOUSE_UP':_0xd14844(0x1ea)},_0x1ccbd0['CustomEvent']={'MOUSE_DOWN':'mousedown','MOUSE_MOVE':_0xd14844(0x1fe),'MOUSE_UP':'mouseup'},_0x1ccbd0[_0xd14844(0x1ca)]={'extend':function _0x176d36(_0xe436b7,_0x5333d3){for(var _0x38f3b9 in _0x5333d3){_0xe436b7[_0x38f3b9]=_0x5333d3[_0x38f3b9];}return _0xe436b7;},'getComputedStyle':function _0x23ebe1(_0x26c027,_0x477e80){var _0x58d71d=_0xd14844;if(_0x521b75[_0x58d71d(0x1f0)])return _0x521b75[_0x58d71d(0x1f0)](_0x26c027)[_0x58d71d(0x1a2)](_0x477e80);else{if(_0x26c027[_0x58d71d(0x212)])return _0x26c027['currentStyle'][_0x477e80];}},'getCoordinates':function _0x1aefec(_0x32112e){var _0xa8c13d=_0xd14844;_0x32112e=_0x32112e||_0x521b75[_0xa8c13d(0x1fc)];var _0x45fbb1=_0x32112e[_0xa8c13d(0x1f1)]||_0x32112e[_0xa8c13d(0x209)],_0x5331be=_0x45fbb1['getBoundingClientRect'](),_0x515c49=(_0x1ccbd0[_0xa8c13d(0x1e4)]?_0x32112e[_0xa8c13d(0x211)][0x0][_0xa8c13d(0x1cd)]:_0x32112e['clientX'])-_0x5331be[_0xa8c13d(0x1e5)],_0x53d3f0=(_0x1ccbd0['MobileEvent']?_0x32112e['targetTouches'][0x0][_0xa8c13d(0x1c2)]:_0x32112e[_0xa8c13d(0x1c2)])-_0x5331be[_0xa8c13d(0x1ac)];return{'x':_0x515c49,'y':_0x53d3f0};},'getQuadrant':function _0x58234a(_0x19d36f,_0x4ac51d){if(_0x19d36f>0x0&&_0x4ac51d>0x0)return 0x4;else{if(_0x19d36f<0x0&&_0x4ac51d>0x0)return 0x3;else{if(_0x19d36f<0x0&&_0x4ac51d<0x0)return 0x2;else{if(_0x19d36f>=0x0&&_0x4ac51d<0x0)return 0x1;}}}},'getRotation':function _0x3edca9(_0x24faa8,_0x18b848,_0x27744e){var _0x11eed9=_0xd14844,_0x1c1ac7,_0x428e65=0x0,_0x5960f8=_0x24faa8[_0x11eed9(0x1f9)];if(_0x18b848==0x1&&_0x5960f8[_0x11eed9(0x1ce)][_0x11eed9(0x1d5)]==0x2)_0x428e65=0x168;else _0x18b848==0x2&&_0x5960f8[_0x11eed9(0x1ce)][_0x11eed9(0x1d5)]==0x1&&(_0x428e65=-0x168);return _0x1c1ac7=_0x27744e+_0x428e65-_0x5960f8[_0x11eed9(0x1ce)]['rotation']+_0x5960f8[_0x11eed9(0x1b1)][_0x11eed9(0x1a6)],_0x5960f8[_0x11eed9(0x1ce)][_0x11eed9(0x1a6)]=_0x27744e,_0x5960f8[_0x11eed9(0x1ce)]['quadrant']=_0x18b848,_0x1c1ac7;},'checkBoxCollision':function _0x2964f8(_0x53c1c7,_0x1bb316){return _0x53c1c7['x1']<_0x1bb316['x']&&_0x53c1c7['x2']>_0x1bb316['x']&&_0x53c1c7['y1']<_0x1bb316['y']&&_0x53c1c7['y2']>_0x1bb316['y'];},'addEvent':function _0x28d06d(_0x30fcdf,_0x1605e5,_0x40dbe3,_0x39a240){var _0x24de54=_0xd14844;_0x1605e5=_0x1605e5[_0x24de54(0x1dd)]('\x20');for(var _0xb2031c=0x0;_0xb2031c<_0x1605e5[_0x24de54(0x1e2)];_0xb2031c++){if(_0x30fcdf['addEventListener'])_0x30fcdf[_0x24de54(0x1ae)](_0x1605e5[_0xb2031c],_0x40dbe3,_0x39a240);else _0x30fcdf[_0x24de54(0x1e1)]&&_0x30fcdf[_0x24de54(0x1e1)]('on'+_0x1605e5[_0xb2031c],_0x40dbe3);}},'removeEvent':function _0x5df339(_0x538c2b,_0x3c1a8b,_0x5dd5f5){var _0x569e42=_0xd14844;_0x3c1a8b=_0x3c1a8b[_0x569e42(0x1dd)]('\x20');for(var _0x28ee88=0x0;_0x28ee88<_0x3c1a8b['length'];_0x28ee88++){if(_0x538c2b[_0x569e42(0x1ae)])_0x538c2b['removeEventListener'](_0x3c1a8b[_0x28ee88],_0x5dd5f5);else _0x538c2b[_0x569e42(0x1f7)]&&_0x538c2b['detachEvent']('on'+_0x3c1a8b[_0x28ee88],_0x5dd5f5);}},'triggerEvent':function _0x3c7015(_0x5ac5a6,_0x40ef89){var _0x160772=_0xd14844,_0x23ab36;_0x1ccbd0[_0x160772(0x197)]['createEvent']?(_0x23ab36=_0x1ccbd0['Doc'][_0x160772(0x1e9)]('HTMLEvents'),_0x23ab36[_0x160772(0x19f)](_0x40ef89,!![],!![]),_0x5ac5a6[_0x160772(0x1c1)](_0x23ab36)):(_0x23ab36=_0x1ccbd0[_0x160772(0x197)]['createEventObject'](),_0x23ab36['target']={},_0x1ccbd0[_0x160772(0x1ca)][_0x160772(0x1b5)](_0x23ab36['target'],_0x5ac5a6),_0x5ac5a6[_0x160772(0x213)]('on'+_0x40ef89,_0x23ab36));},'convertClockToUnit':function _0x3f76c3(_0x551dd3){return _0x551dd3%0x168-0x5a;},'convertUnitToClock':function _0x3ff865(_0x115e05){return _0x115e05>=-0xb4&&_0x115e05<-0x5a?0x1c2+_0x115e05:0x5a+_0x115e05;}},_0x1ccbd0[_0xd14844(0x1b7)]=!![];};_0x1ccbd0[_0x53f573(0x1ed)]=function(_0x3872f7,_0x1f8efb){var _0x49d918=_0x53f573;if(_0x3872f7[_0x49d918(0x198)]('_jogDial_'))return _0x521b75[_0x49d918(0x1d0)](_0x49d918(0x1b0)),![];return _0x396653(),_0x519fb1(this,_0x3872f7,_0x1f8efb),_0x293bb2(this),_0x2fa214(this),_0x878d4a(this,_0x1ccbd0[_0x49d918(0x1ca)][_0x49d918(0x203)](this[_0x49d918(0x1c4)]['degreeStartAt'])),this;},_0x1ccbd0[_0x53f573(0x1ed)]['prototype']={'on':function _0x382d15(_0x1cc85b,_0x55be54){var _0x578673=_0x53f573;return _0x1ccbd0[_0x578673(0x1ca)]['addEvent'](this[_0x578673(0x1d9)],_0x1cc85b,_0x55be54,![]),this;},'off':function _0x3f2623(_0x468cbf,_0x3c2a11){var _0x283548=_0x53f573;return _0x1ccbd0[_0x283548(0x1ca)][_0x283548(0x1e8)](this[_0x283548(0x1d9)],_0x468cbf,_0x3c2a11),this;},'trigger':function _0x3a259b(_0x5a0620,_0x4638b9){var _0x4a31ae=_0x53f573;switch(_0x5a0620){case _0x4a31ae(0x20b):_0x878d4a(this,_0x4638b9);break;default:_0x521b75['alert'](_0x4a31ae(0x1d4)+_0x5a0620+']');break;}return this;},'angle':function _0x2d89bd(_0x476a0c){var _0x49c50e=_0x53f573;_0x878d4a(this,_0x1ccbd0[_0x49c50e(0x1ca)][_0x49c50e(0x203)](_0x476a0c));}};function _0x519fb1(_0x3bb4ee,_0x30316d,_0x22d697){var _0x464fa0=_0x53f573;_0x3bb4ee[_0x464fa0(0x202)]=_0x30316d,_0x3bb4ee['base'][_0x464fa0(0x21c)](_0x464fa0(0x1df),!![]),_0x3bb4ee['opt']=_0x1ccbd0[_0x464fa0(0x1ca)]['extend'](_0x1ccbd0['utils'][_0x464fa0(0x1b5)]({},_0x1ccbd0[_0x464fa0(0x215)]),_0x22d697),_0x3bb4ee[_0x464fa0(0x1f9)]={}||_0x3bb4ee,_0x3bb4ee[_0x464fa0(0x1f9)][_0x464fa0(0x1b1)]=_0x1ccbd0['utils']['extend']({},_0x1ccbd0[_0x464fa0(0x1cb)]),_0x3bb4ee['info'][_0x464fa0(0x1ce)]=_0x1ccbd0[_0x464fa0(0x1ca)][_0x464fa0(0x1b5)]({},_0x1ccbd0['DegInfo']),_0x3bb4ee[_0x464fa0(0x1f9)][_0x464fa0(0x21b)]=_0x1ccbd0[_0x464fa0(0x1ca)][_0x464fa0(0x1b5)]({},_0x3bb4ee['info']),_0x3bb4ee[_0x464fa0(0x1f9)]['snapshot'][_0x464fa0(0x1eb)]=null;};function _0x293bb2(_0x313168){var _0x41f214=_0x53f573,_0x5030cc={},_0xea5481=_0x313168[_0x41f214(0x202)]['getAttribute']('id'),_0x50a4e0=_0x313168[_0x41f214(0x202)][_0x41f214(0x1a9)],_0x2cee29=_0x313168['base']['clientHeight'],_0x355c12=_0x313168[_0x41f214(0x1c4)],_0x1febf7=_0x5030cc['knob']=document[_0x41f214(0x20c)](_0x41f214(0x1f3)),_0x3a4669=_0x5030cc[_0x41f214(0x207)]=document[_0x41f214(0x20c)](_0x41f214(0x1f3)),_0x581747=_0x1febf7['style'],_0x480e6a=_0x3a4669[_0x41f214(0x1be)],_0x115959,_0x12c5d7,_0xa53b4c,_0x359ffd;_0x1ccbd0[_0x41f214(0x1ca)][_0x41f214(0x1f0)](_0x313168[_0x41f214(0x202)],_0x41f214(0x217))===_0x41f214(0x1a1)&&(_0x313168[_0x41f214(0x202)][_0x41f214(0x1be)][_0x41f214(0x217)]=_0x41f214(0x1a4));_0x313168[_0x41f214(0x202)]['appendChild'](_0x1febf7),_0x313168['base']['appendChild'](_0x3a4669),_0x1ccbd0['utils'][_0x41f214(0x1b5)](_0x313168,_0x5030cc),_0x581747['position']=_0x480e6a['position']='absolute',_0x581747[_0x41f214(0x1b4)]=_0x581747['height']=_0x355c12[_0x41f214(0x1bd)],_0x480e6a[_0x41f214(0x1b4)]=_0x480e6a[_0x41f214(0x206)]=_0x355c12['wheelSize'],_0x115959=_0x1febf7[_0x41f214(0x1a9)]/0x2,_0x12c5d7=_0x3a4669['clientWidth']/0x2,_0x1febf7[_0x41f214(0x21c)]('id',_0xea5481+_0x41f214(0x1d7)),_0x581747[_0x41f214(0x1e0)]=-_0x115959+_0x41f214(0x205)+-_0x115959+'px',_0x581747[_0x41f214(0x1ff)]=_0x355c12['zIndex'],_0x3a4669['setAttribute']('id',_0xea5481+_0x41f214(0x1c7)),_0xa53b4c=(_0x50a4e0-_0x3a4669[_0x41f214(0x1a9)])/0x2,_0x359ffd=(_0x2cee29-_0x3a4669['clientHeight'])/0x2,_0x480e6a['left']=_0x480e6a[_0x41f214(0x1ac)]=0x0,_0x480e6a[_0x41f214(0x1e0)]=_0x359ffd+_0x41f214(0x205)+_0xa53b4c+'px',_0x480e6a[_0x41f214(0x1ff)]=_0x355c12[_0x41f214(0x1ff)],_0x313168[_0x41f214(0x1c8)]=_0x12c5d7-_0x115959,_0x313168['center']={'x':_0x12c5d7+_0xa53b4c,'y':_0x12c5d7+_0x359ffd};if(_0x355c12[_0x41f214(0x1aa)])_0x55c078(_0x313168);};function _0x55c078(_0xf2e067){var _0x429553=_0x53f573,_0x170ce6=_0xf2e067['knob'][_0x429553(0x1be)],_0xf065ec=_0xf2e067[_0x429553(0x207)][_0x429553(0x1be)];_0x170ce6[_0x429553(0x1c9)]=_0x429553(0x204),_0xf065ec[_0x429553(0x1c9)]=_0x429553(0x20a),_0x170ce6[_0x429553(0x1ef)]=_0xf065ec[_0x429553(0x1ef)]=0.4,_0x170ce6['filter']=_0xf065ec['filter']=_0x429553(0x1fa),_0x170ce6[_0x429553(0x1ee)]=_0xf065ec[_0x429553(0x1ee)]=_0x429553(0x1b2),_0x170ce6[_0x429553(0x199)]=_0xf065ec['borderRadius']=_0x429553(0x1b2);};function _0x2fa214(_0x515b47){var _0x5b84c7=_0x53f573;if(_0x1ccbd0['PointerEvent'])_0x1ccbd0['utils']['extend'](_0x1ccbd0[_0x5b84c7(0x1dc)],{'MOUSE_DOWN':_0x5b84c7(0x1fb),'MOUSE_MOVE':'pointermove\x20MSPointerMove','MOUSE_OUT':'pointerout\x20MSPointerOut','MOUSE_UP':'pointerup\x20pointercancel\x20MSPointerUp\x20MSPointerCancel'});else _0x1ccbd0[_0x5b84c7(0x1e4)]&&_0x1ccbd0[_0x5b84c7(0x1ca)][_0x5b84c7(0x1b5)](_0x1ccbd0['DomEvent'],{'MOUSE_DOWN':_0x5b84c7(0x19e),'MOUSE_MOVE':_0x5b84c7(0x1a8),'MOUSE_OUT':_0x5b84c7(0x1a3),'MOUSE_UP':'touchend'});var _0x21acf0=_0x515b47[_0x5b84c7(0x1c4)],_0x32380e=_0x515b47[_0x5b84c7(0x1f9)],_0x141c04=_0x515b47['knob'],_0x353526=_0x515b47[_0x5b84c7(0x207)];_0x515b47[_0x5b84c7(0x1b3)]=![],_0x1ccbd0['utils']['addEvent'](_0x353526,_0x1ccbd0[_0x5b84c7(0x1dc)][_0x5b84c7(0x219)],_0x28b112,![]),_0x1ccbd0['utils'][_0x5b84c7(0x1ba)](_0x353526,_0x1ccbd0['DomEvent']['MOUSE_MOVE'],_0x147f8e,![]),_0x1ccbd0[_0x5b84c7(0x1ca)]['addEvent'](_0x353526,_0x1ccbd0[_0x5b84c7(0x1dc)][_0x5b84c7(0x1f8)],_0x2834a9,![]),_0x1ccbd0[_0x5b84c7(0x1ca)][_0x5b84c7(0x1ba)](_0x353526,_0x1ccbd0['DomEvent'][_0x5b84c7(0x1f2)],_0x2834a9,![]);function _0x28b112(_0x10b25f){var _0x5776c0=_0x5b84c7;switch(_0x21acf0[_0x5776c0(0x1ec)]){case _0x5776c0(0x1d9):default:_0x515b47[_0x5776c0(0x1b3)]=_0x1ccbd0[_0x5776c0(0x1ca)][_0x5776c0(0x19c)]({'x1':_0x141c04[_0x5776c0(0x201)]-_0x353526[_0x5776c0(0x201)],'y1':_0x141c04[_0x5776c0(0x1ab)]-_0x353526[_0x5776c0(0x1ab)],'x2':_0x141c04[_0x5776c0(0x201)]-_0x353526['offsetLeft']+_0x141c04[_0x5776c0(0x1a9)],'y2':_0x141c04[_0x5776c0(0x1ab)]-_0x353526['offsetTop']+_0x141c04['clientHeight']},_0x1ccbd0[_0x5776c0(0x1ca)][_0x5776c0(0x1d1)](_0x10b25f));break;case _0x5776c0(0x207):_0x515b47[_0x5776c0(0x1b3)]=!![],_0x147f8e(_0x10b25f);break;}if(_0x515b47[_0x5776c0(0x1b3)])_0x1ccbd0[_0x5776c0(0x1ca)][_0x5776c0(0x214)](_0x515b47[_0x5776c0(0x1d9)],_0x1ccbd0[_0x5776c0(0x19d)]['MOUSE_DOWN']);};function _0x147f8e(_0x5e852e){var _0x1e58ac=_0x5b84c7;if(_0x515b47[_0x1e58ac(0x1b3)]){_0x5e852e[_0x1e58ac(0x1bb)]?_0x5e852e['preventDefault']():_0x5e852e[_0x1e58ac(0x21a)]=![];var _0x283f80=_0x1ccbd0[_0x1e58ac(0x1ca)][_0x1e58ac(0x1d1)](_0x5e852e),_0x3ed68a=_0x283f80['x']-_0x515b47[_0x1e58ac(0x218)]['x']+_0x353526[_0x1e58ac(0x201)],_0x57d2ad=_0x283f80['y']-_0x515b47['center']['y']+_0x353526[_0x1e58ac(0x1ab)],_0xe1fed3=Math[_0x1e58ac(0x1e7)](_0x57d2ad,_0x3ed68a)*_0x1ccbd0[_0x1e58ac(0x1de)],_0x2c0cc8=_0x1ccbd0['utils'][_0x1e58ac(0x1d3)](_0x3ed68a,_0x57d2ad),_0x1599e0=_0x1ccbd0[_0x1e58ac(0x1ca)][_0x1e58ac(0x1c3)](_0xe1fed3),_0x140fbc;_0x32380e[_0x1e58ac(0x1b1)]['rotation']=_0x1ccbd0['utils']['getRotation'](_0x515b47,_0x2c0cc8==_0x5d775a?_0x32380e['old'][_0x1e58ac(0x1d5)]:_0x2c0cc8,_0x1599e0),_0x140fbc=_0x32380e['now'][_0x1e58ac(0x1a6)];if(_0x21acf0[_0x1e58ac(0x1a7)]!=null&&_0x21acf0[_0x1e58ac(0x1a7)]<=_0x140fbc)_0x32380e['snapshot'][_0x1e58ac(0x1eb)]==null&&(_0x32380e['snapshot'][_0x1e58ac(0x1eb)]='right',_0x32380e[_0x1e58ac(0x21b)][_0x1e58ac(0x1b1)]=_0x1ccbd0[_0x1e58ac(0x1ca)][_0x1e58ac(0x1b5)]({},_0x32380e[_0x1e58ac(0x1b1)]),_0x32380e[_0x1e58ac(0x21b)][_0x1e58ac(0x1ce)]=_0x1ccbd0[_0x1e58ac(0x1ca)][_0x1e58ac(0x1b5)]({},_0x32380e[_0x1e58ac(0x1ce)])),_0x140fbc=_0x21acf0[_0x1e58ac(0x1a7)],_0xe1fed3=_0x1ccbd0[_0x1e58ac(0x1ca)]['convertClockToUnit'](_0x140fbc),_0x1599e0=_0x1ccbd0['utils'][_0x1e58ac(0x1c3)](_0xe1fed3);else{if(_0x21acf0['minDegree']!=null&&_0x21acf0[_0x1e58ac(0x1f6)]>=_0x140fbc)_0x32380e[_0x1e58ac(0x21b)][_0x1e58ac(0x1eb)]==null&&(_0x32380e[_0x1e58ac(0x21b)][_0x1e58ac(0x1eb)]='left',_0x32380e['snapshot'][_0x1e58ac(0x1b1)]=_0x1ccbd0[_0x1e58ac(0x1ca)][_0x1e58ac(0x1b5)]({},_0x32380e['now']),_0x32380e[_0x1e58ac(0x21b)][_0x1e58ac(0x1ce)]=_0x1ccbd0['utils'][_0x1e58ac(0x1b5)]({},_0x32380e['old'])),_0x140fbc=_0x21acf0[_0x1e58ac(0x1f6)],_0xe1fed3=_0x1ccbd0[_0x1e58ac(0x1ca)][_0x1e58ac(0x203)](_0x140fbc),_0x1599e0=_0x1ccbd0['utils'][_0x1e58ac(0x1c3)](_0xe1fed3);else _0x32380e[_0x1e58ac(0x21b)]['direction']!=null&&(_0x32380e[_0x1e58ac(0x21b)][_0x1e58ac(0x1eb)]=null);}_0x1ccbd0[_0x1e58ac(0x1ca)][_0x1e58ac(0x1b5)](_0x515b47[_0x1e58ac(0x1d9)],{'rotation':_0x140fbc,'degree':_0x1599e0}),_0x878d4a(_0x515b47,_0xe1fed3);}};function _0x2834a9(){var _0x3e939d=_0x5b84c7;_0x515b47['pressed']&&(_0x515b47['pressed']=![],_0x515b47[_0x3e939d(0x1f9)]['snapshot'][_0x3e939d(0x1eb)]!=null&&(_0x515b47[_0x3e939d(0x1f9)][_0x3e939d(0x1b1)]=_0x1ccbd0[_0x3e939d(0x1ca)][_0x3e939d(0x1b5)]({},_0x32380e[_0x3e939d(0x21b)][_0x3e939d(0x1b1)]),_0x515b47['info'][_0x3e939d(0x1ce)]=_0x1ccbd0[_0x3e939d(0x1ca)][_0x3e939d(0x1b5)]({},_0x32380e[_0x3e939d(0x21b)][_0x3e939d(0x1ce)]),_0x515b47['info'][_0x3e939d(0x21b)][_0x3e939d(0x1eb)]=null),_0x1ccbd0['utils']['triggerEvent'](_0x515b47[_0x3e939d(0x1d9)],_0x1ccbd0['CustomEvent'][_0x3e939d(0x1f8)]));};};function _0x878d4a(_0x539c2e,_0x2d8052){var _0x4491ae=_0x53f573;_0x2d8052*=_0x1ccbd0['ToRad'];var _0x46ef20=Math[_0x4491ae(0x1cf)](_0x2d8052)*_0x539c2e['radius']+_0x539c2e[_0x4491ae(0x218)]['x'],_0x3496dc=Math[_0x4491ae(0x19b)](_0x2d8052)*_0x539c2e[_0x4491ae(0x1c8)]+_0x539c2e[_0x4491ae(0x218)]['y'],_0x3d5949=_0x1ccbd0['utils'][_0x4491ae(0x1d3)](_0x46ef20,_0x3496dc),_0x65dcd0=_0x1ccbd0[_0x4491ae(0x1ca)][_0x4491ae(0x1c3)](_0x2d8052);_0x539c2e[_0x4491ae(0x1d9)]['style'][_0x4491ae(0x1e5)]=_0x46ef20+'px',_0x539c2e['knob'][_0x4491ae(0x1be)][_0x4491ae(0x1ac)]=_0x3496dc+'px',_0x539c2e[_0x4491ae(0x1d9)][_0x4491ae(0x1a6)]==_0x5d775a&&_0x1ccbd0[_0x4491ae(0x1ca)]['extend'](_0x539c2e[_0x4491ae(0x1d9)],{'rotation':_0x539c2e[_0x4491ae(0x1c4)][_0x4491ae(0x1a5)],'degree':_0x1ccbd0[_0x4491ae(0x1ca)][_0x4491ae(0x1c3)](_0x2d8052)}),_0x1ccbd0[_0x4491ae(0x1ca)][_0x4491ae(0x214)](_0x539c2e[_0x4491ae(0x1d9)],_0x1ccbd0['CustomEvent'][_0x4491ae(0x20f)]);};if(typeof define==='function'&&_0x10c2f8['amdO'])define(function(){return _0x1ccbd0;});else(typeof exports===_0x53f573(0x1b9)?'undefined':(0x0,_0x27252a['A'])(exports))==='object'?_0xf9736d[_0x53f573(0x1b6)]=_0x1ccbd0:_0x521b75[_0x53f573(0x1f4)]=_0x1ccbd0;}(window);}}]);function a55_0x2eb1(){var _0x21d5a2=['MOUSE_UP','info','progid:DXImageTransform.Microsoft.Alpha(Opacity=40)','pointerdown\x20MSPointerDown','event','navigator','mousemove','zIndex','match','offsetLeft','base','convertClockToUnit','#00F','px\x200\x200\x20','height','wheel','/Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera\x20M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/','srcElement','#0F0','angle','createElement','mousedown','279714ztmNBe','MOUSE_MOVE','hmd','targetTouches','currentStyle','fireEvent','triggerEvent','Defaults','956376RRNvIc','position','center','MOUSE_DOWN','returnValue','snapshot','setAttribute','push','Doc','getAttribute','borderRadius','7oZLMVd','sin','checkBoxCollision','CustomEvent','touchstart','initEvent','ontouchstart','static','getPropertyValue','touchleave','relative','degreeStartAt','rotation','maxDegree','touchmove','clientWidth','debug','offsetTop','top','1811475cxgZdC','addEventListener','6731144XLmvGl','Please\x20Check\x20your\x20code:\x0ajogDial\x20can\x20not\x20be\x20initialized\x20twice\x20in\x20a\x20same\x20element.','now','50%','pressed','width','extend','exports','Ready','50ItcvLZ','undefined','addEvent','preventDefault','mouseout','knobSize','style','17EwaWgK','userAgent','dispatchEvent','clientY','convertUnitToClock','opt','100%','webpackChunkkiux','_wheel','radius','backgroundColor','utils','DegInfo','msPointerEnabled','clientX','old','cos','alert','getCoordinates','30%','getQuadrant','Please\x20Check\x20your\x20code:\x0ajogDial\x20does\x20not\x20have\x20triggering\x20event\x20[','quadrant','154138OVBCQi','_knob','MobileRegEx','knob','ToRad','75JHFPfl','DomEvent','split','ToDeg','_JogDial_','margin','attachEvent','length','PointerEvent','MobileEvent','left','21954438yoHLps','atan2','removeEvent','createEvent','mouseup','direction','touchMode','Instance','webkitBorderRadius','opacity','getComputedStyle','target','MOUSE_OUT','div','JogDial','2126910xGyoBC','minDegree','detachEvent'];a55_0x2eb1=function(){return _0x21d5a2;};return a55_0x2eb1();}
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[1723],{
+
+/***/ 1723:
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _babel_runtime_helpers_typeof__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2284);
+/* module decorator */ module = __webpack_require__.hmd(module);
+
+(function (window, undefined) {
+  'use strict';
+
+  var JogDial = function JogDial(element, options) {
+    return new JogDial.Instance(element, options || {});
+  };
+  function setConstants() {
+    if (JogDial.Ready) {
+      return;
+    }
+    JogDial.Doc = window.document;
+    JogDial.ToRad = Math.PI / 180;
+    JogDial.ToDeg = 180 / Math.PI;
+    JogDial.ModernEvent = JogDial.Doc.addEventListener ? true : false;
+    JogDial.MobileRegEx = '/Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/';
+    JogDial.MobileEvent = 'ontouchstart' in window && window.navigator.userAgent.match(JogDial.MobileRegEx);
+    JogDial.PointerEvent = window.navigator.pointerEnabled || window.navigator.msPointerEnabled ? true : false;
+    JogDial.Defaults = {
+      debug: false,
+      touchMode: 'knob',
+      knobSize: '30%',
+      wheelSize: '100%',
+      zIndex: 9999,
+      degreeStartAt: 0,
+      minDegree: null,
+      maxDegree: null
+    };
+    JogDial.DegInfo = {
+      rotation: 0,
+      quadrant: 1
+    };
+    JogDial.DomEvent = {
+      MOUSE_DOWN: 'mousedown',
+      MOUSE_MOVE: 'mousemove',
+      MOUSE_OUT: 'mouseout',
+      MOUSE_UP: 'mouseup'
+    };
+    JogDial.CustomEvent = {
+      MOUSE_DOWN: 'mousedown',
+      MOUSE_MOVE: 'mousemove',
+      MOUSE_UP: 'mouseup'
+    };
+    JogDial.utils = {
+      extend: function extend(target, src) {
+        for (var key in src) {
+          target[key] = src[key];
+        }
+        return target;
+      },
+      getComputedStyle: function getComputedStyle(el, prop) {
+        if (window.getComputedStyle) {
+          return window.getComputedStyle(el).getPropertyValue(prop);
+        } else if (el.currentStyle) {
+          return el.currentStyle[prop];
+        }
+      },
+      getCoordinates: function getCoordinates(e) {
+        e = e || window.event;
+        var target = e.target || e.srcElement,
+          rect = target.getBoundingClientRect(),
+          _x = (JogDial.MobileEvent ? e.targetTouches[0].clientX : e.clientX) - rect.left,
+          _y = (JogDial.MobileEvent ? e.targetTouches[0].clientY : e.clientY) - rect.top;
+        return {
+          x: _x,
+          y: _y
+        };
+      },
+      getQuadrant: function getQuadrant(x, y) {
+        if (x > 0 && y > 0) return 4;else if (x < 0 && y > 0) return 3;else if (x < 0 && y < 0) return 2;else if (x >= 0 && y < 0) return 1;
+      },
+      getRotation: function getRotation(self, quadrant, newDegree) {
+        var rotation,
+          delta = 0,
+          info = self.info;
+        if (quadrant == 1 && info.old.quadrant == 2) {
+          delta = 360;
+        } else if (quadrant == 2 && info.old.quadrant == 1) {
+          delta = -360;
+        }
+        rotation = newDegree + delta - info.old.rotation + info.now.rotation;
+        info.old.rotation = newDegree;
+        info.old.quadrant = quadrant;
+        return rotation;
+      },
+      checkBoxCollision: function checkBoxCollision(bound, point) {
+        return bound.x1 < point.x && bound.x2 > point.x && bound.y1 < point.y && bound.y2 > point.y;
+      },
+      addEvent: function addEvent(el, type, handler, capture) {
+        type = type.split(' ');
+        for (var i = 0; i < type.length; i++) {
+          if (el.addEventListener) {
+            el.addEventListener(type[i], handler, capture);
+          } else if (el.attachEvent) {
+            el.attachEvent('on' + type[i], handler);
+          }
+        }
+      },
+      removeEvent: function removeEvent(el, type, handler) {
+        type = type.split(' ');
+        for (var i = 0; i < type.length; i++) {
+          if (el.addEventListener) {
+            el.removeEventListener(type[i], handler);
+          } else if (el.detachEvent) {
+            el.detachEvent('on' + type[i], handler);
+          }
+        }
+      },
+      triggerEvent: function triggerEvent(el, type) {
+        var evt;
+        if (JogDial.Doc.createEvent) {
+          evt = JogDial.Doc.createEvent("HTMLEvents");
+          evt.initEvent(type, true, true);
+          el.dispatchEvent(evt);
+        } else {
+          evt = JogDial.Doc.createEventObject();
+          evt.target = {};
+          JogDial.utils.extend(evt.target, el);
+          el.fireEvent('on' + type, evt);
+        }
+      },
+      convertClockToUnit: function convertClockToUnit(n) {
+        return n % 360 - 90;
+      },
+      convertUnitToClock: function convertUnitToClock(n) {
+        return n >= -180 && n < -90 ? 450 + n : 90 + n;
+      }
+    };
+    JogDial.Ready = true;
+  }
+  ;
+  JogDial.Instance = function (el, opt) {
+    if (el.getAttribute('_jogDial_')) {
+      window.alert('Please Check your code:\njogDial can not be initialized twice in a same element.');
+      return false;
+    }
+    setConstants();
+    setInstance(this, el, opt);
+    setStage(this);
+    setEvents(this);
+    angleTo(this, JogDial.utils.convertClockToUnit(this.opt.degreeStartAt));
+    return this;
+  };
+  JogDial.Instance.prototype = {
+    on: function onEvent(type, listener) {
+      JogDial.utils.addEvent(this.knob, type, listener, false);
+      return this;
+    },
+    off: function onEvent(type, listener) {
+      JogDial.utils.removeEvent(this.knob, type, listener);
+      return this;
+    },
+    trigger: function triggerEvent(type, data) {
+      switch (type) {
+        case 'angle':
+          angleTo(this, data);
+          break;
+        default:
+          window.alert('Please Check your code:\njogDial does not have triggering event [' + type + ']');
+          break;
+      }
+      return this;
+    },
+    angle: function angle(data) {
+      angleTo(this, JogDial.utils.convertClockToUnit(data));
+    }
+  };
+  function setInstance(self, el, opt) {
+    self.base = el;
+    self.base.setAttribute('_JogDial_', true);
+    self.opt = JogDial.utils.extend(JogDial.utils.extend({}, JogDial.Defaults), opt);
+    self.info = {} || self;
+    self.info.now = JogDial.utils.extend({}, JogDial.DegInfo);
+    self.info.old = JogDial.utils.extend({}, JogDial.DegInfo);
+    self.info.snapshot = JogDial.utils.extend({}, self.info);
+    self.info.snapshot.direction = null;
+  }
+  ;
+  function setStage(self) {
+    var item = {},
+      BId = self.base.getAttribute("id"),
+      BW = self.base.clientWidth,
+      BH = self.base.clientHeight,
+      opt = self.opt,
+      K = item.knob = document.createElement('div'),
+      W = item.wheel = document.createElement('div'),
+      KS = K.style,
+      WS = W.style,
+      KRad,
+      WRad,
+      WMargnLT,
+      WMargnTP;
+    if (JogDial.utils.getComputedStyle(self.base, 'position') === 'static') {
+      self.base.style.position = 'relative';
+    }
+    self.base.appendChild(K);
+    self.base.appendChild(W);
+    JogDial.utils.extend(self, item);
+    KS.position = WS.position = 'absolute';
+    KS.width = KS.height = opt.knobSize;
+    WS.width = WS.height = opt.wheelSize;
+    KRad = K.clientWidth / 2;
+    WRad = W.clientWidth / 2;
+    K.setAttribute('id', BId + '_knob');
+    KS.margin = -KRad + 'px 0 0 ' + -KRad + 'px';
+    KS.zIndex = opt.zIndex;
+    W.setAttribute('id', BId + '_wheel');
+    WMargnLT = (BW - W.clientWidth) / 2;
+    WMargnTP = (BH - W.clientHeight) / 2;
+    WS.left = WS.top = 0;
+    WS.margin = WMargnTP + 'px 0 0 ' + WMargnLT + 'px';
+    WS.zIndex = opt.zIndex;
+    self.radius = WRad - KRad;
+    self.center = {
+      x: WRad + WMargnLT,
+      y: WRad + WMargnTP
+    };
+    if (opt.debug) setDebug(self);
+  }
+  ;
+  function setDebug(self) {
+    var KS = self.knob.style;
+    var WS = self.wheel.style;
+    KS.backgroundColor = '#00F';
+    WS.backgroundColor = '#0F0';
+    KS.opacity = WS.opacity = .4;
+    KS.filter = WS.filter = 'progid:DXImageTransform.Microsoft.Alpha(Opacity=40)';
+    KS.webkitBorderRadius = WS.webkitBorderRadius = "50%";
+    KS.borderRadius = WS.borderRadius = "50%";
+  }
+  ;
+  function setEvents(self) {
+    if (JogDial.PointerEvent) {
+      JogDial.utils.extend(JogDial.DomEvent, {
+        MOUSE_DOWN: 'pointerdown MSPointerDown',
+        MOUSE_MOVE: 'pointermove MSPointerMove',
+        MOUSE_OUT: 'pointerout MSPointerOut',
+        MOUSE_UP: 'pointerup pointercancel MSPointerUp MSPointerCancel'
+      });
+    } else if (JogDial.MobileEvent) {
+      JogDial.utils.extend(JogDial.DomEvent, {
+        MOUSE_DOWN: 'touchstart',
+        MOUSE_MOVE: 'touchmove',
+        MOUSE_OUT: 'touchleave',
+        MOUSE_UP: 'touchend'
+      });
+    }
+    var opt = self.opt,
+      info = self.info,
+      K = self.knob,
+      W = self.wheel;
+    self.pressed = false;
+    JogDial.utils.addEvent(W, JogDial.DomEvent.MOUSE_DOWN, mouseDownEvent, false);
+    JogDial.utils.addEvent(W, JogDial.DomEvent.MOUSE_MOVE, mouseDragEvent, false);
+    JogDial.utils.addEvent(W, JogDial.DomEvent.MOUSE_UP, mouseUpEvent, false);
+    JogDial.utils.addEvent(W, JogDial.DomEvent.MOUSE_OUT, mouseUpEvent, false);
+    function mouseDownEvent(e) {
+      switch (opt.touchMode) {
+        case 'knob':
+        default:
+          self.pressed = JogDial.utils.checkBoxCollision({
+            x1: K.offsetLeft - W.offsetLeft,
+            y1: K.offsetTop - W.offsetTop,
+            x2: K.offsetLeft - W.offsetLeft + K.clientWidth,
+            y2: K.offsetTop - W.offsetTop + K.clientHeight
+          }, JogDial.utils.getCoordinates(e));
+          break;
+        case 'wheel':
+          self.pressed = true;
+          mouseDragEvent(e);
+          break;
+      }
+      if (self.pressed) JogDial.utils.triggerEvent(self.knob, JogDial.CustomEvent.MOUSE_DOWN);
+    }
+    ;
+    function mouseDragEvent(e) {
+      if (self.pressed) {
+        e.preventDefault ? e.preventDefault() : e.returnValue = false;
+        var offset = JogDial.utils.getCoordinates(e),
+          _x = offset.x - self.center.x + W.offsetLeft,
+          _y = offset.y - self.center.y + W.offsetTop,
+          radian = Math.atan2(_y, _x) * JogDial.ToDeg,
+          quadrant = JogDial.utils.getQuadrant(_x, _y),
+          degree = JogDial.utils.convertUnitToClock(radian),
+          rotation;
+        info.now.rotation = JogDial.utils.getRotation(self, quadrant == undefined ? info.old.quadrant : quadrant, degree);
+        rotation = info.now.rotation;
+        if (opt.maxDegree != null && opt.maxDegree <= rotation) {
+          if (info.snapshot.direction == null) {
+            info.snapshot.direction = 'right';
+            info.snapshot.now = JogDial.utils.extend({}, info.now);
+            info.snapshot.old = JogDial.utils.extend({}, info.old);
+          }
+          rotation = opt.maxDegree;
+          radian = JogDial.utils.convertClockToUnit(rotation);
+          degree = JogDial.utils.convertUnitToClock(radian);
+        } else if (opt.minDegree != null && opt.minDegree >= rotation) {
+          if (info.snapshot.direction == null) {
+            info.snapshot.direction = 'left';
+            info.snapshot.now = JogDial.utils.extend({}, info.now);
+            info.snapshot.old = JogDial.utils.extend({}, info.old);
+          }
+          rotation = opt.minDegree;
+          radian = JogDial.utils.convertClockToUnit(rotation);
+          degree = JogDial.utils.convertUnitToClock(radian);
+        } else if (info.snapshot.direction != null) {
+          info.snapshot.direction = null;
+        }
+        JogDial.utils.extend(self.knob, {
+          rotation: rotation,
+          degree: degree
+        });
+        angleTo(self, radian);
+      }
+    }
+    ;
+    function mouseUpEvent() {
+      if (self.pressed) {
+        self.pressed = false;
+        if (self.info.snapshot.direction != null) {
+          self.info.now = JogDial.utils.extend({}, info.snapshot.now);
+          self.info.old = JogDial.utils.extend({}, info.snapshot.old);
+          self.info.snapshot.direction = null;
+        }
+        JogDial.utils.triggerEvent(self.knob, JogDial.CustomEvent.MOUSE_UP);
+      }
+    }
+    ;
+  }
+  ;
+  function angleTo(self, radian) {
+    radian *= JogDial.ToRad;
+    var _x = Math.cos(radian) * self.radius + self.center.x,
+      _y = Math.sin(radian) * self.radius + self.center.y,
+      quadrant = JogDial.utils.getQuadrant(_x, _y),
+      degree = JogDial.utils.convertUnitToClock(radian);
+    self.knob.style.left = _x + 'px';
+    self.knob.style.top = _y + 'px';
+    if (self.knob.rotation == undefined) {
+      JogDial.utils.extend(self.knob, {
+        rotation: self.opt.degreeStartAt,
+        degree: JogDial.utils.convertUnitToClock(radian)
+      });
+    }
+    JogDial.utils.triggerEvent(self.knob, JogDial.CustomEvent.MOUSE_MOVE);
+  }
+  ;
+  if (typeof define === 'function' && __webpack_require__.amdO) {
+    define(function () {
+      return JogDial;
+    });
+  } else if ((typeof exports === "undefined" ? "undefined" : (0,_babel_runtime_helpers_typeof__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(exports)) === 'object') {
+    module.exports = JogDial;
+  } else {
+    window.JogDial = JogDial;
+  }
+})(window);
+
+/***/ })
+
+}]);

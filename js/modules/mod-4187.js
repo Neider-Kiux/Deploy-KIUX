@@ -1,1 +1,20 @@
-'use strict';function a48_0x1357(){var _0x47d509=['6KGUPtO','305GxYROA','dashboard','concat','historial','height','webpackChunkkiux','52415YAJXuH','3866212wMSDrZ','style','96nShuka','4692768rZpGvM','getBoundingClientRect','1982786HbNwbj','encabezado','11LKpLnl','4997344FqhlAS','113144LpJClC','9seQTXQ','top','16137110WVCquu','getElementById','42ZNUZFt'];a48_0x1357=function(){return _0x47d509;};return a48_0x1357();}var a48_0x143b38=a48_0x2127;function a48_0x2127(_0x1115d5,_0x2fd045){var _0x1357d2=a48_0x1357();return a48_0x2127=function(_0x21271a,_0x50f232){_0x21271a=_0x21271a-0xe1;var _0x399696=_0x1357d2[_0x21271a];return _0x399696;},a48_0x2127(_0x1115d5,_0x2fd045);}(function(_0x46eca7,_0x5e3999){var _0x117ffd=a48_0x2127,_0x371aa9=_0x46eca7();while(!![]){try{var _0x19f0b5=parseInt(_0x117ffd(0xe9))/0x1*(parseInt(_0x117ffd(0xe1))/0x2)+-parseInt(_0x117ffd(0xed))/0x3+-parseInt(_0x117ffd(0xf3))/0x4*(-parseInt(_0x117ffd(0xe3))/0x5)+parseInt(_0x117ffd(0xe2))/0x6*(-parseInt(_0x117ffd(0xea))/0x7)+-parseInt(_0x117ffd(0xf2))/0x8*(-parseInt(_0x117ffd(0xf4))/0x9)+-parseInt(_0x117ffd(0xf6))/0xa*(parseInt(_0x117ffd(0xf1))/0xb)+parseInt(_0x117ffd(0xec))/0xc*(parseInt(_0x117ffd(0xef))/0xd);if(_0x19f0b5===_0x5e3999)break;else _0x371aa9['push'](_0x371aa9['shift']());}catch(_0x318657){_0x371aa9['push'](_0x371aa9['shift']());}}}(a48_0x1357,0xe5ab2));(self['webpackChunkkiux']=self[a48_0x143b38(0xe8)]||[])['push']([[0x105b],{0x105b:(_0x8c9212,_0x408d92,_0x48e80e)=>{_0x48e80e['r'](_0x408d92),_0x48e80e['d'](_0x408d92,{'CalcularPosicionHistorial':()=>_0x41fb86});function _0x41fb86(){var _0x274695=a48_0x2127,_0x4f023e=document[_0x274695(0xf7)](_0x274695(0xf0))[_0x274695(0xee)]()[_0x274695(0xe7)],_0x326979=document[_0x274695(0xf7)](_0x274695(0xe4))['getBoundingClientRect']()[_0x274695(0xe7)],_0x28505d=''[_0x274695(0xe5)](_0x4f023e+_0x326979-0x23,'px');document[_0x274695(0xf7)](_0x274695(0xe6))[_0x274695(0xeb)][_0x274695(0xf5)]=_0x28505d;}}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[4187],{
+
+/***/ 4187:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CalcularPosicionHistorial: () => (/* binding */ CalcularPosicionHistorial)
+/* harmony export */ });
+function CalcularPosicionHistorial() {
+  var EncabezadoHeight = document.getElementById('encabezado').getBoundingClientRect().height;
+  var HistorialHeight = document.getElementById('dashboard').getBoundingClientRect().height;
+  var AltoDelHistorial = "".concat(EncabezadoHeight + HistorialHeight - 35, "px");
+  document.getElementById('historial').style.top = AltoDelHistorial;
+}
+
+/***/ })
+
+}]);

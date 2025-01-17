@@ -1,1 +1,1130 @@
-function a23_0xc68a(_0x5ce4a1,_0x5a6b24){var _0x4622d0=a23_0x4622();return a23_0xc68a=function(_0xc68a78,_0x22bafa){_0xc68a78=_0xc68a78-0x151;var _0x451040=_0x4622d0[_0xc68a78];return _0x451040;},a23_0xc68a(_0x5ce4a1,_0x5a6b24);}var a23_0x2517bd=a23_0xc68a;(function(_0x55754c,_0x58e933){var _0x4359a6=a23_0xc68a,_0x123c0e=_0x55754c();while(!![]){try{var _0x4d8057=-parseInt(_0x4359a6(0x18f))/0x1*(-parseInt(_0x4359a6(0x16b))/0x2)+-parseInt(_0x4359a6(0x1a6))/0x3*(-parseInt(_0x4359a6(0x1c4))/0x4)+-parseInt(_0x4359a6(0x155))/0x5*(parseInt(_0x4359a6(0x169))/0x6)+parseInt(_0x4359a6(0x19f))/0x7*(parseInt(_0x4359a6(0x162))/0x8)+-parseInt(_0x4359a6(0x15d))/0x9+-parseInt(_0x4359a6(0x178))/0xa*(parseInt(_0x4359a6(0x199))/0xb)+-parseInt(_0x4359a6(0x186))/0xc*(-parseInt(_0x4359a6(0x18b))/0xd);if(_0x4d8057===_0x58e933)break;else _0x123c0e['push'](_0x123c0e['shift']());}catch(_0x4cb94c){_0x123c0e['push'](_0x123c0e['shift']());}}}(a23_0x4622,0xcda95),(self[a23_0x2517bd(0x1c8)]=self[a23_0x2517bd(0x1c8)]||[])[a23_0x2517bd(0x1d3)]([[0x1de3],{0xea:(_0x275a3c,_0x47f6ff,_0x32b7f0)=>{'use strict';_0x32b7f0['r'](_0x47f6ff),_0x32b7f0['d'](_0x47f6ff,{'MostrarDialogo':()=>_0x463a27});var _0x1d6c38=_0x32b7f0(0x1552),_0x2ec35b=_0x32b7f0(0x1d3),_0xccb2bf=_0x32b7f0(0x1294),_0x781561=_0x32b7f0['n'](_0xccb2bf),_0x3c5fd9=_0x32b7f0(0x967),_0x3088d2=_0x32b7f0(0x886),_0x2e42cc=_0x32b7f0(0x1d01);function _0x1a948d(){var _0x432e8a=a23_0xc68a;document[_0x432e8a(0x19d)](_0x432e8a(0x19b))[_0x432e8a(0x1c6)](),document[_0x432e8a(0x19d)]('main')[_0x432e8a(0x164)]['remove'](_0x432e8a(0x1b1));}function _0x298203(_0x37b147){var _0x2ca4b7=a23_0xc68a;_0x37b147['target']['id']==_0x2ca4b7(0x19b)&&_0x1a948d();}function _0x42fb1b(_0xbbe336){var _0x4cd136=a23_0xc68a;_0xbbe336[_0x4cd136(0x171)]==0x1b&&_0x1a948d();}function _0x1ab4e8(_0x2f6dcb,_0x236c85,_0x4e54c1,_0xc99a96,_0x19fd12){var _0x37b0f9=a23_0xc68a;_0x236c85[_0x37b0f9(0x17f)]=_0x2f6dcb[_0x37b0f9(0x1bc)][_0x37b0f9(0x17f)],_0x236c85[_0x37b0f9(0x1b8)]=_0x2f6dcb[_0x37b0f9(0x1bc)]['clase'],_0x236c85[_0x37b0f9(0x1b6)]=_0x2f6dcb['id'],_0x236c85[_0x37b0f9(0x1ab)]=_0x2f6dcb[_0x37b0f9(0x173)],_0x19fd12[_0x37b0f9(0x1d3)](_0x236c85),_0xc99a96['shift'](),_0x1a948d(),_0x463a27(_0x4e54c1,_0xc99a96,_0x19fd12);}function _0x463a27(_0x423689,_0x1f403d,_0x744136){var _0x5b7503=a23_0xc68a;return _0x32264f[_0x5b7503(0x18e)](this,arguments);}function _0x32264f(){var _0x23e1ff=a23_0xc68a;return _0x32264f=(0x0,_0x2ec35b['A'])(_0x781561()[_0x23e1ff(0x1b9)](function _0x399f84(_0x27110d,_0xcd7c36,_0x332544){var _0xea02bf=_0x23e1ff,_0xa8eeff,_0x37cb86,_0x4130f2,_0x549ad9,_0x173c8d,_0x56053b,_0x29a6fe;return _0x781561()[_0xea02bf(0x1a9)](function _0x484572(_0x4f6024){var _0x113503=_0xea02bf;while(0x1)switch(_0x4f6024[_0x113503(0x1a1)]=_0x4f6024[_0x113503(0x17a)]){case 0x0:if(!_0xcd7c36[_0x113503(0x1c3)]){_0x4f6024[_0x113503(0x17a)]=0x4;break;}_0xea9902(_0x27110d,_0xcd7c36,_0x332544),_0x4f6024['next']=0x10;break;case 0x4:_0xa8eeff=_0x27110d[_0x113503(0x1bc)][_0x113503(0x158)],_0x37cb86=_0x27110d['dataset'][_0x113503(0x192)],_0x4130f2=_0x332544[_0x113503(0x1c3)]>0x0?_0x332544[0x0][_0x113503(0x1b6)]:'',_0x549ad9=_0x332544[_0x113503(0x1c3)]>0x1?_0x332544[0x1][_0x113503(0x1b6)]:'',_0x173c8d=_0x332544[_0x113503(0x1c3)]>0x2?_0x332544[0x2][_0x113503(0x1b6)]:'',_0x4f6024[_0x113503(0x17a)]=0xb;return _0x32b7f0(0xc3a)('./'[_0x113503(0x15a)](_0x37cb86));case 0xb:_0x56053b=_0x4f6024[_0x113503(0x18c)],_0x29a6fe=_0x56053b[_0x113503(0x159)],document[_0x113503(0x19d)](_0x113503(0x1b4))['style'][_0x113503(0x16e)]=_0x113503(0x166),document[_0x113503(0x19d)]('BtnRegresar')['style'][_0x113503(0x16e)]=_0x113503(0x19a),_0x29a6fe(_0xa8eeff,_0x332544);case 0x10:case'end':return _0x4f6024['stop']();}},_0x399f84);})),_0x32264f[_0x23e1ff(0x18e)](this,arguments);}function _0xea9902(_0x11d1b1,_0x15283c,_0x252495){return _0x50461a['apply'](this,arguments);}function _0x50461a(){var _0x4cc722=a23_0xc68a;return _0x50461a=(0x0,_0x2ec35b['A'])(_0x781561()[_0x4cc722(0x1b9)](function _0x8c76e5(_0x5c70dc,_0x1aab7c,_0x2e6ba2){var _0xebf8ca=_0x4cc722,_0x17feb9,_0x4fb587,_0xd220a9,_0x1315cf,_0x35584f,_0x30ba99,_0x46e51f,_0x4fed66,_0x4c4b5b,_0x2513c0,_0x24f1e8,_0x1c72cf,_0x27ab8f,_0x11787c,_0x5d9f8f,_0x429627,_0x489d74;return _0x781561()[_0xebf8ca(0x1a9)](function _0x1ece6c(_0x54f89e){var _0x7204cd=_0xebf8ca;while(0x1)switch(_0x54f89e[_0x7204cd(0x1a1)]=_0x54f89e['next']){case 0x0:_0x17feb9={},_0x4fb587=(0x0,_0x3c5fd9[_0x7204cd(0x1b0)])(_0x7204cd(0x1b2),'dialogo-outside',['background']),_0xd220a9=(0x0,_0x3c5fd9['CreateElement'])('div',_0x7204cd(0x180),['dialogo']),_0xd220a9[_0x7204cd(0x170)][_0x7204cd(0x184)]='22.5rem',_0x4fb587[_0x7204cd(0x1ca)](_0x7204cd(0x1d1),_0xd220a9),document[_0x7204cd(0x19d)](_0x7204cd(0x16d))[_0x7204cd(0x1ca)](_0x7204cd(0x1d1),_0x4fb587),document['getElementById'](_0x7204cd(0x16d))[_0x7204cd(0x164)][_0x7204cd(0x163)](_0x7204cd(0x1b1)),_0x1315cf=_0x1aab7c[0x0],_0x54f89e['next']=0xa;return(0x0,_0x2e42cc[_0x7204cd(0x1af)])(_0x7204cd(0x187),_0x1315cf,'PrepararYPresentarDialogo');case 0xa:_0x35584f=_0x54f89e[_0x7204cd(0x18c)],_0x30ba99=_0x35584f[_0x7204cd(0x182)];Object[_0x7204cd(0x174)](_0x17feb9)[_0x7204cd(0x1c3)]===0x0&&_0x30ba99[_0x7204cd(0x1c3)]==0x1&&(_0x17feb9['clase']=_0x30ba99[0x0][_0x7204cd(0x157)][0x0]['id_grupo'],_0x17feb9[_0x7204cd(0x1b6)]=_0x30ba99[0x0][_0x7204cd(0x157)][0x0][_0x7204cd(0x1ad)],_0x17feb9['orden']=_0x30ba99[0x0][_0x7204cd(0x157)][0x0][_0x7204cd(0x17f)]);_0x46e51f=(0x0,_0x3c5fd9[_0x7204cd(0x1b0)])(_0x7204cd(0x1b2),_0x1315cf,[_0x7204cd(0x181)]),_0xd220a9[_0x7204cd(0x1ca)](_0x7204cd(0x1d1),_0x46e51f),_0x4fed66=_0x17feb9[_0x7204cd(0x1b8)]!=''?_0x17feb9[_0x7204cd(0x1b8)]:null,_0x4c4b5b=_0x17feb9['codigo']!=''?_0x17feb9['codigo']:null,_0x2513c0=_0x17feb9[_0x7204cd(0x17f)]!=''?_0x17feb9['orden']:null,_0x24f1e8=(0x0,_0x3c5fd9['CreateElement'])('DIV',_0x7204cd(0x1bb)[_0x7204cd(0x15a)](_0x1315cf),[_0x7204cd(0x1ae)]),_0x24f1e8[_0x7204cd(0x170)][_0x7204cd(0x184)]=_0x7204cd(0x195),_0x46e51f[_0x7204cd(0x1ca)](_0x7204cd(0x1d1),_0x24f1e8),_0x1c72cf=[],_0x27ab8f=[],_0x30ba99[_0x7204cd(0x17e)](function(_0x1bdd2b){var _0x294014=_0x7204cd;_0x1bdd2b[_0x294014(0x157)]['forEach'](function(_0x2bb947){var _0x448a26=_0x294014;return _0x1c72cf[_0x448a26(0x1d3)](_0x2bb947);}),_0x27ab8f[_0x294014(0x1d3)]({'color_rgb':_0x1bdd2b[_0x294014(0x1ac)],'id_grupo':_0x1bdd2b[_0x294014(0x1cb)],'nombre_grupo':_0x1bdd2b['nombre_grupo']}),document[_0x294014(0x19d)](_0x294014(0x1bb)['concat'](_0x1315cf))['insertAdjacentElement'](_0x294014(0x1d1),(0x0,_0x3c5fd9[_0x294014(0x1b0)])(_0x294014(0x194),''[_0x294014(0x15a)](_0x1315cf)['concat'](_0x1bdd2b[_0x294014(0x1cb)]))),document[_0x294014(0x19d)](''[_0x294014(0x15a)](_0x1315cf)['concat'](_0x1bdd2b['id_grupo']))[_0x294014(0x170)]['backgroundColor']=''[_0x294014(0x15a)]((0x0,_0x3088d2[_0x294014(0x19e)])(_0x1bdd2b[_0x294014(0x1ac)])),document[_0x294014(0x19d)](''['concat'](_0x1315cf)['concat'](_0x1bdd2b[_0x294014(0x1cb)]))[_0x294014(0x1ca)](_0x294014(0x1d1),(0x0,_0x3c5fd9[_0x294014(0x1b0)])(_0x294014(0x160),''[_0x294014(0x15a)](_0x1bdd2b[_0x294014(0x1cb)],_0x294014(0x1c2)),[_0x294014(0x189)],''['concat'](_0x1bdd2b[_0x294014(0x1cb)],_0x294014(0x154))[_0x294014(0x15a)](_0x1bdd2b[_0x294014(0x18a)]),null,null,null,null,null,null,''[_0x294014(0x15a)](_0x1bdd2b['id_grupo']))),document[_0x294014(0x19d)](''[_0x294014(0x15a)](_0x1bdd2b[_0x294014(0x1cb)],'-tituloGrupo'))[_0x294014(0x170)][_0x294014(0x16f)]=''['concat']((0x0,_0x3088d2['ColorRGB'])(_0x1bdd2b[_0x294014(0x1ac)])),document[_0x294014(0x19d)](''['concat'](_0x1bdd2b[_0x294014(0x1cb)],_0x294014(0x1c2)))[_0x294014(0x170)]['color']=_0x294014(0x1c1);var _0x3c7100=function _0x324cd2(){var _0x1bf17a=_0x294014;_0x1bdd2b[_0x1bf17a(0x157)][_0x1bf17a(0x17e)](function(_0x38a32c){var _0x391f30=_0x1bf17a;document['getElementById'](_0x391f30(0x179)['concat'](_0x1bdd2b['id_grupo']))[_0x391f30(0x1ca)](_0x391f30(0x1d1),(0x0,_0x3c5fd9[_0x391f30(0x172)])(_0x391f30(0x194),''['concat'](_0x38a32c['id_opcion']),_0x4c4b5b!=_0x38a32c['id_opcion']?[_0x391f30(0x15e)]:[_0x391f30(0x15e),_0x391f30(0x1bf)],''[_0x391f30(0x15a)](_0x38a32c[_0x391f30(0x156)]),''['concat'](_0x38a32c[_0x391f30(0x17f)]),''[_0x391f30(0x15a)](_0x38a32c[_0x391f30(0x1cb)])));}),document[_0x1bf17a(0x19d)](_0x1bf17a(0x179)[_0x1bf17a(0x15a)](_0x1bdd2b[_0x1bf17a(0x1cb)]))[_0x1bf17a(0x197)](_0x1bf17a(0x161),function(_0x247bac){var _0x3b0e35=_0x1bf17a;_0x247bac[_0x3b0e35(0x1cf)][_0x3b0e35(0x164)][_0x3b0e35(0x1aa)](_0x3b0e35(0x15e))&&_0x1ab4e8(_0x247bac[_0x3b0e35(0x1cf)],_0x17feb9,_0x5c70dc,_0x1aab7c,_0x2e6ba2);});},_0x318e4d=function _0x4b76db(){var _0x5012fb=_0x294014;document[_0x5012fb(0x19d)](''[_0x5012fb(0x15a)](_0x1bdd2b[_0x5012fb(0x1cb)],_0x5012fb(0x1c2)))['addEventListener'](_0x5012fb(0x161),function(_0x1404a1){var _0x46c937=_0x5012fb;_0x1404a1[_0x46c937(0x1cf)]['tagName']==_0x46c937(0x160)&&((0x0,_0x1d6c38['A'])(document[_0x46c937(0x1c0)](_0x46c937(0x1a0)))[_0x46c937(0x17e)](function(_0x2de0ac){var _0x2be410=_0x46c937;_0x2de0ac['parentElement']['id']!=_0x1404a1['target'][_0x2be410(0x193)]['id']&&(_0x2de0ac[_0x2be410(0x1d2)][_0x2be410(0x164)]['remove'](_0x2be410(0x1a4)),_0x2de0ac[_0x2be410(0x1c6)]());}),document[_0x46c937(0x19d)](_0x46c937(0x179)[_0x46c937(0x15a)](_0x1bdd2b[_0x46c937(0x1cb)]))==null||document[_0x46c937(0x19d)]('Opcion-'[_0x46c937(0x15a)](_0x1bdd2b['id_grupo']))==undefined?(document[_0x46c937(0x19d)](''[_0x46c937(0x15a)](_0x1315cf)[_0x46c937(0x15a)](_0x1bdd2b[_0x46c937(0x1cb)]))[_0x46c937(0x1ca)](_0x46c937(0x1d1),(0x0,_0x3c5fd9[_0x46c937(0x1b0)])(_0x46c937(0x194),_0x46c937(0x179)[_0x46c937(0x15a)](_0x1bdd2b['id_grupo']),[_0x46c937(0x1a0)])),document[_0x46c937(0x19d)](''[_0x46c937(0x15a)](_0x1bdd2b['id_grupo'],_0x46c937(0x1c2)))[_0x46c937(0x164)]['add'](_0x46c937(0x1a4)),_0x3c7100()):(document[_0x46c937(0x19d)](_0x46c937(0x179)[_0x46c937(0x15a)](_0x1bdd2b[_0x46c937(0x1cb)]))[_0x46c937(0x1c6)](),document[_0x46c937(0x19d)](''[_0x46c937(0x15a)](_0x1bdd2b['id_grupo'],_0x46c937(0x1c2)))['classList'][_0x46c937(0x1c6)]('clase__titulo--activo')));});};_0x4fed66==document['getElementById'](''[_0x294014(0x15a)](_0x1bdd2b[_0x294014(0x1cb)],_0x294014(0x1c2)))[_0x294014(0x1bc)][_0x294014(0x1a7)]?(document[_0x294014(0x19d)](''[_0x294014(0x15a)](_0x1bdd2b[_0x294014(0x1cb)],_0x294014(0x1c2)))['classList'][_0x294014(0x163)](_0x294014(0x1a4)),(document['getElementById'](_0x294014(0x179)[_0x294014(0x15a)](_0x1bdd2b[_0x294014(0x1cb)]))==null||document[_0x294014(0x19d)](_0x294014(0x179)['concat'](_0x1bdd2b['id_grupo']))==undefined)&&(document[_0x294014(0x19d)](''[_0x294014(0x15a)](_0x1315cf)['concat'](_0x1bdd2b[_0x294014(0x1cb)]))[_0x294014(0x1ca)](_0x294014(0x1d1),(0x0,_0x3c5fd9['CreateElement'])(_0x294014(0x194),'Opcion-'[_0x294014(0x15a)](_0x1bdd2b[_0x294014(0x1cb)]),[_0x294014(0x1a0)])),_0x3c7100()),_0x318e4d()):_0x318e4d(),_0x2513c0>0x5&&(document[_0x294014(0x19d)](_0x294014(0x1bb)[_0x294014(0x15a)](_0x1315cf))!=null&&(document[_0x294014(0x19d)](_0x294014(0x1bb)['concat'](_0x1315cf))[_0x294014(0x177)]=(_0x2513c0-0x5)*0x1c));}),document['getElementById'](_0x1315cf)['insertAdjacentElement'](_0x7204cd(0x1d1),(0x0,_0x3c5fd9['CreateElement'])(_0x7204cd(0x194),'CajaBuscar',[_0x7204cd(0x198)])),document[_0x7204cd(0x19d)](_0x7204cd(0x17c))[_0x7204cd(0x1ca)](_0x7204cd(0x1d1),(0x0,_0x3c5fd9[_0x7204cd(0x1b0)])('DIV',_0x7204cd(0x1a5),['caja-buscar__texto'],null,null,null,null,null,!![]));window['matchMedia']('(min-width:\x20400px)')[_0x7204cd(0x175)]&&document['getElementById'](_0x7204cd(0x1a5))[_0x7204cd(0x1ba)]();document['getElementById'](_0x7204cd(0x1a5))[_0x7204cd(0x197)]('keypress',function(_0x3d1112){var _0x3238ef=_0x7204cd;(_0x3d1112[_0x3238ef(0x171)]==0xd||_0x3d1112['code']=='Enter')&&_0x3d1112[_0x3238ef(0x1b5)]();}),_0x11787c=function _0x315b57(_0x2f1f34){return _0x1c72cf['filter'](function(_0xc11ad){var _0x3f485f=a23_0xc68a;return _0xc11ad[_0x3f485f(0x156)][_0x3f485f(0x15f)]()['normalize'](_0x3f485f(0x1c9))[_0x3f485f(0x185)](/[\u0300-\u036f]/g,'')[_0x3f485f(0x152)](_0x2f1f34[_0x3f485f(0x15f)]())>-0x1;});},_0x5d9f8f=[],_0x429627=function _0x3354ee(_0x21ec28){var _0x1b57bd=_0x7204cd;_0x21ec28[_0x1b57bd(0x17e)](function(_0x52c266){var _0x1e122d=_0x1b57bd;_0x27ab8f[_0x1e122d(0x17e)](function(_0x1ce859){var _0x2c63b8=_0x1e122d;if(_0x1ce859[_0x2c63b8(0x1cb)]!=_0x52c266[_0x2c63b8(0x1cb)])return;else(document[_0x2c63b8(0x19d)](''['concat'](_0x1315cf,'-')['concat'](_0x52c266[_0x2c63b8(0x1cb)]))==null||document[_0x2c63b8(0x19d)](''['concat'](_0x1315cf,'-')[_0x2c63b8(0x15a)](_0x52c266[_0x2c63b8(0x1cb)])==undefined))&&(document[_0x2c63b8(0x19d)]('contenedor'[_0x2c63b8(0x15a)](_0x1315cf))[_0x2c63b8(0x1ca)](_0x2c63b8(0x1d1),(0x0,_0x3c5fd9[_0x2c63b8(0x1b0)])(_0x2c63b8(0x194),''[_0x2c63b8(0x15a)](_0x1315cf,'-')[_0x2c63b8(0x15a)](_0x52c266[_0x2c63b8(0x1cb)]))),document[_0x2c63b8(0x19d)](''[_0x2c63b8(0x15a)](_0x1315cf,'-')['concat'](_0x52c266[_0x2c63b8(0x1cb)]))[_0x2c63b8(0x1ca)]('beforeend',(0x0,_0x3c5fd9[_0x2c63b8(0x1b0)])(_0x2c63b8(0x160),''[_0x2c63b8(0x15a)](_0x52c266[_0x2c63b8(0x1cb)],_0x2c63b8(0x1c2)),[_0x2c63b8(0x189)],''['concat'](_0x52c266[_0x2c63b8(0x1cb)],'\x20-\x20')[_0x2c63b8(0x15a)](_0x1ce859['nombre_grupo']),null,null,null,null,null,null,''['concat'](_0x52c266[_0x2c63b8(0x1cb)]))),document['getElementById'](''[_0x2c63b8(0x15a)](_0x1315cf,'-')[_0x2c63b8(0x15a)](_0x52c266['id_grupo']))['style'][_0x2c63b8(0x16f)]=''[_0x2c63b8(0x15a)]((0x0,_0x3088d2['ColorRegistroOpcion'])(_0x1ce859['color_rgb'])),document[_0x2c63b8(0x19d)](''[_0x2c63b8(0x15a)](_0x52c266['id_grupo'],'-tituloGrupo'))[_0x2c63b8(0x170)][_0x2c63b8(0x16f)]=''[_0x2c63b8(0x15a)]((0x0,_0x3088d2[_0x2c63b8(0x1a3)])(_0x1ce859[_0x2c63b8(0x1ac)])),document[_0x2c63b8(0x19d)](''[_0x2c63b8(0x15a)](_0x52c266[_0x2c63b8(0x1cb)],_0x2c63b8(0x1c2)))[_0x2c63b8(0x170)]['color']='#fefefe',(document[_0x2c63b8(0x19d)](_0x2c63b8(0x179)[_0x2c63b8(0x15a)](_0x52c266['id_grupo']))==null||document[_0x2c63b8(0x19d)](_0x2c63b8(0x179)[_0x2c63b8(0x15a)](_0x52c266[_0x2c63b8(0x1cb)]))==undefined)&&document['getElementById'](''[_0x2c63b8(0x15a)](_0x1315cf,'-')[_0x2c63b8(0x15a)](_0x52c266['id_grupo']))[_0x2c63b8(0x1ca)]('beforeend',(0x0,_0x3c5fd9[_0x2c63b8(0x1b0)])(_0x2c63b8(0x194),'Opcion-'[_0x2c63b8(0x15a)](_0x52c266[_0x2c63b8(0x1cb)]),['lista-plantillas']))),document[_0x2c63b8(0x19d)](_0x2c63b8(0x179)[_0x2c63b8(0x15a)](_0x52c266[_0x2c63b8(0x1cb)]))[_0x2c63b8(0x1ca)]('beforeend',(0x0,_0x3c5fd9['Selector'])(_0x2c63b8(0x194),''[_0x2c63b8(0x15a)](_0x52c266['id_opcion']),_0x4c4b5b!=_0x52c266[_0x2c63b8(0x1ad)]?['lista__opcion']:[_0x2c63b8(0x15e),'opcion--activa'],''['concat'](_0x52c266[_0x2c63b8(0x156)]),''[_0x2c63b8(0x15a)](_0x52c266[_0x2c63b8(0x17f)]),''['concat'](_0x52c266[_0x2c63b8(0x1cb)]))),document[_0x2c63b8(0x19d)](_0x2c63b8(0x179)['concat'](_0x52c266['id_grupo']))[_0x2c63b8(0x197)](_0x2c63b8(0x161),function(_0x27b827){var _0x5b5ba2=_0x2c63b8;document[_0x5b5ba2(0x19d)](_0x5b5ba2(0x179)[_0x5b5ba2(0x15a)](_0x52c266[_0x5b5ba2(0x1cb)]))!=null&&(_0x27b827[_0x5b5ba2(0x1cf)][_0x5b5ba2(0x164)]['contains'](_0x5b5ba2(0x15e))&&_0x1ab4e8(_0x27b827[_0x5b5ba2(0x1cf)],_0x17feb9,_0x5c70dc,_0x1aab7c,_0x2e6ba2));});});});},document[_0x7204cd(0x19d)](_0x7204cd(0x1a5))[_0x7204cd(0x197)](_0x7204cd(0x15c),function(){var _0x209dce=_0x7204cd,_0x2d97a0=document[_0x209dce(0x19d)](_0x209dce(0x1bb)[_0x209dce(0x15a)](_0x1315cf));document[_0x209dce(0x19d)](_0x209dce(0x1a5))[_0x209dce(0x173)][_0x209dce(0x1ce)]()[_0x209dce(0x1c3)]?((0x0,_0x1d6c38['A'])(_0x2d97a0['children'])['forEach'](function(_0x526e1f){return _0x2d97a0['removeChild'](_0x526e1f);}),_0x5d9f8f=_0x11787c(document[_0x209dce(0x19d)](_0x209dce(0x1a5))['textContent'][_0x209dce(0x1ce)]()[_0x209dce(0x167)](_0x209dce(0x1c9))[_0x209dce(0x185)](/[\u0300-\u036f]/g,'')),_0x429627(_0x5d9f8f),_0x5d9f8f[_0x209dce(0x1c3)]==0x0?(document[_0x209dce(0x19d)](_0x209dce(0x1bb)['concat'](_0x1315cf))[_0x209dce(0x1ca)](_0x209dce(0x1d1),(0x0,_0x3c5fd9['CreateElement'])(_0x209dce(0x160),null,null,_0x209dce(0x1b7))),document[_0x209dce(0x19d)](_0x209dce(0x1bb)[_0x209dce(0x15a)](_0x1315cf))[_0x209dce(0x164)][_0x209dce(0x163)](_0x209dce(0x196))):document[_0x209dce(0x19d)]('contenedor'[_0x209dce(0x15a)](_0x1315cf))[_0x209dce(0x164)]['remove'](_0x209dce(0x196)),_0x5d9f8f=[]):(_0x2d97a0[_0x209dce(0x188)][0x0][_0x209dce(0x1bd)]==_0x209dce(0x160)||_0x5d9f8f[_0x209dce(0x1c3)]==0x0)&&((0x0,_0x1d6c38['A'])(_0x2d97a0[_0x209dce(0x190)])['forEach'](function(_0x18e6ca){var _0x3d4547=_0x209dce;return _0x2d97a0[_0x3d4547(0x17b)](_0x18e6ca);}),document['getElementById'](_0x209dce(0x1bb)[_0x209dce(0x15a)](_0x1315cf))[_0x209dce(0x164)][_0x209dce(0x1c6)](_0x209dce(0x196)),_0x30ba99[_0x209dce(0x17e)](function(_0x26f907){var _0x227ba5=_0x209dce;document['getElementById']('contenedor'[_0x227ba5(0x15a)](_0x1315cf))['insertAdjacentElement'](_0x227ba5(0x1d1),(0x0,_0x3c5fd9['CreateElement'])(_0x227ba5(0x194),''['concat'](_0x1315cf)[_0x227ba5(0x15a)](_0x26f907['id_grupo']))),document[_0x227ba5(0x19d)](''[_0x227ba5(0x15a)](_0x1315cf)[_0x227ba5(0x15a)](_0x26f907[_0x227ba5(0x1cb)]))[_0x227ba5(0x170)][_0x227ba5(0x16f)]=''['concat']((0x0,_0x3088d2[_0x227ba5(0x19e)])(_0x26f907[_0x227ba5(0x1ac)])),document['getElementById'](''[_0x227ba5(0x15a)](_0x1315cf)[_0x227ba5(0x15a)](_0x26f907[_0x227ba5(0x1cb)]))[_0x227ba5(0x1ca)](_0x227ba5(0x1d1),(0x0,_0x3c5fd9['CreateElement'])(_0x227ba5(0x160),''[_0x227ba5(0x15a)](_0x26f907[_0x227ba5(0x1cb)],_0x227ba5(0x1c2)),[_0x227ba5(0x189)],''['concat'](_0x26f907[_0x227ba5(0x1cb)],_0x227ba5(0x154))['concat'](_0x26f907[_0x227ba5(0x18a)]),null,null,null,null,null,null,''[_0x227ba5(0x15a)](_0x26f907['id_grupo']))),document[_0x227ba5(0x19d)](''[_0x227ba5(0x15a)](_0x26f907[_0x227ba5(0x1cb)],_0x227ba5(0x1c2)))[_0x227ba5(0x170)][_0x227ba5(0x16f)]=''['concat']((0x0,_0x3088d2[_0x227ba5(0x1a3)])(_0x26f907['color_rgb'])),document[_0x227ba5(0x19d)](''[_0x227ba5(0x15a)](_0x26f907['id_grupo'],_0x227ba5(0x1c2)))['style'][_0x227ba5(0x183)]=_0x227ba5(0x1c1);var _0x21148f=function _0x31b8d4(){var _0x357507=_0x227ba5;_0x26f907[_0x357507(0x157)][_0x357507(0x17e)](function(_0x3b8da6){var _0x14f44d=_0x357507;document[_0x14f44d(0x19d)](_0x14f44d(0x179)['concat'](_0x26f907['id_grupo']))[_0x14f44d(0x1ca)](_0x14f44d(0x1d1),(0x0,_0x3c5fd9[_0x14f44d(0x172)])(_0x14f44d(0x194),''['concat'](_0x3b8da6[_0x14f44d(0x1ad)]),_0x4c4b5b!=_0x3b8da6[_0x14f44d(0x1ad)]?['lista__opcion']:['lista__opcion','opcion--activa'],''[_0x14f44d(0x15a)](_0x3b8da6[_0x14f44d(0x156)]),''[_0x14f44d(0x15a)](_0x3b8da6['orden']),''[_0x14f44d(0x15a)](_0x3b8da6[_0x14f44d(0x1cb)])));}),document['getElementById'](_0x357507(0x179)['concat'](_0x26f907[_0x357507(0x1cb)]))['addEventListener'](_0x357507(0x161),function(_0x371fc5){var _0x10be4b=_0x357507;_0x371fc5[_0x10be4b(0x1cf)][_0x10be4b(0x164)][_0x10be4b(0x1aa)]('lista__opcion')&&_0x1ab4e8(_0x371fc5[_0x10be4b(0x1cf)],_0x17feb9,_0x5c70dc,_0x1aab7c,_0x2e6ba2);});},_0x316d03=function _0x107695(){var _0x40323d=_0x227ba5;document[_0x40323d(0x19d)](''['concat'](_0x26f907['id_grupo'],_0x40323d(0x1c2)))[_0x40323d(0x197)]('click',function(_0x3c3b13){var _0xce9d2c=_0x40323d;_0x3c3b13['target']['tagName']==_0xce9d2c(0x160)&&((0x0,_0x1d6c38['A'])(document[_0xce9d2c(0x1c0)](_0xce9d2c(0x1a0)))[_0xce9d2c(0x17e)](function(_0x35b85a){var _0x1500bc=_0xce9d2c;_0x35b85a[_0x1500bc(0x193)]['id']!=_0x3c3b13['target'][_0x1500bc(0x193)]['id']&&(_0x35b85a[_0x1500bc(0x1d2)][_0x1500bc(0x164)][_0x1500bc(0x1c6)](_0x1500bc(0x1a4)),_0x35b85a[_0x1500bc(0x1c6)]());}),document['getElementById']('Opcion-'['concat'](_0x26f907[_0xce9d2c(0x1cb)]))==null||document[_0xce9d2c(0x19d)](_0xce9d2c(0x179)['concat'](_0x26f907[_0xce9d2c(0x1cb)]))==undefined?(document['getElementById'](''[_0xce9d2c(0x15a)](_0x1315cf)[_0xce9d2c(0x15a)](_0x26f907[_0xce9d2c(0x1cb)]))[_0xce9d2c(0x1ca)](_0xce9d2c(0x1d1),(0x0,_0x3c5fd9[_0xce9d2c(0x1b0)])(_0xce9d2c(0x194),_0xce9d2c(0x179)['concat'](_0x26f907[_0xce9d2c(0x1cb)]),[_0xce9d2c(0x1a0)])),document[_0xce9d2c(0x19d)](''['concat'](_0x26f907[_0xce9d2c(0x1cb)],'-tituloGrupo'))['classList']['add'](_0xce9d2c(0x1a4)),_0x21148f()):(document[_0xce9d2c(0x19d)](_0xce9d2c(0x179)[_0xce9d2c(0x15a)](_0x26f907['id_grupo']))[_0xce9d2c(0x1c6)](),document['getElementById'](''[_0xce9d2c(0x15a)](_0x26f907[_0xce9d2c(0x1cb)],_0xce9d2c(0x1c2)))[_0xce9d2c(0x164)][_0xce9d2c(0x1c6)]('clase__titulo--activo')));});};_0x4fed66==document[_0x227ba5(0x19d)](''[_0x227ba5(0x15a)](_0x26f907['id_grupo'],'-tituloGrupo'))['dataset']['value']?(document[_0x227ba5(0x19d)](''[_0x227ba5(0x15a)](_0x26f907['id_grupo'],_0x227ba5(0x1c2)))[_0x227ba5(0x164)][_0x227ba5(0x163)](_0x227ba5(0x1a4)),(document['getElementById'](_0x227ba5(0x179)['concat'](_0x26f907[_0x227ba5(0x1cb)]))==null||document[_0x227ba5(0x19d)](_0x227ba5(0x179)['concat'](_0x26f907[_0x227ba5(0x1cb)]))==undefined)&&(document[_0x227ba5(0x19d)](''['concat'](_0x1315cf)['concat'](_0x26f907[_0x227ba5(0x1cb)]))['insertAdjacentElement'](_0x227ba5(0x1d1),(0x0,_0x3c5fd9[_0x227ba5(0x1b0)])('DIV',_0x227ba5(0x179)[_0x227ba5(0x15a)](_0x26f907[_0x227ba5(0x1cb)]),[_0x227ba5(0x1a0)])),_0x21148f()),_0x316d03()):_0x316d03(),_0x2513c0>0x5&&(document['getElementById']('contenedor'[_0x227ba5(0x15a)](_0x1315cf))!=null&&(document[_0x227ba5(0x19d)](_0x227ba5(0x1bb)[_0x227ba5(0x15a)](_0x1315cf))['scrollTop']=(_0x2513c0-0x5)*0x1c));}));}),document[_0x7204cd(0x19d)]('CajaBuscar')[_0x7204cd(0x1ca)](_0x7204cd(0x1d1),(0x0,_0x3c5fd9[_0x7204cd(0x1b0)])(_0x7204cd(0x194),_0x7204cd(0x176),[_0x7204cd(0x1b3)])),_0x489d74=document['getElementById'](_0x7204cd(0x176)),_0x489d74['innerHTML']+='<svg\x20class=\x22caja-buscar__img\x22\x20viewbox=\x220\x200\x20512\x20512\x22><use\x20xlink:href=\x22./img/sprite.svg#btn-accion-dialogo-1\x22></use></svg>';(document[_0x7204cd(0x19d)](_0x1315cf)!=null||document[_0x7204cd(0x19d)](_0x1315cf)!=undefined)&&(document[_0x7204cd(0x19d)](_0x7204cd(0x19b))['addEventListener'](_0x7204cd(0x1d0),_0x298203,![]),document[_0x7204cd(0x19d)](_0x7204cd(0x19b))[_0x7204cd(0x197)](_0x7204cd(0x168),_0x42fb1b,![]));case 0x24:case _0x7204cd(0x1a8):return _0x54f89e[_0x7204cd(0x15b)]();}},_0x8c76e5);})),_0x50461a[_0x4cc722(0x18e)](this,arguments);}},0x886:(_0x1715d8,_0x18901e,_0x1ebb2d)=>{'use strict';_0x1ebb2d['r'](_0x18901e),_0x1ebb2d['d'](_0x18901e,{'ColorRGB':()=>_0xc8fba,'ColorRegistroOpcion':()=>_0x5ac121,'GetHSL':()=>_0xda4d1,'PorcentajeL':()=>_0xa297b1});var _0xa297b1=['94','96','45'];function _0xda4d1(_0x4e5742){var _0xfe5d91=a23_0xc68a,_0x5206ba=_0xfe5d91(0x1c7)+_0x4e5742[_0xfe5d91(0x16c)](0x10);_0x5206ba=_0x5206ba['substr'](_0x5206ba[_0xfe5d91(0x1c3)]-0x6,0x6);var _0x430602=parseInt(_0x5206ba[_0xfe5d91(0x151)](0x0,0x2),0x10)/0xff,_0x2bd7d3=parseInt(_0x5206ba[_0xfe5d91(0x151)](0x2,0x2),0x10)/0xff,_0x3ce65b=parseInt(_0x5206ba['substr'](0x4,0x2),0x10)/0xff,_0x41ba31=Math[_0xfe5d91(0x16a)](_0x430602,_0x2bd7d3,_0x3ce65b),_0x8aac79=Math[_0xfe5d91(0x165)](_0x430602,_0x2bd7d3,_0x3ce65b),_0x4ae23b,_0x4a81f9,_0x50c90f=(_0x41ba31+_0x8aac79)/0x2;if(_0x41ba31==_0x8aac79)_0x4ae23b=_0x4a81f9=0x0;else{var _0x130d0f=_0x41ba31-_0x8aac79;_0x4a81f9=_0x50c90f>0.5?_0x130d0f/(0x2-_0x41ba31-_0x8aac79):_0x130d0f/(_0x41ba31+_0x8aac79);switch(_0x41ba31){case _0x430602:_0x4ae23b=(_0x2bd7d3-_0x3ce65b)/_0x130d0f+(_0x2bd7d3<_0x3ce65b?0x6:0x0);break;case _0x2bd7d3:_0x4ae23b=(_0x3ce65b-_0x430602)/_0x130d0f+0x2;break;case _0x3ce65b:_0x4ae23b=(_0x430602-_0x2bd7d3)/_0x130d0f+0x4;break;}_0x4ae23b/=0x6;}return _0x4ae23b=Math[_0xfe5d91(0x153)](_0x4ae23b*0x168),_0x4a81f9=Math[_0xfe5d91(0x153)](_0x4a81f9*0x64),_0x50c90f=Math['round'](_0x50c90f*0x64),[_0x4ae23b,_0x4a81f9,_0x50c90f];}function _0xc8fba(_0x3f972a){var _0x37dbb0=a23_0xc68a,_0x5ae337='00000'+_0x3f972a[_0x37dbb0(0x16c)](0x10);return _0x5ae337=_0x5ae337[_0x37dbb0(0x151)](_0x5ae337[_0x37dbb0(0x1c3)]-0x6,0x6),'#'[_0x37dbb0(0x15a)](_0x5ae337);}function _0x5ac121(_0x4a06be){var _0x206910=a23_0xc68a,_0x25b817=_0xda4d1(_0x4a06be);return'hsl('['concat'](_0x25b817[0x0],',')[_0x206910(0x15a)](_0x25b817[0x1],'%,')['concat'](_0xa297b1[0x0],'%)');}},0xc3a:(_0x14433b,_0x31f5cd,_0x153aa5)=>{var _0xb8d89f=a23_0x2517bd,_0x3617fb={'./api':[0x1d01,0x9],'./api.js':[0x1d01,0x9],'./componentes/MenuAzul':[0x77c,0x9,0x77c],'./componentes/MenuAzul.js':[0x77c,0x9,0x77c],'./componentes/encabezado':[0x1a7,0x9],'./componentes/encabezado.js':[0x1a7,0x9],'./componentes/historialB':[0x1640,0x9,0x1640],'./componentes/historialB.js':[0x1640,0x9,0x1640],'./componentes/modal/Dialogos':[0xc65,0x9,0xc65],'./componentes/modal/Dialogos.js':[0xc65,0x9,0xc65],'./componentes/modal/Error':[0x1d09,0x9],'./componentes/modal/Error.js':[0x1d09,0x9],'./componentes/modal/Notificaciones':[0x2107,0x9,0x2107],'./componentes/modal/Notificaciones.js':[0x2107,0x9,0x2107],'./componentes/modal/dialogo-tipo-2':[0xea,0x9],'./componentes/modal/dialogo-tipo-2.js':[0xea,0x9],'./componentes/nombre-empresa':[0x9fe,0x9,0x9fe],'./componentes/nombre-empresa.js':[0x9fe,0x9,0x9fe],'./controladores/amchart-from-json':[0x629,0x9,0xd99,0x629],'./controladores/amchart-from-json.js':[0x629,0x9,0xd99,0x629],'./controladores/mqtt-actions':[0x1ca3,0x9],'./controladores/mqtt-actions.js':[0x1ca3,0x9],'./elements/CrearElementoHTML':[0xd38,0x9],'./elements/CrearElementoHTML.js':[0xd38,0x9],'./elements/htmlElements':[0x967,0x9],'./elements/htmlElements.js':[0x967,0x9],'./pages/default/default':[0xe85,0x9,0xe85],'./pages/default/default.js':[0xe85,0x9,0xe85],'./pages/indicadores/indicadores':[0xc4d,0x9],'./pages/indicadores/indicadores.js':[0xc4d,0x9],'./pages/login/login':[0x14dd,0x9,0x14dd],'./pages/login/login.js':[0x14dd,0x9,0x14dd],'./pages/registro/registro':[0x669,0x9,0x390,0x20bc,0x1b84,0x1006,0xfb6],'./pages/registro/registro.js':[0x669,0x9,0x390,0x20bc,0x1b84,0x1006,0xfb6],'./pages/restablecerPassword/restablecerPassword':[0x7e9,0x9,0x7e9],'./pages/restablecerPassword/restablecerPassword.js':[0x7e9,0x9,0x7e9],'./pages/revision/anexoAdicional':[0x1265,0x9,0x1265],'./pages/revision/anexoAdicional.js':[0x1265,0x9,0x1265],'./pages/revision/api':[0x386,0x9,0x386],'./pages/revision/api.js':[0x386,0x9,0x386],'./pages/revision/revision':[0x1b21,0x9,0x1640,0x1b21],'./pages/revision/revision.js':[0x1b21,0x9,0x1640,0x1b21],'./pages/rutas/data':[0x216,0x3,0x216],'./pages/rutas/data.json':[0x216,0x3,0x216],'./pages/rutas/dialogo_edtitar':[0x2095,0x9,0x16cc,0x390,0x1b84,0x176f],'./pages/rutas/dialogo_edtitar.js':[0x2095,0x9,0x16cc,0x390,0x1b84,0x176f],'./pages/rutas/rutas':[0x2298,0x9,0x16cc,0x390,0x1b84,0x176f],'./pages/rutas/rutas.js':[0x2298,0x9,0x16cc,0x390,0x1b84,0x176f],'./registro/api':[0x164f,0x9,0x164f],'./registro/api.js':[0x164f,0x9,0x164f],'./registro/modal/adjuntar-archivos':[0x1200,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0xd4f],'./registro/modal/adjuntar-archivos.js':[0x1200,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0xd4f],'./registro/modal/cambiar-password':[0x10dc,0x9,0x78f],'./registro/modal/cambiar-password.js':[0x10dc,0x9,0x78f],'./registro/modal/castigar-registro':[0x7b3,0x9,0x2292,0x7b3],'./registro/modal/castigar-registro.js':[0x7b3,0x9,0x2292,0x7b3],'./registro/modal/cerrar-sesion':[0x21d6,0x9,0x21d6],'./registro/modal/cerrar-sesion.js':[0x21d6,0x9,0x21d6],'./registro/modal/cerrar-ventana-modal':[0x714,0x9,0x714],'./registro/modal/cerrar-ventana-modal.js':[0x714,0x9,0x714],'./registro/modal/color':[0x886,0x9],'./registro/modal/color.js':[0x886,0x9],'./registro/modal/datepicker-options':[0x171c,0x9,0x171c],'./registro/modal/datepicker-options.js':[0x171c,0x9,0x171c],'./registro/modal/datos-busqueda':[0x443,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0xd90],'./registro/modal/datos-busqueda.js':[0x443,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0xd90],'./registro/modal/datos-registro':[0x23c6,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0x1bfc],'./registro/modal/datos-registro.js':[0x23c6,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0x1bfc],'./registro/modal/dialogo-tipo-1':[0x17dd,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0x1778],'./registro/modal/dialogo-tipo-1.js':[0x17dd,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0x1778],'./registro/modal/duplicar-registro':[0xa0f,0x9,0xa0f],'./registro/modal/duplicar-registro.js':[0xa0f,0x9,0xa0f],'./registro/modal/eliminar-registro':[0x26f6,0x9,0x26f6],'./registro/modal/eliminar-registro.js':[0x26f6,0x9,0x26f6],'./registro/modal/informacion':[0x974,0x9,0x974],'./registro/modal/informacion.js':[0x974,0x9,0x974],'./registro/modal/listado-suplantar':[0x1724,0x9,0x1724],'./registro/modal/listado-suplantar.js':[0x1724,0x9,0x1724],'./registro/modal/log-registro':[0xabd,0x9,0xabd],'./registro/modal/log-registro.js':[0xabd,0x9,0xabd],'./registro/modal/menu-principal':[0x1975,0x9,0x1975],'./registro/modal/menu-principal.js':[0x1975,0x9,0x1975],'./registro/modal/plantillas':[0x1b89,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0x1bfc],'./registro/modal/plantillas.js':[0x1b89,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0x1bfc],'./registro/modal/seleccionar-proyecto':[0x1c9f,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0x1bfc],'./registro/modal/seleccionar-proyecto.js':[0x1c9f,0x9,0x2292,0x16cc,0x390,0x20bc,0x23c6,0x1bfc],'./registro/modal/suplantar-off':[0x1923,0x9],'./registro/modal/suplantar-off.js':[0x1923,0x9],'./utils/BotonesActivos':[0x267a,0x9],'./utils/BotonesActivos.js':[0x267a,0x9],'./utils/CalcularPosicionHistorial':[0x105b,0x9,0x105b],'./utils/CalcularPosicionHistorial.js':[0x105b,0x9,0x105b],'./utils/CargarAvance':[0x1fe3,0x7,0x1fe3],'./utils/CargarAvance.js':[0x1fe3,0x7,0x1fe3],'./utils/CargarDatosIniciales':[0x234d,0x9,0x234d],'./utils/CargarDatosIniciales.js':[0x234d,0x9,0x234d],'./utils/CastigarRegistro':[0xf7a,0x9,0x1640],'./utils/CastigarRegistro.js':[0xf7a,0x9,0x1640],'./utils/CerrarSesion':[0x4ad,0x9],'./utils/CerrarSesion.js':[0x4ad,0x9],'./utils/Color':[0x88c,0x9],'./utils/Color.js':[0x88c,0x9],'./utils/CreateSomeMenu':[0x1b18,0x9,0x1b18],'./utils/CreateSomeMenu.js':[0x1b18,0x9,0x1b18],'./utils/Data_Menu_Predictor':[0xe46,0x9,0xe46],'./utils/Data_Menu_Predictor.js':[0xe46,0x9,0xe46],'./utils/EditarRegistro':[0x1515,0x9,0x1640],'./utils/EditarRegistro.js':[0x1515,0x9,0x1640],'./utils/MenuPredictor':[0xdce,0x9,0xdce],'./utils/MenuPredictor.js':[0xdce,0x9,0xdce],'./utils/PintarGraficaSVG':[0x70c,0x9,0x70c],'./utils/PintarGraficaSVG.js':[0x70c,0x9,0x70c],'./utils/ToggleNombre':[0x1aa,0x9],'./utils/ToggleNombre.js':[0x1aa,0x9],'./utils/ValidarPassword':[0x1723,0x9,0x1723],'./utils/ValidarPassword.js':[0x1723,0x9,0x1723],'./utils/jogDial.min':[0x6bb,0x9,0x6bb],'./utils/jogDial.min.js':[0x6bb,0x9,0x6bb],'./utils/mascaraInput':[0xfb5,0x9,0xfb5],'./utils/mascaraInput.js':[0xfb5,0x9,0xfb5],'./utils/revisarNotificaciones':[0xb0d,0x9],'./utils/revisarNotificaciones.js':[0xb0d,0x9]};function _0x1d9261(_0x4e085d){var _0x213ae=a23_0xc68a;if(!_0x153aa5['o'](_0x3617fb,_0x4e085d))return Promise[_0x213ae(0x17d)]()[_0x213ae(0x1be)](()=>{var _0x3d83f4=_0x213ae,_0x31b6b9=new Error(_0x3d83f4(0x19c)+_0x4e085d+'\x27');_0x31b6b9['code']=_0x3d83f4(0x18d);throw _0x31b6b9;});var _0x176c81=_0x3617fb[_0x4e085d],_0x5a6f11=_0x176c81[0x0];return Promise[_0x213ae(0x1cc)](_0x176c81[_0x213ae(0x1a2)](0x2)[_0x213ae(0x1cd)](_0x153aa5['e']))[_0x213ae(0x1be)](()=>{return _0x153aa5['t'](_0x5a6f11,_0x176c81[0x1]|0x10);});}_0x1d9261[_0xb8d89f(0x1c5)]=()=>Object[_0xb8d89f(0x1c5)](_0x3617fb),_0x1d9261['id']=0xc3a,_0x14433b[_0xb8d89f(0x191)]=_0x1d9261;}}]));function a23_0x4622(){var _0x4756e7=['texto','color_rgb','id_opcion','contenedor-coleccion','GetData','CreateElement','ocultar-scroll','div','caja-buscar__boton','listado-indicadores','preventDefault','codigo','La\x20búsqueda\x20no\x20arrojó\x20resultados.','clase','mark','focus','contenedor','dataset','tagName','then','opcion--activa','getElementsByClassName','#fefefe','-tituloGrupo','length','8DYdAkg','keys','remove','00000','webpackChunkkiux','NFD','insertAdjacentElement','id_grupo','all','map','trim','target','mousedown','beforeend','previousElementSibling','push','substr','indexOf','round','\x20-\x20','4218090KOnDgG','nombre_opcion','opciones','codigo_indicador','PresentarIndicador','concat','stop','keyup','732105EzJZCM','lista__opcion','toLowerCase','SPAN','click','80CttouW','add','classList','min','none','normalize','keydown','6McwJaI','max','2nUHlQz','toString','main','display','backgroundColor','style','keyCode','Selector','textContent','entries','matches','BotonBuscar','scrollTop','10004580msQEdJ','Opcion-','next','removeChild','CajaBuscar','resolve','forEach','orden','dialogo-contenedor','seleccionar-proyecto','opcion_dlg_grupos','color','height','replace','414636rleMXg','getopcionesdialogo','childNodes','clase__titulo','nombre_grupo','65VOwiiw','sent','MODULE_NOT_FOUND','apply','919533aLQLXW','children','exports','controlador','parentElement','DIV','100%','contenedor-plantillas--flex','addEventListener','caja-buscar','11KidMzW','flex','dialogo-outside','Cannot\x20find\x20module\x20\x27','getElementById','ColorRegistroOpcion','486199yDwLij','lista-coleccion','prev','slice','ColorRGB','clase__titulo--activo','TextoBuscar','1471413kzDHoH','value','end','wrap','contains'];a23_0x4622=function(){return _0x4756e7;};return a23_0x4622();}
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[7651],{
+
+/***/ 234:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   MostrarDialogo: () => (/* binding */ MostrarDialogo)
+/* harmony export */ });
+/* harmony import */ var _babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5458);
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(467);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4756);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2407);
+/* harmony import */ var _registro_modal_color__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2182);
+/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7425);
+
+
+
+// La función "RenderizarDialogo" permite mostrar distintos
+// diálogos con distintos grupos de opciones, las cuales
+// pueden ser utilizadas según las necesidades de las
+// aplicación
+
+// OJO - revisar la coexistencia de "filtro" y "buscar",
+// ya que una de las dos podría no estar en uso
+
+
+
+
+function QuitarBackgroundMostrarScroll() {
+  document.getElementById('dialogo-outside').remove();
+  document.getElementById('main').classList.remove('ocultar-scroll');
+}
+
+// Cerrar diálogo al hacer click por fuera del mismo
+function CerrarDialogoClickOutside(event) {
+  if (event.target.id == 'dialogo-outside') {
+    QuitarBackgroundMostrarScroll();
+  }
+}
+
+// Cerrar diálogo al presionar la tecla <ESC>
+function CerrarDialogoPressESC(event) {
+  if (event.keyCode == 27) {
+    QuitarBackgroundMostrarScroll();
+  }
+}
+function ProcesarRespuesta(Elemento, OpcionElegida, Indicador, ArregloDialogos, ArregloOpciones) {
+  OpcionElegida.orden = Elemento.dataset.orden;
+  OpcionElegida.clase = Elemento.dataset.clase;
+  OpcionElegida.codigo = Elemento.id;
+  OpcionElegida.texto = Elemento.textContent;
+  // OpcionElegida.texto = `${Elemento.dataset.clase} - ${Elemento.textContent}`;
+  // console.log('OpcionElegida = ', OpcionElegida);
+  ArregloOpciones.push(OpcionElegida);
+  ArregloDialogos.shift();
+  QuitarBackgroundMostrarScroll();
+  MostrarDialogo(Indicador, ArregloDialogos, ArregloOpciones);
+}
+function MostrarDialogo(_x, _x2, _x3) {
+  return _MostrarDialogo.apply(this, arguments);
+}
+function _MostrarDialogo() {
+  _MostrarDialogo = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee(Indicador, ArregloDialogos, ArregloOpciones) {
+    var CodigoIndicador, Controlador, IDOpcion1, IDOpcion2, IDOpcion3, _yield$import, PresentarIndicador;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee$(_context) {
+      while (1) switch (_context.prev = _context.next) {
+        case 0:
+          if (!ArregloDialogos.length) {
+            _context.next = 4;
+            break;
+          }
+          RenderizarDialogo(Indicador, ArregloDialogos, ArregloOpciones);
+          _context.next = 16;
+          break;
+        case 4:
+          // console.log('ArregloOpciones = ', ArregloOpciones);
+          CodigoIndicador = Indicador.dataset.codigo_indicador;
+          Controlador = Indicador.dataset.controlador;
+          IDOpcion1 = ArregloOpciones.length > 0 ? ArregloOpciones[0].codigo : '';
+          IDOpcion2 = ArregloOpciones.length > 1 ? ArregloOpciones[1].codigo : '';
+          IDOpcion3 = ArregloOpciones.length > 2 ? ArregloOpciones[2].codigo : '';
+          _context.next = 11;
+          return __webpack_require__(3130)("./".concat(Controlador));
+        case 11:
+          _yield$import = _context.sent;
+          PresentarIndicador = _yield$import.PresentarIndicador;
+          document.getElementById('listado-indicadores').style.display = 'none';
+          document.getElementById('BtnRegresar').style.display = 'flex';
+          // document.getElementById('BtnMaximizar').style.display = 'flex';
+          // PresentarIndicador(CodigoIndicador, IDOpcion1, IDOpcion2, IDOpcion3);
+          PresentarIndicador(CodigoIndicador, ArregloOpciones); // OJO - así deberá ser
+        case 16:
+        case "end":
+          return _context.stop();
+      }
+    }, _callee);
+  }));
+  return _MostrarDialogo.apply(this, arguments);
+}
+function RenderizarDialogo(_x4, _x5, _x6) {
+  return _RenderizarDialogo.apply(this, arguments);
+}
+function _RenderizarDialogo() {
+  _RenderizarDialogo = (0,_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A)( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().mark(function _callee2(Indicador, ArregloDialogos, ArregloOpciones) {
+    var OpcionElegida, DialogoOutside, DialogoContenedor, Coleccion, _yield$GetData, opcion_dlg_grupos, ContenedorColeccion, GrupoActivo, OpcionActiva, Orden, ContenedorOpciones, ResultadoArray, GrupoColorRGB, Filtro, Opcion, ResultadoFiltro, BtnBuscar;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_0___default().wrap(function _callee2$(_context2) {
+      while (1) switch (_context2.prev = _context2.next) {
+        case 0:
+          OpcionElegida = {}; // OJO - deberá llegar desde el servidor como opción por default (sugerida)
+          DialogoOutside = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('div', 'dialogo-outside', ['background']);
+          DialogoContenedor = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('div', 'dialogo-contenedor', ['dialogo']);
+          DialogoContenedor.style.height = '22.5rem'; // OJO - la altura del diálogo debería llegar como un parámetro
+          DialogoOutside.insertAdjacentElement('beforeend', DialogoContenedor);
+          document.getElementById('main').insertAdjacentElement('beforeend', DialogoOutside);
+          document.getElementById('main').classList.add('ocultar-scroll');
+          Coleccion = ArregloDialogos[0];
+          _context2.next = 10;
+          return (0,_api__WEBPACK_IMPORTED_MODULE_1__.GetData)('getopcionesdialogo', Coleccion, 'PrepararYPresentarDialogo');
+        case 10:
+          _yield$GetData = _context2.sent;
+          opcion_dlg_grupos = _yield$GetData.opcion_dlg_grupos;
+          // console.log('opcion_dlg_grupos = ', opcion_dlg_grupos);
+          // console.log('opcion_dlg_grupos = ', opcion_dlg_grupos);
+          // Si no tenemos una "opción elegida" (default) y si tenemos un solo grupo
+          // entonces vamos a presentar el diálogo con el primer grupo desplegado
+          // teniendo la primera opción como "opción elegida" (default)
+          if (Object.entries(OpcionElegida).length === 0 && opcion_dlg_grupos.length == 1) {
+            // console.log('Vamos a poner nosotros la primera opción como "opción elegida"...');
+            // console.log('opcion_dlg_grupos[0] = ', opcion_dlg_grupos[0]);
+            OpcionElegida.clase = opcion_dlg_grupos[0].opciones[0].id_grupo;
+            OpcionElegida.codigo = opcion_dlg_grupos[0].opciones[0].id_opcion;
+            OpcionElegida.orden = opcion_dlg_grupos[0].opciones[0].orden;
+          }
+          ContenedorColeccion = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('div', Coleccion, ['seleccionar-proyecto']);
+          DialogoContenedor.insertAdjacentElement('beforeend', ContenedorColeccion);
+          GrupoActivo = OpcionElegida.clase != '' ? OpcionElegida.clase : null;
+          OpcionActiva = OpcionElegida.codigo != '' ? OpcionElegida.codigo : null;
+          Orden = OpcionElegida.orden != '' ? OpcionElegida.orden : null;
+          ContenedorOpciones = (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', "contenedor".concat(Coleccion), ['contenedor-coleccion']);
+          ContenedorOpciones.style.height = '100%'; // OJO - quitar cuando la caja de búsqueda funcione bien
+          ContenedorColeccion.insertAdjacentElement('beforeend', ContenedorOpciones);
+          ResultadoArray = [];
+          GrupoColorRGB = [];
+          opcion_dlg_grupos.forEach(function (grupo) {
+            grupo.opciones.forEach(function (opt) {
+              return ResultadoArray.push(opt);
+            });
+            GrupoColorRGB.push({
+              color_rgb: grupo.color_rgb,
+              id_grupo: grupo.id_grupo,
+              nombre_grupo: grupo.nombre_grupo
+            });
+            document.getElementById("contenedor".concat(Coleccion)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', "".concat(Coleccion).concat(grupo.id_grupo)));
+            document.getElementById("".concat(Coleccion).concat(grupo.id_grupo)).style.backgroundColor = "".concat((0,_registro_modal_color__WEBPACK_IMPORTED_MODULE_4__.ColorRegistroOpcion)(grupo.color_rgb));
+            // Título del grupo
+            document.getElementById("".concat(Coleccion).concat(grupo.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('SPAN', "".concat(grupo.id_grupo, "-tituloGrupo"), ['clase__titulo'], "".concat(grupo.id_grupo, " - ").concat(grupo.nombre_grupo), null, null, null, null, null, null, "".concat(grupo.id_grupo)));
+            document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).style.backgroundColor = "".concat((0,_registro_modal_color__WEBPACK_IMPORTED_MODULE_4__.ColorRGB)(grupo.color_rgb));
+            document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).style.color = '#fefefe';
+            var Opciones = function Opciones() {
+              // Opciones del grupo
+              grupo.opciones.forEach(function (opcion) {
+                document.getElementById("Opcion-".concat(grupo.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.Selector)('DIV', "".concat(opcion.id_opcion), OpcionActiva != opcion.id_opcion ? ['lista__opcion'] : ['lista__opcion', 'opcion--activa'], "".concat(opcion.nombre_opcion), "".concat(opcion.orden), "".concat(opcion.id_grupo)));
+                // console.log('opcion.nombre_opcion = "', opcion.nombre_opcion, '"');
+              });
+              // Click en Opción.
+              document.getElementById("Opcion-".concat(grupo.id_grupo)).addEventListener('click', function (event) {
+                if (event.target.classList.contains('lista__opcion')) {
+                  ProcesarRespuesta(event.target, OpcionElegida, Indicador, ArregloDialogos, ArregloOpciones);
+                }
+              });
+            };
+            var clickOpcion = function clickOpcion() {
+              document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).addEventListener('click', function (event) {
+                if (event.target.tagName == 'SPAN') {
+                  // Remueve a la lista adversa del seleccionado.
+                  (0,_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A)(document.getElementsByClassName('lista-coleccion')).forEach(function (element) {
+                    if (element.parentElement.id != event.target.parentElement.id) {
+                      element.previousElementSibling.classList.remove('clase__titulo--activo');
+                      element.remove();
+                    }
+                  });
+                  if (document.getElementById("Opcion-".concat(grupo.id_grupo)) == null || document.getElementById("Opcion-".concat(grupo.id_grupo)) == undefined) {
+                    document.getElementById("".concat(Coleccion).concat(grupo.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', "Opcion-".concat(grupo.id_grupo), ['lista-coleccion']));
+                    document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).classList.add('clase__titulo--activo');
+                    Opciones();
+                  } else {
+                    document.getElementById("Opcion-".concat(grupo.id_grupo)).remove();
+                    document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).classList.remove('clase__titulo--activo');
+                  }
+                }
+              });
+            };
+
+            // Abrir grupo si se previamente hay una opción elegida.
+            if (GrupoActivo == document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).dataset.value) {
+              document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).classList.add('clase__titulo--activo');
+              if (document.getElementById("Opcion-".concat(grupo.id_grupo)) == null || document.getElementById("Opcion-".concat(grupo.id_grupo)) == undefined) {
+                document.getElementById("".concat(Coleccion).concat(grupo.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', "Opcion-".concat(grupo.id_grupo), ['lista-coleccion']));
+                Opciones();
+              }
+              clickOpcion();
+            } else {
+              clickOpcion();
+            }
+
+            // Orden
+            if (Orden > 5) {
+              if (document.getElementById("contenedor".concat(Coleccion)) != null) {
+                document.getElementById("contenedor".concat(Coleccion)).scrollTop = (Orden - 5) * 28;
+              }
+            }
+          });
+
+          // Buscar elemento dentro de la colección de elementos
+          document.getElementById(Coleccion).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', 'CajaBuscar', ['caja-buscar']));
+          document.getElementById('CajaBuscar').insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', 'TextoBuscar', ['caja-buscar__texto'], null, null, null, null, null, true));
+
+          // Activar el foco si la pantalla es amplia
+          if (window.matchMedia('(min-width: 400px)').matches) {
+            document.getElementById('TextoBuscar').focus();
+          }
+
+          // Texto [KeyCode] tecla Enter
+          document.getElementById('TextoBuscar').addEventListener('keypress', function (event) {
+            if (event.keyCode == 13 || event.code == 'Enter') {
+              event.preventDefault();
+            }
+          });
+          Filtro = function Filtro(query) {
+            return ResultadoArray.filter(function (el) {
+              return el.nombre_opcion.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').indexOf(query.toLowerCase()) > -1;
+            });
+          };
+          Opcion = [];
+          ResultadoFiltro = function ResultadoFiltro(Opcion) {
+            Opcion.forEach(function (element) {
+              GrupoColorRGB.forEach(function (j) {
+                if (j.id_grupo != element.id_grupo) {
+                  return;
+                } else {
+                  if (document.getElementById("".concat(Coleccion, "-").concat(element.id_grupo)) == null || document.getElementById("".concat(Coleccion, "-").concat(element.id_grupo) == undefined)) {
+                    document.getElementById("contenedor".concat(Coleccion)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', "".concat(Coleccion, "-").concat(element.id_grupo)));
+                    // Título del grupo
+                    document.getElementById("".concat(Coleccion, "-").concat(element.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('SPAN', "".concat(element.id_grupo, "-tituloGrupo"), ['clase__titulo'], "".concat(element.id_grupo, " - ").concat(j.nombre_grupo), null, null, null, null, null, null, "".concat(element.id_grupo)));
+                    // Color del grupo
+                    document.getElementById("".concat(Coleccion, "-").concat(element.id_grupo)).style.backgroundColor = "".concat((0,_registro_modal_color__WEBPACK_IMPORTED_MODULE_4__.ColorRegistroOpcion)(j.color_rgb));
+                    // Color título del grupo
+                    document.getElementById("".concat(element.id_grupo, "-tituloGrupo")).style.backgroundColor = "".concat((0,_registro_modal_color__WEBPACK_IMPORTED_MODULE_4__.ColorRGB)(j.color_rgb));
+                    document.getElementById("".concat(element.id_grupo, "-tituloGrupo")).style.color = '#fefefe';
+                    if (document.getElementById("Opcion-".concat(element.id_grupo)) == null || document.getElementById("Opcion-".concat(element.id_grupo)) == undefined) {
+                      document.getElementById("".concat(Coleccion, "-").concat(element.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', "Opcion-".concat(element.id_grupo), ['lista-plantillas']));
+                    }
+                  }
+
+                  // Opciones del grupo
+                  document.getElementById("Opcion-".concat(element.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.Selector)('DIV', "".concat(element.id_opcion), OpcionActiva != element.id_opcion ? ['lista__opcion'] : ['lista__opcion', 'opcion--activa'], "".concat(element.nombre_opcion), "".concat(element.orden), "".concat(element.id_grupo)));
+
+                  // Click en Opción.
+                  document.getElementById("Opcion-".concat(element.id_grupo)).addEventListener('click', function (event) {
+                    if (document.getElementById("Opcion-".concat(element.id_grupo)) != null) {
+                      if (event.target.classList.contains('lista__opcion')) {
+                        ProcesarRespuesta(event.target, OpcionElegida, Indicador, ArregloDialogos, ArregloOpciones);
+                      }
+                    }
+                  });
+                }
+              });
+            });
+          };
+          document.getElementById('TextoBuscar').addEventListener('keyup', function () {
+            var ContenedorIndividual = document.getElementById("contenedor".concat(Coleccion));
+            if (document.getElementById('TextoBuscar').textContent.trim().length) {
+              (0,_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A)(ContenedorIndividual.children).forEach(function (child) {
+                return ContenedorIndividual.removeChild(child);
+              });
+              Opcion = Filtro(document.getElementById('TextoBuscar').textContent.trim().normalize('NFD').replace(/[\u0300-\u036f]/g, ''));
+              ResultadoFiltro(Opcion);
+              if (Opcion.length == 0) {
+                document.getElementById("contenedor".concat(Coleccion)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('SPAN', null, null, 'La búsqueda no arrojó resultados.'));
+                document.getElementById("contenedor".concat(Coleccion)).classList.add('contenedor-plantillas--flex');
+              } else {
+                document.getElementById("contenedor".concat(Coleccion)).classList.remove('contenedor-plantillas--flex');
+              }
+              Opcion = [];
+            } else {
+              if (ContenedorIndividual.childNodes[0].tagName == 'SPAN' || Opcion.length == 0) {
+                (0,_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A)(ContenedorIndividual.children).forEach(function (child) {
+                  return ContenedorIndividual.removeChild(child);
+                });
+                document.getElementById("contenedor".concat(Coleccion)).classList.remove('contenedor-plantillas--flex');
+                opcion_dlg_grupos.forEach(function (grupo) {
+                  document.getElementById("contenedor".concat(Coleccion)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', "".concat(Coleccion).concat(grupo.id_grupo)));
+                  document.getElementById("".concat(Coleccion).concat(grupo.id_grupo)).style.backgroundColor = "".concat((0,_registro_modal_color__WEBPACK_IMPORTED_MODULE_4__.ColorRegistroOpcion)(grupo.color_rgb));
+                  // Título del grupo
+                  document.getElementById("".concat(Coleccion).concat(grupo.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('SPAN', "".concat(grupo.id_grupo, "-tituloGrupo"), ['clase__titulo'], "".concat(grupo.id_grupo, " - ").concat(grupo.nombre_grupo), null, null, null, null, null, null, "".concat(grupo.id_grupo)));
+                  document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).style.backgroundColor = "".concat((0,_registro_modal_color__WEBPACK_IMPORTED_MODULE_4__.ColorRGB)(grupo.color_rgb));
+                  document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).style.color = '#fefefe';
+                  var Opciones = function Opciones() {
+                    // Opciones del grupo
+                    grupo.opciones.forEach(function (opcion) {
+                      document.getElementById("Opcion-".concat(grupo.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.Selector)('DIV', "".concat(opcion.id_opcion), OpcionActiva != opcion.id_opcion ? ['lista__opcion'] : ['lista__opcion', 'opcion--activa'], "".concat(opcion.nombre_opcion), "".concat(opcion.orden), "".concat(opcion.id_grupo)));
+                    });
+                    // Click en Opción.
+                    document.getElementById("Opcion-".concat(grupo.id_grupo)).addEventListener('click', function (event) {
+                      if (event.target.classList.contains('lista__opcion')) {
+                        ProcesarRespuesta(event.target, OpcionElegida, Indicador, ArregloDialogos, ArregloOpciones);
+                      }
+                    });
+                  };
+                  var clickOpcion = function clickOpcion() {
+                    document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).addEventListener('click', function (event) {
+                      if (event.target.tagName == 'SPAN') {
+                        // Remueve a la lista adversa del seleccionado.
+                        (0,_babel_runtime_helpers_toConsumableArray__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A)(document.getElementsByClassName('lista-coleccion')).forEach(function (element) {
+                          if (element.parentElement.id != event.target.parentElement.id) {
+                            element.previousElementSibling.classList.remove('clase__titulo--activo');
+                            element.remove();
+                          }
+                        });
+                        if (document.getElementById("Opcion-".concat(grupo.id_grupo)) == null || document.getElementById("Opcion-".concat(grupo.id_grupo)) == undefined) {
+                          document.getElementById("".concat(Coleccion).concat(grupo.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', "Opcion-".concat(grupo.id_grupo), ['lista-coleccion']));
+                          document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).classList.add('clase__titulo--activo');
+                          Opciones();
+                        } else {
+                          document.getElementById("Opcion-".concat(grupo.id_grupo)).remove();
+                          document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).classList.remove('clase__titulo--activo');
+                        }
+                      }
+                    });
+                  };
+                  // Abrir grupo si se previamente hay una opción elegida.
+                  if (GrupoActivo == document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).dataset.value) {
+                    document.getElementById("".concat(grupo.id_grupo, "-tituloGrupo")).classList.add('clase__titulo--activo');
+                    if (document.getElementById("Opcion-".concat(grupo.id_grupo)) == null || document.getElementById("Opcion-".concat(grupo.id_grupo)) == undefined) {
+                      document.getElementById("".concat(Coleccion).concat(grupo.id_grupo)).insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', "Opcion-".concat(grupo.id_grupo), ['lista-coleccion']));
+                      Opciones();
+                    }
+                    clickOpcion();
+                  } else {
+                    clickOpcion();
+                  }
+                  // Orden
+                  if (Orden > 5) {
+                    if (document.getElementById("contenedor".concat(Coleccion)) != null) {
+                      document.getElementById("contenedor".concat(Coleccion)).scrollTop = (Orden - 5) * 28;
+                    }
+                  }
+                });
+              }
+            }
+          });
+          document.getElementById('CajaBuscar').insertAdjacentElement('beforeend', (0,_elements_htmlElements__WEBPACK_IMPORTED_MODULE_3__.CreateElement)('DIV', 'BotonBuscar', ['caja-buscar__boton']));
+          BtnBuscar = document.getElementById('BotonBuscar');
+          BtnBuscar.innerHTML += "<svg class=\"caja-buscar__img\" viewbox=\"0 0 512 512\"><use xlink:href=\"./img/sprite.svg#btn-accion-dialogo-1\"></use></svg>";
+          if (document.getElementById(Coleccion) != null || document.getElementById(Coleccion) != undefined) {
+            // OJO - si este diálogo queda encima de otro diálogo, hay que deshabilitar los "métodos de salida" del diálogo de abajo
+            // aquí se deshabilitarían los "métodos de salida" del diálogo de abajo
+            // ahora implementamos los "métodos de salida" de este diálogo
+            document.getElementById('dialogo-outside').addEventListener('mousedown', CerrarDialogoClickOutside, false);
+            document.getElementById('dialogo-outside').addEventListener('keydown', CerrarDialogoPressESC, false);
+          }
+        case 36:
+        case "end":
+          return _context2.stop();
+      }
+    }, _callee2);
+  }));
+  return _RenderizarDialogo.apply(this, arguments);
+}
+
+/***/ }),
+
+/***/ 2182:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   ColorRGB: () => (/* binding */ ColorRGB),
+/* harmony export */   ColorRegistroOpcion: () => (/* binding */ ColorRegistroOpcion),
+/* harmony export */   GetHSL: () => (/* binding */ GetHSL),
+/* harmony export */   PorcentajeL: () => (/* binding */ PorcentajeL)
+/* harmony export */ });
+var PorcentajeL = ['94', '96', '45'];
+function GetHSL(ColorRGBDecimal) {
+  // let ColorRGBHexadecimal = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(`#${ColorPrincipal(ColorRGBDecimal)}`);
+  var ColorRGBHexadecimal = '00000' + ColorRGBDecimal.toString(16);
+  ColorRGBHexadecimal = ColorRGBHexadecimal.substr(ColorRGBHexadecimal.length - 6, 6);
+  var R = parseInt(ColorRGBHexadecimal.substr(0, 2), 16) / 255;
+  var G = parseInt(ColorRGBHexadecimal.substr(2, 2), 16) / 255;
+  var B = parseInt(ColorRGBHexadecimal.substr(4, 2), 16) / 255;
+  var max = Math.max(R, G, B),
+    min = Math.min(R, G, B);
+  var H,
+    S,
+    L = (max + min) / 2;
+  if (max == min) {
+    H = S = 0; // achromatic
+  } else {
+    var d = max - min;
+    S = L > 0.5 ? d / (2 - max - min) : d / (max + min);
+    switch (max) {
+      case R:
+        H = (G - B) / d + (G < B ? 6 : 0);
+        break;
+      case G:
+        H = (B - R) / d + 2;
+        break;
+      case B:
+        H = (R - G) / d + 4;
+        break;
+    }
+    H /= 6;
+  }
+  H = Math.round(H * 360);
+  S = Math.round(S * 100);
+  L = Math.round(L * 100);
+  return [H, S, L];
+}
+
+// Color RGB de decimal a hexadecimal
+function ColorRGB(ColorRGBDecimal) {
+  var ColorRGBHexadecimal = '00000' + ColorRGBDecimal.toString(16);
+  ColorRGBHexadecimal = ColorRGBHexadecimal.substr(ColorRGBHexadecimal.length - 6, 6);
+  return "#".concat(ColorRGBHexadecimal);
+}
+
+// Color Registro Opción
+function ColorRegistroOpcion(Color) {
+  var HSL = GetHSL(Color);
+  return "hsl(".concat(HSL[0], ",").concat(HSL[1], "%,").concat(PorcentajeL[0], "%)");
+}
+
+/***/ }),
+
+/***/ 3130:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var map = {
+	"./api": [
+		7425,
+		9
+	],
+	"./api.js": [
+		7425,
+		9
+	],
+	"./componentes/MenuAzul": [
+		1916,
+		9,
+		1916
+	],
+	"./componentes/MenuAzul.js": [
+		1916,
+		9,
+		1916
+	],
+	"./componentes/encabezado": [
+		423,
+		9
+	],
+	"./componentes/encabezado.js": [
+		423,
+		9
+	],
+	"./componentes/historialB": [
+		5696,
+		9,
+		5696
+	],
+	"./componentes/historialB.js": [
+		5696,
+		9,
+		5696
+	],
+	"./componentes/modal/Dialogos": [
+		3173,
+		9,
+		3173
+	],
+	"./componentes/modal/Dialogos.js": [
+		3173,
+		9,
+		3173
+	],
+	"./componentes/modal/Error": [
+		7433,
+		9
+	],
+	"./componentes/modal/Error.js": [
+		7433,
+		9
+	],
+	"./componentes/modal/Notificaciones": [
+		8455,
+		9,
+		8455
+	],
+	"./componentes/modal/Notificaciones.js": [
+		8455,
+		9,
+		8455
+	],
+	"./componentes/modal/dialogo-tipo-2": [
+		234,
+		9
+	],
+	"./componentes/modal/dialogo-tipo-2.js": [
+		234,
+		9
+	],
+	"./componentes/nombre-empresa": [
+		2558,
+		9,
+		2558
+	],
+	"./componentes/nombre-empresa.js": [
+		2558,
+		9,
+		2558
+	],
+	"./controladores/amchart-from-json": [
+		1577,
+		9,
+		3481,
+		1577
+	],
+	"./controladores/amchart-from-json.js": [
+		1577,
+		9,
+		3481,
+		1577
+	],
+	"./controladores/mqtt-actions": [
+		7331,
+		9
+	],
+	"./controladores/mqtt-actions.js": [
+		7331,
+		9
+	],
+	"./elements/CrearElementoHTML": [
+		3384,
+		9
+	],
+	"./elements/CrearElementoHTML.js": [
+		3384,
+		9
+	],
+	"./elements/htmlElements": [
+		2407,
+		9
+	],
+	"./elements/htmlElements.js": [
+		2407,
+		9
+	],
+	"./pages/default/default": [
+		3717,
+		9,
+		3717
+	],
+	"./pages/default/default.js": [
+		3717,
+		9,
+		3717
+	],
+	"./pages/indicadores/indicadores": [
+		3149,
+		9
+	],
+	"./pages/indicadores/indicadores.js": [
+		3149,
+		9
+	],
+	"./pages/login/login": [
+		5341,
+		9,
+		5341
+	],
+	"./pages/login/login.js": [
+		5341,
+		9,
+		5341
+	],
+	"./pages/registro/registro": [
+		1641,
+		9,
+		912,
+		8380,
+		7044,
+		4102,
+		4022
+	],
+	"./pages/registro/registro.js": [
+		1641,
+		9,
+		912,
+		8380,
+		7044,
+		4102,
+		4022
+	],
+	"./pages/restablecerPassword/restablecerPassword": [
+		2025,
+		9,
+		2025
+	],
+	"./pages/restablecerPassword/restablecerPassword.js": [
+		2025,
+		9,
+		2025
+	],
+	"./pages/revision/anexoAdicional": [
+		4709,
+		9,
+		4709
+	],
+	"./pages/revision/anexoAdicional.js": [
+		4709,
+		9,
+		4709
+	],
+	"./pages/revision/api": [
+		902,
+		9,
+		902
+	],
+	"./pages/revision/api.js": [
+		902,
+		9,
+		902
+	],
+	"./pages/revision/revision": [
+		6945,
+		9,
+		5696,
+		6945
+	],
+	"./pages/revision/revision.js": [
+		6945,
+		9,
+		5696,
+		6945
+	],
+	"./pages/rutas/data": [
+		534,
+		3,
+		534
+	],
+	"./pages/rutas/data.json": [
+		534,
+		3,
+		534
+	],
+	"./pages/rutas/dialogo_edtitar": [
+		8341,
+		9,
+		5836,
+		912,
+		7044,
+		5999
+	],
+	"./pages/rutas/dialogo_edtitar.js": [
+		8341,
+		9,
+		5836,
+		912,
+		7044,
+		5999
+	],
+	"./pages/rutas/rutas": [
+		8856,
+		9,
+		5836,
+		912,
+		7044,
+		5999
+	],
+	"./pages/rutas/rutas.js": [
+		8856,
+		9,
+		5836,
+		912,
+		7044,
+		5999
+	],
+	"./registro/api": [
+		5711,
+		9,
+		5711
+	],
+	"./registro/api.js": [
+		5711,
+		9,
+		5711
+	],
+	"./registro/modal/adjuntar-archivos": [
+		4608,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		3407
+	],
+	"./registro/modal/adjuntar-archivos.js": [
+		4608,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		3407
+	],
+	"./registro/modal/cambiar-password": [
+		4316,
+		9,
+		1935
+	],
+	"./registro/modal/cambiar-password.js": [
+		4316,
+		9,
+		1935
+	],
+	"./registro/modal/castigar-registro": [
+		1971,
+		9,
+		8850,
+		1971
+	],
+	"./registro/modal/castigar-registro.js": [
+		1971,
+		9,
+		8850,
+		1971
+	],
+	"./registro/modal/cerrar-sesion": [
+		8662,
+		9,
+		8662
+	],
+	"./registro/modal/cerrar-sesion.js": [
+		8662,
+		9,
+		8662
+	],
+	"./registro/modal/cerrar-ventana-modal": [
+		1812,
+		9,
+		1812
+	],
+	"./registro/modal/cerrar-ventana-modal.js": [
+		1812,
+		9,
+		1812
+	],
+	"./registro/modal/color": [
+		2182,
+		9
+	],
+	"./registro/modal/color.js": [
+		2182,
+		9
+	],
+	"./registro/modal/datepicker-options": [
+		5916,
+		9,
+		5916
+	],
+	"./registro/modal/datepicker-options.js": [
+		5916,
+		9,
+		5916
+	],
+	"./registro/modal/datos-busqueda": [
+		1091,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		3472
+	],
+	"./registro/modal/datos-busqueda.js": [
+		1091,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		3472
+	],
+	"./registro/modal/datos-registro": [
+		9158,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		7164
+	],
+	"./registro/modal/datos-registro.js": [
+		9158,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		7164
+	],
+	"./registro/modal/dialogo-tipo-1": [
+		6109,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		6008
+	],
+	"./registro/modal/dialogo-tipo-1.js": [
+		6109,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		6008
+	],
+	"./registro/modal/duplicar-registro": [
+		2575,
+		9,
+		2575
+	],
+	"./registro/modal/duplicar-registro.js": [
+		2575,
+		9,
+		2575
+	],
+	"./registro/modal/eliminar-registro": [
+		9974,
+		9,
+		9974
+	],
+	"./registro/modal/eliminar-registro.js": [
+		9974,
+		9,
+		9974
+	],
+	"./registro/modal/informacion": [
+		2420,
+		9,
+		2420
+	],
+	"./registro/modal/informacion.js": [
+		2420,
+		9,
+		2420
+	],
+	"./registro/modal/listado-suplantar": [
+		5924,
+		9,
+		5924
+	],
+	"./registro/modal/listado-suplantar.js": [
+		5924,
+		9,
+		5924
+	],
+	"./registro/modal/log-registro": [
+		2749,
+		9,
+		2749
+	],
+	"./registro/modal/log-registro.js": [
+		2749,
+		9,
+		2749
+	],
+	"./registro/modal/menu-principal": [
+		6517,
+		9,
+		6517
+	],
+	"./registro/modal/menu-principal.js": [
+		6517,
+		9,
+		6517
+	],
+	"./registro/modal/plantillas": [
+		7049,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		7164
+	],
+	"./registro/modal/plantillas.js": [
+		7049,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		7164
+	],
+	"./registro/modal/seleccionar-proyecto": [
+		7327,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		7164
+	],
+	"./registro/modal/seleccionar-proyecto.js": [
+		7327,
+		9,
+		8850,
+		5836,
+		912,
+		8380,
+		9158,
+		7164
+	],
+	"./registro/modal/suplantar-off": [
+		6435,
+		9
+	],
+	"./registro/modal/suplantar-off.js": [
+		6435,
+		9
+	],
+	"./utils/BotonesActivos": [
+		9850,
+		9
+	],
+	"./utils/BotonesActivos.js": [
+		9850,
+		9
+	],
+	"./utils/CalcularPosicionHistorial": [
+		4187,
+		9,
+		4187
+	],
+	"./utils/CalcularPosicionHistorial.js": [
+		4187,
+		9,
+		4187
+	],
+	"./utils/CargarAvance": [
+		8163,
+		7,
+		8163
+	],
+	"./utils/CargarAvance.js": [
+		8163,
+		7,
+		8163
+	],
+	"./utils/CargarDatosIniciales": [
+		9037,
+		9,
+		9037
+	],
+	"./utils/CargarDatosIniciales.js": [
+		9037,
+		9,
+		9037
+	],
+	"./utils/CastigarRegistro": [
+		3962,
+		9,
+		5696
+	],
+	"./utils/CastigarRegistro.js": [
+		3962,
+		9,
+		5696
+	],
+	"./utils/CerrarSesion": [
+		1197,
+		9
+	],
+	"./utils/CerrarSesion.js": [
+		1197,
+		9
+	],
+	"./utils/Color": [
+		2188,
+		9
+	],
+	"./utils/Color.js": [
+		2188,
+		9
+	],
+	"./utils/CreateSomeMenu": [
+		6936,
+		9,
+		6936
+	],
+	"./utils/CreateSomeMenu.js": [
+		6936,
+		9,
+		6936
+	],
+	"./utils/Data_Menu_Predictor": [
+		3654,
+		9,
+		3654
+	],
+	"./utils/Data_Menu_Predictor.js": [
+		3654,
+		9,
+		3654
+	],
+	"./utils/EditarRegistro": [
+		5397,
+		9,
+		5696
+	],
+	"./utils/EditarRegistro.js": [
+		5397,
+		9,
+		5696
+	],
+	"./utils/MenuPredictor": [
+		3534,
+		9,
+		3534
+	],
+	"./utils/MenuPredictor.js": [
+		3534,
+		9,
+		3534
+	],
+	"./utils/PintarGraficaSVG": [
+		1804,
+		9,
+		1804
+	],
+	"./utils/PintarGraficaSVG.js": [
+		1804,
+		9,
+		1804
+	],
+	"./utils/ToggleNombre": [
+		426,
+		9
+	],
+	"./utils/ToggleNombre.js": [
+		426,
+		9
+	],
+	"./utils/ValidarPassword": [
+		5923,
+		9,
+		5923
+	],
+	"./utils/ValidarPassword.js": [
+		5923,
+		9,
+		5923
+	],
+	"./utils/jogDial.min": [
+		1723,
+		9,
+		1723
+	],
+	"./utils/jogDial.min.js": [
+		1723,
+		9,
+		1723
+	],
+	"./utils/mascaraInput": [
+		4021,
+		9,
+		4021
+	],
+	"./utils/mascaraInput.js": [
+		4021,
+		9,
+		4021
+	],
+	"./utils/revisarNotificaciones": [
+		2829,
+		9
+	],
+	"./utils/revisarNotificaciones.js": [
+		2829,
+		9
+	]
+};
+function webpackAsyncContext(req) {
+	if(!__webpack_require__.o(map, req)) {
+		return Promise.resolve().then(() => {
+			var e = new Error("Cannot find module '" + req + "'");
+			e.code = 'MODULE_NOT_FOUND';
+			throw e;
+		});
+	}
+
+	var ids = map[req], id = ids[0];
+	return Promise.all(ids.slice(2).map(__webpack_require__.e)).then(() => {
+		return __webpack_require__.t(id, ids[1] | 16)
+	});
+}
+webpackAsyncContext.keys = () => (Object.keys(map));
+webpackAsyncContext.id = 3130;
+module.exports = webpackAsyncContext;
+
+/***/ })
+
+}]);

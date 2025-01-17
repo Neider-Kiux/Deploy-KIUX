@@ -1,1 +1,55 @@
-'use strict';function a44_0xcb86(_0x300631,_0x451543){var _0x207bba=a44_0x207b();return a44_0xcb86=function(_0xcb86ba,_0xeca485){_0xcb86ba=_0xcb86ba-0x155;var _0x102743=_0x207bba[_0xcb86ba];return _0x102743;},a44_0xcb86(_0x300631,_0x451543);}function a44_0x207b(){var _0x208b5e=['MenuPpal','target','837810XeJHZO','ocultar-scroll','main','2153473oXbsGD','8901009WDukcy','getElementById','201zWERYy','webpackChunkkiux','remove','286PojOib','16VKBdbp','1443110HjNrbl','5vXltcU','keyCode','27564oBqiBb','classList','removeEventListener','push','background','822816NJetdn','mousedown','4764498lpWxjj'];a44_0x207b=function(){return _0x208b5e;};return a44_0x207b();}var a44_0x2b8f96=a44_0xcb86;(function(_0x3dccd4,_0x38139d){var _0x162837=a44_0xcb86,_0x57fddc=_0x3dccd4();while(!![]){try{var _0x1ba6b6=-parseInt(_0x162837(0x16b))/0x1+-parseInt(_0x162837(0x166))/0x2+parseInt(_0x162837(0x159))/0x3*(parseInt(_0x162837(0x161))/0x4)+-parseInt(_0x162837(0x15f))/0x5*(parseInt(_0x162837(0x168))/0x6)+parseInt(_0x162837(0x156))/0x7*(-parseInt(_0x162837(0x15d))/0x8)+-parseInt(_0x162837(0x157))/0x9+parseInt(_0x162837(0x15e))/0xa*(parseInt(_0x162837(0x15c))/0xb);if(_0x1ba6b6===_0x38139d)break;else _0x57fddc['push'](_0x57fddc['shift']());}catch(_0x11d3ff){_0x57fddc['push'](_0x57fddc['shift']());}}}(a44_0x207b,0x8a3bb));(self[a44_0x2b8f96(0x15a)]=self[a44_0x2b8f96(0x15a)]||[])[a44_0x2b8f96(0x164)]([[0x714],{0x714:(_0x41b778,_0x4b00c8,_0x1faf68)=>{_0x1faf68['r'](_0x4b00c8),_0x1faf68['d'](_0x4b00c8,{'CerrarVentanaClick':()=>_0x1c928e,'CerrarVentanaESC':()=>_0x16edc3,'CerrarVentanaMenuPpalClick':()=>_0x1d0f36,'CerrarVentanaMenuPpalESC':()=>_0x54e778});function _0x1d0f36(_0x359f05,_0x48b64c){var _0x2fe8f2=a44_0xcb86;_0x359f05[_0x2fe8f2(0x16a)]['id']==_0x2fe8f2(0x169)&&document[_0x2fe8f2(0x158)](_0x48b64c)&&(document[_0x2fe8f2(0x158)](_0x2fe8f2(0x169))['remove'](),document[_0x2fe8f2(0x163)](_0x2fe8f2(0x167),_0x16edc3,![]),document[_0x2fe8f2(0x158)]('main')[_0x2fe8f2(0x162)]['remove']('ocultar-scroll'));}function _0x54e778(_0x514194){var _0x17f6da=a44_0xcb86;_0x514194[_0x17f6da(0x160)]==0x1b&&((document[_0x17f6da(0x158)](_0x17f6da(0x169))!=null||document['getElementById'](_0x17f6da(0x169))!=undefined)&&(document['getElementById'](_0x17f6da(0x169))['remove'](),document[_0x17f6da(0x163)]('keydown',_0x16edc3,![]),document[_0x17f6da(0x158)](_0x17f6da(0x155))[_0x17f6da(0x162)][_0x17f6da(0x15b)](_0x17f6da(0x16c))));}function _0x1c928e(_0x4d26d9,_0x420b69){var _0x2aa681=a44_0xcb86;_0x4d26d9[_0x2aa681(0x16a)]['id']=='background'&&document['getElementById'](_0x420b69)&&(document[_0x2aa681(0x158)](_0x2aa681(0x165))['remove'](),document[_0x2aa681(0x163)](_0x2aa681(0x167),_0x16edc3,![]),document[_0x2aa681(0x158)](_0x2aa681(0x155))['classList'][_0x2aa681(0x15b)](_0x2aa681(0x16c)));}function _0x16edc3(_0x35fffd){var _0x5d04ba=a44_0xcb86;_0x35fffd['keyCode']==0x1b&&((document['getElementById'](_0x5d04ba(0x165))!=null||document[_0x5d04ba(0x158)](_0x5d04ba(0x165))!=undefined)&&(document[_0x5d04ba(0x158)](_0x5d04ba(0x165))[_0x5d04ba(0x15b)](),document[_0x5d04ba(0x163)]('keydown',_0x16edc3,![]),document['getElementById']('main')[_0x5d04ba(0x162)][_0x5d04ba(0x15b)](_0x5d04ba(0x16c))));}}}]);
+"use strict";
+(self["webpackChunkkiux"] = self["webpackChunkkiux"] || []).push([[1812],{
+
+/***/ 1812:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   CerrarVentanaClick: () => (/* binding */ CerrarVentanaClick),
+/* harmony export */   CerrarVentanaESC: () => (/* binding */ CerrarVentanaESC),
+/* harmony export */   CerrarVentanaMenuPpalClick: () => (/* binding */ CerrarVentanaMenuPpalClick),
+/* harmony export */   CerrarVentanaMenuPpalESC: () => (/* binding */ CerrarVentanaMenuPpalESC)
+/* harmony export */ });
+function CerrarVentanaMenuPpalClick(event, ventana) {
+  if (event.target.id == 'MenuPpal' && document.getElementById(ventana)) {
+    document.getElementById('MenuPpal').remove();
+    document.removeEventListener('mousedown', CerrarVentanaESC, false); // keydown)
+    document.getElementById('main').classList.remove('ocultar-scroll');
+  }
+}
+
+// Cerrar ventana modal con la tecla de escape [ESC]
+function CerrarVentanaMenuPpalESC(event) {
+  if (event.keyCode == 27) {
+    if (document.getElementById('MenuPpal') != null || document.getElementById('MenuPpal') != undefined) {
+      document.getElementById('MenuPpal').remove();
+      document.removeEventListener('keydown', CerrarVentanaESC, false); // keydown)
+      document.getElementById('main').classList.remove('ocultar-scroll');
+    }
+  }
+}
+
+// Cerrar ventana modal al hacer click por fuera de la ventana
+function CerrarVentanaClick(event, ventana) {
+  if (event.target.id == 'background' && document.getElementById(ventana)) {
+    document.getElementById('background').remove();
+    document.removeEventListener('mousedown', CerrarVentanaESC, false); // keydown)
+    document.getElementById('main').classList.remove('ocultar-scroll');
+  }
+}
+
+// Cerrar ventana modal con la tecla de escape [ESC]
+function CerrarVentanaESC(event) {
+  if (event.keyCode == 27) {
+    if (document.getElementById('background') != null || document.getElementById('background') != undefined) {
+      document.getElementById('background').remove();
+      document.removeEventListener('keydown', CerrarVentanaESC, false); // keydown)
+      document.getElementById('main').classList.remove('ocultar-scroll');
+    }
+  }
+}
+
+/***/ })
+
+}]);
