@@ -4,14 +4,13 @@
 /***/ 304:
 /***/ ((module) => {
 
-var fecha_Hora = "2025-01-17-1122";
+var fecha_Hora = "2025-01-17-1347";
 var nombreCache = "KIUX_cache_".concat(fecha_Hora);
 var nombreServiceWorker = "service-Worker-".concat(fecha_Hora);
 module.exports = {
   nombreServiceWorker: nombreServiceWorker,
   nombreCache: nombreCache
 };
-console.log("Se estan llamando las constantes fecha y hora: ".concat(fecha_Hora));
 
 /***/ })
 
